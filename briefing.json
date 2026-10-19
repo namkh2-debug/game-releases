@@ -1,9 +1,9 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T07:15:00+09:00",
+  "updatedAt": "2026-10-20T08:10:03+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 10.3,
+    "temp": 10.9,
     "low": 10.0,
     "high": 20.4,
     "condition": "구름많음, 밤 한때 비 가능",
@@ -13,6 +13,16 @@
     "source": "Open-Meteo, 기상청 단기예보(10/20 05시), 에어코리아"
   },
   "breaking": [
+    {
+      "title": "경찰 '장모살인·아내납치' 김성우 송치…\"18회 스토킹\"",
+      "url": "https://www.hankyung.com/article/2026102020387",
+      "source": "한국경제"
+    },
+    {
+      "title": "튀르키예 UAE 외무장관- 사우디와 통화.. 후티군의 사우디 공격 비난",
+      "url": "https://www.newsis.com/view/NISX20261020_0003832478",
+      "source": "뉴시스"
+    },
     {
       "title": "트럼프, 내달 中서 김정은과 회담 여부에 \"모르겠다\"",
       "url": "https://www.yna.co.kr/view/AKR20261020005100071",
@@ -39,6 +49,12 @@
       "summary": "김여정이 군사분계선 일대가 매우 불안정하다며 대남 확성기 방송 재개를 검토 중이라고 밝혔어요."
     },
     {
+      "title": "[단독] 북·중·러 해상 감시용 정보함 2척 모두 고장… 40일간 정찰 멈췄다",
+      "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/20/HGI6MFMAKREWHLYAVSVFEGTCBA/",
+      "source": "조선일보",
+      "summary": "북·중·러 바다를 감시하는 해군 정보함 2척이 모두 고장 나 40일 동안 정찰이 멈췄다고 해요."
+    },
+    {
       "title": "이 대통령 “한국 주식시장, 매우 저평가···조만간 필요한 조치”",
       "url": "https://www.khan.co.kr/article/202610192215001",
       "source": "경향신문",
@@ -57,6 +73,18 @@
       "summary": "AI 관련주 저가 매수세에 나스닥은 1.1% 올랐고 다우는 0.07% 내려 혼조로 마감했어요."
     },
     {
+      "title": "다시 불거진 조희대 탄핵론…헌재 파면 가능성은 낮은데, 역풍만 일 수도",
+      "url": "https://www.khan.co.kr/article/202610200600081/",
+      "source": "경향신문",
+      "summary": "조희대 대법원장 탄핵론이 다시 나왔지만 헌재 파면 가능성은 낮고 역풍이 불 수 있다는 분석이에요."
+    },
+    {
+      "title": "민주, '메가특구법'→'초광역특구법' 이름 바꿔 20일 발의한다",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283151.html",
+      "source": "한겨레",
+      "summary": "민주당이 메가특구법 이름을 초광역특구법으로 바꿔 오늘 발의해요."
+    },
+    {
       "title": "후티 반군 \"사우디 아람코·리야드 공항 등 6곳 대규모 타격\"",
       "url": "https://www.yna.co.kr/view/AKR20261020002500079",
       "source": "연합뉴스",
@@ -67,6 +95,48 @@
       "url": "https://www.yna.co.kr/view/AKR20261019181600085",
       "source": "연합뉴스",
       "summary": "프랑스 전국 시위가 약탈·폭력으로 번지자 파리 일부 지역에 야간 통금이 내려졌고 추가 시위도 예고됐어요."
+    },
+    {
+      "title": "\"이스라엘 '깜짝 방문'한 미 국방부 장관…네타냐후와 회동\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020080728Fj1",
+      "source": "연합뉴스TV",
+      "summary": "미 국방부 장관이 이스라엘을 깜짝 방문해 네타냐후 총리와 만났어요."
+    },
+    {
+      "title": "거듭 사과했는데… 이번엔 부승찬이 '재정 쭉쭉' 논란",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805239",
+      "source": "SBS",
+      "summary": "추미애 의원의 '재정 빨대' 발언 사과 뒤 이번엔 부승찬 의원의 '재정 쭉쭉' 발언이 논란이 됐어요."
+    },
+    {
+      "title": "조문 가서 '응급환자 전용' 주차…논란 커지자",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804984",
+      "source": "SBS",
+      "summary": "김민석이 조문하러 가서 응급환자 전용 구역에 주차해 논란이 커졌어요."
+    },
+    {
+      "title": "\"李, 국민 속였다\" 유시민 발언…경찰 수사 착수",
+      "url": "https://www.hankyung.com/article/2026102019887",
+      "source": "한국경제",
+      "summary": "유시민 씨의 \"李, 국민 속였다\" 발언과 관련해 경찰이 수사에 들어갔어요."
+    },
+    {
+      "title": "친일파 글씨 '셀프 전시'…유홍준 \"중대한 불찰\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805265",
+      "source": "SBS",
+      "summary": "유홍준 씨가 본인 소유 친일파 글씨를 전시한 의혹에 \"중대한 불찰\"이라며 사과했어요."
+    },
+    {
+      "title": "김지용 중수청장, 오늘 취임식…본격 업무 돌입",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020080123Pvp",
+      "source": "연합뉴스TV",
+      "summary": "김지용 중대범죄수사청장이 오늘 취임식을 열고 업무를 시작해요."
+    },
+    {
+      "title": "'23명 사망' 아리셀 박순관 대표 오늘 대법 선고···2심 감형 유지되나",
+      "url": "https://www.khan.co.kr/article/202610200708001/",
+      "source": "경향신문",
+      "summary": "23명이 숨진 아리셀 화재 사건 박순관 대표에 대한 대법원 선고가 오늘 나와요."
     },
     {
       "title": "현대제철 또 사망‥\"회전 방지장치 없었다\"",
@@ -81,10 +151,64 @@
       "summary": "정명석이 추가 기소된 여신도 성폭행 사건 1심에서 징역 33년을 받아, 확정되면 총 50년형이 돼요."
     },
     {
+      "title": "법원, 한학자 통일교 총재 보석 허가…거주지는 병원으로 제한",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1283139.html",
+      "source": "한겨레",
+      "summary": "법원이 한학자 통일교 총재의 보석을 허가하고 거주지를 병원으로 제한했어요."
+    },
+    {
+      "title": "\"건보료 더 내라고?\"…394만세대 추가 납부 3조3000억 전망",
+      "url": "https://www.hankyung.com/article/2026102020267",
+      "source": "한국경제",
+      "summary": "건강보험료 정산으로 394만 세대가 약 3조3000억 원을 추가로 낼 전망이에요."
+    },
+    {
+      "title": "유조선 운임 10배 폭등…휘발유 또 오르나, 정유업계 비상",
+      "url": "https://www.hankyung.com/article/202610201964i",
+      "source": "한국경제",
+      "summary": "유조선 운임이 10배로 뛰면서 휘발유값이 또 오를 수 있어 정유업계가 비상이에요."
+    },
+    {
+      "title": "이찬진 \"솔리다임 미 상장, 중복상장 규제 저촉 판단\"",
+      "url": "https://www.khan.co.kr/article/202610192144015/",
+      "source": "경향신문",
+      "summary": "이찬진 금감원장이 솔리다임의 미국 상장이 중복상장 규제에 걸린다고 판단했어요."
+    },
+    {
+      "title": "중앙일보 인수 우선협상대상자에 '다우키움·CJ 컨소시엄'",
+      "url": "https://www.khan.co.kr/article/202610192257001/",
+      "source": "경향신문",
+      "summary": "중앙일보 인수 우선협상대상자로 다우키움·CJ 컨소시엄이 뽑혔어요."
+    },
+    {
+      "title": "TSMC \"3나노 공장 또 짓는다\"…삼성, 'GAA 2나노' 승부수로 맞불",
+      "url": "https://www.hankyung.com/article/202610191471i",
+      "source": "한국경제",
+      "summary": "TSMC가 3나노 공장을 더 짓기로 하자 삼성은 GAA 2나노 공정으로 맞서요."
+    },
+    {
+      "title": "네이버, 자체 AI 쇼핑비서 키워…카카오, 외부 연대 생태계 확장",
+      "url": "https://www.hani.co.kr/arti/economy/it/1283144.html",
+      "source": "한겨레",
+      "summary": "네이버는 자체 AI 쇼핑비서를, 카카오는 외부 협력 생태계를 키우고 있어요."
+    },
+    {
+      "title": "머스크 \"미국 모든 어린이에 스페이스X 주식 1주씩 줄 것\"",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1283149.html",
+      "source": "한겨레",
+      "summary": "머스크가 미국의 모든 어린이에게 스페이스X 주식을 1주씩 주겠다고 했어요."
+    },
+    {
       "title": "“모두의카드 번호 26일까지 확인하세요“…미변경 시 환급 차질",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019171334xHX",
       "source": "연합뉴스TV",
       "summary": "모두의카드에 등록된 카드번호가 실제와 다르면 27일 이용분부터 환급에 차질이 생길 수 있어요."
+    },
+    {
+      "title": "아침 7도 '쌀쌀', 출근길 겉옷 챙기세요···남부·제주는 가을비",
+      "url": "https://www.khan.co.kr/article/202610200639001/",
+      "source": "경향신문",
+      "summary": "오늘 아침 기온이 7도 안팎으로 쌀쌀하고 남부와 제주에는 가을비가 내려요."
     }
   ]
 }
