@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d1017">
+<meta name="color-scheme" content="dark">
+<title>오늘의 날씨·뉴스 브리핑</title>
+<style>
+  :root{--bg:#0d1017;--panel:#151a24;--panel2:#1b2130;--line:#262e3d;--text:#e8ecf3;--muted:#8b95a7;
+        --accent:#66c0f4;--warn:#f5b041;--red:#ff5d5d;
+        --sat:env(safe-area-inset-top,0px);--sab:env(safe-area-inset-bottom,0px);}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{background:var(--bg);-webkit-text-size-adjust:100%;text-size-adjust:100%}
+  body{background:var(--bg);color:var(--text);font-size:17px;line-height:1.5;
+    font-family:"Pretendard","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+    overflow-x:hidden;-webkit-tap-highlight-color:transparent}
+  .wrap{max-width:720px;margin:0 auto;min-height:100vh;min-height:100dvh;padding:calc(var(--sat) + 14px) 16px calc(var(--sab) + 24px)}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+  h1{font-size:25px;font-weight:800;letter-spacing:-.02em;line-height:1.25}
+  #today{display:block;font-size:16px;color:var(--muted);font-weight:500;margin-top:4px}
+  .clock{font-size:26px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+  .meta{margin-top:8px;color:var(--muted);font-size:16px}
+  .meta b{color:var(--text);font-weight:600}
+  #warn{display:none;margin:10px 0 0;background:#3a2a0d;color:var(--warn);border:1px solid var(--warn);
+    border-radius:12px;padding:12px 14px;font-weight:600;line-height:1.45;word-break:keep-all;overflow-wrap:anywhere}
+  #brk{margin-top:12px}
+  .brk{display:block;background:#3a1212;border:1px solid var(--red);border-radius:12px;padding:12px 14px;margin-bottom:8px;
+    color:#ffd6d6;text-decoration:none;font-weight:700;line-height:1.4;word-break:keep-all;overflow-wrap:anywhere}
+  .brk i{font-style:normal;color:var(--red);margin-right:6px}
+  .brk small{display:block;color:var(--muted);font-weight:500;font-size:15px;margin-top:2px}
+  h2{font-size:20px;font-weight:800;margin:20px 2px 10px;display:flex;align-items:center;gap:10px}
+  h2::before{content:"";width:6px;height:22px;border-radius:3px;background:var(--accent)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:16px;min-width:0}
+  .wx-main{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .temp{font-size:56px;font-weight:800;line-height:1;letter-spacing:-.03em}
+  .temp sup{font-size:26px;font-weight:600;vertical-align:top;margin-left:2px}
+  .cond{font-size:24px;font-weight:800;text-align:right}
+  .cond small{display:block;font-size:16px;font-weight:500;color:var(--muted);margin-top:2px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px}
+  .cell{background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:10px 12px;min-width:0}
+  .cell.full{grid-column:1/-1}
+  .cell .k{display:block;color:var(--muted);font-size:15px;font-weight:600}
+  .cell .v{display:block;font-size:19px;font-weight:700;overflow-wrap:anywhere;word-break:keep-all}
+  .tip{margin-top:12px;padding:12px 14px;border-radius:12px;background:#10261c;border:1px solid #1f5a3d;color:#bff0d6;
+    font-weight:600;line-height:1.5;word-break:keep-all;overflow-wrap:anywhere}
+  .src{margin-top:10px;color:var(--muted);font-size:14px;line-height:1.45;overflow-wrap:anywhere}
+  .unk{color:var(--muted);font-style:italic;font-weight:400}
+  .list{list-style:none;display:flex;flex-direction:column;gap:12px}
+  .news{border-left:4px solid var(--accent)}
+  .news h3{font-size:20px;font-weight:800;line-height:1.35;letter-spacing:-.01em;word-break:keep-all;overflow-wrap:anywhere}
+  .news h3 a{color:var(--text);text-decoration:underline;text-decoration-color:var(--accent);text-underline-offset:4px;text-decoration-thickness:2px}
+  .news h3 a:active{color:var(--accent)}
+  .press{display:inline-block;margin-top:8px;font-size:15px;font-weight:700;color:var(--accent);background:var(--panel2);
+    border:1px solid var(--line);border-radius:999px;padding:2px 10px}
+  .news p{margin-top:8px;color:#c9d1de;font-size:17px;line-height:1.5;word-break:keep-all;overflow-wrap:anywhere}
+  .empty{padding:24px 16px;text-align:center;color:var(--muted);background:var(--panel);border:1px dashed var(--line);border-radius:16px}
+  footer{color:var(--muted);font-size:15px;line-height:1.5;display:grid;gap:4px;margin-top:22px;padding-top:14px;border-top:1px solid var(--line)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="top">
+    <h1>오늘의 브리핑<span id="today">-</span></h1>
+    <div class="clock" id="clock">--:--:--</div>
+  </div>
+  <div class="meta">데이터 갱신 <b id="updated">-</b></div>
+</header>
+<div id="warn" role="alert"></div>
+<div id="brk"></div>
+<h2>날씨 <span id="region" style="color:var(--muted);font-size:16px;font-weight:500"></span></h2>
+<div id="wx" class="card"></div>
+<h2>오늘의 주요 뉴스</h2>
+<div id="news"></div>
+<footer>
+  <div id="src">-</div>
+  <div id="loaded">-</div>
+  <div>제목을 누르면 기사 원문으로 이동해요.</div>
+</footer>
+</div>
+
+<!-- INLINE_DATA: update.py 가 아래 블록을 briefing.json 내용으로 교체합니다 -->
+<script id="inline-data" type="application/json">
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T11:30:00+09:00",
+  "region": "경기 광주",
+  "weather": {
+    "temp": 11,
+    "low": 10,
+    "high": 20,
+    "condition": "맑음",
+    "rainChance": "최대 20% (오후 4시·밤 8~10시)",
+    "dust": "좋음 (미세먼지 17㎍/㎥, 초미세먼지 8㎍/㎥, 오전 8시 경안동 측정)",
+    "tip": "아침엔 쌀쌀하고 낮엔 따뜻해 일교차가 10도예요. 얇은 겉옷을 챙기세요. 우산은 없어도 돼요.",
+    "source": "기상청 단기예보(10/19 05시 발표, 광주시), 에어코리아 · 현재 기온은 06시 관측값"
+  },
+  "breaking": [],
+  "news": [
+    {
+      "title": "부천 공장 화재 순직 김진석 소방위 영결식, 경기도청장으로 엄수",
+      "url": "https://www.yna.co.kr/view/AKR20261019026900065?section=society%2Fall",
+      "source": "연합뉴스",
+      "summary": "19일 오전 부천체육관에서 열렸고, 1계급 특진과 옥조근정훈장이 추서됐어요. 경찰은 공장 대표를 입건했어요."
+    },
+    {
+      "title": "안세영, 야마구치 꺾고 덴마크오픈 2연패…시즌 9번째 우승",
+      "url": "https://www.donga.com/news/Inter/article/all/20261018/134863535/1",
+      "source": "동아일보",
+      "summary": "결승에서 2-1 역전승을 거뒀어요. 올해 62경기 61승 1패이고, 20일 프랑스오픈에서 10승에 도전해요."
+    },
+    {
+      "title": "이 대통령, 오늘 김지용 중수청장 등 임명장 수여",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261019052943078",
+      "source": "연합뉴스TV",
+      "summary": "19일 오후 청와대에서 초대 중대범죄수사청장과 신임 장관 등 8명에게 수여해요."
+    },
+    {
+      "title": "지붕 뜯기고 도로 잠기고…가을 폭우에 '아수라장'",
+      "url": "https://www.yna.co.kr/view/MYH20261019000200038",
+      "source": "연합뉴스",
+      "summary": "18일 돌풍을 동반한 가을비로 침수와 가로수 쓰러짐 피해가 잇따랐어요. 19일 수도권은 비가 그쳤어요."
+    },
+    {
+      "title": "마크롱 “약탈·폭력에 분노와 수치심 느껴…용서 못 해”",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019043532Dcb",
+      "source": "연합뉴스TV",
+      "summary": "프랑스 고교생 시위가 확산되며 약탈과 폭력이 번졌어요. 마크롱은 정당한 시위대와 구분해 엄정 대응하겠다고 했어요."
+    }
+  ]
+}
+</script>
+<script>
+(function(){
+  const URL_='https://raw.githubusercontent.com/namkh2-debug/game-releases/refs/heads/main/briefing.json';
+  const DAYS=['일','월','화','수','목','금','토'];
+  const pad=n=>String(n).padStart(2,'0');
+  const kst=(d)=>{ const x=new Date((d?d.getTime():Date.now())+9*3600e3);
+    return {y:x.getUTCFullYear(),m:x.getUTCMonth()+1,d:x.getUTCDate(),w:x.getUTCDay(),h:x.getUTCHours(),mi:x.getUTCMinutes(),s:x.getUTCSeconds()}; };
+  const ymd=t=>`${t.y}-${pad(t.m)}-${pad(t.d)}`;
+  const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const val=v=>{ v=(v==null||v==='')?'미확인':String(v); return v==='미확인'?'<span class="unk">미확인</span>':esc(v); };
+  const safeUrl=u=>/^https?:\/\//i.test(String(u||''))?esc(u):'';
+  const num=v=>(v==null||v==='')?null:v;
+  const loadedDay=ymd(kst());
+
+  function render(data, source){
+    const t=kst();
+    document.getElementById('today').textContent=`${t.y}년 ${t.m}월 ${t.d}일 (${DAYS[t.w]}) · 한국시간`;
+    const up=data.updatedAt?new Date(data.updatedAt):null;
+    if(up&&!isNaN(up)){ const k=kst(up); document.getElementById('updated').textContent=`${pad(k.m)}.${pad(k.d)} (${DAYS[k.w]}) ${pad(k.h)}:${pad(k.mi)} KST`; }
+    else document.getElementById('updated').textContent='미확인';
+    document.getElementById('src').textContent='데이터 출처: '+source;
+    document.getElementById('region').textContent=data.region||'';
+    const w=document.getElementById('warn');
+    if(data.date&&data.date!==ymd(t)){ w.style.display='block';
+      w.textContent=`⚠ 표시 중인 데이터 날짜(${data.date})가 오늘(${ymd(t)})과 달라요. 아직 오늘 브리핑이 올라오지 않았을 수 있어요.`; }
+    else w.style.display='none';
+
+    // 속보
+    const br=(data.breaking||[]);
+    document.getElementById('brk').innerHTML=br.map(b=>{ const u=safeUrl(b.url);
+      const inner=`<i>속보</i>${esc(b.title||'미확인')}${b.source?`<small>${esc(b.source)}</small>`:''}`;
+      return u?`<a class="brk" href="${u}" target="_blank" rel="noopener">${inner}</a>`:`<div class="brk">${inner}</div>`; }).join('');
+
+    // 날씨
+    const wx=data.weather||{};
+    const T=n=>{ n=num(n); return n==null?'<span class="unk" style="font-size:28px">미확인</span>':esc(n)+'<sup>°</sup>'; };
+    const t2=n=>{ n=num(n); return n==null?'<span class="unk">미확인</span>':esc(n)+'°'; };
+    document.getElementById('wx').innerHTML=
+      `<div class="wx-main"><div class="temp">${T(wx.temp)}</div>`+
+      `<div class="cond">${val(wx.condition)}<small>현재 기온</small></div></div>`+
+      `<div class="grid">`+
+      `<div class="cell"><span class="k">최저</span><span class="v">${t2(wx.low)}</span></div>`+
+      `<div class="cell"><span class="k">최고</span><span class="v">${t2(wx.high)}</span></div>`+
+      `<div class="cell full"><span class="k">강수확률</span><span class="v">${val(wx.rainChance)}</span></div>`+
+      `<div class="cell full"><span class="k">미세먼지</span><span class="v">${val(wx.dust)}</span></div></div>`+
+      (wx.tip?`<div class="tip">${esc(wx.tip)}</div>`:'')+
+      (wx.source?`<div class="src">출처: ${esc(wx.source)}</div>`:'');
+
+    // 뉴스
+    const ns=data.news||[];
+    document.getElementById('news').innerHTML=ns.length?'<ul class="list">'+ns.map(n=>{
+      const u=safeUrl(n.url); const title=esc(n.title||'미확인');
+      return `<li class="card news"><h3>${u?`<a href="${u}" target="_blank" rel="noopener">${title}</a>`:title}</h3>`+
+        (n.source?`<span class="press">${esc(n.source)}</span>`:'')+
+        (n.summary?`<p>${esc(n.summary)}</p>`:'')+'</li>'; }).join('')+'</ul>'
+      :'<div class="empty">오늘 뉴스가 아직 없어요</div>';
+  }
+
+  function inlineData(){ try{ const d=JSON.parse(document.getElementById('inline-data').textContent); return d&&d.date?d:null; }catch(e){ return null; } }
+  function fb(){ const d=inlineData(); if(d) render(d,'내장 데이터(폴백)');
+    else { const w=document.getElementById('warn'); w.style.display='block'; w.textContent='데이터를 불러올 수 없어요.'; } }
+  function load(){
+    try{
+      fetch(URL_+'?_='+Date.now(),{cache:'no-store'}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+        .then(d=>render(d,'briefing.json (GitHub)')).catch(fb);
+    }catch(e){ fb(); }
+  }
+  const check=()=>{ if(ymd(kst())!==loadedDay) location.reload(); };
+  setInterval(check,5*60*1000);
+  document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') check(); });
+  function tick(){ const t=kst(); document.getElementById('clock').textContent=`${pad(t.h)}:${pad(t.mi)}:${pad(t.s)}`; }
+  setInterval(tick,1000); tick();
+  { const t=kst(); document.getElementById('loaded').textContent=`페이지 로드: ${pad(t.m)}.${pad(t.d)} ${pad(t.h)}:${pad(t.mi)} KST`; }
+  load();
+})();
+</script>
+</body>
+</html>
