@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d1017">
+<meta name="color-scheme" content="dark">
+<title>오늘의 게임 출시 (KST)</title>
+<style>
+  :root{--bg:#0d1017;--panel:#151a24;--panel2:#1b2130;--line:#262e3d;--text:#e8ecf3;--muted:#8b95a7;
+        --steam:#66c0f4;--ps:#3b82f6;--sw:#e60012;--warn:#f5b041;
+        --sat:env(safe-area-inset-top,0px);--sab:env(safe-area-inset-bottom,0px);
+        --sal:env(safe-area-inset-left,0px);--sar:env(safe-area-inset-right,0px);}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{background:var(--bg);-webkit-text-size-adjust:100%;text-size-adjust:100%}
+  body{background:var(--bg);color:var(--text);font-size:16px;line-height:1.5;
+    font-family:"Pretendard","Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+    overflow-x:hidden;-webkit-tap-highlight-color:transparent}
+  .wrap{max-width:720px;margin:0 auto;min-height:100vh;min-height:100dvh;display:flex;flex-direction:column;
+    padding-left:max(16px,var(--sal));padding-right:max(16px,var(--sar))}
+
+  /* 헤더 */
+  header{padding-top:calc(var(--sat) + 16px);padding-bottom:12px}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+  h1{font-size:26px;font-weight:800;letter-spacing:-.02em;line-height:1.25}
+  #today{display:block;font-size:16px;color:var(--muted);font-weight:500;margin-top:4px}
+  .clock{font-size:24px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap;line-height:1.3}
+  .meta{margin-top:10px;color:var(--muted);font-size:16px;display:grid;gap:2px}
+  .meta b{color:var(--text);font-weight:600}
+
+  #warn{display:none;margin:4px 0 8px;background:#3a2a0d;color:var(--warn);border:1px solid var(--warn);
+    border-radius:12px;padding:12px 14px;font-weight:600;font-size:16px;line-height:1.45;word-break:keep-all;overflow-wrap:anywhere}
+
+  /* 상단 고정 탭 */
+  .tabs{position:sticky;top:0;z-index:10;background:rgba(13,16,23,.94);
+    -webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);
+    margin:0 calc(-1 * max(16px,var(--sal))) 0 calc(-1 * max(16px,var(--sar)));
+    padding:calc(var(--sat) + 8px) max(16px,var(--sar)) 10px max(16px,var(--sal));
+    border-bottom:1px solid var(--line)}
+  .tabs [role=tablist]{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .tab{appearance:none;border:1px solid var(--line);background:var(--panel);color:var(--text);
+    font:inherit;font-size:17px;font-weight:700;min-height:52px;border-radius:14px;padding:6px 8px;
+    display:flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;
+    touch-action:manipulation;transition:background .15s,border-color .15s}
+  .tab .count{min-width:28px;height:28px;padding:0 8px;border-radius:999px;background:var(--panel2);
+    color:var(--muted);font-size:16px;font-weight:800;display:inline-flex;align-items:center;justify-content:center;
+    font-variant-numeric:tabular-nums}
+  .tab[aria-selected=true]{background:color-mix(in srgb,var(--c) 22%,var(--panel));border-color:var(--c);
+    box-shadow:inset 0 -3px 0 var(--c)}
+  .tab[aria-selected=true] .count{background:var(--c);color:var(--on,#000)}
+  .tab:focus-visible{outline:3px solid var(--c);outline-offset:2px}
+  .steam{--c:var(--steam);--on:#04121c} .ps{--c:var(--ps);--on:#fff} .sw{--c:var(--sw);--on:#fff}
+
+  /* 목록 */
+  main{flex:1;padding-top:14px}
+  section[hidden]{display:none}
+  section h2{font-size:20px;font-weight:800;margin:2px 2px 12px;display:flex;align-items:center;gap:10px}
+  section h2::before{content:"";width:6px;height:22px;border-radius:3px;background:var(--c)}
+  section h2 .sub{color:var(--muted);font-size:16px;font-weight:500}
+  .list{list-style:none;display:flex;flex-direction:column;gap:12px}
+  .card{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--c);border-radius:16px;
+    padding:14px 16px 15px;min-width:0}
+  .card h3{font-size:20px;font-weight:800;line-height:1.3;letter-spacing:-.01em;
+    word-break:keep-all;overflow-wrap:anywhere}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+  .chip{display:inline-flex;align-items:baseline;gap:6px;max-width:100%;font-size:16px;line-height:1.35;
+    padding:5px 11px;border-radius:999px;background:var(--panel2);border:1px solid var(--line);
+    overflow-wrap:anywhere;word-break:keep-all}
+  .chip .k{color:var(--muted);font-weight:600;flex:none}
+  .chip .v{min-width:0}
+  .unk{color:var(--muted);font-style:italic;font-weight:400}
+  .note{margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);color:var(--warn);
+    font-size:16px;line-height:1.45;word-break:keep-all;overflow-wrap:anywhere}
+  .empty{padding:32px 16px;text-align:center;color:var(--muted);font-size:17px;background:var(--panel);
+    border:1px dashed var(--line);border-radius:16px}
+
+  footer{color:var(--muted);font-size:16px;line-height:1.5;display:grid;gap:4px;
+    margin-top:20px;padding:14px 2px calc(var(--sab) + 20px);border-top:1px solid var(--line)}
+
+  /* 데스크톱: 중앙 정렬 유지, 약간 여유 있게 */
+  @media (min-width:760px){
+    h1{font-size:30px} .card h3{font-size:22px}
+    .tabs{margin:0;padding-left:0;padding-right:0;border-radius:0}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="top">
+    <h1>오늘의 게임 출시<span id="today">-</span></h1>
+    <div class="clock" id="clock" aria-label="현재 한국시간">--:--:--</div>
+  </div>
+  <div class="meta">
+    <div>데이터 갱신 <b id="updated">-</b></div>
+    <div>다음 새로고침 <b id="next">-</b></div>
+  </div>
+</header>
+<div id="warn" role="alert"></div>
+
+<nav class="tabs" aria-label="플랫폼">
+  <div role="tablist">
+    <button class="tab steam" role="tab" id="tab-steam" aria-controls="p-steam" aria-selected="true" data-k="steam">스팀 <span class="count" id="n-steam">0</span></button>
+    <button class="tab ps" role="tab" id="tab-playstation" aria-controls="p-playstation" aria-selected="false" tabindex="-1" data-k="playstation">PS <span class="count" id="n-playstation">0</span></button>
+    <button class="tab sw" role="tab" id="tab-switch" aria-controls="p-switch" aria-selected="false" tabindex="-1" data-k="switch">스위치 <span class="count" id="n-switch">0</span></button>
+  </div>
+</nav>
+
+<main>
+  <section class="steam" id="p-steam" role="tabpanel" aria-labelledby="tab-steam"><h2>STEAM <span class="sub" id="s-steam"></span></h2><div id="t-steam"></div></section>
+  <section class="ps" id="p-playstation" role="tabpanel" aria-labelledby="tab-playstation" hidden><h2>PlayStation <span class="sub" id="s-playstation"></span></h2><div id="t-playstation"></div></section>
+  <section class="sw" id="p-switch" role="tabpanel" aria-labelledby="tab-switch" hidden><h2>Nintendo Switch <span class="sub" id="s-switch"></span></h2><div id="t-switch"></div></section>
+</main>
+
+<footer><span>모든 시각은 한국시간(KST, UTC+9) 기준 · 출처: <span id="src">-</span></span><span id="loaded"></span></footer>
+</div>
+
+<!-- INLINE_DATA_START: data.json 과 동일한 내용을 이 script 태그 안에 넣으세요 (fetch 실패 시 폴백) -->
+<script id="inline-data" type="application/json">
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T09:06:46+09:00",
+  "platforms": {
+    "steam": [
+      {
+        "title": "아타나시아 (Athanasia)",
+        "genre": "호러 FPS · 액션 어드벤처 · 인디",
+        "publisher": "Momentum Games LLC / Black Lantern Collective",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 미지원(영어만) · 스팀 표기상 한국시간 10/20 0시 무렵 해제"
+      },
+      {
+        "title": "워딩 위치스 (Warding Witches)",
+        "genre": "탄막 슈팅 · 인디",
+        "publisher": "Sonorode / Headup",
+        "price": "미확인",
+        "note": "한국어 미지원(영·독·일·중) · 로컬 협동 · 스팀 표기상 한국시간 19일 밤 11시 무렵 해제"
+      },
+      {
+        "title": "파라웜 (Parawyrm)",
+        "genre": "서바이벌 호러 · 액션",
+        "publisher": "M. Lang / M. Lang",
+        "price": "미확인",
+        "note": "한국어 미지원(영어만) · 스팀 표기상 한국시간 10/20 새벽 무렵 해제"
+      },
+      {
+        "title": "비스트우드 헤이븐 (Beastwood Haven)",
+        "genre": "크리처 수집 · 캠프 경영 · 시뮬레이션",
+        "publisher": "9.9 studio / 9.9 studio",
+        "price": "미확인",
+        "note": "한국어 미지원(영·중) · 스팀 표기상 한국시간으로는 10/20에 해제될 가능성"
+      }
+    ],
+    "playstation": [
+      {
+        "title": "빔엔지 드라이브 (BeamNG.drive)",
+        "genre": "드라이빙 시뮬레이션",
+        "publisher": "BeamNG GmbH / BeamNG GmbH",
+        "price": "미확인 (미국 $24.99)",
+        "note": "PS5 · 앞서 해보기 · 모드·VR 출시 시 미지원 · 미국 동부 10시 = 한국시간 19일 밤 11시 · 한국어 지원 미확인"
+      },
+      {
+        "title": "듄크롤 (DuneCrawl)",
+        "genre": "오픈월드 액션 어드벤처 · 최대 4인 협동",
+        "publisher": "Alientrap / Alientrap Games",
+        "price": "미확인",
+        "note": "PS5 · UTC 10시 = 한국시간 19일 오후 7시 · 온라인 플레이는 PS Plus 필요 · 한국어 지원 미확인"
+      }
+    ],
+    "switch": [
+      {
+        "title": "프로스트펑크 (Frostpunk)",
+        "genre": "생존 시뮬레이션 · 전략 · 도시 건설",
+        "publisher": "11 bit studios / 11 bit studios",
+        "price": "미확인 (미국 $29.99, 출시 할인 $20.99)",
+        "note": "스위치2 호환 · DLC 3종 포함 컴플리트 에디션 별도 · 체험판 있음 · 한국 eShop 출시·한국어 지원 미확인"
+      }
+    ]
+  }
+}
+</script>
+<!-- INLINE_DATA_END -->
+
+<script>
+(function(){
+  const KST_OFFSET = 9*3600*1000;
+  const DAYS = ['일','월','화','수','목','금','토'];
+  const KEYS = ['steam','playstation','switch'];
+  const pad = n => String(n).padStart(2,'0');
+  // KST 기준 날짜 구성요소 (브라우저 시간대와 무관)
+  function kst(d){ const k=new Date((d||new Date()).getTime()+KST_OFFSET);
+    return {y:k.getUTCFullYear(),m:k.getUTCMonth()+1,d:k.getUTCDate(),w:k.getUTCDay(),h:k.getUTCHours(),mi:k.getUTCMinutes(),s:k.getUTCSeconds()}; }
+  const ymd = t => `${t.y}-${pad(t.m)}-${pad(t.d)}`;
+  const fmt = t => `${t.y}.${pad(t.m)}.${pad(t.d)} (${DAYS[t.w]}) ${pad(t.h)}:${pad(t.mi)}`;
+  const fmtShort = t => `${pad(t.m)}.${pad(t.d)} (${DAYS[t.w]}) ${pad(t.h)}:${pad(t.mi)}`;
+  const esc = s => String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const cell = v => { v=(v==null||v==='')?'':String(v); return v==='미확인'?'<span class="unk">미확인</span>':esc(v); };
+  const chip = (k,v) => `<span class="chip"><span class="k">${k}</span><span class="v">${cell(v||'미확인')}</span></span>`;
+
+  const loadedDay = ymd(kst());
+
+  // ── 탭 전환 (선택은 URL 해시에 저장 → 자동 새로고침 후에도 유지)
+  const tabs = KEYS.map(k=>document.getElementById('tab-'+k));
+  function select(k, focus){
+    if(KEYS.indexOf(k)<0) k='steam';
+    KEYS.forEach((key,i)=>{ const on=key===k;
+      tabs[i].setAttribute('aria-selected',on); tabs[i].tabIndex=on?0:-1;
+      document.getElementById('p-'+key).hidden=!on; });
+    if(focus) document.getElementById('tab-'+k).focus();
+    if(location.hash!=='#'+k) history.replaceState(null,'','#'+k);
+  }
+  tabs.forEach((b,i)=>{
+    b.addEventListener('click',()=>{ select(b.dataset.k);
+      const nav=document.querySelector('.tabs'); // 탭이 상단에 붙어 있으면 목록 맨 위로
+      if(nav.getBoundingClientRect().top<=0) window.scrollTo({top:document.querySelector('header').offsetHeight+document.getElementById('warn').offsetHeight,behavior:'auto'}); });
+    b.addEventListener('keydown',e=>{ let j=null;
+      if(e.key==='ArrowRight') j=(i+1)%3; else if(e.key==='ArrowLeft') j=(i+2)%3; else if(e.key==='Home') j=0; else if(e.key==='End') j=2;
+      if(j!==null){ e.preventDefault(); select(KEYS[j],true); } });
+  });
+  select(location.hash.slice(1));
+
+  function render(data, source){
+    const t=kst();
+    document.getElementById('today').textContent = `${t.y}년 ${t.m}월 ${t.d}일 (${DAYS[t.w]}) · 한국시간`;
+    let up = data.updatedAt ? new Date(data.updatedAt) : null;
+    document.getElementById('updated').textContent = (up && !isNaN(up)) ? fmtShort(kst(up)) + ' KST' : '미확인';
+    document.getElementById('src').textContent = source;
+    const w=document.getElementById('warn');
+    if(data.date && data.date!==ymd(t)){ w.style.display='block';
+      w.textContent=`⚠ 표시 중인 데이터 날짜(${data.date})가 오늘(${ymd(t)})과 다릅니다. 데이터 갱신을 확인하세요.`; }
+    else w.style.display='none';
+    KEYS.forEach(k=>{
+      const rows=(data.platforms&&data.platforms[k])||[];
+      document.getElementById('n-'+k).textContent=rows.length;
+      document.getElementById('s-'+k).textContent=rows.length+'개';
+      const el=document.getElementById('t-'+k);
+      if(!rows.length){ el.innerHTML='<div class="empty">오늘 출시 예정 게임 없음</div>'; return; }
+      el.innerHTML='<ul class="list">'+rows.map(r=>
+        `<li class="card"><h3>${cell(r.title||'미확인')}</h3>`+
+        `<div class="chips">${chip('장르',r.genre)}${chip('개발/유통',r.publisher)}${chip('가격',r.price)}</div>`+
+        (r.note?`<p class="note">${cell(r.note)}</p>`:'')+'</li>').join('')+'</ul>';
+    });
+  }
+
+  function inlineData(){ try{ return JSON.parse(document.getElementById('inline-data').textContent); }catch(e){ return null; } }
+
+  function load(){
+    const fb=()=>{ const d=inlineData(); if(d) render(d,'내장 데이터(폴백)'); else { const w=document.getElementById('warn'); w.style.display='block'; w.textContent='데이터를 불러올 수 없습니다.'; } };
+    if(location.protocol==='file:' || !window.fetch){ // file:// 에서는 fetch가 대부분 막힘 → 시도 후 폴백
+      try{ fetch('https://raw.githubusercontent.com/namkh2-debug/game-releases/main/data.json?_='+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>render(d,'data.json')).catch(fb); }catch(e){ fb(); }
+      return;
+    }
+    fetch('https://raw.githubusercontent.com/namkh2-debug/game-releases/main/data.json?_='+Date.now(),{cache:'no-store'}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(d=>render(d,'data.json')).catch(fb);
+  }
+
+  // 다음 KST 09:00 (= UTC 00:00) 까지 남은 ms
+  function msUntilNext9(){ const now=Date.now(); const d=new Date(now);
+    let target=Date.UTC(d.getUTCFullYear(),d.getUTCMonth(),d.getUTCDate()+1,0,0,5); // 09:00:05 KST
+    return target-now; }
+  function scheduleReload(){
+    const ms=msUntilNext9();
+    document.getElementById('next').textContent=fmtShort(kst(new Date(Date.now()+ms)))+' KST';
+    // setTimeout 최대치(약 24.8일) 안쪽이며, 절전 등으로 지연될 수 있어 5분 체크로 보완
+    setTimeout(()=>location.reload(), ms);
+  }
+  // 5분마다: 날짜 변경 또는 09:00 경과 여부 체크
+  const reloadAt = Date.now()+msUntilNext9();
+  const check=()=>{ if(ymd(kst())!==loadedDay || Date.now()>=reloadAt) location.reload(); };
+  setInterval(check, 5*60*1000);
+  // 모바일: 백그라운드 탭에서는 타이머가 멈추므로 화면 복귀 시 즉시 확인
+  document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') check(); });
+  // 시계
+  function tick(){ const t=kst(); document.getElementById('clock').textContent=`${pad(t.h)}:${pad(t.mi)}:${pad(t.s)}`; }
+  setInterval(tick,1000); tick();
+  document.getElementById('loaded').textContent='페이지 로드: '+fmt(kst())+' KST';
+
+  load(); scheduleReload();
+})();
+</script>
+</body>
+</html>

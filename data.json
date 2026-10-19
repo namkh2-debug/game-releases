@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T09:06:46+09:00",
+  "platforms": {
+    "steam": [
+      {
+        "title": "아타나시아 (Athanasia)",
+        "genre": "호러 FPS · 액션 어드벤처 · 인디",
+        "publisher": "Momentum Games LLC / Black Lantern Collective",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 미지원(영어만) · 스팀 표기상 한국시간 10/20 0시 무렵 해제"
+      },
+      {
+        "title": "워딩 위치스 (Warding Witches)",
+        "genre": "탄막 슈팅 · 인디",
+        "publisher": "Sonorode / Headup",
+        "price": "미확인",
+        "note": "한국어 미지원(영·독·일·중) · 로컬 협동 · 스팀 표기상 한국시간 19일 밤 11시 무렵 해제"
+      },
+      {
+        "title": "파라웜 (Parawyrm)",
+        "genre": "서바이벌 호러 · 액션",
+        "publisher": "M. Lang / M. Lang",
+        "price": "미확인",
+        "note": "한국어 미지원(영어만) · 스팀 표기상 한국시간 10/20 새벽 무렵 해제"
+      },
+      {
+        "title": "비스트우드 헤이븐 (Beastwood Haven)",
+        "genre": "크리처 수집 · 캠프 경영 · 시뮬레이션",
+        "publisher": "9.9 studio / 9.9 studio",
+        "price": "미확인",
+        "note": "한국어 미지원(영·중) · 스팀 표기상 한국시간으로는 10/20에 해제될 가능성"
+      }
+    ],
+    "playstation": [
+      {
+        "title": "빔엔지 드라이브 (BeamNG.drive)",
+        "genre": "드라이빙 시뮬레이션",
+        "publisher": "BeamNG GmbH / BeamNG GmbH",
+        "price": "미확인 (미국 $24.99)",
+        "note": "PS5 · 앞서 해보기 · 모드·VR 출시 시 미지원 · 미국 동부 10시 = 한국시간 19일 밤 11시 · 한국어 지원 미확인"
+      },
+      {
+        "title": "듄크롤 (DuneCrawl)",
+        "genre": "오픈월드 액션 어드벤처 · 최대 4인 협동",
+        "publisher": "Alientrap / Alientrap Games",
+        "price": "미확인",
+        "note": "PS5 · UTC 10시 = 한국시간 19일 오후 7시 · 온라인 플레이는 PS Plus 필요 · 한국어 지원 미확인"
+      }
+    ],
+    "switch": [
+      {
+        "title": "프로스트펑크 (Frostpunk)",
+        "genre": "생존 시뮬레이션 · 전략 · 도시 건설",
+        "publisher": "11 bit studios / 11 bit studios",
+        "price": "미확인 (미국 $29.99, 출시 할인 $20.99)",
+        "note": "스위치2 호환 · DLC 3종 포함 컴플리트 에디션 별도 · 체험판 있음 · 한국 eShop 출시·한국어 지원 미확인"
+      }
+    ]
+  }
+}
