@@ -248,10 +248,10 @@
   function load(){
     const fb=()=>{ const d=inlineData(); if(d) render(d,'내장 데이터(폴백)'); else { const w=document.getElementById('warn'); w.style.display='block'; w.textContent='데이터를 불러올 수 없습니다.'; } };
     if(location.protocol==='file:' || !window.fetch){ // file:// 에서는 fetch가 대부분 막힘 → 시도 후 폴백
-      try{ fetch('https://raw.githubusercontent.com/namkh2-debug/game-releases/main/data.json?_='+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>render(d,'data.json')).catch(fb); }catch(e){ fb(); }
+      try{ fetch('https://raw.githubusercontent.com/namkh2-debug/game-releases/refs/heads/main/data.json?_='+Date.now()).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>render(d,'data.json')).catch(fb); }catch(e){ fb(); }
       return;
     }
-    fetch('https://raw.githubusercontent.com/namkh2-debug/game-releases/main/data.json?_='+Date.now(),{cache:'no-store'}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
+    fetch('https://raw.githubusercontent.com/namkh2-debug/game-releases/refs/heads/main/data.json?_='+Date.now(),{cache:'no-store'}).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); })
       .then(d=>render(d,'data.json')).catch(fb);
   }
 
