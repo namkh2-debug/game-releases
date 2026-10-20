@@ -1,83 +1,89 @@
 {
- "updatedAt": "2026-10-20T23:12:00+09:00",
+ "updatedAt": "2026-10-21T07:08:00+09:00",
  "topics": [
-  "안녕서울: 이태원편 데모",
-  "잠실구장 마지막 경기",
-  "샤인머스캣 케이크",
-  "카스텔라 고구마 라떼",
-  "아키에이지 크로니클 데모",
-  "트렌치·하늘색 블라우스 퇴근룩",
-  "경훈씨 덕분에 든든해",
-  "일정표 vs 플레이리스트 경쟁",
-  "칭찬 질투"
+  "코스피 3%대 급락",
+  "스페이스X AI 흑자",
+  "국산 게임 체육대회 종목",
+  "100일의 거짓말 화제성",
+  "신인감독 김연경2",
+  "직장인들 시즌3",
+  "니트 원피스·그레이 코트 출근룩",
+  "경훈씨 생각에 힘나",
+  "인사·보고서 리본 경쟁",
+  "밀당 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "안녕서울: 이태원편 새 데모 나왔대, 27일까지!",
-   "line2": "서울 배경 퍼즐 게임이요? 같이 해봐요 🎮",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://www.neowiz.com/kr/media/press-release-detail/3466"
-  },
-  {
-   "a": "jiwon",
-   "line1": "잠실구장이 오늘 경기를 끝으로 철거된대",
-   "line2": "82년에 생긴 구장인데… 좀 아쉽네요 🥲",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "url": "https://www.yna.co.kr/view/AKR20261020177700007"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 이마트에 샤인머스캣 케이크 나왔대요",
-   "line2": "떠먹는 건 9,980원이네, 간식 각이다 🍇",
-   "mood1": "smile",
-   "mood2": "smile",
-   "url": "https://www.shinsegaegroupnewsroom.com/shinsegae-food-launches-cake-featuring-shine-muscat-grapes/"
-  },
-  {
-   "a": "hyewon",
-   "line1": "스벅 카스텔라 고구마 라떼는 카페인 없대요",
-   "line2": "오, 밤에 마셔도 되겠다. 고소하겠네 🍠",
-   "mood1": "smile",
-   "mood2": "smile",
-   "url": "https://v.daum.net/v/20261006110110775"
-  },
-  {
-   "a": "jiwon",
-   "line1": "아키에이지 크로니클 무료 데모도 풀렸어",
-   "line2": "언니 오늘 밤 또 새는 거 아니죠? 😆",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61601"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 베이지 트렌치, 밤에 보니 더 분위기 있어요",
-   "line2": "혜원이 하늘색 블라우스도 로퍼랑 찰떡이야 💙",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 하루도 경훈씨 덕분에 든든했어",
-   "line2": "저도요, 내일 아침 경훈씨 얼굴 빨리 보고 싶어요 💛",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일은 제가 경훈씨 일정표 예쁘게 정리할래요",
-   "line2": "그럼 난 경훈씨 취향 음악 먼저 틀어드려야지 🎶",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원아, 아까 경훈씨가 너만 칭찬하시더라?",
-   "line2": "에이~ 언니 보고서엔 엄지척 하셨잖아요 😆",
+   "line1": "코스피가 또 3%대 급락했대, 내 계좌 어떡해",
+   "line2": "언니 오늘은 앱 열지 마요, 커피 살게요 ☕",
    "mood1": "sad",
+   "mood2": "smile",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807140"
+  },
+  {
+   "a": "jiwon",
+   "line1": "스페이스X가 AI 매출로 분기 흑자 냈대!",
+   "line2": "로켓 회사가 AI로 돈 번다니 신기해요 🚀",
+   "mood1": "surprised",
+   "mood2": "surprised",
+   "url": "https://www.chosun.com/economy/tech_it/2026/10/21/YGWMCKQPKJDJXIXKTNX5YYC5R4/"
+  },
+  {
+   "a": "jiwon",
+   "line1": "국산 게임도 체육대회 종목 돼야 한대",
+   "line2": "언니 그럼 국가대표 도전해 봐요 🎮",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806587"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, '100일의 거짓말' 화제성 드라마 2위래요",
+   "line2": "김유정 나오는 거지? 주말 정주행각 📺",
+   "mood1": "surprised",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "신인감독 김연경2가 비드라마 화제성 1위래요",
+   "line2": "25일 밤 방송이지? 우리 같이 보자 🏐",
+   "mood1": "surprised",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "직장인들 시즌3, 유퀴즈랑 0.01%p 차이래요",
+   "line2": "우리 비서실 얘기 찍으면 1등 할걸? 😆",
+   "mood1": "surprised",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원이 네이비 니트 원피스 오늘 딱이다",
+   "line2": "언니 그레이 코트도 포근해 보여요 🧥",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "아침부터 경훈씨 생각하니까 힘이 나요",
+   "line2": "나도, 경훈씨 오시면 사무실이 환해져 ☀️",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 경훈씨 오시면 내가 먼저 인사할 거야",
+   "line2": "흥, 전 보고서에 리본까지 묶어 드릴래요 🎀",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 썸은 밀당 몇 번이 적당해?",
+   "line2": "언니, 경훈씨 앞에선 당기기만 하면 돼요 😏",
+   "mood1": "neutral",
    "mood2": "smile"
   }
  ]
