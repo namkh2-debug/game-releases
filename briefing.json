@@ -1,224 +1,224 @@
 {
- "date": "2026-10-20",
- "updatedAt": "2026-10-20T16:10:00+09:00",
- "region": "경기 광주",
- "weather": {
-  "temp": 19.9,
-  "low": 10.0,
-  "high": 20.4,
-  "condition": "구름많음, 밤 한때 비 가능",
-  "rainChance": "최대 10% (경기남부 밤 곳에 따라 5mm 미만)",
-  "dust": "좋음 (에어코리아 예보)",
-  "tip": "일교차가 10도 넘어요. 가벼운 재킷을 챙기고, 늦게 귀가하면 작은 우산이 있으면 좋아요. 내일 낮부터 찬 바람이 불어 쌀쌀해져요.",
-  "source": "Open-Meteo, 기상청 단기예보(10/20 05시), 에어코리아"
- },
- "breaking": [
-  {
-   "title": "경찰, 역삼동 빌딩 연쇄방화 용의자 추적중…70대 남성",
-   "url": "https://www.asiae.co.kr/article/2026102016012319600",
-   "source": "아시아경제"
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T17:10:00+09:00",
+  "region": "경기 광주",
+  "weather": {
+    "temp": 18.5,
+    "low": 10.0,
+    "high": 20.4,
+    "condition": "구름많음, 밤 한때 비 가능",
+    "rainChance": "최대 10% (경기남부 밤 곳에 따라 5mm 미만)",
+    "dust": "좋음 (에어코리아 예보)",
+    "tip": "일교차가 10도 넘어요. 가벼운 재킷을 챙기고, 늦게 귀가하면 작은 우산이 있으면 좋아요. 내일 낮부터 찬 바람이 불어 쌀쌀해져요.",
+    "source": "Open-Meteo, 기상청 단기예보(10/20 05시), 에어코리아"
   },
-  {
-   "title": "코스피, 3.7% 급락한 5,552 마감…코스닥도 3.3%↓",
-   "url": "https://www.yna.co.kr/view/AKR20261020125200008",
-   "source": "연합뉴스"
-  },
-  {
-   "title": "원·달러 환율, 2.2원 내린 1328.1원 마감",
-   "url": "https://www.newsis.com/view/NISX20261020_0003833618",
-   "source": "뉴시스"
-  },
-  {
-   "title": "광주 군공항 훈련기 3개 대대, 예천·충주로 이전…호남반도체 조성 '속도'",
-   "url": "https://www.ikbc.co.kr/article/view/kbc202610200044",
-   "source": "KBC광주방송"
-  },
-  {
-   "title": "정부, 우크라이나 공관원 일부 철수 결정",
-   "url": "https://www.donga.com/news/Politics/article/all/20261020/134874492/1",
-   "source": "동아일보"
-  }
- ],
- "news": [
-  {
-   "title": "대법, 아리셀 대표 ‘징역 15년→4년 감형’ 판결 확정…“23명 죽었는데” 유족 눈물",
-   "url": "https://www.khan.co.kr/article/202610201011021",
-   "source": "경향신문",
-   "summary": "노동자 23명이 숨진 아리셀 화재 참사로 기소된 박순관 대표가 대법원에서 징역 4년을 확정받았어요."
-  },
-  {
-   "title": "부승찬, '소방재정 쭉쭉' 발언 사과…\"존중 다하지 못해, 반성\"",
-   "url": "https://www.yna.co.kr/view/AKR20261020097800001",
-   "source": "연합뉴스",
-   "summary": "국감 중 소방 재정 발언으로 논란이 된 부승찬 의원이 소방공무원과 국민께 사과했다."
-  },
-  {
-   "title": "민주당 “오세훈 한강버스 진상조사단 꾸릴 것···당 차원 고발도 검토”",
-   "url": "https://www.khan.co.kr/article/202610201122001",
-   "source": "경향신문",
-   "summary": "민주당이 오세훈 서울시장의 한강버스 리베이트·조사 무마 의혹 진상조사단을 꾸리고 고발도 검토한대요."
-  },
-  {
-   "title": "'5·18 북한군 개입설' 지만원 구속 기로…유포자 50여명 입건",
-   "url": "https://www.nocutnews.co.kr/news/6594187",
-   "source": "노컷뉴스",
-   "summary": "경찰이 5·18 북한군 개입설을 퍼뜨린 지만원 씨에 대해 구속영장을 신청했고, 유포자 50여 명도 입건했어요."
-  },
-  {
-   "title": "통금령 떨어진 파리, 루브르도 닫혔다…총리 “비상사태 선포 배제 안 해”",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1283169.html",
-   "source": "한겨레",
-   "summary": "시위가 격화된 프랑스가 파리 등 여러 도시에 통행금지령을 내렸고 총리는 비상사태 선포도 배제하지 않았어요."
-  },
-  {
-   "title": "순천만 야생조류서 올해 동절기 첫 고병원성 AI…중수본 가동",
-   "url": "https://www.yna.co.kr/view/AKR20261020085500530",
-   "source": "연합뉴스",
-   "summary": "순천만 야생조류 분변에서 H5형 고병원성 AI가 검출돼 위기경보가 '심각'으로 올랐다."
-  },
-  {
-   "title": "범삼성가 중앙일보 인수 나선다…신세계, 다우키움·CJ 컨소시엄에 참여",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020134246Ezc",
-   "source": "연합뉴스TV",
-   "summary": "중앙일보 인수 우선협상자인 다우키움·CJ 컨소시엄에 신세계도 참여해 범삼성가가 인수전에 나섰다."
-  },
-  {
-   "title": "사우디, 후티 공격 격화에 ‘사막의 다보스’ 내년으로 연기",
-   "url": "https://www.khan.co.kr/article/202610200946001",
-   "source": "경향신문",
-   "summary": "후티 반군 공세에 사우디가 이달 말 열려던 국제투자회의 FII를 2027년으로 미뤘어요."
-  },
-  {
-   "title": "머스크 \"美 어린이 모두에게 스페이스X 주식 1주씩 주겠다\"",
-   "url": "https://www.chosun.com/economy/tech_it/2026/10/20/3XSBHEGB3RCXHJHSQSC6ENQN7A/",
-   "source": "조선일보",
-   "summary": "머스크가 내년 미국 어린이 전원에게 스페이스X 주식을 1주씩 주겠다고 발표했다(약 14조 원 규모 예상)."
-  },
-  {
-   "title": "최원호 감독, 한국 야구대표팀 사령탑 선임…11월 APBC 지휘",
-   "url": "https://www.kbsm.net/news/view.php?idx=538316",
-   "source": "경북신문",
-   "summary": "최원호 감독이 한국 야구대표팀 사령탑으로 선임돼 11월 APBC를 지휘한다."
-  },
-  {
-   "title": "통일부, 북 확성기 재개 검토에 “남북 군사분계선 일치가 먼저”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1283199.html",
-   "source": "한겨레",
-   "summary": "통일부가 북한의 대남 확성기 재개 검토에 대해 군사분계선 문제부터 서로 존중하며 풀자고 밝혔다."
-  },
-  {
-   "title": "트럼프, 내달 중국서 김정은과 회담 여부에 \"모르겠다\"",
-   "url": "https://imnews.imbc.com/news/2026/world/article/6859221_36925.html",
-   "source": "MBC 뉴스",
-   "summary": "트럼프 미국 대통령이 다음 달 중국에서 김정은 위원장과 만날지에 대해 '모르겠다'고 답했어요."
-  },
-  {
-   "title": "젤렌스키, 미국 의원들에게 “패트리엇 주면 러 공격 중단’",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020113804x17",
-   "source": "연합뉴스TV",
-   "summary": "젤렌스키 대통령이 패트리엇 미사일을 주면 러시아 정유시설 공격을 중단하겠다고 미 의원들에게 제안했어요."
-  },
-  {
-   "title": "재경부·WBG 'AI·디지털 서밋' 서울서 개막…160개국 900명 집결",
-   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440113",
-   "source": "연합인포맥스",
-   "summary": "세계은행그룹의 AI·디지털 서밋이 워싱턴 밖에서 처음으로 서울에서 22일까지 열려요."
-  },
-  {
-   "title": "채권시장 참여자 93% \"10월 금통위 기준금리 동결 예상\"",
-   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440108",
-   "source": "연합인포맥스",
-   "summary": "채권시장 참여자 93%가 22일 금통위에서 기준금리가 동결될 것으로 내다봤어요."
-  },
-  {
-   "title": "\"모두의카드 번호 26일까지 확인하세요\"‥등록번호 다르면 환급 차질",
-   "url": "https://imnews.imbc.com/news/2026/econo/article/6859259_36932.html",
-   "source": "MBC 뉴스",
-   "summary": "모두의카드 환급을 받으려면 26일까지 등록된 카드번호가 맞는지 확인해야 한대요."
-  },
-  {
-   "title": "전세 실종에…1∼9월 서울 아파트 월세 비중 50% 첫 돌파",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610200844467r5",
-   "source": "연합뉴스TV",
-   "summary": "전세가 귀해지면서 올해 1~9월 서울 아파트 임대차 거래 중 월세 비중이 처음 50%를 넘었어요."
-  },
-  {
-   "title": "’잠자는 계좌’ 3억 4천만개…장기 미거래·미청구 잔액 14조",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020085044tXY",
-   "source": "연합뉴스TV",
-   "summary": "장기 미거래·휴면 '잠자는 계좌'가 3억 4천만 개, 잔액은 약 14조 원에 이른대요."
-  },
-  {
-   "title": "‘신도 성폭행’ 81살 JMS 정명석 징역 33년 추가 선고",
-   "url": "https://www.hani.co.kr/arti/area/chungcheong/1283010.html",
-   "source": "한겨레",
-   "summary": "JMS 총재 정명석 씨가 여신도 성폭행 혐의로 징역 33년을 추가로 선고받았어요."
-  },
-  {
-   "title": "넷플릭스 ‘중증외상센터 시즌2·3’ 제작 확정",
-   "url": "https://www.busan.com/view/busan/view.php?code=2026101910203430466",
-   "source": "부산일보",
-   "summary": "넷플릭스가 의학 드라마 '중증외상센터' 시즌2·3 제작을 확정했다."
-  },
-  {
-   "title": "정부 DMZ 환경·유산 조사, 유엔사 거부로 2년 넘게 중단",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8690069",
-   "source": "KBS 뉴스",
-   "summary": "정부의 DMZ 환경·유산 조사가 유엔군사령부의 거부로 2년 넘게 멈춰 있대요."
-  },
-  {
-   "title": "2031년 누리호로 국방위성 쏜다‥매년 1차례 이상 발사 추진",
-   "url": "https://imnews.imbc.com/news/2026/econo/article/6859313_36932.html",
-   "source": "MBC 뉴스",
-   "summary": "정부가 2031년 누리호로 국방위성을 쏘아 올리고, 누리호를 매년 한 번 이상 발사하는 방안을 추진한대요."
-  },
-  {
-   "title": "‘서부지법 난동’ 신혜식 등 4명 기소…‘방조’ 혐의 적용",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8690042",
-   "source": "KBS 뉴스",
-   "summary": "서부지법 난동을 부추긴 혐의로 유튜버 신혜식 씨 등 4명이 방조 혐의로 기소됐어요."
-  },
-  {
-   "title": "생명 흔적 묻어올 수도…일본, 사상 첫 ‘화성 위성’ 표본 회수한다",
-   "url": "https://www.hani.co.kr/arti/science/science_general/1283172.html",
-   "source": "한겨레",
-   "summary": "일본이 화성 위성 포보스의 흙을 가져올 탐사선 MMX를 오늘 새벽 쏘아 올렸어요."
-  },
-  {
-   "title": "현대차·기아, ‘레벨4 자율주행’ 트럭 투입한다…내년 초 엑시언트 2대 제공",
-   "url": "https://www.chosun.com/economy/auto/2026/10/20/LCBUI3Z53RCKXACDE2RWR675UI/",
-   "source": "조선일보",
-   "summary": "현대차·기아가 내년 초 레벨4 자율주행 트럭을 실제 물류 노선에 투입해 실증에 나서요."
-  },
-  {
-   "title": "애플, 28일 신제품 행사…터치스크린 맥북 공개할까",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=676067",
-   "source": "블로터",
-   "summary": "애플이 28일 LA에서 신제품 행사를 열고 터치스크린 맥북을 공개할 거란 전망이 나와요."
-  },
-  {
-   "title": "미 행정부, 연방기관 시스템서 중국 ‘딥시크’ AI 모델 퇴출",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8689648",
-   "source": "KBS 뉴스",
-   "summary": "미국 행정부가 연방기관 시스템에서 중국 딥시크 AI 모델을 퇴출시켰어요."
-  },
-  {
-   "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\"",
-   "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513",
-   "source": "머니투데이",
-   "summary": "젠슨 황 엔비디아 CEO가 AI의 다음 물결로 로봇·제조에 쓰이는 피지컬 AI를 꼽았어요."
-  },
-  {
-   "title": "안세영, 덴마크오픈 단식 우승...국제대회 女 최다 ‘새역사’",
-   "url": "https://www.kbsm.net/news/view.php?idx=538315",
-   "source": "경북신문",
-   "summary": "안세영이 덴마크오픈 여자 단식에서 우승하며 국제대회 여자 최다 우승 기록을 새로 썼어요."
-  },
-  {
-   "title": "개봉 D-1 ‘실낙원’ 한국영화 예매율 1위 등극… 연상호X김현주 흥행 신호탄",
-   "url": "https://sports.donga.com/ent/article/all/20261020/134871656/1",
-   "source": "스포츠동아",
-   "summary": "연상호 감독, 김현주 주연의 영화 '실낙원'이 개봉 하루 전 한국영화 예매율 1위에 올랐어요."
-  }
- ]
+  "breaking": [
+    {
+      "title": "서울고법, '여론조사비 대납 의혹' 오세훈 2심 선고 생중계 결정",
+      "url": "https://www.newsis.com/view/NISX20261020_0003833856",
+      "source": "뉴시스"
+    },
+    {
+      "title": "경찰, 역삼동 연쇄 방화 용의자 동묘앞역 인근서 검거",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1283268.html",
+      "source": "한겨레"
+    },
+    {
+      "title": "李대통령, 3기 신도시 현장 시찰 및 현장 간담회 참석",
+      "url": "https://www.mt.co.kr/politics/2026/10/20/2026102016373942281",
+      "source": "머니투데이"
+    },
+    {
+      "title": "코스피, 3.7% 급락한 5,552 마감…코스닥도 3.3%↓",
+      "url": "https://www.yna.co.kr/view/AKR20261020125200008",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "정부, 우크라이나 공관원 일부 철수 결정",
+      "url": "https://www.donga.com/news/Politics/article/all/20261020/134874492/1",
+      "source": "동아일보"
+    }
+  ],
+  "news": [
+    {
+      "title": "대법, 아리셀 대표 ‘징역 15년→4년 감형’ 판결 확정…“23명 죽었는데” 유족 눈물",
+      "url": "https://www.khan.co.kr/article/202610201011021",
+      "source": "경향신문",
+      "summary": "노동자 23명이 숨진 아리셀 화재 참사로 기소된 박순관 대표가 대법원에서 징역 4년을 확정받았어요."
+    },
+    {
+      "title": "부승찬, '소방재정 쭉쭉' 발언 사과…\"존중 다하지 못해, 반성\"",
+      "url": "https://www.yna.co.kr/view/AKR20261020097800001",
+      "source": "연합뉴스",
+      "summary": "국감 중 소방 재정 발언으로 논란이 된 부승찬 의원이 소방공무원과 국민께 사과했다."
+    },
+    {
+      "title": "민주당 “오세훈 한강버스 진상조사단 꾸릴 것···당 차원 고발도 검토”",
+      "url": "https://www.khan.co.kr/article/202610201122001",
+      "source": "경향신문",
+      "summary": "민주당이 오세훈 서울시장의 한강버스 리베이트·조사 무마 의혹 진상조사단을 꾸리고 고발도 검토한대요."
+    },
+    {
+      "title": "'5·18 북한군 개입설' 지만원 구속 기로…유포자 50여명 입건",
+      "url": "https://www.nocutnews.co.kr/news/6594187",
+      "source": "노컷뉴스",
+      "summary": "경찰이 5·18 북한군 개입설을 퍼뜨린 지만원 씨에 대해 구속영장을 신청했고, 유포자 50여 명도 입건했어요."
+    },
+    {
+      "title": "통금령 떨어진 파리, 루브르도 닫혔다…총리 “비상사태 선포 배제 안 해”",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1283169.html",
+      "source": "한겨레",
+      "summary": "시위가 격화된 프랑스가 파리 등 여러 도시에 통행금지령을 내렸고 총리는 비상사태 선포도 배제하지 않았어요."
+    },
+    {
+      "title": "순천만 야생조류서 올해 동절기 첫 고병원성 AI…중수본 가동",
+      "url": "https://www.yna.co.kr/view/AKR20261020085500530",
+      "source": "연합뉴스",
+      "summary": "순천만 야생조류 분변에서 H5형 고병원성 AI가 검출돼 위기경보가 '심각'으로 올랐다."
+    },
+    {
+      "title": "범삼성가 중앙일보 인수 나선다…신세계, 다우키움·CJ 컨소시엄에 참여",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020134246Ezc",
+      "source": "연합뉴스TV",
+      "summary": "중앙일보 인수 우선협상자인 다우키움·CJ 컨소시엄에 신세계도 참여해 범삼성가가 인수전에 나섰다."
+    },
+    {
+      "title": "사우디, 후티 공격 격화에 ‘사막의 다보스’ 내년으로 연기",
+      "url": "https://www.khan.co.kr/article/202610200946001",
+      "source": "경향신문",
+      "summary": "후티 반군 공세에 사우디가 이달 말 열려던 국제투자회의 FII를 2027년으로 미뤘어요."
+    },
+    {
+      "title": "머스크 \"美 어린이 모두에게 스페이스X 주식 1주씩 주겠다\"",
+      "url": "https://www.chosun.com/economy/tech_it/2026/10/20/3XSBHEGB3RCXHJHSQSC6ENQN7A/",
+      "source": "조선일보",
+      "summary": "머스크가 내년 미국 어린이 전원에게 스페이스X 주식을 1주씩 주겠다고 발표했다(약 14조 원 규모 예상)."
+    },
+    {
+      "title": "최원호 감독, 한국 야구대표팀 사령탑 선임…11월 APBC 지휘",
+      "url": "https://www.kbsm.net/news/view.php?idx=538316",
+      "source": "경북신문",
+      "summary": "최원호 감독이 한국 야구대표팀 사령탑으로 선임돼 11월 APBC를 지휘한다."
+    },
+    {
+      "title": "통일부, 북 확성기 재개 검토에 “남북 군사분계선 일치가 먼저”",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283199.html",
+      "source": "한겨레",
+      "summary": "통일부가 북한의 대남 확성기 재개 검토에 대해 군사분계선 문제부터 서로 존중하며 풀자고 밝혔다."
+    },
+    {
+      "title": "트럼프, 내달 중국서 김정은과 회담 여부에 \"모르겠다\"",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6859221_36925.html",
+      "source": "MBC 뉴스",
+      "summary": "트럼프 미국 대통령이 다음 달 중국에서 김정은 위원장과 만날지에 대해 '모르겠다'고 답했어요."
+    },
+    {
+      "title": "젤렌스키, 미국 의원들에게 “패트리엇 주면 러 공격 중단’",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020113804x17",
+      "source": "연합뉴스TV",
+      "summary": "젤렌스키 대통령이 패트리엇 미사일을 주면 러시아 정유시설 공격을 중단하겠다고 미 의원들에게 제안했어요."
+    },
+    {
+      "title": "국힘, '북핵은 방어무기' 이 대통령 발언에 \"北 노동당 대변인\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020154918IYA",
+      "source": "연합뉴스TV",
+      "summary": "국민의힘이 북핵을 '최후의 방어무기'라고 한 이재명 대통령 발언을 강하게 비판했어요."
+    },
+    {
+      "title": "채권시장 참여자 93% \"10월 금통위 기준금리 동결 예상\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440108",
+      "source": "연합인포맥스",
+      "summary": "채권시장 참여자 93%가 22일 금통위에서 기준금리가 동결될 것으로 내다봤어요."
+    },
+    {
+      "title": "\"모두의카드 번호 26일까지 확인하세요\"‥등록번호 다르면 환급 차질",
+      "url": "https://imnews.imbc.com/news/2026/econo/article/6859259_36932.html",
+      "source": "MBC 뉴스",
+      "summary": "모두의카드 환급을 받으려면 26일까지 등록된 카드번호가 맞는지 확인해야 한대요."
+    },
+    {
+      "title": "전세 실종에…1∼9월 서울 아파트 월세 비중 50% 첫 돌파",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610200844467r5",
+      "source": "연합뉴스TV",
+      "summary": "전세가 귀해지면서 올해 1~9월 서울 아파트 임대차 거래 중 월세 비중이 처음 50%를 넘었어요."
+    },
+    {
+      "title": "’잠자는 계좌’ 3억 4천만개…장기 미거래·미청구 잔액 14조",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020085044tXY",
+      "source": "연합뉴스TV",
+      "summary": "장기 미거래·휴면 '잠자는 계좌'가 3억 4천만 개, 잔액은 약 14조 원에 이른대요."
+    },
+    {
+      "title": "‘신도 성폭행’ 81살 JMS 정명석 징역 33년 추가 선고",
+      "url": "https://www.hani.co.kr/arti/area/chungcheong/1283010.html",
+      "source": "한겨레",
+      "summary": "JMS 총재 정명석 씨가 여신도 성폭행 혐의로 징역 33년을 추가로 선고받았어요."
+    },
+    {
+      "title": "넷플릭스 ‘중증외상센터 시즌2·3’ 제작 확정",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026101910203430466",
+      "source": "부산일보",
+      "summary": "넷플릭스가 의학 드라마 '중증외상센터' 시즌2·3 제작을 확정했다."
+    },
+    {
+      "title": "노무라 \"메모리 공급 부족 2028년까지…삼전닉스 '매수'\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020145357iiy",
+      "source": "연합뉴스TV",
+      "summary": "노무라증권이 메모리 공급 부족이 2028년까지 간다며 삼성전자·SK하이닉스 매수 의견을 냈어요."
+    },
+    {
+      "title": "2031년 누리호로 국방위성 쏜다‥매년 1차례 이상 발사 추진",
+      "url": "https://imnews.imbc.com/news/2026/econo/article/6859313_36932.html",
+      "source": "MBC 뉴스",
+      "summary": "정부가 2031년 누리호로 국방위성을 쏘아 올리고, 누리호를 매년 한 번 이상 발사하는 방안을 추진한대요."
+    },
+    {
+      "title": "美 국무부, 케냐 여행경보 격상…\"에볼라로 건강 위험\"",
+      "url": "https://www.yna.co.kr/view/AKR20261020121400009",
+      "source": "연합뉴스",
+      "summary": "미국 국무부가 에볼라 확산에 따른 건강 위험을 이유로 케냐 여행경보를 높였어요."
+    },
+    {
+      "title": "생명 흔적 묻어올 수도…일본, 사상 첫 ‘화성 위성’ 표본 회수한다",
+      "url": "https://www.hani.co.kr/arti/science/science_general/1283172.html",
+      "source": "한겨레",
+      "summary": "일본이 화성 위성 포보스의 흙을 가져올 탐사선 MMX를 오늘 새벽 쏘아 올렸어요."
+    },
+    {
+      "title": "현대차·기아, ‘레벨4 자율주행’ 트럭 투입한다…내년 초 엑시언트 2대 제공",
+      "url": "https://www.chosun.com/economy/auto/2026/10/20/LCBUI3Z53RCKXACDE2RWR675UI/",
+      "source": "조선일보",
+      "summary": "현대차·기아가 내년 초 레벨4 자율주행 트럭을 실제 물류 노선에 투입해 실증에 나서요."
+    },
+    {
+      "title": "애플, 28일 신제품 행사…터치스크린 맥북 공개할까",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676067",
+      "source": "블로터",
+      "summary": "애플이 28일 LA에서 신제품 행사를 열고 터치스크린 맥북을 공개할 거란 전망이 나와요."
+    },
+    {
+      "title": "미 행정부, 연방기관 시스템서 중국 ‘딥시크’ AI 모델 퇴출",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8689648",
+      "source": "KBS 뉴스",
+      "summary": "미국 행정부가 연방기관 시스템에서 중국 딥시크 AI 모델을 퇴출시켰어요."
+    },
+    {
+      "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\"",
+      "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513",
+      "source": "머니투데이",
+      "summary": "젠슨 황 엔비디아 CEO가 AI의 다음 물결로 로봇·제조에 쓰이는 피지컬 AI를 꼽았어요."
+    },
+    {
+      "title": "안세영, 덴마크오픈 단식 우승...국제대회 女 최다 ‘새역사’",
+      "url": "https://www.kbsm.net/news/view.php?idx=538315",
+      "source": "경북신문",
+      "summary": "안세영이 덴마크오픈 여자 단식에서 우승하며 국제대회 여자 최다 우승 기록을 새로 썼어요."
+    },
+    {
+      "title": "개봉 D-1 ‘실낙원’ 한국영화 예매율 1위 등극… 연상호X김현주 흥행 신호탄",
+      "url": "https://sports.donga.com/ent/article/all/20261020/134871656/1",
+      "source": "스포츠동아",
+      "summary": "연상호 감독, 김현주 주연의 영화 '실낙원'이 개봉 하루 전 한국영화 예매율 1위에 올랐어요."
+    }
+  ]
 }
