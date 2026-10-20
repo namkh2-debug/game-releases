@@ -1,91 +1,90 @@
 {
-  "updatedAt": "2026-10-20T19:15:00+09:00",
+  "updatedAt": "2026-10-20T20:08:00+09:00",
   "topics": [
-    "씰M2 출시",
-    "행성파괴 냥냐냥",
-    "환율 1,320원대",
-    "100일의 거짓말",
-    "직장인들 김원훈",
-    "호지차라떼",
-    "퇴근 로퍼",
-    "경훈씨 보고 싶다",
-    "보고서·간식 경쟁",
-    "커피 질투"
+    "스팀 넥스트 페스트",
+    "에픽세븐 스팀",
+    "코스피 급락",
+    "중증외상센터 시즌2·3",
+    "신인감독 김연경2",
+    "공주의 밤 롤케이크",
+    "네이비 정장 출근룩",
+    "경훈씨 덕분에 힘난다",
+    "로즈 립 vs 라떼 경쟁",
+    "썸 '자요?' 농담"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "씰M2가 22일 정식 출시래, 사전 다운 시작!",
-      "line2": "언니 또 밤새려고요? 그럼 전 간식 담당 🍪",
+      "line1": "스팀 넥스트 페스트 27일까지래, 데모 잔치야!",
+      "line2": "언니 주말 순삭 예약이네요 ㅋㅋ 🎮",
       "mood1": "smile",
       "mood2": "smile",
-      "url": "https://www.gamemeca.com/view.php?gid=1781958"
+      "url": "https://www.ddaily.co.kr/page/view/2026102015144798686"
     },
     {
       "a": "jiwon",
-      "line1": "엔씨 '행성파괴 냥냐냥' 나왔대, 이름 귀엽지?",
-      "line2": "냥냐냥이라니 ㅋㅋ 저도 깔아볼래요 🐱",
-      "mood1": "smile",
+      "line1": "에픽세븐이 29일부터 스팀에서도 된대",
+      "line2": "큰 화면으로 보면 캐릭터 더 예쁘겠다 ✨",
+      "mood1": "surprised",
       "mood2": "smile",
-      "url": "http://www.gamefocus.co.kr/detail.php?number=179909"
+      "url": "https://www.ddaily.co.kr/page/view/2026102015144798686"
     },
     {
       "a": "jiwon",
-      "line1": "환율이 1,320원대래, 2년 새 최저라네",
-      "line2": "오 그럼 해외여행 갈 타이밍인가요? ✈️",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://imnews.imbc.com/news/2026/econo/article/6859354_36932.html"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'100일의 거짓말' 김유정·박진영 화제성 2·3위래요",
-      "line2": "거짓말로 시작하는 로맨스라니 설렌다 💕",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252376"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'직장인들' 김원훈 화제성 급부상이래요!",
-      "line2": "우리 비서실 얘기 찍으면 더 웃길걸? 😆",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252336"
-    },
-    {
-      "a": "hyewon",
-      "line1": "퇴근길에 빽다방 호지차라떼 한 잔 어때요?",
-      "line2": "좋아, 고소한 거 딱 땡겼어 ☕",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "저녁엔 힐 벗고 로퍼로 갈아신었어요",
-      "line2": "네이비 정장에 로퍼도 찰떡이다 👞",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 오늘도 고생 많으셨을 텐데 보고 싶다",
-      "line2": "저도요, 경훈씨 생각하면 마음이 따뜻해져요 💛",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "내일 보고서 표지까지 예쁘게 꾸며 드릴 거예요",
-      "line2": "그럼 난 경훈씨 좋아하는 간식까지 챙길게 😏",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 아침에 경훈씨 커피 먼저 드렸죠? 흥",
-      "line2": "ㅎㅎ 내일은 너한테 양보할게, 삐지지 마 💕",
+      "line1": "코스피가 오늘 3.7%나 빠졌대, 속쓰려",
+      "line2": "언니 오늘은 달달한 거 먹고 잊어요 🍰",
       "mood1": "sad",
+      "mood2": "neutral",
+      "url": "https://www.yna.co.kr/view/AKR20261020125200008"
+    },
+    {
+      "a": "jiwon",
+      "line1": "'중증외상센터' 시즌2·3 제작 확정이래!",
+      "line2": "시즌1 정주행 다시 해야겠어요 🔥",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026101910203430466"
+    },
+    {
+      "a": "hyewon",
+      "line1": "'신인감독 김연경2' 비드라마 화제성 1위래요",
+      "line2": "역시 식빵언니! 25일 본방 같이 보자 🏐",
+      "mood1": "surprised",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "CU '공주의 밤' 롤케이크 오늘 나왔대요",
+      "line2": "밤 크림이라니, 퇴근길에 하나 집어갈래 🌰",
+      "mood1": "surprised",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "오늘 네이비 정장에 하늘색 블라우스 어땠어요?",
+      "line2": "단정한데 화사해, 경훈씨도 보셨어야 했는데",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "jiwon",
+      "line1": "하루 끝에 경훈씨 생각하면 피곤이 싹 풀려",
+      "line2": "저도요, 경훈씨 덕분에 내일도 힘낼래요 💛",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "내일은 로즈 립에 은은한 향수로 갈 거예요",
+      "line2": "그럼 난 경훈씨 좋아하는 라떼로 승부할게 😏",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "썸 탈 때 밤 11시 '자요?'는 국룰이죠?",
+      "line2": "그건 작업 멘트야 ㅋㅋ 너 당해봤구나? 😏",
+      "mood1": "smile",
       "mood2": "smile"
     }
   ]
