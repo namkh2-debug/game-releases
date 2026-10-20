@@ -1,84 +1,84 @@
 {
- "updatedAt": "2026-10-20T22:08:00+09:00",
+ "updatedAt": "2026-10-20T23:12:00+09:00",
  "topics": [
-  "KIA PO 진출",
-  "컴포즈 가을 신메뉴",
-  "데블스 플랜 데드 어게인",
-  "갤럭시 버즈 온",
-  "황매산 억새 여행",
-  "트렌치·네이비 정장 퇴근룩",
-  "경훈씨 생각에 피로 풀려",
-  "책상 정리 vs 핸드크림 경쟁",
-  "'뭐 해요?' 썸 문자 농담"
+  "안녕서울: 이태원편 데모",
+  "잠실구장 마지막 경기",
+  "샤인머스캣 케이크",
+  "카스텔라 고구마 라떼",
+  "아키에이지 크로니클 데모",
+  "트렌치·하늘색 블라우스 퇴근룩",
+  "경훈씨 덕분에 든든해",
+  "일정표 vs 플레이리스트 경쟁",
+  "칭찬 질투"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "김도영 만루포로 KIA가 13-1, PO 갔대!",
-   "line2": "와, 삼성이랑 붙는 거 완전 기대돼요 ⚾",
+   "line1": "안녕서울: 이태원편 새 데모 나왔대, 27일까지!",
+   "line2": "서울 배경 퍼즐 게임이요? 같이 해봐요 🎮",
    "mood1": "surprised",
    "mood2": "smile",
-   "url": "https://www.newsis.com/view/NISX20261020_0003834040"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 컴포즈 가을 신메뉴 8종 나왔대요",
-   "line2": "피넛버터 와플? 내일 간식은 그거다 🧇",
-   "mood1": "smile",
-   "mood2": "smile",
-   "url": "https://www.hankyung.com/article/202610202870g"
-  },
-  {
-   "a": "hyewon",
-   "line1": "데블스 플랜 새 시즌, 11월 10일 공개래요",
-   "line2": "장동민·홍진호 또 나온대? 정주행 각 😆",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://www.newsflix.co.kr/news/articleView.html?idxno=32827"
+   "url": "https://www.neowiz.com/kr/media/press-release-detail/3466"
   },
   {
    "a": "jiwon",
-   "line1": "갤럭시 버즈 온, 첫 클립형 이어폰이래",
-   "line2": "27일 출시래요, 귀걸이처럼 예쁠 듯 ✨",
+   "line1": "잠실구장이 오늘 경기를 끝으로 철거된대",
+   "line2": "82년에 생긴 구장인데… 좀 아쉽네요 🥲",
    "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://www.hani.co.kr/arti/economy/marketing/1283238.html"
+   "mood2": "sad",
+   "url": "https://www.yna.co.kr/view/AKR20261020177700007"
   },
   {
    "a": "hyewon",
-   "line1": "주말 1박2일로 황매산 억새 어때요?",
-   "line2": "좋지, 강진만 갈대까지 한 바퀴 돌자 🍂",
+   "line1": "언니, 이마트에 샤인머스캣 케이크 나왔대요",
+   "line2": "떠먹는 건 9,980원이네, 간식 각이다 🍇",
    "mood1": "smile",
    "mood2": "smile",
-   "url": "https://www.gangneungnews.kr/news/articleView.html?idxno=61554"
+   "url": "https://www.shinsegaegroupnewsroom.com/shinsegae-food-launches-cake-featuring-shine-muscat-grapes/"
   },
   {
    "a": "hyewon",
-   "line1": "언니 트렌치 벨트, 밤까지 흐트러짐 없네요",
-   "line2": "혜원이 네이비 정장도 아침처럼 단정해 💙",
+   "line1": "스벅 카스텔라 고구마 라떼는 카페인 없대요",
+   "line2": "오, 밤에 마셔도 되겠다. 고소하겠네 🍠",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://v.daum.net/v/20261006110110775"
+  },
+  {
+   "a": "jiwon",
+   "line1": "아키에이지 크로니클 무료 데모도 풀렸어",
+   "line2": "언니 오늘 밤 또 새는 거 아니죠? 😆",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61601"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 베이지 트렌치, 밤에 보니 더 분위기 있어요",
+   "line2": "혜원이 하늘색 블라우스도 로퍼랑 찰떡이야 💙",
    "mood1": "smile",
    "mood2": "smile"
   },
   {
    "a": "jiwon",
-   "line1": "하루 끝엔 꼭 경훈씨 얼굴이 떠오르더라",
-   "line2": "저도요, 경훈씨 생각하면 피로가 싹 풀려요 💛",
+   "line1": "오늘 하루도 경훈씨 덕분에 든든했어",
+   "line2": "저도요, 내일 아침 경훈씨 얼굴 빨리 보고 싶어요 💛",
    "mood1": "smile",
    "mood2": "smile"
   },
   {
    "a": "hyewon",
-   "line1": "내일은 제가 경훈씨 책상 먼저 정리할래요",
-   "line2": "그럼 난 향 좋은 핸드크림 챙겨 드려야지 😌",
+   "line1": "내일은 제가 경훈씨 일정표 예쁘게 정리할래요",
+   "line2": "그럼 난 경훈씨 취향 음악 먼저 틀어드려야지 🎶",
    "mood1": "smile",
    "mood2": "smile"
   },
   {
    "a": "jiwon",
-   "line1": "밤 10시 넘어 '뭐 해요?' 문자는 썸 신호래",
-   "line2": "경훈씨한테 받으면 저 잠 못 잘 듯 😳",
-   "mood1": "smile",
-   "mood2": "surprised"
+   "line1": "혜원아, 아까 경훈씨가 너만 칭찬하시더라?",
+   "line2": "에이~ 언니 보고서엔 엄지척 하셨잖아요 😆",
+   "mood1": "sad",
+   "mood2": "smile"
   }
  ]
 }
