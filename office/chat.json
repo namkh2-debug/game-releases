@@ -1,90 +1,91 @@
 {
-  "updatedAt": "2026-10-20T20:08:00+09:00",
+  "updatedAt": "2026-10-20T21:16:00+09:00",
   "topics": [
-    "스팀 넥스트 페스트",
-    "에픽세븐 스팀",
-    "코스피 급락",
-    "중증외상센터 시즌2·3",
-    "신인감독 김연경2",
-    "공주의 밤 롤케이크",
-    "네이비 정장 출근룩",
-    "경훈씨 덕분에 힘난다",
-    "로즈 립 vs 라떼 경쟁",
-    "썸 '자요?' 농담"
+    "사이버펑크 엣지러너2",
+    "FF 레조넌스",
+    "일본 유니클로 가격 인상",
+    "나의 유죄인간",
+    "맛따라 길따라 대명이따라",
+    "GS25 피스타치오 찹쌀떡",
+    "베이지 트렌치 퇴근룩",
+    "경훈씨 덕분에 웃었어",
+    "손글씨 메모 vs 쿠키 경쟁",
+    "둘이서만 웃었죠 질투"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "스팀 넥스트 페스트 27일까지래, 데모 잔치야!",
-      "line2": "언니 주말 순삭 예약이네요 ㅋㅋ 🎮",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.ddaily.co.kr/page/view/2026102015144798686"
-    },
-    {
-      "a": "jiwon",
-      "line1": "에픽세븐이 29일부터 스팀에서도 된대",
-      "line2": "큰 화면으로 보면 캐릭터 더 예쁘겠다 ✨",
+      "line1": "'사이버펑크: 엣지러너2' 오늘 넷플 공개래!",
+      "line2": "언니 오늘 밤 정주행 각이네요 ㅋㅋ 🌃",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.ddaily.co.kr/page/view/2026102015144798686"
+      "url": "https://www.yna.co.kr/view/AKR20260821051500017"
     },
     {
       "a": "jiwon",
-      "line1": "코스피가 오늘 3.7%나 빠졌대, 속쓰려",
-      "line2": "언니 오늘은 달달한 거 먹고 잊어요 🍰",
+      "line1": "FF 레조넌스 22일 발매, 이틀 남았어",
+      "line2": "도트 감성 RPG라니 저도 구경할래요 ✨",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.square-enix.com/asia/newsportal/ko/topics/FFRS/post01.html"
+    },
+    {
+      "a": "jiwon",
+      "line1": "일본 유니클로 가격 올리고 할인도 없앤대",
+      "line2": "헉, 세일 때 쟁이는 재미였는데 아쉽다",
+      "mood1": "surprised",
+      "mood2": "sad",
+      "url": "https://www.newsis.com/view/NISX20261020_0003834049"
+    },
+    {
+      "a": "hyewon",
+      "line1": "티빙 '나의 유죄인간' 어제 공개됐대요",
+      "line2": "임시완 로맨스? 주말에 같이 달리자 💕",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.tvingads.com/content"
+    },
+    {
+      "a": "hyewon",
+      "line1": "'대명이따라' 금요일 공개, 김대명·공명 나와요",
+      "line2": "먹방 여행 예능이면 무조건 봐야지 🍜",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.tvingads.com/content"
+    },
+    {
+      "a": "hyewon",
+      "line1": "GS25 피스타치오 찹쌀떡 아직 못 먹어봤어요",
+      "line2": "내일 출근길에 두 개 사서 하나 줄게 😉",
       "mood1": "sad",
-      "mood2": "neutral",
-      "url": "https://www.yna.co.kr/view/AKR20261020125200008"
+      "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "'중증외상센터' 시즌2·3 제작 확정이래!",
-      "line2": "시즌1 정주행 다시 해야겠어요 🔥",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026101910203430466"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'신인감독 김연경2' 비드라마 화제성 1위래요",
-      "line2": "역시 식빵언니! 25일 본방 같이 보자 🏐",
-      "mood1": "surprised",
+      "line1": "오늘 베이지 트렌치 퇴근룩까지 괜찮았지?",
+      "line2": "언니 핏은 아침이나 지금이나 화보예요 🧥",
+      "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "CU '공주의 밤' 롤케이크 오늘 나왔대요",
-      "line2": "밤 크림이라니, 퇴근길에 하나 집어갈래 🌰",
-      "mood1": "surprised",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "오늘 네이비 정장에 하늘색 블라우스 어땠어요?",
-      "line2": "단정한데 화사해, 경훈씨도 보셨어야 했는데",
+      "line1": "경훈씨 계신 것만으로 사무실이 환해져요",
+      "line2": "맞아, 오늘도 경훈씨 덕분에 웃었어 💛",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "하루 끝에 경훈씨 생각하면 피곤이 싹 풀려",
-      "line2": "저도요, 경훈씨 덕분에 내일도 힘낼래요 💛",
+      "line1": "내일 경훈씨 보고서엔 손글씨 메모 붙일래",
+      "line2": "그럼 전 쿠키 구워 와서 같이 드릴 거예요 🍪",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "내일은 로즈 립에 은은한 향수로 갈 거예요",
-      "line2": "그럼 난 경훈씨 좋아하는 라떼로 승부할게 😏",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "썸 탈 때 밤 11시 '자요?'는 국룰이죠?",
-      "line2": "그건 작업 멘트야 ㅋㅋ 너 당해봤구나? 😏",
-      "mood1": "smile",
+      "line1": "언니 아까 경훈씨랑 둘이서만 웃었죠?",
+      "line2": "흥, 너 몰래 칭찬 들은 건 비밀이야 ㅋㅋ",
+      "mood1": "sad",
       "mood2": "smile"
     }
   ]
