@@ -1,92 +1,92 @@
 {
-  "updatedAt": "2026-10-20T17:15:00+09:00",
+  "updatedAt": "2026-10-20T18:10:00+09:00",
   "topics": [
-    "포켓몬 코리안리그",
-    "메모리 공급부족 전망",
-    "윤남노 식당",
-    "100일의 거짓말",
-    "직장인들3",
-    "투썸 신메뉴",
+    "파이널 판타지 레조넌스",
+    "코스피 급락",
+    "실낙원 개봉",
+    "신인감독 김연경2",
+    "공주의 밤 롤케익",
+    "가을 캠핑 군밤",
     "출근룩",
     "경훈씨 응원",
-    "책상 꽃 경쟁",
-    "결재 질투"
+    "립·향수 경쟁",
+    "가을 설렘"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "포켓몬 코리안리그 시즌1이 24일 개막한대",
-      "line2": "언니 또 밤새 배틀 연습하는 거 아니죠? 😆",
+      "line1": "파판 레조넌스 22일 출시래, 스위치2로 살까?",
+      "line2": "언니 또 주말 내내 게임만 하려고요? 😆",
       "mood1": "smile",
       "mood2": "smile",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322321"
+      "url": "https://www.square-enix.com/asia/newsportal/ko/topics/FFRS/post01.html"
     },
     {
       "a": "jiwon",
-      "line1": "노무라가 메모리 부족 2028년까지 간대",
-      "line2": "반도체 적금이라도 들어야 하나요? 💰",
+      "line1": "코스피가 오늘 3.7%나 빠졌대, 속쓰려",
+      "line2": "언니 계좌 괜찮아요? 달달한 거 사드릴게요",
+      "mood1": "sad",
+      "mood2": "neutral",
+      "url": "https://www.yna.co.kr/view/AKR20261020125200008"
+    },
+    {
+      "a": "jiwon",
+      "line1": "연상호·김현주 '실낙원' 내일 개봉이래",
+      "line2": "예매율 1위라던데 같이 보러 가요! 🎬",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://sports.donga.com/ent/article/all/20261020/134871656/1"
+    },
+    {
+      "a": "hyewon",
+      "line1": "'신인감독 김연경2' 화제성 전체 1위래요!",
+      "line2": "일요일 밤 9시 10분, 나도 본방 사수야 🏐",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020145357iiy"
-    },
-    {
-      "a": "jiwon",
-      "line1": "윤남노 셰프 식당 월수입이 80만원이래",
-      "line2": "직원 식비만 500만원이라니, 짠하다 😢",
-      "mood1": "sad",
-      "mood2": "sad",
-      "url": "https://www.sportschosun.com/entertainment/2026-10-20/202610200100125090008140"
+      "url": "https://mhnse.com/news/articleView.html?idxno=1603590"
     },
     {
       "a": "hyewon",
-      "line1": "언니, '100일의 거짓말' 화제성 2위래요",
-      "line2": "김유정·박진영 케미 나도 궁금했어 💕",
+      "line1": "CU '공주의 밤' 롤케익이 오늘 나왔대요",
+      "line2": "밤 크림이라니, 퇴근길에 하나씩 사자 🌰",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252376"
+      "url": "https://www.newsis.com/view/NISX20261008_0003818401"
     },
     {
-      "a": "hyewon",
-      "line1": "'직장인들3' 김원훈 화제성 급부상이래요",
-      "line2": "우리 비서실 찍으면 더 웃길 텐데 ㅎㅎ",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252336"
-    },
-    {
-      "a": "hyewon",
-      "line1": "투썸 블랙 치즈폼 라떼 마셔보고 싶어요",
-      "line2": "퇴근길에 같이 가자, 오늘은 내가 쏠게 ☕",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 베이지 트렌치에 벨트, 하루 종일 예뻐요",
-      "line2": "혜원이 네이비 재킷에 로퍼도 편해 보여 👞",
+      "a": "jiwon",
+      "line1": "주말엔 캠핑 가서 군밤 구워 먹고 싶다",
+      "line2": "언니 요리 솜씨면 군밤도 맛집일 듯 🔥",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 생각하면 야근도 하나도 안 힘들어",
-      "line2": "저도요, 경훈씨 웃음이 제 비타민이에요 💛",
+      "line1": "혜원이 네이비 정장에 하늘색 블라우스 단정해",
+      "line2": "언니 베이지 트렌치도 종일 멋졌어요 💕",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "내일은 제가 경훈씨 책상 꽃부터 바꿀래요",
-      "line2": "그럼 난 향 좋은 핸드크림 챙겨드려야지 🌸",
+      "line1": "하루 끝에 경훈씨 얼굴 떠올리면 힘이 나요",
+      "line2": "나도, 경훈씨 칭찬 한마디면 피로가 싹 💛",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니 코랄 립 새로 샀죠? 전 내일 로즈 립!",
+      "line2": "그럼 난 은은한 향수까지 뿌리고 올 거야 😏",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "혜원이 아까 경훈씨한테 먼저 결재 올렸지?",
-      "line2": "헤헤, 언니 삐쳤어요? 내일은 양보할게요",
-      "mood1": "sad",
-      "mood2": "smile"
+      "line1": "가을엔 왜 이렇게 손잡고 걷고 싶을까",
+      "line2": "언니 얼굴 빨개졌어요, 누구 생각했어요? 😳",
+      "mood1": "smile",
+      "mood2": "surprised"
     }
   ]
 }
