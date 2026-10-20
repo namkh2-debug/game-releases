@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T11:26:21+09:00",
+  "updatedAt": "2026-10-20T11:28:49+09:00",
   "jiwon": {
-    "state": "done",
-    "task": "",
-    "since": "2026-10-20T11:26:21+09:00"
+    "state": "working",
+    "task": "위젯 오류 수정 중",
+    "since": "2026-10-20T11:28:49+09:00"
   },
   "hyewon": {
     "state": "idle",
