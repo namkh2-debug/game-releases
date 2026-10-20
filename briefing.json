@@ -1,9 +1,9 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T10:08:00+09:00",
+  "updatedAt": "2026-10-20T11:15:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 15.7,
+    "temp": 17.6,
     "low": 10.0,
     "high": 20.4,
     "condition": "구름많음, 밤 한때 비 가능",
@@ -14,29 +14,29 @@
   },
   "breaking": [
     {
-      "title": "軍 \"北, 정당한 우리軍 작전에 적반하장…도발시 단호히 대응\"",
-      "url": "https://www.yna.co.kr/view/AKR20261020049600504",
-      "source": "연합뉴스"
+      "title": "HD한국조선해양, 2조원 규모 초대형 컨테이너선 8척 수주",
+      "url": "https://www.news1.kr/industry/general-industry/6325397",
+      "source": "뉴스1"
     },
     {
-      "title": "민주 33%·국힘 47%…격차14.0%p 벌어져-여론조사공정",
-      "url": "https://www.munhwa.com/article/11624679",
-      "source": "문화일보"
+      "title": "국방부 “군사적 위협 고조시킨 김여정 담화, 엄중 우려”",
+      "url": "https://www.khan.co.kr/article/202610201048001",
+      "source": "경향신문"
     },
     {
-      "title": "코스피, 0.60% 내린 5733.57 출발…코스닥은 805.37",
-      "url": "https://www.fnnews.com/news/202610200854582510",
-      "source": "파이낸셜뉴스"
+      "title": "코스피, 4.00% 넘게 급락…장중 5500선 위협",
+      "url": "https://www.ajunews.com/view/20261020101440751",
+      "source": "아주경제"
     },
     {
-      "title": "김민석, ‘소방이 재정 쭉쭉’ 부승찬 발언에 공개 사과 “말과 행동 무거워야”",
-      "url": "https://www.seoul.co.kr/news/politics/2026/10/20/20261020500017",
-      "source": "서울신문"
+      "title": "이 대통령 “인허가·착공 소요 기간 획기적 단축…주택공급 전격전”",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8689935",
+      "source": "KBS 뉴스"
     },
     {
-      "title": "與野, 특감 후보자 청문보고서 오는 22일 채택키로 합의",
-      "url": "https://biz.chosun.com/policy/politics/assembly/2026/10/20/MY2FGN7CQNABVN6MY5DREQUKZI/",
-      "source": "조선비즈"
+      "title": "23명 숨진 '아리셀 참사' 박순관 대표 징역 4년 확정",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6859246_36918.html",
+      "source": "MBC 뉴스"
     }
   ],
   "news": [
@@ -47,16 +47,22 @@
       "summary": "이 대통령이 취임 500일 간담회에서 개혁 갈등의 원인은 자신이라며 속도 조절과 CPTPP 연내 가입 신청 연기를 시사했어요."
     },
     {
+      "title": "李대통령 \"韓 경제 기초체력 극적 반전…40여년만 반가운 소식\"",
+      "url": "https://www.yna.co.kr/view/AKR20261020054200001",
+      "source": "연합뉴스",
+      "summary": "이 대통령이 한국 경제의 기초체력이 40여 년 만에 반전됐다며 반가운 소식이라고 말했어요."
+    },
+    {
       "title": "李대통령 \"전작권 맡겨놓고 방치할 상황아냐…반드시 조기 환수\"",
       "url": "https://www.yna.co.kr/view/AKR20261019154500001",
       "source": "연합뉴스",
       "summary": "이 대통령이 군사주권을 강조하며 전시작전통제권을 반드시 신속히 돌려받겠다고 했어요."
     },
     {
-      "title": "김여정 \"남부 국경 살벌…대남 확성기 재개 검토\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805236",
-      "source": "SBS",
-      "summary": "김여정이 군사분계선 일대가 매우 불안정하다며 대남 확성기 방송 재개를 검토 중이라고 밝혔어요."
+      "title": "이 대통령, 순직 소방관에 “영원히 기억할 것”…군중 밀집시설 안전점검 주문",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8690022",
+      "source": "KBS 뉴스",
+      "summary": "이 대통령이 순직 소방관을 추모하며 군중 밀집시설 안전점검을 지시했어요."
     },
     {
       "title": "[단독] 북·중·러 해상 감시용 정보함 2척 모두 고장… 40일간 정찰 멈췄다",
@@ -65,10 +71,22 @@
       "summary": "북·중·러 바다를 감시하는 해군 정보함 2척이 모두 고장 나 40일 동안 정찰이 멈췄다고 해요."
     },
     {
+      "title": "트럼프, ‘11월 김정은 회담’ 질문에 “모르겠다, 요청 확실치 않아”",
+      "url": "https://www.hani.co.kr/arti/international/america/1283167.html",
+      "source": "한겨레",
+      "summary": "트럼프 대통령이 11월 김정은 위원장과의 회담 여부에 대해 확실치 않다고 답했어요."
+    },
+    {
       "title": "이 대통령 “한국 주식시장, 매우 저평가···조만간 필요한 조치”",
       "url": "https://www.khan.co.kr/article/202610192215001",
       "source": "경향신문",
       "summary": "이 대통령이 한국 증시가 매우 저평가됐다며 조만간 필요한 조치를 하겠다고 했어요."
+    },
+    {
+      "title": "국힘, '李정부 증시파탄 특검' 추진…\"국민연금 의혹까지 수사\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440079",
+      "source": "연합인포맥스",
+      "summary": "국민의힘이 증시 급락 책임을 묻는 특검을 추진하며 국민연금 의혹까지 수사하겠다고 했어요."
     },
     {
       "title": "원·달러 환율, 1330.3원 마감…2년여 만의 최저치",
@@ -101,6 +119,12 @@
       "summary": "예멘 후티 반군이 사우디 아람코 석유시설과 리야드 공항 등 6곳을 미사일·드론으로 타격했다고 주장했어요."
     },
     {
+      "title": "사우디, 후티 공격 격화에 ‘사막의 다보스’ 내년으로 연기",
+      "url": "https://www.khan.co.kr/article/202610200946001",
+      "source": "경향신문",
+      "summary": "후티 반군의 공격이 거세지자 사우디가 '사막의 다보스' 행사를 내년으로 미뤘어요."
+    },
+    {
       "title": "트럼프, '젤렌스키 배제' 종전협상론…\"푸틴·시진핑과 회담 용의\"",
       "url": "https://www.yna.co.kr/view/AKR20261020006900071",
       "source": "연합뉴스",
@@ -113,10 +137,16 @@
       "summary": "미 국방부 장관이 이스라엘을 깜짝 방문해 네타냐후 총리와 만났어요."
     },
     {
-      "title": "조문 가서 '응급환자 전용' 주차…논란 커지자",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804984",
-      "source": "SBS",
-      "summary": "김민석이 조문하러 가서 응급환자 전용 구역에 주차해 논란이 커졌어요."
+      "title": "\"약탈 시위대에도, 방치한 국가에도 분노\"…프랑스 주민·상인 공분",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020084959241",
+      "source": "연합뉴스TV",
+      "summary": "프랑스에서 약탈 시위와 이를 방치한 정부에 주민과 상인들이 분노하고 있어요."
+    },
+    {
+      "title": "\"하메네이 사망 이후 이란 강경파서 핵무장 목소리↑\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610201031583i3",
+      "source": "연합뉴스TV",
+      "summary": "하메네이 사망 이후 이란 강경파 사이에서 핵무장 주장이 커지고 있다는 분석이에요."
     },
     {
       "title": "\"李, 국민 속였다\" 유시민 발언…경찰 수사 착수",
@@ -125,34 +155,16 @@
       "summary": "유시민 씨의 \"李, 국민 속였다\" 발언과 관련해 경찰이 수사에 들어갔어요."
     },
     {
-      "title": "친일파 글씨 '셀프 전시'…유홍준 \"중대한 불찰\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805265",
-      "source": "SBS",
-      "summary": "유홍준 씨가 본인 소유 친일파 글씨를 전시한 의혹에 \"중대한 불찰\"이라며 사과했어요."
-    },
-    {
-      "title": "김지용 중수청장, 오늘 취임식…본격 업무 돌입",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261020080123Pvp",
-      "source": "연합뉴스TV",
-      "summary": "김지용 중대범죄수사청장이 오늘 취임식을 열고 업무를 시작해요."
-    },
-    {
-      "title": "'23명 사망' 아리셀 박순관 대표 오늘 대법 선고···2심 감형 유지되나",
-      "url": "https://www.khan.co.kr/article/202610200708001/",
-      "source": "경향신문",
-      "summary": "23명이 숨진 아리셀 화재 사건 박순관 대표에 대한 대법원 선고가 오늘 나와요."
+      "title": "日, 화성 탐사선 발사 성공...시료 채취해 지구 귀환 목표",
+      "url": "https://www.newspim.com/news/view/20261020000237",
+      "source": "뉴스핌",
+      "summary": "일본이 화성 시료를 채취해 지구로 가져오는 것을 목표로 한 탐사선 발사에 성공했어요."
     },
     {
       "title": "현대제철 또 사망‥\"회전 방지장치 없었다\"",
       "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6859154_36989.html",
       "source": "MBC",
       "summary": "당진제철소에서 협력업체 노동자가 대형 회전설비에 끼여 숨졌는데, 필수 고정장치가 설치되지 않았던 것으로 드러났어요."
-    },
-    {
-      "title": "\"인명구조 없으면 방어적 진압\" 대책 석 달 만에 소방관 또 순직",
-      "url": "https://www.yna.co.kr/view/AKR20261019146900530",
-      "source": "연합뉴스",
-      "summary": "인명구조 상황이 아니면 방어적으로 진압하라는 대책이 나온 지 석 달 만에 또 소방관이 순직했다."
     },
     {
       "title": "징역 17년 확정 JMS 정명석, 여신도 성폭행 추가 재판 1심 33년",
@@ -197,28 +209,16 @@
       "summary": "TSMC가 3나노 공장을 더 짓기로 하자 삼성은 GAA 2나노 공정으로 맞서요."
     },
     {
+      "title": "애플, 28일 신제품 행사…터치스크린 맥북 공개할까",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=676067",
+      "source": "블로터",
+      "summary": "애플이 28일 신제품 행사를 열며 터치스크린 맥북 공개 여부가 관심이에요."
+    },
+    {
       "title": "네이버, 자체 AI 쇼핑비서 키워…카카오, 외부 연대 생태계 확장",
       "url": "https://www.hani.co.kr/arti/economy/it/1283144.html",
       "source": "한겨레",
       "summary": "네이버는 자체 AI 쇼핑비서를, 카카오는 외부 협력 생태계를 키우고 있어요."
-    },
-    {
-      "title": "머스크 \"미국 모든 어린이에 스페이스X 주식 1주씩 줄 것\"",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1283149.html",
-      "source": "한겨레",
-      "summary": "머스크가 미국의 모든 어린이에게 스페이스X 주식을 1주씩 주겠다고 했어요."
-    },
-    {
-      "title": "“모두의카드 번호 26일까지 확인하세요“…미변경 시 환급 차질",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261019171334xHX",
-      "source": "연합뉴스TV",
-      "summary": "모두의카드에 등록된 카드번호가 실제와 다르면 27일 이용분부터 환급에 차질이 생길 수 있어요."
-    },
-    {
-      "title": "경찰 '장모살인·아내납치' 김성우 송치…\"18회 스토킹\"",
-      "url": "https://www.yna.co.kr/view/AKR20261020016700004",
-      "source": "연합뉴스",
-      "summary": "경찰이 송파 장모 살해·아내 납치 피의자 김성우를 구속 송치하며 수사·이혼 관련 보복 범행으로 판단했다."
     }
   ]
 }
