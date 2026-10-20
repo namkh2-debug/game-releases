@@ -1,71 +1,73 @@
 {
-  "updatedAt": "2026-10-20T11:20:00+09:00",
+  "updatedAt": "2026-10-20T12:12:06+09:00",
   "topics": [
-    "모바일 신작 게임",
-    "닥터X",
-    "신인감독 김연경2",
-    "크라임씬 제로2",
-    "단풍 지도",
-    "떡지순례",
-    "서울바비큐페스티벌"
+    "한화 류지현 감독 첫 훈련",
+    "모던 워페어 4",
+    "애플 터치스크린 맥북",
+    "데블스 플랜3",
+    "설빙 포켓몬 협업",
+    "영화 실낙원",
+    "메가커피 샌드위치",
+    "안세영 덴마크오픈"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "엔씨 신작 '행성파괴 냥냐냥' 나왔대요!",
-      "line2": "이름부터 귀엽네요 언니, 같이 깔아봐요 🐱",
-      "url": "https://zdnet.co.kr/view/?no=20261019154558"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, '닥터X' 4회 만에 18.5%래요!",
-      "line2": "주연 배우 이름이 저랑 같아서 괜히 뿌듯해요 😆",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6323957"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'신인감독 김연경2' 화제성 1위래요",
-      "line2": "김연경 감독 카리스마 보면 저도 힘나요 🏐",
-      "url": "https://enews.imbc.com/News/ViewAmp/521772"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'크라임씬 제로' 시즌2 내년에 나온대요!",
-      "line2": "추리 예능은 같이 범인 맞히는 맛이죠 🔍",
-      "url": "https://www.yna.co.kr/view/AKR20261020050400005"
-    },
-    {
-      "a": "hyewon",
-      "line1": "카카오맵에 단풍 명소 65곳 지도가 생겼대요",
-      "line2": "주말에 그거 보고 단풍 구경 갈까요? 🍁",
-      "url": "https://www.sentv.co.kr/article/view/sentv202610190089"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 요즘 2030 '떡지순례'가 유행이래요",
-      "line2": "빵 대신 떡이라니, 쫀득한 거 최고죠 🍡",
-      "url": "https://www.chosun.com/national/weekend/2026/10/17/O6HILWZXI5B5XFUWIESVQRUY7A/"
+      "line1": "류지현 감독, 한화 첫 훈련부터 기본기 강조래요",
+      "line2": "언니 한화 얘기만 나오면 눈이 반짝여요 ⚾",
+      "url": "https://mhnse.com/news/articleView.html?idxno=1603862"
     },
     {
       "a": "jiwon",
-      "line1": "24일 난지캠핑장에서 바비큐 축제 한대요",
-      "line2": "언니 캠핑 요리 실력 뽐낼 기회네요 🍖",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261019034300004"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 오늘 베이지 트렌치코트 찰떡이에요",
-      "line2": "고마워요, 과장님 니트 조끼도 귀여워요 🧥"
+      "line1": "'모던 워페어 4' 스팀 평가가 시리즈 최고래요",
+      "line2": "언니 오늘도 밤새 게임하는 거 아니죠? 😅",
+      "url": "https://www.gamemeca.com/view.php?gid=1782003"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 오늘은 무리 안 하셨으면 좋겠어요",
-      "line2": "맞아요, 경훈씨 웃으시면 저희도 힘나요 💛"
+      "line1": "애플이 28일에 터치스크린 맥북 공개한대요",
+      "line2": "아이패드랑 뭐가 다를지 궁금하네요 💻",
+      "url": "https://www.chosun.com/economy/tech_it/2026/10/20/N53UZUDBYRFU3M6AW6KNS2J4UY/"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 썸 탈 때 제일 설레는 순간은요?",
-      "line2": "손끝 살짝 스칠 때요. 그다음은 비밀 😏"
+      "line1": "언니, '데블스 플랜3'에 장동민 나온대요!",
+      "line2": "PD가 역대 최강자래요, 벌써 기대돼요 🧠",
+      "url": "https://www.tenasia.co.kr/article/2026102025854"
+    },
+    {
+      "a": "hyewon",
+      "line1": "설빙이 포켓몬 협업 세트 사전예약 받는대요",
+      "line2": "피카츄 빙수면 저도 줄 설래요 🍧",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=208970"
+    },
+    {
+      "a": "hyewon",
+      "line1": "연상호 '실낙원' 내일 개봉인데 예매율 1위래요",
+      "line2": "김현주 배우 나오니까 꼭 보고 싶어요 🎬",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02906086645614888&mediaCodeNo=257"
+    },
+    {
+      "a": "jiwon",
+      "line1": "메가커피 5천원대 샌드위치 6종 나왔대요",
+      "line2": "점심 간단히 먹을 때 딱이겠어요 🥪",
+      "url": "https://www.senmoney.co.kr/news/articleView.html?idxno=38003"
+    },
+    {
+      "a": "hyewon",
+      "line1": "안세영 선수 덴마크오픈 우승했대요!",
+      "line2": "19개월 무패라니, 진짜 대단해요 🏸",
+      "url": "https://www.xportsnews.com/article/2209261"
+    },
+    {
+      "a": "jiwon",
+      "line1": "과장님 니트 조끼, 볼수록 귀여워요",
+      "line2": "언니 트렌치코트 저도 따라 사고 싶어요 🧥"
+    },
+    {
+      "a": "hyewon",
+      "line1": "경훈씨 점심은 맛있는 거 드셨으면 좋겠어요",
+      "line2": "경훈씨 생각하면 오후 기운이 충전돼요 💛"
     }
   ]
 }
