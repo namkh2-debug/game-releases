@@ -1,60 +1,123 @@
 {
-  "date": "2026-10-19",
-  "updatedAt": "2026-10-19T09:06:46+09:00",
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T09:10:26+09:00",
   "platforms": {
     "steam": [
       {
-        "title": "아타나시아 (Athanasia)",
-        "genre": "호러 FPS · 액션 어드벤처 · 인디",
-        "publisher": "Momentum Games LLC / Black Lantern Collective",
-        "price": "미확인",
-        "note": "앞서 해보기 · 한국어 미지원(영어만) · 스팀 표기상 한국시간 10/20 0시 무렵 해제"
+        "title": "우리는 여기에 있었다 투모로우 (We Were Here Tomorrow)",
+        "genre": "2인 비대칭 협동 퍼즐 어드벤처",
+        "publisher": "Total Mayhem Games / Total Mayhem Games",
+        "price": "미확인 (해외 $19.99, 출시 10% 할인)",
+        "note": "한국어 지원 · 두 명 모두 구매 필요 · 스팀·PS5·Xbox 크로스플레이"
       },
       {
-        "title": "워딩 위치스 (Warding Witches)",
-        "genre": "탄막 슈팅 · 인디",
-        "publisher": "Sonorode / Headup",
-        "price": "미확인",
-        "note": "한국어 미지원(영·독·일·중) · 로컬 협동 · 스팀 표기상 한국시간 19일 밤 11시 무렵 해제"
+        "title": "마이코펑크: 곰팡이 버스터즈 (Mycopunk)",
+        "genre": "협동 FPS · 루터 슈터",
+        "publisher": "Pigeons at Play / Devolver Digital",
+        "price": "₩16,500",
+        "note": "앞서 해보기 종료, 1.0 정식 출시 · 한국어 지원 · 최대 4인 협동"
       },
       {
-        "title": "파라웜 (Parawyrm)",
-        "genre": "서바이벌 호러 · 액션",
-        "publisher": "M. Lang / M. Lang",
-        "price": "미확인",
-        "note": "한국어 미지원(영어만) · 스팀 표기상 한국시간 10/20 새벽 무렵 해제"
+        "title": "스타트렉: 미지의 전초기지 (Star Trek: Outposts Unknown)",
+        "genre": "전초기지 건설 · 전략 시뮬레이션",
+        "publisher": "Magic Fuel Games / Playstack",
+        "price": "미확인 (해외 보도상 앞서 해보기 기간 무료)",
+        "note": "앞서 해보기 · 한국어 미지원"
       },
       {
-        "title": "비스트우드 헤이븐 (Beastwood Haven)",
-        "genre": "크리처 수집 · 캠프 경영 · 시뮬레이션",
-        "publisher": "9.9 studio / 9.9 studio",
+        "title": "아키바 로스트 (AKIBA LOST)",
+        "genre": "어드벤처",
+        "publisher": "IzanagiGames / IzanagiGames",
         "price": "미확인",
-        "note": "한국어 미지원(영·중) · 스팀 표기상 한국시간으로는 10/20에 해제될 가능성"
+        "note": "한국어 지원(음성은 일본어)"
+      },
+      {
+        "title": "호러 테일즈 잇츠 더 월드 (Horror Tales Eats The World)",
+        "genre": "액션 어드벤처 · 호러 · 인디",
+        "publisher": "Fatih Atacan PRODUCTIONS / Fatih Atacan PRODUCTIONS",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 지원"
+      },
+      {
+        "title": "블루 리지 헌팅 (Blue Ridge Hunting)",
+        "genre": "협동 호러 · 크립티드 사냥",
+        "publisher": "Jade Meadows / Jade & Company",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 미지원(영어만)"
+      },
+      {
+        "title": "어 시스터즈 저니 (A Sister's Journey)",
+        "genre": "액션 메트로배니아 · 픽셀아트",
+        "publisher": "Florian Lackner / Florian Lackner",
+        "price": "미확인",
+        "note": "한국어 미지원"
+      },
+      {
+        "title": "바론 (Baron)",
+        "genre": "액션 RPG · 인디",
+        "publisher": "Storm Rise Studio / Storm Rise Studio",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 미지원"
+      },
+      {
+        "title": "노마드 드라이브 (Nomad Drive)",
+        "genre": "어드벤처 · 시뮬레이션 · 인디",
+        "publisher": "Indie Devil / Indie Devil",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 지원 · 스팀 표기는 아직 '출시 예정'(해외 일정표 기준 10/20)"
+      },
+      {
+        "title": "디멘티움 2 (Dementium II)",
+        "genre": "호러 액션 어드벤처",
+        "publisher": "Atooi / Atooi",
+        "price": "미확인",
+        "note": "한국어 미지원(영어만) · 스팀 표기는 '2026년 10월'(해외 일정표 기준 10/20)"
+      },
+      {
+        "title": "하이퍼넷 익스플로러 (Hypernet Explorer)",
+        "genre": "RPG · 시뮬레이션 · 인디",
+        "publisher": "Nocoldiz / Esoteric Heavy Industries",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 미지원(영·이) · 스팀 표기는 '2026년 10월'(해외 일정표 기준 10/20)"
       }
     ],
     "playstation": [
       {
-        "title": "빔엔지 드라이브 (BeamNG.drive)",
-        "genre": "드라이빙 시뮬레이션",
-        "publisher": "BeamNG GmbH / BeamNG GmbH",
-        "price": "미확인 (미국 $24.99)",
-        "note": "PS5 · 앞서 해보기 · 모드·VR 출시 시 미지원 · 미국 동부 10시 = 한국시간 19일 밤 11시 · 한국어 지원 미확인"
+        "title": "우리는 여기에 있었다 투모로우 (We Were Here Tomorrow)",
+        "genre": "2인 비대칭 협동 퍼즐 어드벤처",
+        "publisher": "Total Mayhem Games / TMG Studios B.V.",
+        "price": "미확인 (해외 $19.99)",
+        "note": "PS5 · 한국어 지원 · 온라인 필수(PS Plus 필요) · 크로스플레이"
       },
       {
-        "title": "듄크롤 (DuneCrawl)",
-        "genre": "오픈월드 액션 어드벤처 · 최대 4인 협동",
-        "publisher": "Alientrap / Alientrap Games",
+        "title": "마이코펑크: 곰팡이 버스터즈 (Mycopunk)",
+        "genre": "협동 FPS · 루터 슈터",
+        "publisher": "Pigeons at Play / Devolver Digital",
+        "price": "미확인 (해외 $14.99)",
+        "note": "PS5 · PS Plus 스페셜·디럭스(엑스트라·프리미엄) 첫날 포함 · UTC 17시 = 한국시간 21일 새벽 2시 해제 · 콘솔판 한국어 미확인"
+      },
+      {
+        "title": "디노 크라이시스 2 (Dino Crisis 2)",
+        "genre": "서바이벌 액션 · PS1 클래식 이식",
+        "publisher": "Capcom / Capcom",
+        "price": "미확인 (해외 $9.99 예상)",
+        "note": "PS5·PS4 · PS Plus 디럭스(프리미엄) 첫날 포함 · 되감기·퀵세이브·화면 필터 추가, 트로피 없음 · 한국어 미확인"
+      },
+      {
+        "title": "프랑켄슈타인: 어웨이크닝 오브 호러 (Frankenstein: Awakening of Horror)",
+        "genre": "3인칭 서바이벌 호러",
+        "publisher": "Witenovastudio OÜ / Witenovastudio OÜ",
         "price": "미확인",
-        "note": "PS5 · UTC 10시 = 한국시간 19일 오후 7시 · 온라인 플레이는 PS Plus 필요 · 한국어 지원 미확인"
+        "note": "PS5·PS4 · 한국어 지원 미확인"
       }
     ],
     "switch": [
       {
-        "title": "프로스트펑크 (Frostpunk)",
-        "genre": "생존 시뮬레이션 · 전략 · 도시 건설",
-        "publisher": "11 bit studios / 11 bit studios",
-        "price": "미확인 (미국 $29.99, 출시 할인 $20.99)",
-        "note": "스위치2 호환 · DLC 3종 포함 컴플리트 에디션 별도 · 체험판 있음 · 한국 eShop 출시·한국어 지원 미확인"
+        "title": "아이 엠 유어 비스트 (I Am Your Beast)",
+        "genre": "액션 FPS · 복수 스릴러",
+        "publisher": "Strange Scaffold / Strange Scaffold",
+        "price": "미확인",
+        "note": "스위치·스위치2 다운로드 · 한국 eShop 출시·한국어 미확인(스팀판은 영어만)"
       }
     ]
   }
