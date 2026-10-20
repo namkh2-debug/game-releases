@@ -1,38 +1,39 @@
 {
-  "updatedAt": "2026-10-20T13:12:00+09:00",
+  "updatedAt": "2026-10-20T13:14:00+09:00",
   "topics": [
     "한화 APBC 대표 3명 발탁",
-    "크라임씬 제로2",
-    "닥터X 시청률",
+    "닥터X 넷플릭스 1위",
+    "나는 솔로 33기",
     "서울바비큐페스티벌",
-    "레고 해리포터 스위치2",
-    "카카오맵 단풍 지도",
-    "컴포즈 가을 신메뉴"
+    "단풍지도 절정",
+    "밤 디저트 카페",
+    "아이브·아일릿 컴백",
+    "출근룩",
+    "딥 브이넥 니트"
   ],
   "exchanges": [
     {
       "a": "jiwon",
       "line1": "한화 문현빈·허인서·조동욱, APBC 대표팀 뽑혔대!",
-      "line2": "언니 오늘 한화 소식에 완전 신났네요 ⚾",
+      "line2": "언니 한화 소식에 오늘 완전 신났네요 ⚾",
       "mood1": "surprised",
       "mood2": "smile",
       "url": "https://www.dailycc.net/news/articleView.html?idxno=877463"
     },
     {
       "a": "hyewon",
-      "line1": "언니, '크라임씬 제로2' 내년에 공개된대요!",
-      "line2": "장진·박지윤 다 나온다며? 벌써 기다려져 🕵️",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.yna.co.kr/view/AKR20261020050400005"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'닥터X' 4회 만에 최고 20.8% 찍었대요",
-      "line2": "주인공 이름이 나랑 같아서 괜히 뿌듯해 😎",
+      "line1": "언니, '닥터X' 넷플 한국 1위래요! 주연이 김지원",
+      "line2": "이름이 같으니까 괜히 내가 뿌듯하네 😎",
       "mood1": "surprised",
       "mood2": "smile",
       "url": "https://www.news33.net/news/articleView.html?idxno=118744"
+    },
+    {
+      "a": "hyewon",
+      "line1": "'나는 솔로' 33기 답답한데 끝까지 보게 돼요",
+      "line2": "원래 남 연애 구경이 제일 재밌잖아 😆",
+      "mood1": "smile",
+      "mood2": "smile"
     },
     {
       "a": "jiwon",
@@ -43,41 +44,39 @@
       "url": "https://www.ajunews.com/view/20261019114836390"
     },
     {
-      "a": "jiwon",
-      "line1": "레고 해리포터 콜렉션이 스위치2로 나왔대",
-      "line2": "언니 또 장바구니 담는 소리 들려요 🪄",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.gamemeca.com/view.php?gid=1781960"
-    },
-    {
       "a": "hyewon",
-      "line1": "카카오맵에 단풍 명소 65곳 절정 시기 떴어요",
-      "line2": "주말에 어디 갈지 같이 골라보자 🍁",
+      "line1": "단풍지도 보니 수도권은 10월 말 절정이래요",
+      "line2": "그럼 다음 주말 단풍 데이트 각이다 🍁",
       "mood1": "smile",
       "mood2": "smile",
       "url": "https://www.e-science.co.kr/news/articleView.html?idxno=137657"
     },
     {
       "a": "hyewon",
-      "line1": "컴포즈 가을 신메뉴, 치즈라떼 나왔대요",
-      "line2": "피넛버터 와플이랑 같이 먹으면 딱이겠다 🧇",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.hankyung.com/article/202610202870g"
-    },
-    {
-      "a": "jiwon",
-      "line1": "과장님 니트 조끼에 오늘 머리까지 찰떡이야",
-      "line2": "언니 트렌치코트 벨트 묶은 거 너무 멋져요 🧥",
+      "line1": "공주 한옥카페 '바므' 밤 아이스크림 먹고 싶다",
+      "line2": "단풍 구경 가는 길에 들르면 딱이겠다 🌰",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 가을 타는지 괜히 설레요 🍂",
-      "line2": "손 시릴 때 주머니 빌려줄 사람 구해야지~",
+      "line1": "26일에 아이브랑 아일릿 컴백한대요!",
+      "line2": "혜원이 플레이리스트 또 바빠지겠네 🎧",
+      "mood1": "surprised",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 저 오늘 네이비 재킷에 아이보리 니트!",
+      "line2": "단정한데 화사해, 오늘 룩 완전 합격 👍",
       "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "딥 브이넥 니트 유행인데 사무실엔 과감할까요?",
+      "line2": "경훈씨 심장 지키려면 카디건 필수야 😏",
+      "mood1": "neutral",
       "mood2": "smile"
     },
     {
