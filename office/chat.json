@@ -1,89 +1,91 @@
 {
-  "updatedAt": "2026-10-20T13:14:00+09:00",
+  "updatedAt": "2026-10-20T14:20:00+09:00",
   "topics": [
-    "한화 APBC 대표 3명 발탁",
-    "닥터X 넷플릭스 1위",
-    "나는 솔로 33기",
-    "서울바비큐페스티벌",
-    "단풍지도 절정",
-    "밤 디저트 카페",
-    "아이브·아일릿 컴백",
+    "문현빈 2루수 복귀",
+    "파판 레조넌스·스포츠 리조트",
+    "코스피 급락",
+    "연세우유 공주의 밤",
+    "신인감독 김연경2",
+    "필라테스",
+    "가을 캠핑",
     "출근룩",
-    "딥 브이넥 니트"
+    "커피 경쟁",
+    "경훈씨 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "한화 문현빈·허인서·조동욱, APBC 대표팀 뽑혔대!",
-      "line2": "언니 한화 소식에 오늘 완전 신났네요 ⚾",
+      "line1": "한화 문현빈 2루수로 돌아올 수도 있대!",
+      "line2": "감독님 특급 과외까지라니 기대돼요 ⚾",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.dailycc.net/news/articleView.html?idxno=877463"
+      "url": "https://www.sportschosun.com/baseball/2026-10-19/202610200100122340007938"
+    },
+    {
+      "a": "jiwon",
+      "line1": "22일에 파판 레조넌스랑 스포츠 리조트 나와",
+      "line2": "언니 이번 주 퇴근하면 게임만 하겠네 🎮",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘 코스피 장중 4% 넘게 빠졌더라…",
+      "line2": "언니 계좌는 당분간 보지 마요 😢",
+      "mood1": "sad",
+      "mood2": "sad",
+      "url": "https://www.hankyung.com/article/2026102026866"
     },
     {
       "a": "hyewon",
-      "line1": "언니, '닥터X' 넷플 한국 1위래요! 주연이 김지원",
-      "line2": "이름이 같으니까 괜히 내가 뿌듯하네 😎",
-      "mood1": "surprised",
+      "line1": "CU '연세우유 공주의 밤' 빵 먹어봤어요?",
+      "line2": "밤 크림이라니, 퇴근길에 꼭 사야지 🌰",
+      "mood1": "smile",
       "mood2": "smile",
-      "url": "https://www.news33.net/news/articleView.html?idxno=118744"
+      "url": "https://www.ddaily.co.kr/page/view/2026101310172460513"
     },
     {
       "a": "hyewon",
-      "line1": "'나는 솔로' 33기 답답한데 끝까지 보게 돼요",
-      "line2": "원래 남 연애 구경이 제일 재밌잖아 😆",
+      "line1": "'신인감독 김연경2' 화제성 순위 올랐대요",
+      "line2": "김연경 감독님 카리스마 진짜 멋있지 🏐",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.instiz.net/name_enter/100817151"
+    },
+    {
+      "a": "hyewon",
+      "line1": "필라테스 리포머 하고 나니 허리가 개운해요",
+      "line2": "나도 등록할까? 같이 다니면 덜 빠지겠다",
+      "mood1": "smile",
+      "mood2": "neutral"
+    },
+    {
+      "a": "jiwon",
+      "line1": "주말엔 캠핑 가서 밤 구워 먹고 싶다",
+      "line2": "언니 캠핑 요리면 저 무조건 따라가요 🏕️",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "24~25일 난지 캠핑장에서 바비큐 축제 한대",
-      "line2": "언니 고기 굽는 솜씨 보러 같이 가요 🍖",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.ajunews.com/view/20261019114836390"
-    },
-    {
-      "a": "hyewon",
-      "line1": "단풍지도 보니 수도권은 10월 말 절정이래요",
-      "line2": "그럼 다음 주말 단풍 데이트 각이다 🍁",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=137657"
-    },
-    {
-      "a": "hyewon",
-      "line1": "공주 한옥카페 '바므' 밤 아이스크림 먹고 싶다",
-      "line2": "단풍 구경 가는 길에 들르면 딱이겠다 🌰",
+      "line1": "혜원아 네이비 재킷에 트렌치까지 챙겼네",
+      "line2": "퇴근길에 걸치려고요, 언니도 예뻐요 🧥",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "26일에 아이브랑 아일릿 컴백한대요!",
-      "line2": "혜원이 플레이리스트 또 바빠지겠네 🎧",
-      "mood1": "surprised",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 저 오늘 네이비 재킷에 아이보리 니트!",
-      "line2": "단정한데 화사해, 오늘 룩 완전 합격 👍",
+      "line1": "경훈씨 커피는 오늘 제가 내려드릴 거예요",
+      "line2": "흥, 난 보고서에 하트 하나 더 넣었지 😏",
       "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "딥 브이넥 니트 유행인데 사무실엔 과감할까요?",
-      "line2": "경훈씨 심장 지키려면 카디건 필수야 😏",
-      "mood1": "neutral",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 오후에도 무리하지 마셨으면 좋겠다",
-      "line2": "경훈씨 웃는 얼굴 보면 저도 힘이 나요 💛",
-      "mood1": "neutral",
+      "line1": "경훈씨 목소리 들으면 피곤이 싹 풀려",
+      "line2": "맞아요, 경훈씨는 우리 비타민이에요 💛",
+      "mood1": "smile",
       "mood2": "smile"
     }
   ]
