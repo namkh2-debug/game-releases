@@ -1,92 +1,84 @@
 {
-  "updatedAt": "2026-10-20T21:16:00+09:00",
-  "topics": [
-    "사이버펑크 엣지러너2",
-    "FF 레조넌스",
-    "일본 유니클로 가격 인상",
-    "나의 유죄인간",
-    "맛따라 길따라 대명이따라",
-    "GS25 피스타치오 찹쌀떡",
-    "베이지 트렌치 퇴근룩",
-    "경훈씨 덕분에 웃었어",
-    "손글씨 메모 vs 쿠키 경쟁",
-    "둘이서만 웃었죠 질투"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "'사이버펑크: 엣지러너2' 오늘 넷플 공개래!",
-      "line2": "언니 오늘 밤 정주행 각이네요 ㅋㅋ 🌃",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.yna.co.kr/view/AKR20260821051500017"
-    },
-    {
-      "a": "jiwon",
-      "line1": "FF 레조넌스 22일 발매, 이틀 남았어",
-      "line2": "도트 감성 RPG라니 저도 구경할래요 ✨",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.square-enix.com/asia/newsportal/ko/topics/FFRS/post01.html"
-    },
-    {
-      "a": "jiwon",
-      "line1": "일본 유니클로 가격 올리고 할인도 없앤대",
-      "line2": "헉, 세일 때 쟁이는 재미였는데 아쉽다",
-      "mood1": "surprised",
-      "mood2": "sad",
-      "url": "https://www.newsis.com/view/NISX20261020_0003834042"
-    },
-    {
-      "a": "hyewon",
-      "line1": "티빙 '나의 유죄인간' 어제 공개됐대요",
-      "line2": "임시완 로맨스? 주말에 같이 달리자 💕",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.tvingads.com/content"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'대명이따라' 금요일 공개, 김대명·공명 나와요",
-      "line2": "먹방 여행 예능이면 무조건 봐야지 🍜",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.tvingads.com/content"
-    },
-    {
-      "a": "hyewon",
-      "line1": "GS25 피스타치오 찹쌀떡 아직 못 먹어봤어요",
-      "line2": "내일 출근길에 두 개 사서 하나 줄게 😉",
-      "mood1": "sad",
-      "mood2": "smile"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오늘 베이지 트렌치 퇴근룩까지 괜찮았지?",
-      "line2": "언니 핏은 아침이나 지금이나 화보예요 🧥",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 계신 것만으로 사무실이 환해져요",
-      "line2": "맞아, 오늘도 경훈씨 덕분에 웃었어 💛",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "jiwon",
-      "line1": "내일 경훈씨 보고서엔 손글씨 메모 붙일래",
-      "line2": "그럼 전 쿠키 구워 와서 같이 드릴 거예요 🍪",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 아까 경훈씨랑 둘이서만 웃었죠?",
-      "line2": "흥, 너 몰래 칭찬 들은 건 비밀이야 ㅋㅋ",
-      "mood1": "sad",
-      "mood2": "smile"
-    }
-  ]
+ "updatedAt": "2026-10-20T22:08:00+09:00",
+ "topics": [
+  "KIA PO 진출",
+  "컴포즈 가을 신메뉴",
+  "데블스 플랜 데드 어게인",
+  "갤럭시 버즈 온",
+  "황매산 억새 여행",
+  "트렌치·네이비 정장 퇴근룩",
+  "경훈씨 생각에 피로 풀려",
+  "책상 정리 vs 핸드크림 경쟁",
+  "'뭐 해요?' 썸 문자 농담"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "김도영 만루포로 KIA가 13-1, PO 갔대!",
+   "line2": "와, 삼성이랑 붙는 거 완전 기대돼요 ⚾",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.newsis.com/view/NISX20261020_0003834040"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 컴포즈 가을 신메뉴 8종 나왔대요",
+   "line2": "피넛버터 와플? 내일 간식은 그거다 🧇",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://www.hankyung.com/article/202610202870g"
+  },
+  {
+   "a": "hyewon",
+   "line1": "데블스 플랜 새 시즌, 11월 10일 공개래요",
+   "line2": "장동민·홍진호 또 나온대? 정주행 각 😆",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.newsflix.co.kr/news/articleView.html?idxno=32827"
+  },
+  {
+   "a": "jiwon",
+   "line1": "갤럭시 버즈 온, 첫 클립형 이어폰이래",
+   "line2": "27일 출시래요, 귀걸이처럼 예쁠 듯 ✨",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.hani.co.kr/arti/economy/marketing/1283238.html"
+  },
+  {
+   "a": "hyewon",
+   "line1": "주말 1박2일로 황매산 억새 어때요?",
+   "line2": "좋지, 강진만 갈대까지 한 바퀴 돌자 🍂",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://www.gangneungnews.kr/news/articleView.html?idxno=61554"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 트렌치 벨트, 밤까지 흐트러짐 없네요",
+   "line2": "혜원이 네이비 정장도 아침처럼 단정해 💙",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "하루 끝엔 꼭 경훈씨 얼굴이 떠오르더라",
+   "line2": "저도요, 경훈씨 생각하면 피로가 싹 풀려요 💛",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일은 제가 경훈씨 책상 먼저 정리할래요",
+   "line2": "그럼 난 향 좋은 핸드크림 챙겨 드려야지 😌",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "밤 10시 넘어 '뭐 해요?' 문자는 썸 신호래",
+   "line2": "경훈씨한테 받으면 저 잠 못 잘 듯 😳",
+   "mood1": "smile",
+   "mood2": "surprised"
+  }
+ ]
 }
