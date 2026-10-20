@@ -1,89 +1,92 @@
 {
- "updatedAt": "2026-10-21T07:08:00+09:00",
+ "updatedAt": "2026-10-21T08:04:00+09:00",
  "topics": [
-  "코스피 3%대 급락",
-  "스페이스X AI 흑자",
-  "국산 게임 체육대회 종목",
-  "100일의 거짓말 화제성",
-  "신인감독 김연경2",
-  "직장인들 시즌3",
+  "AYN 오딘3 포탈",
+  "정형돈 돈가스집",
+  "김도영 145m 만루포",
+  "서울 빌라 월세 역대 최고",
+  "이재 결혼식",
+  "투썸 블랙 치즈폼 라떼",
   "니트 원피스·그레이 코트 출근룩",
-  "경훈씨 생각에 힘나",
-  "인사·보고서 리본 경쟁",
-  "밀당 농담"
+  "경훈씨는 우리 비타민",
+  "커피 먼저 드린 질투",
+  "로즈 립·손편지 경쟁"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피가 또 3%대 급락했대, 내 계좌 어떡해",
-   "line2": "언니 오늘은 앱 열지 마요, 커피 살게요 ☕",
+   "line1": "AYN 오딘3 포탈 공개됐대, 칩셋이 확 좋아졌대",
+   "line2": "언니 또 지갑 열 준비하는 거죠? 😆",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.inven.co.kr/webzine/news/?news=322338"
+  },
+  {
+   "a": "jiwon",
+   "line1": "정형돈 돈가스집, 한 시간 일찍 간 사람도 있대",
+   "line2": "주말에 우리도 가 봐요, 돈가스 최고 🍽️",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.mk.co.kr/news/culture/12181297"
+  },
+  {
+   "a": "jiwon",
+   "line1": "김도영 만루포가 145m래, PS 최장 타이래!",
+   "line2": "와, 공이 하늘 끝까지 갔겠다 ⚾",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885"
+  },
+  {
+   "a": "jiwon",
+   "line1": "서울 빌라 월세지수가 역대 최고래, 휴",
+   "line2": "언니, 우리 적금 더 열심히 부어요 💪",
    "mood1": "sad",
    "mood2": "smile",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807140"
+   "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/21/TOKMZDIZKZCJ5PF7AXTOBZNZ7U/"
   },
   {
-   "a": "jiwon",
-   "line1": "스페이스X가 AI 매출로 분기 흑자 냈대!",
-   "line2": "로켓 회사가 AI로 돈 번다니 신기해요 🚀",
+   "a": "hyewon",
+   "line1": "언니, 케데헌 이재가 외조부 옛집서 결혼했대요",
+   "line2": "와 영화 같다, 사진 너무 궁금해 💍",
    "mood1": "surprised",
-   "mood2": "surprised",
-   "url": "https://www.chosun.com/economy/tech_it/2026/10/21/YGWMCKQPKJDJXIXKTNX5YYC5R4/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "국산 게임도 체육대회 종목 돼야 한대",
-   "line2": "언니 그럼 국가대표 도전해 봐요 🎮",
-   "mood1": "smile",
    "mood2": "smile",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806587"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690888"
   },
   {
    "a": "hyewon",
-   "line1": "언니, '100일의 거짓말' 화제성 드라마 2위래요",
-   "line2": "김유정 나오는 거지? 주말 정주행각 📺",
-   "mood1": "surprised",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "신인감독 김연경2가 비드라마 화제성 1위래요",
-   "line2": "25일 밤 방송이지? 우리 같이 보자 🏐",
-   "mood1": "surprised",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "직장인들 시즌3, 유퀴즈랑 0.01%p 차이래요",
-   "line2": "우리 비서실 얘기 찍으면 1등 할걸? 😆",
-   "mood1": "surprised",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원이 네이비 니트 원피스 오늘 딱이다",
-   "line2": "언니 그레이 코트도 포근해 보여요 🧥",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "아침부터 경훈씨 생각하니까 힘이 나요",
-   "line2": "나도, 경훈씨 오시면 사무실이 환해져 ☀️",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 경훈씨 오시면 내가 먼저 인사할 거야",
-   "line2": "흥, 전 보고서에 리본까지 묶어 드릴래요 🎀",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원아, 썸은 밀당 몇 번이 적당해?",
-   "line2": "언니, 경훈씨 앞에선 당기기만 하면 돼요 😏",
+   "line1": "언니 투썸 블랙 치즈폼 라떼 마셔 봤어요?",
+   "line2": "아직! 점심에 같이 가서 도전하자 ☕",
    "mood1": "neutral",
+   "mood2": "smile",
+   "url": "http://www.kmkj.kr/news/articleView.html?idxno=137689"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원이 네이비 니트 원피스, 오늘 분위기 있다",
+   "line2": "언니 그레이 코트도 화보 같아요 🧥",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 웃는 얼굴 보면 피로가 싹 풀려요",
+   "line2": "맞아, 경훈씨는 우리 비타민이야 🍊",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 아까 경훈씨 커피 먼저 드렸죠? 흥",
+   "line2": "헤헤, 내일은 혜원이한테 양보할게 ☺️",
+   "mood1": "sad",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 로즈 립에 향수까지 준비할 거예요",
+   "line2": "그럼 난 보고서에 손편지 붙여 드려야지 💌",
+   "mood1": "smile",
    "mood2": "smile"
   }
  ]
