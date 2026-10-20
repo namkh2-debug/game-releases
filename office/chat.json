@@ -1,73 +1,91 @@
 {
-  "updatedAt": "2026-10-20T12:12:06+09:00",
+  "updatedAt": "2026-10-20T13:12:00+09:00",
   "topics": [
-    "한화 류지현 감독 첫 훈련",
-    "모던 워페어 4",
-    "애플 터치스크린 맥북",
-    "데블스 플랜3",
-    "설빙 포켓몬 협업",
-    "영화 실낙원",
-    "메가커피 샌드위치",
-    "안세영 덴마크오픈"
+    "한화 APBC 대표 3명 발탁",
+    "크라임씬 제로2",
+    "닥터X 시청률",
+    "서울바비큐페스티벌",
+    "레고 해리포터 스위치2",
+    "카카오맵 단풍 지도",
+    "컴포즈 가을 신메뉴"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "류지현 감독, 한화 첫 훈련부터 기본기 강조래요",
-      "line2": "언니 한화 얘기만 나오면 눈이 반짝여요 ⚾",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1603862"
+      "line1": "한화 문현빈·허인서·조동욱, APBC 대표팀 뽑혔대!",
+      "line2": "언니 오늘 한화 소식에 완전 신났네요 ⚾",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.dailycc.net/news/articleView.html?idxno=877463"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, '크라임씬 제로2' 내년에 공개된대요!",
+      "line2": "장진·박지윤 다 나온다며? 벌써 기다려져 🕵️",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.yna.co.kr/view/AKR20261020050400005"
+    },
+    {
+      "a": "hyewon",
+      "line1": "'닥터X' 4회 만에 최고 20.8% 찍었대요",
+      "line2": "주인공 이름이 나랑 같아서 괜히 뿌듯해 😎",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.news33.net/news/articleView.html?idxno=118744"
     },
     {
       "a": "jiwon",
-      "line1": "'모던 워페어 4' 스팀 평가가 시리즈 최고래요",
-      "line2": "언니 오늘도 밤새 게임하는 거 아니죠? 😅",
-      "url": "https://www.gamemeca.com/view.php?gid=1782003"
+      "line1": "24~25일 난지 캠핑장에서 바비큐 축제 한대",
+      "line2": "언니 고기 굽는 솜씨 보러 같이 가요 🍖",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.ajunews.com/view/20261019114836390"
     },
     {
       "a": "jiwon",
-      "line1": "애플이 28일에 터치스크린 맥북 공개한대요",
-      "line2": "아이패드랑 뭐가 다를지 궁금하네요 💻",
-      "url": "https://www.chosun.com/economy/tech_it/2026/10/20/N53UZUDBYRFU3M6AW6KNS2J4UY/"
+      "line1": "레고 해리포터 콜렉션이 스위치2로 나왔대",
+      "line2": "언니 또 장바구니 담는 소리 들려요 🪄",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.gamemeca.com/view.php?gid=1781960"
     },
     {
       "a": "hyewon",
-      "line1": "언니, '데블스 플랜3'에 장동민 나온대요!",
-      "line2": "PD가 역대 최강자래요, 벌써 기대돼요 🧠",
-      "url": "https://www.tenasia.co.kr/article/2026102025854"
+      "line1": "카카오맵에 단풍 명소 65곳 절정 시기 떴어요",
+      "line2": "주말에 어디 갈지 같이 골라보자 🍁",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=137657"
     },
     {
       "a": "hyewon",
-      "line1": "설빙이 포켓몬 협업 세트 사전예약 받는대요",
-      "line2": "피카츄 빙수면 저도 줄 설래요 🍧",
-      "url": "https://www.foodtoday.or.kr/news/article.html?no=208970"
-    },
-    {
-      "a": "hyewon",
-      "line1": "연상호 '실낙원' 내일 개봉인데 예매율 1위래요",
-      "line2": "김현주 배우 나오니까 꼭 보고 싶어요 🎬",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02906086645614888&mediaCodeNo=257"
+      "line1": "컴포즈 가을 신메뉴, 치즈라떼 나왔대요",
+      "line2": "피넛버터 와플이랑 같이 먹으면 딱이겠다 🧇",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.hankyung.com/article/202610202870g"
     },
     {
       "a": "jiwon",
-      "line1": "메가커피 5천원대 샌드위치 6종 나왔대요",
-      "line2": "점심 간단히 먹을 때 딱이겠어요 🥪",
-      "url": "https://www.senmoney.co.kr/news/articleView.html?idxno=38003"
+      "line1": "과장님 니트 조끼에 오늘 머리까지 찰떡이야",
+      "line2": "언니 트렌치코트 벨트 묶은 거 너무 멋져요 🧥",
+      "mood1": "smile",
+      "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "안세영 선수 덴마크오픈 우승했대요!",
-      "line2": "19개월 무패라니, 진짜 대단해요 🏸",
-      "url": "https://www.xportsnews.com/article/2209261"
+      "line1": "언니, 가을 타는지 괜히 설레요 🍂",
+      "line2": "손 시릴 때 주머니 빌려줄 사람 구해야지~",
+      "mood1": "smile",
+      "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "과장님 니트 조끼, 볼수록 귀여워요",
-      "line2": "언니 트렌치코트 저도 따라 사고 싶어요 🧥"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 점심은 맛있는 거 드셨으면 좋겠어요",
-      "line2": "경훈씨 생각하면 오후 기운이 충전돼요 💛"
+      "line1": "경훈씨 오후에도 무리하지 마셨으면 좋겠다",
+      "line2": "경훈씨 웃는 얼굴 보면 저도 힘이 나요 💛",
+      "mood1": "neutral",
+      "mood2": "smile"
     }
   ]
 }
