@@ -1,9 +1,9 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T08:10:03+09:00",
+  "updatedAt": "2026-10-20T09:07:37+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 10.9,
+    "temp": 12.8,
     "low": 10.0,
     "high": 20.4,
     "condition": "구름많음, 밤 한때 비 가능",
@@ -14,18 +14,28 @@
   },
   "breaking": [
     {
+      "title": "코스피, 0.60% 내린 5733.57 출발…코스닥은 805.37",
+      "url": "https://www.fnnews.com/news/202610200854582510",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "김민석, ‘소방이 재정 쭉쭉’ 부승찬 발언에 공개 사과 “말과 행동 무거워야”",
+      "url": "https://www.seoul.co.kr/news/politics/2026/10/20/20261020500017",
+      "source": "서울신문"
+    },
+    {
+      "title": "與野, 특감 후보자 청문보고서 오는 22일 채택키로 합의",
+      "url": "https://biz.chosun.com/policy/politics/assembly/2026/10/20/MY2FGN7CQNABVN6MY5DREQUKZI/",
+      "source": "조선비즈"
+    },
+    {
+      "title": "루브르까지 점거한 시위대…파리 일부 지역에 야간 통금령",
+      "url": "https://www.dailian.co.kr/news/view/1703414/%EC%86%8D%EB%B3%B4-%EB%A3%A8%EB%B8%8C%EB%A5%B4-%EC%A0%90%EA%B1%B0%ED%95%9C-%EC%8B%9C%EC%9C%84%EB%8C%80%ED%8C%8C%EB%A6%AC-%EC%9D%BC%EB%B6%80-2026",
+      "source": "데일리안"
+    },
+    {
       "title": "경찰 '장모살인·아내납치' 김성우 송치…\"18회 스토킹\"",
-      "url": "https://www.hankyung.com/article/2026102020387",
-      "source": "한국경제"
-    },
-    {
-      "title": "튀르키예 UAE 외무장관- 사우디와 통화.. 후티군의 사우디 공격 비난",
-      "url": "https://www.newsis.com/view/NISX20261020_0003832478",
-      "source": "뉴시스"
-    },
-    {
-      "title": "트럼프, 내달 中서 김정은과 회담 여부에 \"모르겠다\"",
-      "url": "https://www.yna.co.kr/view/AKR20261020005100071",
+      "url": "https://www.yna.co.kr/view/AKR20261020016700004",
       "source": "연합뉴스"
     }
   ],
@@ -91,22 +101,16 @@
       "summary": "예멘 후티 반군이 사우디 아람코 석유시설과 리야드 공항 등 6곳을 미사일·드론으로 타격했다고 주장했어요."
     },
     {
-      "title": "마크롱 정부, 폭력사태 수습 안간힘…노란조끼 \"24일에도 시위\"",
-      "url": "https://www.yna.co.kr/view/AKR20261019181600085",
+      "title": "트럼프, '젤렌스키 배제' 종전협상론…\"푸틴·시진핑과 회담 용의\"",
+      "url": "https://www.yna.co.kr/view/AKR20261020006900071",
       "source": "연합뉴스",
-      "summary": "프랑스 전국 시위가 약탈·폭력으로 번지자 파리 일부 지역에 야간 통금이 내려졌고 추가 시위도 예고됐어요."
+      "summary": "트럼프 대통령이 젤렌스키를 뺀 우크라이나 종전 협상론을 꺼내며 푸틴·시진핑과 만날 뜻을 밝혔다."
     },
     {
       "title": "\"이스라엘 '깜짝 방문'한 미 국방부 장관…네타냐후와 회동\"",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020080728Fj1",
       "source": "연합뉴스TV",
       "summary": "미 국방부 장관이 이스라엘을 깜짝 방문해 네타냐후 총리와 만났어요."
-    },
-    {
-      "title": "거듭 사과했는데… 이번엔 부승찬이 '재정 쭉쭉' 논란",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805239",
-      "source": "SBS",
-      "summary": "추미애 의원의 '재정 빨대' 발언 사과 뒤 이번엔 부승찬 의원의 '재정 쭉쭉' 발언이 논란이 됐어요."
     },
     {
       "title": "조문 가서 '응급환자 전용' 주차…논란 커지자",
@@ -143,6 +147,12 @@
       "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6859154_36989.html",
       "source": "MBC",
       "summary": "당진제철소에서 협력업체 노동자가 대형 회전설비에 끼여 숨졌는데, 필수 고정장치가 설치되지 않았던 것으로 드러났어요."
+    },
+    {
+      "title": "\"인명구조 없으면 방어적 진압\" 대책 석 달 만에 소방관 또 순직",
+      "url": "https://www.yna.co.kr/view/AKR20261019146900530",
+      "source": "연합뉴스",
+      "summary": "인명구조 상황이 아니면 방어적으로 진압하라는 대책이 나온 지 석 달 만에 또 소방관이 순직했다."
     },
     {
       "title": "징역 17년 확정 JMS 정명석, 여신도 성폭행 추가 재판 1심 33년",
