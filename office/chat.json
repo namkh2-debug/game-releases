@@ -1,91 +1,92 @@
 {
-  "updatedAt": "2026-10-20T15:15:00+09:00",
+  "updatedAt": "2026-10-20T16:15:00+09:00",
   "topics": [
-    "최원호 대표팀 감독",
-    "팬텀 블레이드 제로",
-    "머스크 스페이스X 주식",
-    "중증외상센터 시즌2·3",
-    "돌싱N모솔2",
-    "크롭 트렌치·발레힐",
+    "류현진 부부 플리마켓",
+    "스위치2 레지던트 이블4",
+    "잠자는 금융자산 14조",
+    "연애박사",
+    "플레이브 초동 132만장",
+    "정선 타임캡슐공원",
     "출근룩",
-    "경훈씨 미소",
-    "향수 경쟁",
-    "귀여운 질투"
+    "경훈씨 응원",
+    "보고서 경쟁",
+    "엘리베이터 설렘"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "최원호 감독이 야구대표팀 사령탑 됐대!",
-      "line2": "11월 APBC 지휘라니, 한화 팬들도 반갑겠다 ⚾",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.kbsm.net/news/view.php?idx=538316"
-    },
-    {
-      "a": "jiwon",
-      "line1": "29일엔 팬텀 블레이드 제로 나온대",
-      "line2": "언니 이번 달 게임 지갑 괜찮아요? 🎮",
+      "line1": "류현진 선수 부부가 25일 대전서 플리마켓 연대",
+      "line2": "수익금 전액 기부래요, 역시 멋져요 ⚾",
       "mood1": "smile",
       "mood2": "smile",
-      "url": "https://m.inven.co.kr/console/main/release/"
+      "url": "https://www.news1.kr/sports/baseball/6325907"
     },
     {
       "a": "jiwon",
-      "line1": "머스크가 미국 애들한테 스페이스X 주식 준대",
-      "line2": "와, 1주씩이라니… 저도 다시 태어나고 싶다",
+      "line1": "스위치2 레지던트 이블4 리뷰 봤어?",
+      "line2": "휴대성은 합격, 그래픽은 좀 아쉽대요 🎮",
+      "mood1": "smile",
+      "mood2": "neutral",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708496"
+    },
+    {
+      "a": "jiwon",
+      "line1": "잠자는 금융자산이 14조 원이나 된대",
+      "line2": "헉, 제 숨은 돈도 있나 찾아봐야겠다 💰",
       "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.chosun.com/economy/tech_it/2026/10/20/3XSBHEGB3RCXHJHSQSC6ENQN7A/"
+      "mood2": "surprised",
+      "url": "https://www.ikbc.co.kr/article/view/kbc202610200032"
     },
     {
       "a": "hyewon",
-      "line1": "언니! '중증외상센터' 시즌2·3 만든대요",
-      "line2": "진짜? 백강혁 또 볼 수 있겠다, 신난다 🏥",
+      "line1": "언니, '연애박사' 둘이 사귀자마자 트러블이래요",
+      "line2": "에이, 사랑싸움은 칼로 물 베기지 뭐 😆",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026101910203430466"
+      "url": "https://www.mt.co.kr/entertainment/2026/10/20/2026102014207296804"
     },
     {
       "a": "hyewon",
-      "line1": "'돌싱N모솔2' 동시간대 1위 했대요",
-      "line2": "그거 은근 설레더라, 오늘 밤 정주행각이다 📺",
+      "line1": "플레이브 미니 5집 초동 132만 장 넘었대요",
+      "line2": "와, 버추얼 아이돌인데 진짜 대단하다!",
       "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://tvreport.co.kr/broadcast/article/1084501/amp/"
+      "mood2": "surprised",
+      "url": "https://www.newsis.com/view/NISX20261020_0003833474"
     },
     {
       "a": "hyewon",
-      "line1": "올가을엔 짧은 크롭 트렌치가 유행이래요",
-      "line2": "발레힐이랑 신으면 혜원이한테 딱이겠다 👠",
+      "line1": "정선 타임캡슐공원이 가을 아날로그 여행지래요",
+      "line2": "이름부터 낭만 있다, 우리 같이 가볼까? 🍂",
+      "mood1": "smile",
+      "mood2": "smile",
+      "url": "https://www.kukinews.com/article/view/kuk202610200085"
+    },
+    {
+      "a": "jiwon",
+      "line1": "혜원이 네이비 재킷에 니트, 단정하니 예쁘다",
+      "line2": "언니 트렌치 벨트 핏도 오늘 완전 화보예요 🧥",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "언니 베이지 트렌치에 벨트, 또 봐도 예뻐요",
-      "line2": "혜원이 아이보리 니트도 얼굴이 환해 보여 🧥",
+      "line1": "경훈씨 목소리 들으면 피곤이 싹 풀려요",
+      "line2": "나도. 오늘도 경훈씨 덕분에 힘이 나 💛",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 웃으시면 사무실이 다 밝아지는 것 같아",
-      "line2": "맞아요, 그 미소 보려고 출근하는 거잖아요 💛",
+      "line1": "경훈씨 보고서는 내가 표지까지 예쁘게 할래",
+      "line2": "그럼 전 요약 한 장 더 붙여서 칭찬받을래요 😏",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "오늘 경훈씨 오시면 제가 먼저 문 열어드릴래요",
-      "line2": "흥, 난 향수까지 새로 뿌렸는걸? 승부다 😏",
+      "line1": "경훈씨랑 엘리베이터 단둘이면 어떡하죠?",
+      "line2": "숨 참다 쓰러질걸? 혜원이 상상 금지 🙈",
       "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "jiwon",
-      "line1": "혜원이 아까 경훈씨랑 둘이 웃던데… 뭐야?",
-      "line2": "헤헤 비밀이에요~ 언니 삐친 거예요? 😜",
-      "mood1": "sad",
       "mood2": "smile"
     }
   ]
