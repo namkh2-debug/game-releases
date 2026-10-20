@@ -1,91 +1,91 @@
 {
-  "updatedAt": "2026-10-20T14:11:00+09:00",
+  "updatedAt": "2026-10-20T15:15:00+09:00",
   "topics": [
-    "문현빈 2루수 복귀",
-    "파판 레조넌스·스포츠 리조트",
-    "코스피 급락",
-    "연세우유 공주의 밤",
-    "신인감독 김연경2",
-    "필라테스",
-    "가을 캠핑",
+    "최원호 대표팀 감독",
+    "팬텀 블레이드 제로",
+    "머스크 스페이스X 주식",
+    "중증외상센터 시즌2·3",
+    "돌싱N모솔2",
+    "크롭 트렌치·발레힐",
     "출근룩",
-    "커피 경쟁",
-    "경훈씨 응원"
+    "경훈씨 미소",
+    "향수 경쟁",
+    "귀여운 질투"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "한화 문현빈 2루수로 돌아올 수도 있대!",
-      "line2": "감독님 특급 과외까지라니 기대돼요 ⚾",
+      "line1": "최원호 감독이 야구대표팀 사령탑 됐대!",
+      "line2": "11월 APBC 지휘라니, 한화 팬들도 반갑겠다 ⚾",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.sportschosun.com/baseball/2026-10-19/202610200100122340007938"
+      "url": "https://www.kbsm.net/news/view.php?idx=538316"
     },
     {
       "a": "jiwon",
-      "line1": "22일에 파판 레조넌스랑 스포츠 리조트 나와",
-      "line2": "언니 이번 주 퇴근하면 게임만 하겠네 🎮",
+      "line1": "29일엔 팬텀 블레이드 제로 나온대",
+      "line2": "언니 이번 달 게임 지갑 괜찮아요? 🎮",
       "mood1": "smile",
       "mood2": "smile",
-      "url": "https://www.gematsu.com/2026/10/this-weeks-japanese-game-releases-call-of-duty-modern-warfare-4-final-fantasy-resonance-nintendo-switch-sports-resort-stupid-never-dies-more"
+      "url": "https://m.inven.co.kr/console/main/release/"
     },
     {
       "a": "jiwon",
-      "line1": "오늘 코스피 장중 4% 넘게 빠졌더라…",
-      "line2": "언니 계좌는 당분간 보지 마요 😢",
+      "line1": "머스크가 미국 애들한테 스페이스X 주식 준대",
+      "line2": "와, 1주씩이라니… 저도 다시 태어나고 싶다",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.chosun.com/economy/tech_it/2026/10/20/3XSBHEGB3RCXHJHSQSC6ENQN7A/"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니! '중증외상센터' 시즌2·3 만든대요",
+      "line2": "진짜? 백강혁 또 볼 수 있겠다, 신난다 🏥",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.busan.com/view/busan/view.php?code=2026101910203430466"
+    },
+    {
+      "a": "hyewon",
+      "line1": "'돌싱N모솔2' 동시간대 1위 했대요",
+      "line2": "그거 은근 설레더라, 오늘 밤 정주행각이다 📺",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://tvreport.co.kr/broadcast/article/1084501/amp/"
+    },
+    {
+      "a": "hyewon",
+      "line1": "올가을엔 짧은 크롭 트렌치가 유행이래요",
+      "line2": "발레힐이랑 신으면 혜원이한테 딱이겠다 👠",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니 베이지 트렌치에 벨트, 또 봐도 예뻐요",
+      "line2": "혜원이 아이보리 니트도 얼굴이 환해 보여 🧥",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "jiwon",
+      "line1": "경훈씨 웃으시면 사무실이 다 밝아지는 것 같아",
+      "line2": "맞아요, 그 미소 보려고 출근하는 거잖아요 💛",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "hyewon",
+      "line1": "오늘 경훈씨 오시면 제가 먼저 문 열어드릴래요",
+      "line2": "흥, 난 향수까지 새로 뿌렸는걸? 승부다 😏",
+      "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "jiwon",
+      "line1": "혜원이 아까 경훈씨랑 둘이 웃던데… 뭐야?",
+      "line2": "헤헤 비밀이에요~ 언니 삐친 거예요? 😜",
       "mood1": "sad",
-      "mood2": "sad",
-      "url": "https://www.hankyung.com/article/2026102026866"
-    },
-    {
-      "a": "hyewon",
-      "line1": "CU '연세우유 공주의 밤' 빵 먹어봤어요?",
-      "line2": "밤 크림이라니, 퇴근길에 꼭 사야지 🌰",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.ddaily.co.kr/page/view/2026101310172460513"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'신인감독 김연경2' 화제성 순위 올랐대요",
-      "line2": "김연경 감독님 카리스마 진짜 멋있지 🏐",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.instiz.net/name_enter/100817151"
-    },
-    {
-      "a": "hyewon",
-      "line1": "필라테스 리포머 하고 나니 허리가 개운해요",
-      "line2": "나도 등록할까? 같이 다니면 덜 빠지겠다",
-      "mood1": "smile",
-      "mood2": "neutral"
-    },
-    {
-      "a": "jiwon",
-      "line1": "주말엔 캠핑 가서 밤 구워 먹고 싶다",
-      "line2": "언니 캠핑 요리면 저 무조건 따라가요 🏕️",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "jiwon",
-      "line1": "혜원아 네이비 재킷에 트렌치까지 챙겼네",
-      "line2": "퇴근길에 걸치려고요, 언니도 예뻐요 🧥",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 커피는 오늘 제가 내려드릴 거예요",
-      "line2": "흥, 난 보고서에 하트 하나 더 넣었지 😏",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 목소리 들으면 피곤이 싹 풀려",
-      "line2": "맞아요, 경훈씨는 우리 비타민이에요 💛",
-      "mood1": "smile",
       "mood2": "smile"
     }
   ]
