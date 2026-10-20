@@ -1,9 +1,9 @@
 {
  "date": "2026-10-21",
- "updatedAt": "2026-10-21T06:40:00+09:00",
+ "updatedAt": "2026-10-21T07:07:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 13.0,
+  "temp": 12.1,
   "low": 12.0,
   "high": 16.0,
   "condition": "흐림, 오전 한때 빗방울 후 낮부터 구름많음",
@@ -12,48 +12,181 @@
   "tip": "바람이 강해 체감온도가 낮아요. 얇은 니트나 가벼운 재킷을 입고, 출근길엔 작은 우산을 챙기세요.",
   "source": "광주시청 날씨예보(기상청 단기예보), 기상청 실황"
  },
- "breaking": [
+ "breaking": [],
+ "news": [
+  {
+   "title": "강남 빌딩 2곳에 '연쇄' 방화…19명 부상",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807116",
+   "source": "SBS",
+   "summary": "70대 남성이 강남 건물 두 곳에 잇따라 불을 질러 19명이 다쳤고, 4년 전에도 같은 곳에서 방화를 시도했다."
+  },
+  {
+   "title": "반등하나 싶더니…코스피 3%대 급락, 왜?",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807140",
+   "source": "SBS",
+   "summary": "AI 수익성 의구심과 유럽 시위 악재가 겹치며 코스피가 다시 3%대 급락했다."
+  },
+  {
+   "title": "'내란 혐의' 박성재 전 장관 오늘 2심 선고…1심은 징역 25년",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807147",
+   "source": "SBS",
+   "summary": "내란 가담 혐의로 1심에서 징역 25년을 받은 박성재 전 법무부 장관의 항소심 선고가 오늘 열린다."
+  },
+  {
+   "title": "3기 신도시 찾은 이 대통령 \"2030년까지 90% 착공해야\"",
+   "url": "https://www.khan.co.kr/article/202610202213025/",
+   "source": "경향신문",
+   "summary": "이재명 대통령이 인천 계양 3기 신도시를 찾아 빠른 주택 공급을 위한 착공 속도전을 주문했다."
+  },
+  {
+   "title": "정부, 주우크라 대사 소환 이어…공관원 절반 철수 결정",
+   "url": "https://www.khan.co.kr/article/202610202142015/",
+   "source": "경향신문",
+   "summary": "정부가 우크라이나 측의 전향적 조치가 없다고 보고 현지 공관원 절반을 철수하기로 했다."
+  },
+  {
+   "title": "\"재정 빨대 망언 사과하라\"…또 고개 숙인 추미애",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807118",
+   "source": "SBS",
+   "summary": "소방 노조가 '소방 재정 빨대' 발언 공식 사과를 요구하자 추미애 경기지사가 다시 사과했다."
+  },
+  {
+   "title": "중수청장 첫 국무회의 참석…국힘 \"청와대·여당 수사부터\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807127",
+   "source": "SBS",
+   "summary": "김지용 중대범죄수사청장이 첫 국무회의에 참석했고, 국민의힘은 청와대·여당 수사부터 하라고 반발했다."
+  },
+  {
+   "title": "'아리셀 참사' 대표 징역 4년 확정…유족 반발",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807149",
+   "source": "SBS",
+   "summary": "노동자 23명이 숨진 아리셀 화재 참사 회사 대표의 징역 4년형이 확정돼 유족이 재판소원을 예고했다."
+  },
+  {
+   "title": "'탈북어민 강제북송' 정의용 등 오늘 항소심 선고",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021061619Mj3",
+   "source": "연합뉴스TV",
+   "summary": "탈북어민 강제북송 사건으로 기소된 정의용 전 국가안보실장 등의 항소심 선고가 오늘 나온다."
+  },
+  {
+   "title": "\"대북 확성기도 배제 안 해\"…접경 지역 가보니",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807139",
+   "source": "SBS",
+   "summary": "정부가 대북 확성기 방송 재개 가능성까지 열어둔 가운데 접경 지역 분위기를 전했다."
+  },
   {
    "title": "생산자물가 두 달 연속 상승…9월 0.2%↑",
    "url": "https://www.hani.co.kr/arti/economy/economy_general/1283365.html",
-   "source": "한겨레"
-  },
-  {
-   "title": "23명 숨졌는데 '징역 4년'…'아리셀 참사' 유족 반발",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806853",
-   "source": "SBS 뉴스"
-  }
- ],
- "news": [
-  {
-   "title": "CCTV에 방화 직전 모습…4년 전에도 같은 곳 노렸다",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806839",
-   "source": "SBS 뉴스",
-   "summary": "강남 역삼동 상가 2곳에 7분 간격 방화로 5명이 크게 다쳤고, 4년 전 같은 건물에서 난동을 부린 70대가 체포됐어요."
-  },
-  {
-   "title": "코스피 다시 3% 급락…우리만 왜 더 떨어지나",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806845",
-   "source": "SBS 뉴스",
-   "summary": "AI 투자 우려와 유럽 정세 불안이 겹쳐 코스피가 다시 급락했고, 국내 증시가 유독 취약한 이유를 짚었어요."
-  },
-  {
-   "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
-   "url": "https://www.yna.co.kr/view/AKR20261021006700072",
-   "source": "연합뉴스",
-   "summary": "다우 1.02%, S&P500 0.28% 올랐고 나스닥만 0.02% 내렸으며, 브렌트유는 109달러 아래로 내려왔어요."
-  },
-  {
-   "title": "후티 공격에 \"도널드, 함께 끝냅시다\"…이란 공격 재개하나",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806856",
-   "source": "SBS 뉴스",
-   "summary": "후티 반군 미사일 공격으로 최소 53명이 숨지면서 미국과 이스라엘이 이란 군사작전 재개를 검토하고 있어요."
-  },
-  {
-   "title": "프랑스 이어 이탈리아도 시위 격화…군 배치하고 청소년 체포도 강화",
-   "url": "https://www.hani.co.kr/arti/international/international_general/1283356.html",
    "source": "한겨레",
-   "summary": "프랑스에 이어 이탈리아에서도 생활고 항의 시위가 격화돼 군이 배치되고 체포도 강화됐어요."
+   "summary": "9월 생산자물가가 전달보다 0.2% 올라 두 달 연속 상승했다."
+  },
+  {
+   "title": "원·달러 환율 1,325원 연저점 또 경신",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806492",
+   "source": "SBS",
+   "summary": "원·달러 환율이 1,325원까지 내려가 연저점을 다시 갈아치웠다."
+  },
+  {
+   "title": "1∼9월 서울 아파트 전세 거래 28% 급감…월세 비중 첫 50% 돌파",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806418",
+   "source": "SBS",
+   "summary": "올해 1~9월 서울 아파트 전세 거래가 28% 줄고 월세 비중이 처음 절반을 넘었다."
+  },
+  {
+   "title": "시행 3개월 앞둔 '코인 과세' 또 미뤄지나",
+   "url": "https://www.khan.co.kr/article/202610202214005/",
+   "source": "경향신문",
+   "summary": "내년 시행 예정인 가상자산 과세가 다시 유예될 가능성이 거론되고 있다."
+  },
+  {
+   "title": "사회적 대화 한창인데…민주 '주52시간 예외' 초광역특구법 발의",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1283346.html",
+   "source": "한겨레",
+   "summary": "민주당이 주52시간 예외를 담은 초광역특구법을 발의해 노동계가 반발하고 있다."
+  },
+  {
+   "title": "[단독] 인천공항 '2조 랜드마크' 무산…용역비 24억원 허공으로",
+   "url": "https://www.khan.co.kr/article/202610210600081/",
+   "source": "경향신문",
+   "summary": "인천공항 2조원 규모 랜드마크 사업이 무산되며 용역비 24억원이 날아갔다."
+  },
+  {
+   "title": "비대면진료 제도화 두 달 앞두고…\"규제 과도\" \"안전 강화\" 격론",
+   "url": "https://www.khan.co.kr/article/202610202132015/",
+   "source": "경향신문",
+   "summary": "비대면진료 제도화를 앞두고 규제 수준을 놓고 업계와 의료계 의견이 맞서고 있다."
+  },
+  {
+   "title": "순천만 야생조류서 올해 동절기 첫 고병원성 AI 검출",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021055948cln",
+   "source": "연합뉴스TV",
+   "summary": "전남 순천만 야생조류에서 이번 겨울 첫 고병원성 조류인플루엔자가 확인됐다."
+  },
+  {
+   "title": "서울시 아동급식카드, 이젠 배달앱에서도 쓴다",
+   "url": "https://www.khan.co.kr/article/202610210600111/",
+   "source": "경향신문",
+   "summary": "서울시 아동급식카드를 배달앱에서도 쓸 수 있게 된다."
+  },
+  {
+   "title": "가을비 그치고 강풍에 추위…내일 올가을 가장 쌀쌀",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021061925pBS",
+   "source": "연합뉴스TV",
+   "summary": "비가 그친 뒤 찬 바람이 불며 내일 아침은 올가을 들어 가장 쌀쌀할 전망이다."
+  },
+  {
+   "title": "후티 공격에 53명 사망…이란 재공격 검토",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807044",
+   "source": "SBS",
+   "summary": "후티 공격으로 53명이 숨지며 미국의 이란 재공격 가능성이 거론되고 있다."
+  },
+  {
+   "title": "이틀째 '야간 통금'…\"주말 시위에 군병력 투입\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807150",
+   "source": "SBS",
+   "summary": "폭력 시위가 이어지는 프랑스가 야간 통금을 유지하며 주말 시위에 군병력을 투입하기로 했다."
+  },
+  {
+   "title": "머스크 \"테슬라·스페이스X 합병 좋은 생각\"…특별위 구성",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610210704465iC",
+   "source": "연합뉴스TV",
+   "summary": "일론 머스크가 테슬라와 스페이스X 합병을 긍정적으로 언급했고 특별위원회가 꾸려졌다."
+  },
+  {
+   "title": "한국의 작은 IPO가 월가를 흔들었다…엘리스 32% 폭락에 번진 'AI 의심'",
+   "url": "https://www.chosun.com/economy/int_economy/2026/10/21/AAYVBO73VBGCPFXAV3ZNGBNMWU/",
+   "source": "조선일보",
+   "summary": "미국에 상장한 한국 AI 기업 엘리스 주가가 32% 폭락하며 월가에 AI 회의론이 번졌다."
+  },
+  {
+   "title": "스페이스X, AI 매출 9배 급증에 분기 흑자 전환",
+   "url": "https://www.chosun.com/economy/tech_it/2026/10/21/YGWMCKQPKJDJXIXKTNX5YYC5R4/",
+   "source": "조선일보",
+   "summary": "스페이스X가 AI 매출이 9배 늘며 분기 흑자로 돌아섰고 AI 수익이 스타링크를 넘었다."
+  },
+  {
+   "title": "트럼프 행정부, 미 연방기관서 중국 딥시크 퇴출 추진",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1283345.html",
+   "source": "한겨레",
+   "summary": "트럼프 행정부가 미국 연방기관에서 중국 AI 딥시크 사용을 퇴출하려 한다."
+  },
+  {
+   "title": "AI 업체들, 헌책 사서 '도둑 학습'…공정이용 기준 '새 화두'",
+   "url": "https://www.khan.co.kr/article/202610210600025/",
+   "source": "경향신문",
+   "summary": "AI 업체들이 헌책을 사들여 학습에 쓰면서 저작권 공정이용 기준이 새 쟁점이 됐다."
+  },
+  {
+   "title": "김도영, 가을야구 최연소 그랜드슬램 '쾅'…삼성 나와라!",
+   "url": "https://www.hani.co.kr/arti/sports/baseball/1283353.html",
+   "source": "한겨레",
+   "summary": "KIA 김도영의 만루포로 준PO를 3연승으로 끝낸 KIA가 플레이오프에서 삼성과 맞붙는다."
+  },
+  {
+   "title": "음악으로 시대를 읽었던 비평가…강헌 별세",
+   "url": "https://www.hani.co.kr/arti/culture/music/1283351.html",
+   "source": "한겨레",
+   "summary": "대중음악 평론의 새 지평을 연 강헌 한국문화예술교육진흥원 이사장이 별세했다."
   }
  ]
 }
