@@ -1,92 +1,91 @@
 {
-  "updatedAt": "2026-10-20T16:15:00+09:00",
+  "updatedAt": "2026-10-20T17:15:00+09:00",
   "topics": [
-    "류현진 부부 플리마켓",
-    "스위치2 레지던트 이블4",
-    "잠자는 금융자산 14조",
-    "연애박사",
-    "플레이브 초동 132만장",
-    "정선 타임캡슐공원",
+    "포켓몬 코리안리그",
+    "메모리 공급부족 전망",
+    "윤남노 식당",
+    "100일의 거짓말",
+    "직장인들3",
+    "투썸 신메뉴",
     "출근룩",
     "경훈씨 응원",
-    "보고서 경쟁",
-    "엘리베이터 설렘"
+    "책상 꽃 경쟁",
+    "결재 질투"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "류현진 선수 부부가 25일 대전서 플리마켓 연대",
-      "line2": "수익금 전액 기부래요, 역시 멋져요 ⚾",
+      "line1": "포켓몬 코리안리그 시즌1이 24일 개막한대",
+      "line2": "언니 또 밤새 배틀 연습하는 거 아니죠? 😆",
       "mood1": "smile",
       "mood2": "smile",
-      "url": "https://www.news1.kr/sports/baseball/6325907"
+      "url": "https://www.inven.co.kr/webzine/news/?news=322321"
     },
     {
       "a": "jiwon",
-      "line1": "스위치2 레지던트 이블4 리뷰 봤어?",
-      "line2": "휴대성은 합격, 그래픽은 좀 아쉽대요 🎮",
-      "mood1": "smile",
-      "mood2": "neutral",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708496"
+      "line1": "노무라가 메모리 부족 2028년까지 간대",
+      "line2": "반도체 적금이라도 들어야 하나요? 💰",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020145357iiy"
     },
     {
       "a": "jiwon",
-      "line1": "잠자는 금융자산이 14조 원이나 된대",
-      "line2": "헉, 제 숨은 돈도 있나 찾아봐야겠다 💰",
-      "mood1": "surprised",
-      "mood2": "surprised",
-      "url": "https://www.ikbc.co.kr/article/view/kbc202610200032"
+      "line1": "윤남노 셰프 식당 월수입이 80만원이래",
+      "line2": "직원 식비만 500만원이라니, 짠하다 😢",
+      "mood1": "sad",
+      "mood2": "sad",
+      "url": "https://www.sportschosun.com/entertainment/2026-10-20/202610200100125090008140"
     },
     {
       "a": "hyewon",
-      "line1": "언니, '연애박사' 둘이 사귀자마자 트러블이래요",
-      "line2": "에이, 사랑싸움은 칼로 물 베기지 뭐 😆",
+      "line1": "언니, '100일의 거짓말' 화제성 2위래요",
+      "line2": "김유정·박진영 케미 나도 궁금했어 💕",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.mt.co.kr/entertainment/2026/10/20/2026102014207296804"
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252376"
     },
     {
       "a": "hyewon",
-      "line1": "플레이브 미니 5집 초동 132만 장 넘었대요",
-      "line2": "와, 버추얼 아이돌인데 진짜 대단하다!",
-      "mood1": "surprised",
-      "mood2": "surprised",
-      "url": "https://www.newsis.com/view/NISX20261020_0003833474"
-    },
-    {
-      "a": "hyewon",
-      "line1": "정선 타임캡슐공원이 가을 아날로그 여행지래요",
-      "line2": "이름부터 낭만 있다, 우리 같이 가볼까? 🍂",
+      "line1": "'직장인들3' 김원훈 화제성 급부상이래요",
+      "line2": "우리 비서실 찍으면 더 웃길 텐데 ㅎㅎ",
       "mood1": "smile",
       "mood2": "smile",
-      "url": "https://www.kukinews.com/article/view/kuk202610200085"
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252336"
     },
     {
-      "a": "jiwon",
-      "line1": "혜원이 네이비 재킷에 니트, 단정하니 예쁘다",
-      "line2": "언니 트렌치 벨트 핏도 오늘 완전 화보예요 🧥",
+      "a": "hyewon",
+      "line1": "투썸 블랙 치즈폼 라떼 마셔보고 싶어요",
+      "line2": "퇴근길에 같이 가자, 오늘은 내가 쏠게 ☕",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨 목소리 들으면 피곤이 싹 풀려요",
-      "line2": "나도. 오늘도 경훈씨 덕분에 힘이 나 💛",
+      "line1": "언니 베이지 트렌치에 벨트, 하루 종일 예뻐요",
+      "line2": "혜원이 네이비 재킷에 로퍼도 편해 보여 👞",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 보고서는 내가 표지까지 예쁘게 할래",
-      "line2": "그럼 전 요약 한 장 더 붙여서 칭찬받을래요 😏",
+      "line1": "경훈씨 생각하면 야근도 하나도 안 힘들어",
+      "line2": "저도요, 경훈씨 웃음이 제 비타민이에요 💛",
       "mood1": "smile",
       "mood2": "smile"
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨랑 엘리베이터 단둘이면 어떡하죠?",
-      "line2": "숨 참다 쓰러질걸? 혜원이 상상 금지 🙈",
+      "line1": "내일은 제가 경훈씨 책상 꽃부터 바꿀래요",
+      "line2": "그럼 난 향 좋은 핸드크림 챙겨드려야지 🌸",
       "mood1": "smile",
+      "mood2": "smile"
+    },
+    {
+      "a": "jiwon",
+      "line1": "혜원이 아까 경훈씨한테 먼저 결재 올렸지?",
+      "line2": "헤헤, 언니 삐쳤어요? 내일은 양보할게요",
+      "mood1": "sad",
       "mood2": "smile"
     }
   ]
