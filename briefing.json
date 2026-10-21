@@ -1,224 +1,224 @@
 {
-  "date": "2026-10-21",
-  "updatedAt": "2026-10-21T12:15:00+09:00",
-  "region": "경기 광주",
-  "weather": {
-    "temp": 15.1,
-    "low": 12.0,
-    "high": 16.0,
-    "condition": "흐림, 오전 한때 빗방울 후 낮부터 구름많음",
-    "rainChance": "최대 60% (09~10시, 1mm 미만)",
-    "dust": "미세먼지 보통, 초미세먼지 보통",
-    "tip": "바람이 강해 체감온도가 낮아요. 얇은 니트나 가벼운 재킷을 입고, 출근길엔 작은 우산을 챙기세요.",
-    "source": "광주시청 날씨예보(기상청 단기예보), 기상청 실황"
+ "date": "2026-10-21",
+ "updatedAt": "2026-10-21T13:10:00+09:00",
+ "region": "경기 광주",
+ "weather": {
+  "temp": 15.0,
+  "low": 12.0,
+  "high": 16.0,
+  "condition": "흐림, 오전 한때 빗방울 후 낮부터 구름많음",
+  "rainChance": "최대 60% (09~10시, 1mm 미만)",
+  "dust": "미세먼지 보통, 초미세먼지 보통",
+  "tip": "바람이 강해 체감온도가 낮아요. 얇은 니트나 가벼운 재킷을 입고, 출근길엔 작은 우산을 챙기세요.",
+  "source": "광주시청 날씨예보(기상청 단기예보), 기상청 실황"
+ },
+ "breaking": [
+  {
+   "title": "'대장동 청탁자금 수수' 박영수 전 특검 징역 7년→6년 감형",
+   "url": "https://www.seoul.co.kr/news/society/law/2026/10/21/20261021500130",
+   "source": "서울신문"
   },
-  "breaking": [
-    {
-      "title": "선관위특검, '외유출장 의혹' 노태악 전 선관위원장 자택 압수수색",
-      "url": "https://www.donga.com/news/article/all/20261021/134881240/1",
-      "source": "동아일보"
-    },
-    {
-      "title": "경찰, '소방관 사망' 부천 화재 공장 압수수색",
-      "url": "https://www.hankyung.com/article/2026102157067",
-      "source": "한국경제"
-    },
-    {
-      "title": "'대장동 청탁자금 수수' 박영수 前특검 2심 징역 6년",
-      "url": "https://www.yna.co.kr/view/AKR20261021082000004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "코스피 4%대 급등에 '매수 사이드카' 발동",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/D63FN4YSGBCO5PXAGSRT5S4VUM/",
-      "source": "조선비즈"
-    },
-    {
-      "title": "유홍준, 결국 사의 표명…\"실추된 박물관 명예 바로 세우기 위해 물러날 것\"",
-      "url": "https://www.kado.net/news/articleView.html?idxno=2079478",
-      "source": "강원도민일보"
-    }
-  ],
-  "news": [
-    {
-      "title": "집안싸움, 막말, 과잉의전...‘나사 빠진’ 민주당, 민심 떠난다",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283361.html",
-      "source": "한겨레",
-      "summary": "8·17 전대 이후 계파 갈등에 잇단 실언까지 겹치며 민주당 지지율이 흔들리고 있다."
-    },
-    {
-      "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다",
-      "url": "https://www.hani.co.kr/arti/politics/assembly/1283305.html",
-      "source": "한겨레",
-      "summary": "민주당이 조희대 대법원장 탄핵 추진에 앞서 국정조사로 여론을 먼저 모으는 방안을 검토 중이다."
-    },
-    {
-      "title": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다",
-      "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/21/VS2YB4TVI5GLZK5BRZBK4BRMZ4/",
-      "source": "조선일보",
-      "summary": "북한군이 사흘간 60회 경고 사격에도 군사분계선을 계속 넘어오며 남북 긴장이 높아지고 있다."
-    },
-    {
-      "title": "“법령 검토하겠다”던 중수청장…관례 깨고 국무회의 참석",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1283271.html",
-      "source": "한겨레",
-      "summary": "중대범죄수사청장의 국무회의 참석을 두고 관례 논란이 일고 있다."
-    },
-    {
-      "title": "서울 아파트 재산세 사상 첫 3조원 돌파",
-      "url": "https://www.mk.co.kr/news/economy/12181586",
-      "source": "매일경제",
-      "summary": "서울 아파트에 부과된 재산세가 처음으로 3조원을 넘어섰다."
-    },
-    {
-      "title": "트럼프 \"러시아는 거대한 나라‥젤렌스키, 종전 합의해야\"",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6859479_36925.html",
-      "source": "MBC 뉴스",
-      "summary": "트럼프 대통령이 러시아를 '거대한 나라'라 부르며 젤렌스키 대통령에게 종전 합의를 촉구했다."
-    },
-    {
-      "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
-      "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
-      "source": "한겨레",
-      "summary": "미 중간선거를 보름 앞두고 공화당이 정권 심판론에 직면했다."
-    },
-    {
-      "title": "하루에 3척이나…호르무즈 해협서 유조선 기뢰 충돌 '비상'",
-      "url": "https://www.yna.co.kr/amp/view/AKR20261020173651079",
-      "source": "연합뉴스",
-      "summary": "호르무즈 해협에서 하루 새 유조선 3척이 기뢰와 충돌했다."
-    },
-    {
-      "title": "방화·약탈로 번진 최악의 프랑스 시위… 이민자의 역습인가",
-      "url": "https://www.chosun.com/international/europe/2026/10/21/KWUS2O2CDFFJVKPVOWBCCVMOMY/",
-      "source": "조선일보",
-      "summary": "프랑스 학생 시위가 폭력 사태로 번지며 유럽 이민 논쟁이 가열되고 있다."
-    },
-    {
-      "title": "트럼프, 중간선거 2주앞 자금전…\"선거일까지 4억달러 풀 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20261021003100071",
-      "source": "연합뉴스",
-      "summary": "트럼프 대통령이 중간선거 2주를 앞두고 선거일까지 4억 달러를 풀겠다고 밝혔다."
-    },
-    {
-      "title": "‘이란 대리 세력’ 넘어선 후티…중동분쟁 ‘태풍의 눈’으로",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1283362.html",
-      "source": "한겨레",
-      "summary": "후티 반군이 이란 대리 세력을 넘어 중동 분쟁의 핵심 변수로 떠오르고 있다는 분석이다."
-    },
-    {
-      "title": "외신 ‘AI 기업 엘리스 폭락’ 집중조명…“AI 기업 상장 참패”",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8690852",
-      "source": "KBS 뉴스",
-      "summary": "AI 인프라 기업 엘리스가 코스닥 상장 첫날 30% 넘게 폭락하자 외신들이 집중 조명했다."
-    },
-    {
-      "title": "화곡동 5평 원룸 월세가 110만원… 서울 빌라 월세지수 역대 최고 - 조선비즈",
-      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/21/TOKMLFPEMFBK5HYJWBQM5FCNPU/",
-      "source": "조선비즈",
-      "summary": "서울 빌라 월세지수가 역대 최고를 찍었고 월세 100만원 이상 계약도 11.4% 늘었다."
-    },
-    {
-      "title": "미 대출금리 상승에...9월 주택매매 계약 역대 최저",
-      "url": "https://www.ytn.co.kr/_ln/0104_202610210636544902",
-      "source": "YTN",
-      "summary": "모기지 금리 부담에 미국 9월 기존 주택 계약 지수가 66으로 역대 최저를 기록했다."
-    },
-    {
-      "title": "초호황에 숨겨진 SK하이닉스의 걱정거리… “HBM4 시장서 우위 약화”",
-      "url": "https://biz.chosun.com/it-science/ict/2026/10/21/MGHRLHJGNBCWXINTEDPQHSOALI/",
-      "source": "조선비즈",
-      "summary": "3분기 사상 최대 이익 전망 속에 HBM4 출하가 기대에 못 미치고 삼성과의 점유율 격차가 좁혀졌다."
-    },
-    {
-      "title": "마이크론 파업 예고…삼성전자·SK하이닉스 반사이익 기대",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440274",
-      "source": "연합인포맥스",
-      "summary": "마이크론 대만 D램 공장 노조의 파업 예고로 국내 반도체 기업의 가격 결정력이 커질 수 있다는 분석이 나왔다."
-    },
-    {
-      "title": "국제유가, 5개월 만에 최고치 찍고 하락‥美·이란 간 중재 기대",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6859472_36925.html",
-      "source": "MBC 뉴스",
-      "summary": "국제유가가 5개월 만의 최고치를 찍은 뒤 미국·이란 중재 기대에 하락했다."
-    },
-    {
-      "title": "스페이스X, AI 업고 3분기 실적 호조…시간외서 주가 4%대 급등",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440241",
-      "source": "연합인포맥스",
-      "summary": "스페이스X가 AI 수요에 힘입어 호실적을 내며 시간외 주가가 올랐다."
-    },
-    {
-      "title": "슈퍼마이크로컴퓨터, 매출 가이던스 상향에 시간외 13% 급등",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440246",
-      "source": "연합인포맥스",
-      "summary": "AI 서버 업체 슈퍼마이크로가 매출 전망을 대폭 올려 주가가 급등했다."
-    },
-    {
-      "title": "국감 나온 5대 시중은행장…‘정보 유출 피해 보상안’에 질타 쏟아진 이유 [잇슈 머니]",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690890",
-      "source": "KBS 뉴스",
-      "summary": "국감에 출석한 5대 시중은행장들이 정보 유출 피해 보상안을 두고 질타를 받았다."
-    },
-    {
-      "title": "대미투자 1호 ‘텍사스 발전 사업’ 괜찮나···미국서 AI 투자 거품론 확산",
-      "url": "https://www.khan.co.kr/article/202610210600091",
-      "source": "경향신문",
-      "summary": "미국 AI 투자 거품론 속에 대미투자 1호 텍사스 가스발전 사업의 수익성 논란이 다시 일고 있다."
-    },
-    {
-      "title": "금융사고 449억원 중 406억원이 국민은행…무슨 짓 했길래",
-      "url": "https://www.kyeonggi.com/article/20261021580008",
-      "source": "경기일보",
-      "summary": "최근 5년 5대 은행 대출 금융사고 449억원 중 406억원이 KB국민은행에 몰렸다."
-    },
-    {
-      "title": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽",
-      "url": "https://www.hankyung.com/article/2026102041421",
-      "source": "한국경제",
-      "summary": "일해도 소득 차이가 25%뿐인 EU 복지 구조 속에 '그냥 쉼'이 확산하고 있다는 분석이다."
-    },
-    {
-      "title": "나이지리아서도 에볼라 확진…우간다서 입국한 여성",
-      "url": "https://www.yna.co.kr/view/AKR20261021003500099",
-      "source": "연합뉴스",
-      "summary": "우간다에서 입국한 여성이 나이지리아에서 에볼라 확진 판정을 받았다."
-    },
-    {
-      "title": "이란 안보수장 \"핵물질 한 줌도 못내줘‥요구조건 이행해야 협상\"",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6859482_36925.html",
-      "source": "MBC 뉴스",
-      "summary": "이란 안보수장이 핵물질은 한 줌도 내줄 수 없다며 요구조건 이행을 협상 조건으로 걸었다."
-    },
-    {
-      "title": "DMZ 조사까지 막은 유엔사 ‘관할권 옥죄기’…남방한계선 조정 요구",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283291.html",
-      "source": "한겨레",
-      "summary": "유엔사가 DMZ 남방한계선 조정을 요구하는 등 관할권 통제를 강화하고 있다."
-    },
-    {
-      "title": "일론 머스크 \"스페이스X·테슬라 합병 논의…장점 많아\"",
-      "url": "https://www.hankyung.com/article/202610214579i",
-      "source": "한국경제",
-      "summary": "머스크가 스페이스X 컨퍼런스콜에서 테슬라와의 합병 논의가 진행 중이라고 밝혔다."
-    },
-    {
-      "title": "역대 PS 최장 비거리 타이, 김도영 145m 초대형 만루포",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885",
-      "source": "KBS 뉴스",
-      "summary": "KIA가 준PO를 3연승으로 끝낸 가운데 김도영의 145m 만루포가 PS 최장 비거리 타이 기록을 세웠다."
-    },
-    {
-      "title": "'알파고에 1승' 이세돌, 바둑기사 은퇴 이유는 'AI'",
-      "url": "https://www.mk.co.kr/news/broadcasting-service/12181335",
-      "source": "매일경제",
-      "summary": "이세돌이 방송에서 바둑기사 은퇴의 이유로 AI를 꼽았다."
-    },
-    {
-      "title": "창원 의료기관 혈액투석실서 C형간염 14명 집단감염",
-      "url": "https://www.hani.co.kr/arti/society/health/1283392.html",
-      "source": "한겨레",
-      "summary": "창원의 한 의료기관 투석실에서 C형간염 집단 감염이 확인됐다."
-    }
-  ]
+  {
+   "title": "선관위 특검, '외유성 출장 의혹' 노태악 주거지 압수수색",
+   "url": "https://www.khan.co.kr/article/202610211228001",
+   "source": "경향신문"
+  },
+  {
+   "title": "경찰, '소방관 사망' 부천 화재 공장 압수수색",
+   "url": "https://www.hankyung.com/article/2026102157067",
+   "source": "한국경제"
+  },
+  {
+   "title": "유홍준, 결국 사의 표명…\"실추된 박물관 명예 바로 세우기 위해 물러날 것\"",
+   "url": "https://www.kado.net/news/articleView.html?idxno=2079478",
+   "source": "강원도민일보"
+  },
+  {
+   "title": "코스피, 장중 4%대 급등에 매수 사이드카 발동",
+   "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/D63FN4YSGBCO5PXAGSRT5S4VUM/",
+   "source": "조선비즈"
+  }
+ ],
+ "news": [
+  {
+   "title": "10월 초중순 수출액 1년 전의 두 배... 일평균 47억불 역대 최대",
+   "url": "https://www.chosun.com/economy/economy_general/2026/10/21/AVKKHS2IO5CJ5MQDSNCSNBBJJE/",
+   "source": "조선일보",
+   "summary": "10월 1~20일 수출 616억 달러, 반도체가 222% 늘며 일평균 수출 역대 최고를 기록했다."
+  },
+  {
+   "title": "비정규직 38.5% 역대 최대…임금 격차는 더 벌어져",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691280",
+   "source": "KBS 뉴스",
+   "summary": "임금근로자 열 명 중 네 명 가까이가 비정규직으로, 통계 작성 이후 최대 비중이다."
+  },
+  {
+   "title": "이 대통령, '명예훼손 혐의' 유시민 처벌 불원 의사 경찰에 전달",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8691270",
+   "source": "KBS 뉴스",
+   "summary": "허위사실 명예훼손 혐의로 고발된 유시민 작가에 대해 대통령이 처벌을 원하지 않는다는 뜻을 밝혔다."
+  },
+  {
+   "title": "집안싸움, 막말, 과잉의전...‘나사 빠진’ 민주당, 민심 떠난다",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1283361.html",
+   "source": "한겨레",
+   "summary": "8·17 전대 이후 계파 갈등에 잇단 실언까지 겹치며 민주당 지지율이 흔들리고 있다."
+  },
+  {
+   "title": "민주, ‘조희대 탄핵’ 앞서 국정조사 검토…역풍 맞을라 여론부터 키운다",
+   "url": "https://www.hani.co.kr/arti/politics/assembly/1283305.html",
+   "source": "한겨레",
+   "summary": "민주당이 조희대 대법원장 탄핵 추진에 앞서 국정조사로 여론을 먼저 모으는 방안을 검토 중이다."
+  },
+  {
+   "title": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다",
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/21/VS2YB4TVI5GLZK5BRZBK4BRMZ4/",
+   "source": "조선일보",
+   "summary": "북한군이 사흘간 60회 경고 사격에도 군사분계선을 계속 넘어오며 남북 긴장이 높아지고 있다."
+  },
+  {
+   "title": "“법령 검토하겠다”던 중수청장…관례 깨고 국무회의 참석",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1283271.html",
+   "source": "한겨레",
+   "summary": "중대범죄수사청장의 국무회의 참석을 두고 관례 논란이 일고 있다."
+  },
+  {
+   "title": "서울 아파트 재산세 사상 첫 3조원 돌파",
+   "url": "https://www.mk.co.kr/news/economy/12181586",
+   "source": "매일경제",
+   "summary": "서울 아파트에 부과된 재산세가 처음으로 3조원을 넘어섰다."
+  },
+  {
+   "title": "트럼프 \"러시아는 거대한 나라‥젤렌스키, 종전 합의해야\"",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6859479_36925.html",
+   "source": "MBC 뉴스",
+   "summary": "트럼프 대통령이 러시아를 '거대한 나라'라 부르며 젤렌스키 대통령에게 종전 합의를 촉구했다."
+  },
+  {
+   "title": "하루에 3척이나…호르무즈 해협서 유조선 기뢰 충돌 '비상'",
+   "url": "https://www.yna.co.kr/amp/view/AKR20261020173651079",
+   "source": "연합뉴스",
+   "summary": "호르무즈 해협에서 하루 새 유조선 3척이 기뢰와 충돌했다."
+  },
+  {
+   "title": "방화·약탈로 번진 최악의 프랑스 시위… 이민자의 역습인가",
+   "url": "https://www.chosun.com/international/europe/2026/10/21/KWUS2O2CDFFJVKPVOWBCCVMOMY/",
+   "source": "조선일보",
+   "summary": "프랑스 학생 시위가 폭력 사태로 번지며 유럽 이민 논쟁이 가열되고 있다."
+  },
+  {
+   "title": "트럼프, 중간선거 2주앞 자금전…\"선거일까지 4억달러 풀 것\"",
+   "url": "https://www.yna.co.kr/view/AKR20261021003100071",
+   "source": "연합뉴스",
+   "summary": "트럼프 대통령이 중간선거 2주를 앞두고 선거일까지 4억 달러를 풀겠다고 밝혔다."
+  },
+  {
+   "title": "‘이란 대리 세력’ 넘어선 후티…중동분쟁 ‘태풍의 눈’으로",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1283362.html",
+   "source": "한겨레",
+   "summary": "후티 반군이 이란 대리 세력을 넘어 중동 분쟁의 핵심 변수로 떠오르고 있다는 분석이다."
+  },
+  {
+   "title": "외신 ‘AI 기업 엘리스 폭락’ 집중조명…“AI 기업 상장 참패”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8690852",
+   "source": "KBS 뉴스",
+   "summary": "AI 인프라 기업 엘리스가 코스닥 상장 첫날 30% 넘게 폭락하자 외신들이 집중 조명했다."
+  },
+  {
+   "title": "화곡동 5평 원룸 월세가 110만원… 서울 빌라 월세지수 역대 최고 - 조선비즈",
+   "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/21/TOKMLFPEMFBK5HYJWBQM5FCNPU/",
+   "source": "조선비즈",
+   "summary": "서울 빌라 월세지수가 역대 최고를 찍었고 월세 100만원 이상 계약도 11.4% 늘었다."
+  },
+  {
+   "title": "11월19일 수능…출근은 10시 이후, 영어 듣기 땐 항공기·포 사격 멈춘다",
+   "url": "https://www.hani.co.kr/arti/society/schooling/1283209.html",
+   "source": "한겨레",
+   "summary": "수능 당일 관공서·기업 출근을 오전 10시 이후로 늦추고 영어 듣기 시간엔 항공기 이착륙을 조정한다."
+  },
+  {
+   "title": "내륙 대부분 한파주의보‥내일 서울 아침 최저 5도",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6859566_36918.html",
+   "source": "MBC 뉴스",
+   "summary": "내륙 대부분에 한파주의보가 내려졌고 내일 서울 아침 기온이 5도까지 떨어진다."
+  },
+  {
+   "title": "초호황에 숨겨진 SK하이닉스의 걱정거리… “HBM4 시장서 우위 약화”",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/21/MGHRLHJGNBCWXINTEDPQHSOALI/",
+   "source": "조선비즈",
+   "summary": "3분기 사상 최대 이익 전망 속에 HBM4 출하가 기대에 못 미치고 삼성과의 점유율 격차가 좁혀졌다."
+  },
+  {
+   "title": "마이크론 파업 예고…삼성전자·SK하이닉스 반사이익 기대",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440274",
+   "source": "연합인포맥스",
+   "summary": "마이크론 대만 D램 공장 노조의 파업 예고로 국내 반도체 기업의 가격 결정력이 커질 수 있다는 분석이 나왔다."
+  },
+  {
+   "title": "국제유가, 5개월 만에 최고치 찍고 하락‥美·이란 간 중재 기대",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6859472_36925.html",
+   "source": "MBC 뉴스",
+   "summary": "국제유가가 5개월 만의 최고치를 찍은 뒤 미국·이란 중재 기대에 하락했다."
+  },
+  {
+   "title": "스페이스X, AI 업고 3분기 실적 호조…시간외서 주가 4%대 급등",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440241",
+   "source": "연합인포맥스",
+   "summary": "스페이스X가 AI 수요에 힘입어 호실적을 내며 시간외 주가가 올랐다."
+  },
+  {
+   "title": "국감 나온 5대 시중은행장…‘정보 유출 피해 보상안’에 질타 쏟아진 이유 [잇슈 머니]",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690890",
+   "source": "KBS 뉴스",
+   "summary": "국감에 출석한 5대 시중은행장들이 정보 유출 피해 보상안을 두고 질타를 받았다."
+  },
+  {
+   "title": "대미투자 1호 ‘텍사스 발전 사업’ 괜찮나···미국서 AI 투자 거품론 확산",
+   "url": "https://www.khan.co.kr/article/202610210600091",
+   "source": "경향신문",
+   "summary": "미국 AI 투자 거품론 속에 대미투자 1호 텍사스 가스발전 사업의 수익성 논란이 다시 일고 있다."
+  },
+  {
+   "title": "금융사고 449억원 중 406억원이 국민은행…무슨 짓 했길래",
+   "url": "https://www.kyeonggi.com/article/20261021580008",
+   "source": "경기일보",
+   "summary": "최근 5년 5대 은행 대출 금융사고 449억원 중 406억원이 KB국민은행에 몰렸다."
+  },
+  {
+   "title": "나이지리아서도 에볼라 확진…우간다서 입국한 여성",
+   "url": "https://www.yna.co.kr/view/AKR20261021003500099",
+   "source": "연합뉴스",
+   "summary": "우간다에서 입국한 여성이 나이지리아에서 에볼라 확진 판정을 받았다."
+  },
+  {
+   "title": "이란 안보수장 \"핵물질 한 줌도 못내줘‥요구조건 이행해야 협상\"",
+   "url": "https://imnews.imbc.com/news/2026/world/article/6859482_36925.html",
+   "source": "MBC 뉴스",
+   "summary": "이란 안보수장이 핵물질은 한 줌도 내줄 수 없다며 요구조건 이행을 협상 조건으로 걸었다."
+  },
+  {
+   "title": "일론 머스크 \"스페이스X·테슬라 합병 논의…장점 많아\"",
+   "url": "https://www.hankyung.com/article/202610214579i",
+   "source": "한국경제",
+   "summary": "머스크가 스페이스X 컨퍼런스콜에서 테슬라와의 합병 논의가 진행 중이라고 밝혔다."
+  },
+  {
+   "title": "역대 PS 최장 비거리 타이, 김도영 145m 초대형 만루포",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885",
+   "source": "KBS 뉴스",
+   "summary": "KIA가 준PO를 3연승으로 끝낸 가운데 김도영의 145m 만루포가 PS 최장 비거리 타이 기록을 세웠다."
+  },
+  {
+   "title": "'알파고에 1승' 이세돌, 바둑기사 은퇴 이유는 'AI'",
+   "url": "https://www.mk.co.kr/news/broadcasting-service/12181335",
+   "source": "매일경제",
+   "summary": "이세돌이 방송에서 바둑기사 은퇴의 이유로 AI를 꼽았다."
+  },
+  {
+   "title": "창원 의료기관 혈액투석실서 C형간염 14명 집단감염",
+   "url": "https://www.hani.co.kr/arti/society/health/1283392.html",
+   "source": "한겨레",
+   "summary": "창원의 한 의료기관 투석실에서 C형간염 집단 감염이 확인됐다."
+  }
+ ]
 }
