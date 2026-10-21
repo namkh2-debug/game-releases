@@ -1,91 +1,101 @@
 {
-  "updatedAt": "2026-10-21T14:15:00+09:00",
+  "updatedAt": "2026-10-21T15:06:00+09:00",
   "topics": [
-    "메이플 클래식 월드",
-    "코스피 반등",
-    "화담숲 가을 성수기",
-    "거장항준",
-    "나의 유죄인간",
-    "썸 농담",
+    "콜 오브 듀티 MW4",
+    "플레이오프 CGV 생중계",
+    "한화 시즌 마무리",
+    "더숲 초소책방",
+    "롤드컵 스위스 스테이지",
+    "어묵탕",
     "그레이 코트·니트 원피스",
-    "향수 경쟁",
-    "유자차 질투",
-    "경훈씨 보고 싶음"
+    "립·보고서 경쟁",
+    "경훈씨 덕분에"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "메이플 클래식 월드, 내일 새벽 3시 글로벌 오픈!",
-      "line2": "언니 설마 알람 맞춰놓고 접속해요? 😆",
-      "mood1": "smile",
-      "mood2": "surprised"
-    },
-    {
-      "a": "jiwon",
-      "line1": "코스피가 하루 만에 4% 반등했대, 사이드카까지",
-      "line2": "어제 울상이던 언니 얼굴 오늘 활짝 폈네 📈",
+      "line1": "콜 오브 듀티 MW4, 23일에 스위치2로도 나온대!",
+      "line2": "언니 주말에 또 밤새겠네요 ㅋㅋ",
       "mood1": "surprised",
       "mood2": "smile",
-      "url": "https://www.khan.co.kr/article/202610211104001"
-    },
-    {
-      "a": "hyewon",
-      "line1": "화담숲 23일부터 가을 성수기래요, 단풍 시작!",
-      "line2": "모노레일은 따로 예약해야 한다며? 서두르자 🍁",
-      "mood1": "smile",
-      "mood2": "neutral",
-      "url": "https://www.wanju.go.kr/atc/planweb/board/view.9is?boardUid=ff808081898ba9ba018a20131c130431&contentUid=ff808081898ba9ba0189f1c965240153&dataUid=4028a6029dcd686101a10c93bc6872b5&page=1&subPath=%2Fatc&tmpField14="
-    },
-    {
-      "a": "hyewon",
-      "line1": "'거장항준' 김풍 조감독 너무 웃겨요 ㅋㅋ",
-      "line2": "장항준 감독 하소연이 제일 웃기더라 🤣",
-      "mood1": "smile",
-      "mood2": "smile",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013229"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'나의 유죄인간' 설인아 남장 비서 역이래요",
-      "line2": "비서 얘기라니 왠지 남 일 같지 않다 😊",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "url": "https://www.heraldmuse.com/article/10907254"
+      "pose1": "cheer",
+      "pose2": "laugh",
+      "url": "https://ssalmuk.com/game-event/post/2026-w46-roundup"
     },
     {
       "a": "jiwon",
-      "line1": "드라마처럼 대표님이랑 비서 눈 맞으면 어떡해?",
-      "line2": "언니, 얼굴 빨개진 거 다 보여요 😳",
+      "line1": "삼성·기아 플레이오프, CGV서 극장 생중계한대",
+      "line2": "오늘 4시 반 예매래요, 팝콘 각이다 🍿",
       "mood1": "smile",
-      "mood2": "surprised"
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "thumbs",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253158"
     },
     {
       "a": "hyewon",
-      "line1": "언니 오늘 그레이 코트에 니트 원피스랑 찰떡이죠?",
-      "line2": "너 니트 원피스도 오후 내내 예쁘다 🍂",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 우디 향수? 전 내일 머스크 향으로 승부!",
-      "line2": "흥, 경훈씨는 내 향을 먼저 알아보실걸 😏",
-      "mood1": "smile",
-      "mood2": "smile"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 간식으로 유자차 제가 먼저 챙겼어요!",
-      "line2": "치, 나 쿠키 들고 가려 했는데… 이번만 봐준다",
-      "mood1": "smile",
-      "mood2": "sad"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 회의 들어가시니 사무실이 텅 빈 것 같아",
-      "line2": "저도요, 문 쪽만 자꾸 보게 돼요 💛",
+      "line1": "근데 한화는 올해 9위로 끝나서 너무 아쉬워요",
+      "line2": "그러게, 내년엔 꼭 가을야구 보자 🦅",
       "mood1": "sad",
-      "mood2": "smile"
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "cheer",
+      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009326"
+    },
+    {
+      "a": "hyewon",
+      "line1": "인왕산 '더숲 초소책방' 단풍뷰가 그렇게 예쁘대요",
+      "line2": "경찰 초소였던 곳이라며? 운동화 신고 가자 👟",
+      "mood1": "smile",
+      "mood2": "surprised",
+      "pose1": "charm",
+      "pose2": "think"
+    },
+    {
+      "a": "jiwon",
+      "line1": "롤드컵 LCK 팀들, 24일 스위스 스테이지 합류래",
+      "line2": "언니 응원봉 벌써 꺼내 둔 거 다 알아요 😆",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "wave",
+      "pose2": "laugh",
+      "url": "https://www.inven.co.kr/webzine/news/?news=321970"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘 저녁엔 따끈한 어묵탕 끓여 먹고 싶다",
+      "line2": "언니 요리 사진 꼭 보내줘요, 침 고여요 🍢",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "coffee"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니 그레이 코트, 오후 되니 더 분위기 있어요",
+      "line2": "네 니트 원피스야말로 오늘 반칙이거든 🍂",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "look",
+      "pose2": "look"
+    },
+    {
+      "a": "hyewon",
+      "line1": "저 퇴근 전에 립 다시 바르고 경훈씨 배웅할래요",
+      "line2": "흥, 나는 보고서에 리본까지 묶어 드릴 거야",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "squabble"
+    },
+    {
+      "a": "jiwon",
+      "line1": "경훈씨 웃으시는 거 보면 피곤이 싹 풀려",
+      "line2": "맞아요, 오늘도 경훈씨 덕분에 버텼어요 💛",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "heart",
+      "pose2": "love"
     }
   ]
 }
