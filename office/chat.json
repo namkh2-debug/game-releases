@@ -1,110 +1,14 @@
-{
-  "updatedAt": "2026-10-21T23:20:00+09:00",
-  "topics": [
-    "닥터X 화제성 1위",
-    "100일의 거짓말 김유정",
-    "템빨: 오버기어드 이름 선점",
-    "스페이스X 주가 급등",
-    "스타벅스 겨울 음료",
-    "그레이 코트·니트 원피스",
-    "동시에 저요 질투",
-    "경훈씨 보고 싶음",
-    "야근 커피 경쟁"
-  ],
-  "exchanges": [
-    {
-      "a": "hyewon",
-      "line1": "닥터X 화제성 2주 연속 1위래요!",
-      "line2": "4회에 18.5%라니 나도 정주행 각이다",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "thumbs",
-      "url": "https://tvreport.co.kr/entertainment/article/1084555/"
-    },
-    {
-      "a": "hyewon",
-      "line1": "100일의 거짓말 김유정 연기 미쳤어요",
-      "line2": "음악도 좋다더라, 주말에 같이 보자",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "look",
-      "url": "https://www.mt.co.kr/entertainment/2026/10/21/2026102109397277743"
-    },
-    {
-      "a": "jiwon",
-      "line1": "템빨 오버기어드 이름 선점 시작했대",
-      "line2": "언니 벌써 닉네임 세 개 적어놨죠?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "laugh",
-      "url": "https://www.dailygame.co.kr/view.php?ud=20261021113328656343da15d9d2_26"
-    },
-    {
-      "a": "jiwon",
-      "line1": "스페이스X 실적 좋아서 주가 급등이래",
-      "line2": "언니 주식 앱 또 열었다 ㅋㅋ",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee",
-      "url": "https://newspim.com/news/view/20261021001326"
-    },
-    {
-      "a": "hyewon",
-      "line1": "스벅 겨울 음료 내일 나온대요 ☕",
-      "line2": "토피 넛 라떼는 내가 먼저 마셔볼래",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "cheer"
-    },
-    {
-      "a": "jiwon",
-      "line1": "그레이 코트 덕에 퇴근길도 든든해",
-      "line2": "제 니트 원피스도 아직 따뜻해요 🍂",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "charm"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 아까 \"저요!\" 저보다 빨랐죠?",
-      "line2": "흥, 반반이니까 칭찬도 반반이야 ㅋ",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "squabble"
-    },
-    {
-      "a": "jiwon",
-      "line1": "이 시간 되니까 경훈씨 보고 싶다",
-      "line2": "저도요… 내일 아침 제일 먼저 인사할래요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "love",
-      "pose2": "heart"
-    },
-    {
-      "a": "hyewon",
-      "line1": "내일 경훈씨 커피 제가 내릴 거예요",
-      "line2": "난 보고서에 하트 포스트잇 붙일 거야",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "faceoff",
-      "pose2": "highfive"
-    },
-    {
-      "a": "jiwon",
-      "line1": "밤엔 왜 다들 마음이 말랑해질까?",
-      "line2": "언니 지금 썸 타는 얼굴인데요? 😏",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "laugh"
-    }
-  ]
-}
+{"updatedAt":"2026-10-22T06:15:00+09:00",
+"topics":["바이오웨어 폐쇄","테슬라·메타 실적","김연경 MAMA 시상자","태극당 모나카 디저트","호빵맨 밤단팥호빵","카멜 코트·아이보리 숏패딩","경훈씨 생각에 힘남","아침 커피 경쟁","목도리 설렘","아침 인사"],
+"exchanges":[
+{"a":"hyewon","line1":"좋은 아침이에요 언니, 오늘도 화이팅!","line2":"응, 경훈씨 오시면 환하게 맞이하자","mood1":"smile","mood2":"smile","pose1":"wave","pose2":"cheer"},
+{"a":"jiwon","line1":"바이오웨어가 30년 만에 문 닫는대","line2":"매스 이펙트 신작까지 멈췄다니 아쉬워요","mood1":"sad","mood2":"sad","pose1":"talkto","pose2":"none","url":"https://www.inven.co.kr/webzine/news/?news=322409"},
+{"a":"jiwon","line1":"테슬라·메타 실적 둘 다 예상 넘었대","line2":"언니 주식창 보며 웃는 거 다 보여요","mood1":"smile","mood2":"smile","pose1":"thumbs","pose2":"laugh","url":"https://news.mtn.co.kr/news-detail/2026102205282424740"},
+{"a":"hyewon","line1":"김연경 선수 MAMA 시상자로 나온대요!","line2":"예능 대세답다, 무대에서도 멋지겠다","mood1":"surprised","mood2":"smile","pose1":"talkto","pose2":"clap","url":"https://enews.imbc.com/News/ViewAmp/521928"},
+{"a":"hyewon","line1":"창고43이 태극당 찹쌀 모나카 냈대요","line2":"한우 먹고 모나카라니 완벽한 코스네","mood1":"smile","mood2":"smile","pose1":"charm","pose2":"thumbs","url":"https://www.enewstoday.co.kr/news/articleView.html?idxno=2483052"},
+{"a":"jiwon","line1":"GS25에 호빵맨 밤단팥호빵 나왔더라","line2":"출근길에 하나씩 따끈하게 사 먹어요","mood1":"smile","mood2":"smile","pose1":"coffee","pose2":"coffee","url":"https://www.seoulfn.com/news/articleView.html?idxno=640670"},
+{"a":"hyewon","line1":"언니 오늘 카멜 롱코트 진짜 잘 어울려요","line2":"너도 아이보리 숏패딩 귀엽다, 포근해 보여","mood1":"smile","mood2":"smile","pose1":"look","pose2":"look"},
+{"a":"jiwon","line1":"아침에 경훈씨 얼굴 떠올리니 힘이 나","line2":"저도요, 경훈씨는 제 하루 시작 버튼이에요","mood1":"smile","mood2":"smile","pose1":"heart","pose2":"love"},
+{"a":"hyewon","line1":"오늘 경훈씨 첫 커피는 제가 타드릴래요","line2":"흥, 난 호빵 데워서 같이 드릴 건데?","mood1":"smile","mood2":"smile","pose1":"squabble","pose2":"squabble"},
+{"a":"jiwon","line1":"경훈씨 목도리 둘러드리면 설레실까?","line2":"언니 그러다 얼굴 빨개질걸요, 저처럼","mood1":"smile","mood2":"smile","pose1":"charm","pose2":"laugh"}
+]}
