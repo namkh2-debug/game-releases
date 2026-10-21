@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "updatedAt": "2026-10-21T09:06:36+09:00",
+ "updatedAt": "2026-10-21T10:07:18+09:00",
  "region": "경기 광주",
  "weather": {
   "temp": 13.2,
@@ -14,29 +14,29 @@
  },
  "breaking": [
   {
-   "title": "코스피, 113.60p(2.05%) 오른 5666.34 출발",
-   "url": "https://www.fnnews.com/news/202610210859123433",
-   "source": "파이낸셜뉴스"
+   "title": "남양주 21층짜리 아파트 5층서 '충전 중' 전기자전거에 불…주민들 대피",
+   "url": "https://www.dt.co.kr/article/12090278",
+   "source": "디지털타임스"
   },
   {
-   "title": "10월 1~20일 수출액 616억달러 ‘역대 최대’…반도체 222.5%↑",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=02765046645615216&mediaCodeNo=257",
-   "source": "이데일리"
+   "title": "민주당 최고위, '소방 재정 빨대' 추미애·부승찬 '경고' 결정",
+   "url": "https://www.khan.co.kr/article/202610210950001",
+   "source": "경향신문"
   },
   {
-   "title": "부산서 무궁화호 열차에 70대 남성 치어 숨져…‘선로 진입 경위 조사중’",
-   "url": "https://www.munhwa.com/article/11624994",
-   "source": "문화일보"
+   "title": "경찰 \"역삼동 방화범 범행 시인…'특허법인에 겁 주려고' 진술\"",
+   "url": "https://www.hankyung.com/article/2026102151947",
+   "source": "한국경제"
   },
   {
-   "title": "한동훈, 차기 대선 적합도 18.7%…무당층·중도층에서도 가장 높아",
-   "url": "https://www.munhwa.com/article/11624981",
-   "source": "문화일보"
+   "title": "삼전닉스 반등에 코스피 장 초반 3%대 급등…코스닥도 2.61%↑",
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2308349",
+   "source": "대전일보"
   },
   {
-   "title": "서울 아파트 재산세 3조 돌파",
-   "url": "https://magazine.hankyung.com/business/article/202610214685b",
-   "source": "한경매거진"
+   "title": "10월 1∼20일 수출 616억달러, 105.4% 증가…일평균 65.9%↑",
+   "url": "https://www.joongang.co.kr/article/25471501",
+   "source": "중앙일보"
   }
  ],
  "news": [
@@ -63,6 +63,24 @@
    "url": "https://imnews.imbc.com/news/2026/world/article/6859479_36925.html",
    "source": "MBC 뉴스",
    "summary": "트럼프 대통령이 러시아를 '거대한 나라'라 부르며 젤렌스키 대통령에게 종전 합의를 촉구했다."
+  },
+  {
+   "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
+   "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+   "source": "한겨레",
+   "summary": "미 중간선거를 보름 앞두고 공화당이 정권 심판론에 직면했다."
+  },
+  {
+   "title": "하루에 3척이나…호르무즈 해협서 유조선 기뢰 충돌 '비상'",
+   "url": "https://www.yna.co.kr/amp/view/AKR20261020173651079",
+   "source": "연합뉴스",
+   "summary": "호르무즈 해협에서 하루 새 유조선 3척이 기뢰와 충돌했다."
+  },
+  {
+   "title": "방화·약탈로 번진 최악의 프랑스 시위… 이민자의 역습인가",
+   "url": "https://www.chosun.com/international/europe/2026/10/21/KWUS2O2CDFFJVKPVOWBCCVMOMY/",
+   "source": "조선일보",
+   "summary": "프랑스 학생 시위가 폭력 사태로 번지며 유럽 이민 논쟁이 가열되고 있다."
   },
   {
    "title": "트럼프, 중간선거 2주앞 자금전…\"선거일까지 4억달러 풀 것\"",
@@ -113,6 +131,18 @@
    "summary": "국제유가가 5개월 만의 최고치를 찍은 뒤 미국·이란 중재 기대에 하락했다."
   },
   {
+   "title": "스페이스X, AI 업고 3분기 실적 호조…시간외서 주가 4%대 급등",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440241",
+   "source": "연합인포맥스",
+   "summary": "스페이스X가 AI 수요에 힘입어 호실적을 내며 시간외 주가가 올랐다."
+  },
+  {
+   "title": "슈퍼마이크로컴퓨터, 매출 가이던스 상향에 시간외 13% 급등",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440246",
+   "source": "연합인포맥스",
+   "summary": "AI 서버 업체 슈퍼마이크로가 매출 전망을 대폭 올려 주가가 급등했다."
+  },
+  {
    "title": "국감 나온 5대 시중은행장…‘정보 유출 피해 보상안’에 질타 쏟아진 이유 [잇슈 머니]",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690890",
    "source": "KBS 뉴스",
@@ -129,18 +159,6 @@
    "url": "https://www.kyeonggi.com/article/20261021580008",
    "source": "경기일보",
    "summary": "최근 5년 5대 은행 대출 금융사고 449억원 중 406억원이 KB국민은행에 몰렸다."
-  },
-  {
-   "title": "대한야구소프트볼협회, 임원 배우자 업체에 국고보조금 사업 몰아주기 의혹",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8690883",
-   "source": "KBS 뉴스",
-   "summary": "대한야구소프트볼협회가 임원 배우자 업체에 국고보조금 사업을 몰아줬다는 의혹이 제기됐다."
-  },
-  {
-   "title": "명절 농·축산물 가격 상승에 9월 생산자물가 0.2% 올라",
-   "url": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do?no=105475&siteId=1",
-   "source": "한국무역협회",
-   "summary": "추석 명절 농·축산물 가격이 오르며 9월 생산자물가가 전월보다 0.2% 상승했다."
   },
   {
    "title": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽",
@@ -161,12 +179,6 @@
    "summary": "캐나다 앨버타주 분리독립 추진 주민투표가 부결돼 캐나다 잔류가 결정됐다."
   },
   {
-   "title": "美국방 \"우리가 우크라 스타실드 제한? 그런 적 없어\"",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021070207a0J",
-   "source": "연합뉴스TV",
-   "summary": "헤그세스 미 국방장관이 우크라이나용 스타실드 속도 제한 주장을 부인했다."
-  },
-  {
    "title": "美 민주 \"하원 탈환시 머스크 정조준\"…전방위 조사 예고",
    "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021034224Y6O",
    "source": "연합뉴스TV",
@@ -177,12 +189,6 @@
    "url": "https://imnews.imbc.com/news/2026/world/article/6859482_36925.html",
    "source": "MBC 뉴스",
    "summary": "이란 안보수장이 핵물질은 한 줌도 내줄 수 없다며 요구조건 이행을 협상 조건으로 걸었다."
-  },
-  {
-   "title": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
-   "url": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/",
-   "source": "조선일보",
-   "summary": "미 육군이 중국과 분쟁 시 첫날부터 총전력을 투입하는 새 전투 지침을 공개했다."
   },
   {
    "title": "DMZ 조사까지 막은 유엔사 ‘관할권 옥죄기’…남방한계선 조정 요구",
@@ -197,22 +203,22 @@
    "summary": "머스크가 스페이스X 컨퍼런스콜에서 테슬라와의 합병 논의가 진행 중이라고 밝혔다."
   },
   {
-   "title": "‘오픈AI 도청’ 사우디 직원, 왕실-군부 연계 정황",
-   "url": "https://www.donga.com/news/Inter/article/all/20261020/134878621/2",
-   "source": "동아일보",
-   "summary": "오픈AI 도청 의혹을 받는 사우디 출신 직원이 왕실·군부와 연계된 정황이 드러났다."
-  },
-  {
-   "title": "위생적이라 썼는데… 플라스틱 도마 칼질에 ‘미세플라스틱 연 7000만 개’ 체내 유입 [헬스&라이프]",
-   "url": "https://www.segye.com/newsView/20261020519974",
-   "source": "세계일보",
-   "summary": "플라스틱 도마 칼질로 연간 미세플라스틱 7000만 개가 몸에 들어올 수 있어 관리가 중요하다."
-  },
-  {
    "title": "역대 PS 최장 비거리 타이, 김도영 145m 초대형 만루포",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885",
    "source": "KBS 뉴스",
    "summary": "KIA가 준PO를 3연승으로 끝낸 가운데 김도영의 145m 만루포가 PS 최장 비거리 타이 기록을 세웠다."
+  },
+  {
+   "title": "핼러윈 인파관리 특별대책기간 운영(10.23.~11.1.)",
+   "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148973981&pWise=sub&pWiseSub=C2",
+   "source": "대한민국 정책브리핑",
+   "summary": "정부가 23일부터 11월 1일까지 핼러윈 인파 관리 특별대책을 운영한다."
+  },
+  {
+   "title": "'알파고에 1승' 이세돌, 바둑기사 은퇴 이유는 'AI'",
+   "url": "https://www.mk.co.kr/news/broadcasting-service/12181335",
+   "source": "매일경제",
+   "summary": "이세돌이 방송에서 바둑기사 은퇴의 이유로 AI를 꼽았다."
   }
  ]
 }
