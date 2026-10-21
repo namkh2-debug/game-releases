@@ -1,14 +1,112 @@
-{"updatedAt":"2026-10-22T06:15:00+09:00",
-"topics":["바이오웨어 폐쇄","테슬라·메타 실적","김연경 MAMA 시상자","태극당 모나카 디저트","호빵맨 밤단팥호빵","카멜 코트·아이보리 숏패딩","경훈씨 생각에 힘남","아침 커피 경쟁","목도리 설렘","아침 인사"],
-"exchanges":[
-{"a":"hyewon","line1":"좋은 아침이에요 언니, 오늘도 화이팅!","line2":"응, 경훈씨 오시면 환하게 맞이하자","mood1":"smile","mood2":"smile","pose1":"wave","pose2":"cheer"},
-{"a":"jiwon","line1":"바이오웨어가 30년 만에 문 닫는대","line2":"매스 이펙트 신작까지 멈췄다니 아쉬워요","mood1":"sad","mood2":"sad","pose1":"talkto","pose2":"none","url":"https://www.inven.co.kr/webzine/news/?news=322409"},
-{"a":"jiwon","line1":"테슬라·메타 실적 둘 다 예상 넘었대","line2":"언니 주식창 보며 웃는 거 다 보여요","mood1":"smile","mood2":"smile","pose1":"thumbs","pose2":"laugh","url":"https://news.mtn.co.kr/news-detail/2026102205282424740"},
-{"a":"hyewon","line1":"김연경 선수 MAMA 시상자로 나온대요!","line2":"예능 대세답다, 무대에서도 멋지겠다","mood1":"surprised","mood2":"smile","pose1":"talkto","pose2":"clap","url":"https://enews.imbc.com/News/ViewAmp/521928"},
-{"a":"hyewon","line1":"창고43이 태극당 찹쌀 모나카 냈대요","line2":"한우 먹고 모나카라니 완벽한 코스네","mood1":"smile","mood2":"smile","pose1":"charm","pose2":"thumbs","url":"https://www.enewstoday.co.kr/news/articleView.html?idxno=2483052"},
-{"a":"jiwon","line1":"GS25에 호빵맨 밤단팥호빵 나왔더라","line2":"출근길에 하나씩 따끈하게 사 먹어요","mood1":"smile","mood2":"smile","pose1":"coffee","pose2":"coffee","url":"https://www.seoulfn.com/news/articleView.html?idxno=640670"},
-{"a":"hyewon","line1":"언니 오늘 카멜 롱코트 진짜 잘 어울려요","line2":"너도 아이보리 숏패딩 귀엽다, 포근해 보여","mood1":"smile","mood2":"smile","pose1":"look","pose2":"look"},
-{"a":"jiwon","line1":"아침에 경훈씨 얼굴 떠올리니 힘이 나","line2":"저도요, 경훈씨는 제 하루 시작 버튼이에요","mood1":"smile","mood2":"smile","pose1":"heart","pose2":"love"},
-{"a":"hyewon","line1":"오늘 경훈씨 첫 커피는 제가 타드릴래요","line2":"흥, 난 호빵 데워서 같이 드릴 건데?","mood1":"smile","mood2":"smile","pose1":"squabble","pose2":"squabble"},
-{"a":"jiwon","line1":"경훈씨 목도리 둘러드리면 설레실까?","line2":"언니 그러다 얼굴 빨개질걸요, 저처럼","mood1":"smile","mood2":"smile","pose1":"charm","pose2":"laugh"}
-]}
+{
+ "updatedAt": "2026-10-22T07:15:00+09:00",
+ "topics": [
+  "스벅 토피 넛 라떼 출시",
+  "금통위 기준금리 발표",
+  "서울바비큐페스티벌",
+  "넷플릭스 산독기 프로젝트",
+  "류지현 한화 실책 줄이기",
+  "크러쉬 삐그덕 후기",
+  "카멜 코트·아이보리 숏패딩",
+  "경훈씨 발소리",
+  "보고서 정리 경쟁",
+  "라떼 하트 질투"
+ ],
+ "exchanges": [
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘 스벅 토피 넛 라떼 나오는 날!",
+   "line2": "출근길에 두 잔 샀지, 하나는 경훈씨 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026374"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 금통위 기준금리 발표 날이네",
+   "line2": "언니 아침부터 예금 앱 열어놨죠? ㅋㅋ",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8691928"
+  },
+  {
+   "a": "jiwon",
+   "line1": "토요일 난지캠핑장 바비큐페스티벌 갈래?",
+   "line2": "고기는 언니가, 디저트는 제가 챙길게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.kmkj.kr/news/articleView.html?idxno=140872"
+  },
+  {
+   "a": "hyewon",
+   "line1": "홍진경·서인영 넷플릭스 예능 나온대요!",
+   "line2": "11월 20일 공개래, 산에서 독기 빼기라니 ㅋ",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "laugh",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=620132"
+  },
+  {
+   "a": "jiwon",
+   "line1": "류지현 감독, 한화 실책부터 잡는대",
+   "line2": "110개 최다 실책이었다니, 확 줄겠죠?",
+   "mood1": "neutral",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "cheer",
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014672"
+  },
+  {
+   "a": "hyewon",
+   "line1": "어제 크러쉬 삐그덕 들어봤어요?",
+   "line2": "응, 출근길 내내 반복재생 중이야 🎧",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "jiwon",
+   "line1": "카멜 코트 안에 니트 겹쳐 입길 잘했다",
+   "line2": "제 숏패딩도 오늘 아침 완전 효자예요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 발소리만 들려도 괜히 좋아요",
+   "line2": "나도, 오늘은 경훈씨 하루 편하게 해드리자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 보고서, 내가 색깔 맞춰 정리했어",
+   "line2": "전 한 장 요약으로 더 보기 쉽게 했거든요?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 경훈씨 라떼에 하트 그려드렸죠?",
+   "line2": "들켰네~ 내일은 네가 그려드려 ㅋ",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh"
+  }
+ ]
+}
