@@ -1,79 +1,89 @@
 {
-  "updatedAt": "2026-10-21T18:10:48+09:00",
+  "updatedAt": "2026-10-21T19:07:11+09:00",
   "topics": [
-    "닥터X 최고 시청률",
-    "100일의 거짓말",
-    "산독기 프로젝트",
-    "컬드셉트 비긴즈",
-    "슈 클라우드 라떼",
-    "퇴근길 그레이 코트·니트 원피스",
-    "립·웨이브 경쟁",
-    "칭찬 반반 질투",
-    "경훈씨 수고 인사"
+    "파이널판타지 레조넌스",
+    "스위치 스포츠 리조트",
+    "코스피 반등",
+    "크러쉬·아이유 삐그덕",
+    "스벅 토피 넛 라떼",
+    "퇴근룩 니트",
+    "경훈씨 비타민",
+    "커피·보고서 경쟁",
+    "설레는 연애 농담"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "닥터X 최고 시청률 20.8%까지 찍었대!",
-      "line2": "언니 금요일마다 본방 사수한 보람 있네요",
+      "line1": "파판 레조넌스 내일 나온대, 시리즈 첫 HD-2D!",
+      "line2": "언니 오늘 밤 설레서 잠 못 자겠네요 ㅎㅎ",
       "mood1": "surprised",
       "mood2": "smile",
-      "pose1": "clap",
+      "pose1": "thumbs",
       "pose2": "laugh",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1605458"
+      "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
     },
     {
       "a": "hyewon",
-      "line1": "'100일의 거짓말' 4회 만에 9% 넘었대요",
-      "line2": "전개 빠르다던데 이번 주말에 정주행할래",
-      "mood1": "surprised",
+      "line1": "스위치 스포츠 리조트도 내일 나온대요",
+      "line2": "우후섬 볼링 대결, 이번엔 내가 이긴다!",
+      "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "think",
-      "url": "https://mhnse.com/news/articleView.html?idxno=1606009"
+      "pose2": "highfive",
+      "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
+    },
+    {
+      "a": "jiwon",
+      "line1": "코스피 오늘 3.3% 올라 5,735로 마감했대",
+      "line2": "언니 표정 보니 계좌가 웃고 있네요",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "coffee",
+      "url": "https://www.yna.co.kr/view/AKR20261021125900008"
     },
     {
       "a": "hyewon",
-      "line1": "홍진경·서인영 넷플릭스 예능 11월 20일 공개!",
-      "line2": "조합 미쳤다, 그날 치킨 시켜 놓고 보자",
+      "line1": "크러쉬·아이유 '삐그덕' 6시에 나왔어요!",
+      "line2": "퇴근길 BGM 확정, 듣고 감상 나누자",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "thumbs",
-      "url": "https://m.tf.co.kr/amp/entertain/2378795.htm"
-    },
-    {
-      "a": "jiwon",
-      "line1": "컬드셉트 비긴즈 PC판이 28일에 나온대",
-      "line2": "언니 보드게임 RPG 좋아하잖아요, 딱이네",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee",
-      "url": "https://www.gamemeca.com/view.php?gid=1782108"
+      "url": "https://www.yna.co.kr/view/AKR20261021087100005"
     },
     {
       "a": "hyewon",
-      "line1": "컴포즈 슈 클라우드 라떼, 슈크림 올라간대요",
-      "line2": "PB&J 와플이랑 같이 먹으면 천국이겠다",
+      "line1": "스벅 토피 넛 라떼가 내일부터 다시 나와요",
+      "line2": "벌써 겨울 메뉴라니, 내일 같이 마시러 가자",
       "mood1": "smile",
-      "mood2": "smile",
+      "mood2": "surprised",
       "pose1": "look",
-      "pose2": "look"
+      "pose2": "look",
+      "url": "https://www.mt.co.kr/living/2026/10/21/2026102109264180372"
     },
     {
       "a": "jiwon",
-      "line1": "퇴근할 땐 그레이 코트 단추 끝까지 채울래",
-      "line2": "저도 니트 원피스에 머플러 칭칭 감을래요",
+      "line1": "그레이 코트 안에 니트 받쳐 입길 잘했어",
+      "line2": "제 니트 원피스도 오늘 완전 효자템이에요",
       "mood1": "neutral",
       "mood2": "smile",
       "pose1": "down",
       "pose2": "charm"
     },
     {
+      "a": "jiwon",
+      "line1": "경훈씨 얼굴 떠올리면 피곤이 싹 풀려",
+      "line2": "저도요, 경훈씨는 저희 비타민이에요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "heart",
+      "pose2": "love"
+    },
+    {
       "a": "hyewon",
-      "line1": "언니 코랄 립 예뻐서, 저 내일 로즈 립이요",
-      "line2": "흥, 그럼 난 내일 웨이브 머리 하고 온다",
+      "line1": "내일 경훈씨 커피는 제가 신메뉴로 살게요",
+      "line2": "흥, 난 보고서에 메모까지 정성껏 붙일 거야",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -81,21 +91,12 @@
     },
     {
       "a": "jiwon",
-      "line1": "아까 경훈씨 칭찬, 내가 정리한 거거든?",
-      "line2": "반반이잖아요 언니, 칭찬도 반반씩 ㅎㅎ",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "highfive"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 오늘 하루도 정말 수고 많으셨어요",
-      "line2": "퇴근길 내내 따뜻하고 편안하시길 💛",
+      "line1": "연애도 노래처럼 살짝 삐걱대야 설레지",
+      "line2": "언니 오늘 밤 누구랑 삐걱대려고요? ㅋㅋ",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
+      "pose1": "think",
+      "pose2": "laugh"
     }
   ]
 }
