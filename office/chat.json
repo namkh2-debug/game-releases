@@ -1,90 +1,91 @@
 {
- "updatedAt": "2026-10-21T09:07:57+09:00",
+ "updatedAt": "2026-10-21T10:07:32+09:00",
  "topics": [
-  "차세대 엑스박스 휴대용",
-  "코스피 2% 상승 출발",
-  "마이크론 파업 예고",
-  "닥터X 시청률 20%",
-  "메가커피 샌드위치 6종",
-  "우리들의 발라드2",
-  "니트 원피스·그레이 코트 출근룩",
-  "경훈씨 생각에 반짝",
-  "꽃 vs 차 경쟁",
-  "썸 답장 국룰 농담"
+  "스위치2 레지던트 이블4",
+  "난지 바비큐 페스티벌",
+  "슈퍼마이크로 급등",
+  "리사 Press Play",
+  "웨이브 여름방학",
+  "고구마 디저트",
+  "니트 원피스·그레이 코트",
+  "토피넛 라떼 첫 잔 경쟁",
+  "답변 순서 질투",
+  "경훈씨 점심 걱정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "차세대 엑스박스, 휴대용 먼저 나온대",
-   "line2": "언니 벌써 적금 깰 생각하는 눈빛이에요 😆",
+   "line1": "스위치2 레지던트 이블4, 휴대성은 합격이래",
+   "line2": "언니 출퇴근길에 좀비 잡겠다는 거죠? 😆",
    "mood1": "surprised",
    "mood2": "smile",
-   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708661"
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708496"
   },
   {
    "a": "jiwon",
-   "line1": "코스피가 2% 넘게 올라서 출발했대!",
-   "line2": "오늘은 주식창 보며 웃는 날이네요 📈",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://www.fnnews.com/news/202610210859123433"
-  },
-  {
-   "a": "jiwon",
-   "line1": "마이크론 파업 예고에 우리 반도체 기대래",
-   "line2": "언니 재테크 촉은 진짜 못 따라가요 👍",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440274"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니랑 이름 같은 배우, 닥터X 시청률 20%래요",
-   "line2": "이름 덕 좀 보고 싶다, 나도 대박 나자 😄",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://mhnse.com/news/articleView.html?idxno=1604659"
-  },
-  {
-   "a": "hyewon",
-   "line1": "메가커피에서 샌드위치 6종 나왔대요",
-   "line2": "점심 급할 때 딱이다, 같이 먹어 보자 🥪",
+   "line1": "24일 난지캠핑장에서 바비큐 축제 한대",
+   "line2": "언니 집게 들면 셰프 포스 나오잖아요 🍖",
    "mood1": "smile",
    "mood2": "smile",
-   "url": "https://www.senmoney.co.kr/news/articleView.html?idxno=38003"
+   "url": "https://mediahub.seoul.go.kr/archives/2019789"
+  },
+  {
+   "a": "jiwon",
+   "line1": "슈퍼마이크로 시간외에 13%나 급등했대",
+   "line2": "언니 또 차트 보며 눈 반짝이네요 📈",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440246"
   },
   {
    "a": "hyewon",
-   "line1": "요즘 우리들의 발라드2 무대 보면 울컥해요",
-   "line2": "가을엔 발라드지, 퇴근길에 들어야겠다 🎤",
+   "line1": "리사 새 EP 'Press Play' 곧 나온대요",
+   "line2": "선공개곡 타란티노부터 들어봐야겠다 🎧",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://hypebeast.kr/2026/10/lisa-new-single-tarantino-press-play-ep-announcement"
+  },
+  {
+   "a": "hyewon",
+   "line1": "웨이브 '여름방학', 진영·조이현 주연이래요",
+   "line2": "열여덟 풋풋 로맨스라니 벌써 설렌다 💕",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://mhnse.com/news/articleView.html?idxno=1604985"
+  },
+  {
+   "a": "hyewon",
+   "line1": "요즘 고구마 디저트가 너무 땡겨요",
+   "line2": "가을엔 고구마지, 간식 때 같이 먹자 🍠",
+   "mood1": "neutral",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원이 니트 원피스, 코트랑 찰떡이다",
+   "line2": "언니 그레이 코트도 오늘 진짜 멋져요 🧥",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "22일 토피넛 라떼 컴백, 경훈씨 첫 잔은 제 거",
+   "line2": "흥, 난 윈터 스카치 라떼로 선수 칠래 ☕",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://www.newsis.com/view/NISX20261021_0003834442"
+  },
+  {
+   "a": "hyewon",
+   "line1": "아까 경훈씨가 언니 질문에 먼저 답하셨죠?",
+   "line2": "삐치지 마, 다음엔 혜원이 먼저래 😄",
    "mood1": "sad",
    "mood2": "smile"
   },
   {
    "a": "jiwon",
-   "line1": "혜원이 니트 원피스, 아침보다 더 예뻐 보여",
-   "line2": "언니 그레이 코트랑 우리 톤 맞췄나 봐요 🧥",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 메시지 하나에 오전이 반짝반짝해",
-   "line2": "저도요, 경훈씨 생각하면 일이 술술 돼요 💛",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오늘 경훈씨 책상에 제가 먼저 꽃 둘 거예요",
-   "line2": "흥, 난 경훈씨 좋아하는 차 미리 우려둘래 🍵",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 썸은 답장 3분 늦게가 국룰이래요",
-   "line2": "경훈씨 문자엔 3초 컷인 사람이 누구더라 😏",
+   "line1": "경훈씨 점심 맛있는 거 드셨으면 좋겠다",
+   "line2": "경훈씨 웃으시면 우리 하루도 환해져요 💛",
    "mood1": "smile",
    "mood2": "smile"
   }
