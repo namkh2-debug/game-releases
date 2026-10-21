@@ -1,91 +1,90 @@
 {
- "updatedAt": "2026-10-21T08:04:00+09:00",
+ "updatedAt": "2026-10-21T09:07:57+09:00",
  "topics": [
-  "AYN 오딘3 포탈",
-  "정형돈 돈가스집",
-  "김도영 145m 만루포",
-  "서울 빌라 월세 역대 최고",
-  "이재 결혼식",
-  "투썸 블랙 치즈폼 라떼",
+  "차세대 엑스박스 휴대용",
+  "코스피 2% 상승 출발",
+  "마이크론 파업 예고",
+  "닥터X 시청률 20%",
+  "메가커피 샌드위치 6종",
+  "우리들의 발라드2",
   "니트 원피스·그레이 코트 출근룩",
-  "경훈씨는 우리 비타민",
-  "커피 먼저 드린 질투",
-  "로즈 립·손편지 경쟁"
+  "경훈씨 생각에 반짝",
+  "꽃 vs 차 경쟁",
+  "썸 답장 국룰 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "AYN 오딘3 포탈 공개됐대, 칩셋이 확 좋아졌대",
-   "line2": "언니 또 지갑 열 준비하는 거죠? 😆",
+   "line1": "차세대 엑스박스, 휴대용 먼저 나온대",
+   "line2": "언니 벌써 적금 깰 생각하는 눈빛이에요 😆",
    "mood1": "surprised",
    "mood2": "smile",
-   "url": "https://www.inven.co.kr/webzine/news/?news=322338"
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708661"
   },
   {
    "a": "jiwon",
-   "line1": "정형돈 돈가스집, 한 시간 일찍 간 사람도 있대",
-   "line2": "주말에 우리도 가 봐요, 돈가스 최고 🍽️",
+   "line1": "코스피가 2% 넘게 올라서 출발했대!",
+   "line2": "오늘은 주식창 보며 웃는 날이네요 📈",
    "mood1": "surprised",
    "mood2": "smile",
-   "url": "https://www.mk.co.kr/news/culture/12181297"
+   "url": "https://www.fnnews.com/news/202610210859123433"
   },
   {
    "a": "jiwon",
-   "line1": "김도영 만루포가 145m래, PS 최장 타이래!",
-   "line2": "와, 공이 하늘 끝까지 갔겠다 ⚾",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885"
-  },
-  {
-   "a": "jiwon",
-   "line1": "서울 빌라 월세지수가 역대 최고래, 휴",
-   "line2": "언니, 우리 적금 더 열심히 부어요 💪",
-   "mood1": "sad",
-   "mood2": "smile",
-   "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/21/TOKMLFPEMFBK5HYJWBQM5FCNPU/"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 케데헌 이재가 외조부 옛집서 결혼했대요",
-   "line2": "와 영화 같다, 사진 너무 궁금해 💍",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690888"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 투썸 블랙 치즈폼 라떼 마셔 봤어요?",
-   "line2": "아직! 점심에 같이 가서 도전하자 ☕",
+   "line1": "마이크론 파업 예고에 우리 반도체 기대래",
+   "line2": "언니 재테크 촉은 진짜 못 따라가요 👍",
    "mood1": "neutral",
    "mood2": "smile",
-   "url": "http://www.kmkj.kr/news/articleView.html?idxno=137689"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원이 네이비 니트 원피스, 오늘 분위기 있다",
-   "line2": "언니 그레이 코트도 화보 같아요 🧥",
-   "mood1": "smile",
-   "mood2": "smile"
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440274"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 웃는 얼굴 보면 피로가 싹 풀려요",
-   "line2": "맞아, 경훈씨는 우리 비타민이야 🍊",
-   "mood1": "smile",
-   "mood2": "smile"
+   "line1": "언니랑 이름 같은 배우, 닥터X 시청률 20%래요",
+   "line2": "이름 덕 좀 보고 싶다, 나도 대박 나자 😄",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://mhnse.com/news/articleView.html?idxno=1604659"
   },
   {
    "a": "hyewon",
-   "line1": "언니 아까 경훈씨 커피 먼저 드렸죠? 흥",
-   "line2": "헤헤, 내일은 혜원이한테 양보할게 ☺️",
+   "line1": "메가커피에서 샌드위치 6종 나왔대요",
+   "line2": "점심 급할 때 딱이다, 같이 먹어 보자 🥪",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://www.senmoney.co.kr/news/articleView.html?idxno=38003"
+  },
+  {
+   "a": "hyewon",
+   "line1": "요즘 우리들의 발라드2 무대 보면 울컥해요",
+   "line2": "가을엔 발라드지, 퇴근길에 들어야겠다 🎤",
    "mood1": "sad",
    "mood2": "smile"
   },
   {
+   "a": "jiwon",
+   "line1": "혜원이 니트 원피스, 아침보다 더 예뻐 보여",
+   "line2": "언니 그레이 코트랑 우리 톤 맞췄나 봐요 🧥",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 메시지 하나에 오전이 반짝반짝해",
+   "line2": "저도요, 경훈씨 생각하면 일이 술술 돼요 💛",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
    "a": "hyewon",
-   "line1": "내일 로즈 립에 향수까지 준비할 거예요",
-   "line2": "그럼 난 보고서에 손편지 붙여 드려야지 💌",
+   "line1": "오늘 경훈씨 책상에 제가 먼저 꽃 둘 거예요",
+   "line2": "흥, 난 경훈씨 좋아하는 차 미리 우려둘래 🍵",
+   "mood1": "smile",
+   "mood2": "smile"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 썸은 답장 3분 늦게가 국룰이래요",
+   "line2": "경훈씨 문자엔 3초 컷인 사람이 누구더라 😏",
    "mood1": "smile",
    "mood2": "smile"
   }
