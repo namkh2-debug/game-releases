@@ -1,71 +1,60 @@
 {
-  "updatedAt": "2026-10-21T21:07:05+09:00",
+  "updatedAt": "2026-10-21T22:03:09+09:00",
   "topics": [
-    "헬다이버즈2 안티치트 논란",
-    "금통위 기준금리 전망",
-    "완전변경 투싼",
-    "스타벅스 토피 넛 라떼",
-    "신민아 유퀴즈 신혼",
+    "메이플 클래식 월드 출시",
+    "마이코펑크 정식 출시",
+    "코스피 급등 마감",
+    "크러쉬 삐그덕",
+    "엔믹스 Birthday Wish",
+    "컴포즈 슈 클라우드 라떼",
     "그레이 코트·니트 원피스",
-    "경훈씨 생각",
-    "드립커피·간식 경쟁",
-    "넥타이 설렘"
+    "경훈씨 덕분에 힘남",
+    "립·향수 경쟁"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "헬다이버즈2, 안티치트 바꾸고 평가 12%래",
-      "line2": "언니 억울해하는 표정 벌써 상상돼요 ㅋㅋ",
-      "mood1": "sad",
+      "line1": "메이플 클래식 월드, 오늘 출시라던데!",
+      "line2": "언니 또 밤새 달팽이 잡겠네요 ㅋㅋ",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "think",
+      "pose1": "thumbs",
       "pose2": "laugh",
-      "url": "https://www.wikitree.co.kr/articles/1168124"
+      "url": "https://www.gosugamers.net/entertainment/news/79063-maplestory-classic-world-announces-21-october-release-date"
     },
     {
       "a": "jiwon",
-      "line1": "내일 금통위, 기준금리 동결 전망이 우세래",
-      "line2": "언니 예금 이자 계산기 또 두드리겠다 📈",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "talkto",
-      "url": "https://www.chosun.com/economy/economy_general/2026/10/21/REZQH5BMBNCCHEGQVMNJ2NP2I4/"
-    },
-    {
-      "a": "jiwon",
-      "line1": "완전변경 투싼 계약 시작, 3140만원부터래",
-      "line2": "캠핑 다니기 딱이네요, 견적 받아봐요!",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "thumbs",
-      "url": "https://zdnet.co.kr/view/?no=20261021085544"
-    },
-    {
-      "a": "hyewon",
-      "line1": "스벅 토피 넛 라떼 돌아온대요, 4천만 잔!",
-      "line2": "내일 아침 그거 두 잔, 내가 쏠게 ☕",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee",
-      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5030147"
-    },
-    {
-      "a": "hyewon",
-      "line1": "신민아 유퀴즈 나와서 신혼 얘기한대요",
-      "line2": "김우빈이랑 결혼 10개월이라니, 부럽다",
+      "line1": "마이코펑크 정식판, PS플러스로 된대",
+      "line2": "곰팡이 청소 게임이요? 언니 책상부터 ㅋ",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "heart",
-      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/G44DCMDDGA3TKYTFMIZGCZTBGM/"
+      "pose2": "talkto",
+      "url": "https://www.gamemeca.com/view.php?gid=1782100"
     },
     {
       "a": "jiwon",
-      "line1": "밤바람 차도 그레이 코트 입길 잘했다",
-      "line2": "제 니트 원피스도 퇴근길까지 포근해요 🍂",
+      "line1": "코스피 3.3% 올라 5,735로 마감했대",
+      "line2": "어쩐지 언니 표정이 오늘 환하더라 📈",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "clap",
+      "url": "https://www.yna.co.kr/view/AKR20261021134800008"
+    },
+    {
+      "a": "hyewon",
+      "line1": "크러쉬 신곡 삐그덕, 아이유 피처링이래요",
+      "line2": "퇴근길 플레이리스트 바로 확정이다 🎧",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "talkto"
+    },
+    {
+      "a": "hyewon",
+      "line1": "엔믹스 Birthday Wish 멜론 5위래요",
+      "line2": "가사가 그렇게 달달하다며? 들어봐야지",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "look",
@@ -73,30 +62,39 @@
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨 오늘 하루 무사히 마치셨겠죠?",
-      "line2": "응, 경훈씨 생각하면 내일 출근이 기다려져 💛",
+      "line1": "컴포즈 슈 클라우드 라떼 궁금해요!",
+      "line2": "주말에 디저트 탐방 같이 가자 ☕",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs"
+    },
+    {
+      "a": "jiwon",
+      "line1": "그레이 코트 꺼내 입길 진짜 잘했어",
+      "line2": "제 니트 원피스도 오늘 열일했어요 🍂",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "charm"
+    },
+    {
+      "a": "hyewon",
+      "line1": "경훈씨 \"고생 많지?\" 한마디에 힘났어요",
+      "line2": "나도… 경훈씨 목소리가 비타민이야 💛",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
       "pose2": "love"
     },
     {
-      "a": "jiwon",
-      "line1": "내일 경훈씨 책상엔 내가 내린 드립커피!",
-      "line2": "전 경훈씨 좋아하실 간식 미리 사뒀거든요?",
+      "a": "hyewon",
+      "line1": "내일 로즈 립 바르고 경훈씨 맞을 거예요",
+      "line2": "흥, 난 경훈씨 좋아하실 향수 뿌릴 거야",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "squabble",
       "pose2": "squabble"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 경훈씨 넥타이 고쳐드릴 때 설렜죠?",
-      "line2": "쉿! 그건 우리 둘만 아는 비밀이야 😳",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "laugh",
-      "pose2": "charm"
     }
   ]
 }
