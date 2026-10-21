@@ -1,9 +1,9 @@
 {
  "date": "2026-10-21",
- "updatedAt": "2026-10-21T10:07:18+09:00",
+ "updatedAt": "2026-10-21T11:05:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 13.2,
+  "temp": 14.5,
   "low": 12.0,
   "high": 16.0,
   "condition": "흐림, 오전 한때 빗방울 후 낮부터 구름많음",
@@ -14,9 +14,14 @@
  },
  "breaking": [
   {
-   "title": "남양주 21층짜리 아파트 5층서 '충전 중' 전기자전거에 불…주민들 대피",
-   "url": "https://www.dt.co.kr/article/12090278",
-   "source": "디지털타임스"
+   "title": "李대통령 \"보완수사권 부재 피해 없게 警·공소청·중수청 협력\"",
+   "url": "https://www.yna.co.kr/view/AKR20261021057100001",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "경기·강원·충청·영남·전북 한파주의보 발표",
+   "url": "https://www.yna.co.kr/view/MYH20261021007300038",
+   "source": "연합뉴스"
   },
   {
    "title": "민주당 최고위, '소방 재정 빨대' 추미애·부승찬 '경고' 결정",
@@ -24,19 +29,14 @@
    "source": "경향신문"
   },
   {
+   "title": "李 대통령 \"SNS 소통·국정 생중계 등 모두 늘릴 것\"…국민과 대면 접촉 확대도 추진",
+   "url": "https://economist.co.kr/article/view/ecn202610210004",
+   "source": "이코노미스트"
+  },
+  {
    "title": "경찰 \"역삼동 방화범 범행 시인…'특허법인에 겁 주려고' 진술\"",
    "url": "https://www.hankyung.com/article/2026102151947",
    "source": "한국경제"
-  },
-  {
-   "title": "삼전닉스 반등에 코스피 장 초반 3%대 급등…코스닥도 2.61%↑",
-   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2308349",
-   "source": "대전일보"
-  },
-  {
-   "title": "10월 1∼20일 수출 616억달러, 105.4% 증가…일평균 65.9%↑",
-   "url": "https://www.joongang.co.kr/article/25471501",
-   "source": "중앙일보"
   }
  ],
  "news": [
@@ -99,6 +99,12 @@
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8690852",
    "source": "KBS 뉴스",
    "summary": "AI 인프라 기업 엘리스가 코스닥 상장 첫날 30% 넘게 폭락하자 외신들이 집중 조명했다."
+  },
+  {
+   "title": "'내란 혐의' 박성재 前장관 오늘 2심 선고…1심은 징역 25년",
+   "url": "https://www.yna.co.kr/view/AKR20261020171200004",
+   "source": "연합뉴스",
+   "summary": "서울고법이 오늘 오후 3시 박성재 전 법무부 장관의 내란 중요임무 종사 혐의 항소심 선고를 한다."
   },
   {
    "title": "화곡동 5평 원룸 월세가 110만원… 서울 빌라 월세지수 역대 최고 - 조선비즈",
@@ -207,12 +213,6 @@
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885",
    "source": "KBS 뉴스",
    "summary": "KIA가 준PO를 3연승으로 끝낸 가운데 김도영의 145m 만루포가 PS 최장 비거리 타이 기록을 세웠다."
-  },
-  {
-   "title": "핼러윈 인파관리 특별대책기간 운영(10.23.~11.1.)",
-   "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148973981&pWise=sub&pWiseSub=C2",
-   "source": "대한민국 정책브리핑",
-   "summary": "정부가 23일부터 11월 1일까지 핼러윈 인파 관리 특별대책을 운영한다."
   },
   {
    "title": "'알파고에 1승' 이세돌, 바둑기사 은퇴 이유는 'AI'",
