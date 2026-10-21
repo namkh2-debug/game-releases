@@ -1,124 +1,20 @@
 {
-  "date": "2026-10-20",
-  "updatedAt": "2026-10-20T09:10:26+09:00",
+  "date": "2026-10-21",
+  "updatedAt": "2026-10-21T09:06:25+09:00",
   "platforms": {
     "steam": [
-      {
-        "title": "우리는 여기에 있었다 투모로우 (We Were Here Tomorrow)",
-        "genre": "2인 비대칭 협동 퍼즐 어드벤처",
-        "publisher": "Total Mayhem Games / Total Mayhem Games",
-        "price": "미확인 (해외 $19.99, 출시 10% 할인)",
-        "note": "한국어 지원 · 두 명 모두 구매 필요 · 스팀·PS5·Xbox 크로스플레이"
-      },
-      {
-        "title": "마이코펑크: 곰팡이 버스터즈 (Mycopunk)",
-        "genre": "협동 FPS · 루터 슈터",
-        "publisher": "Pigeons at Play / Devolver Digital",
-        "price": "₩16,500",
-        "note": "앞서 해보기 종료, 1.0 정식 출시 · 한국어 지원 · 최대 4인 협동"
-      },
-      {
-        "title": "스타트렉: 미지의 전초기지 (Star Trek: Outposts Unknown)",
-        "genre": "전초기지 건설 · 전략 시뮬레이션",
-        "publisher": "Magic Fuel Games / Playstack",
-        "price": "미확인 (해외 보도상 앞서 해보기 기간 무료)",
-        "note": "앞서 해보기 · 한국어 미지원"
-      },
-      {
-        "title": "아키바 로스트 (AKIBA LOST)",
-        "genre": "어드벤처",
-        "publisher": "IzanagiGames / IzanagiGames",
-        "price": "미확인",
-        "note": "한국어 지원(음성은 일본어)"
-      },
-      {
-        "title": "호러 테일즈 잇츠 더 월드 (Horror Tales Eats The World)",
-        "genre": "액션 어드벤처 · 호러 · 인디",
-        "publisher": "Fatih Atacan PRODUCTIONS / Fatih Atacan PRODUCTIONS",
-        "price": "미확인",
-        "note": "앞서 해보기 · 한국어 지원"
-      },
-      {
-        "title": "블루 리지 헌팅 (Blue Ridge Hunting)",
-        "genre": "협동 호러 · 크립티드 사냥",
-        "publisher": "Jade Meadows / Jade & Company",
-        "price": "미확인",
-        "note": "앞서 해보기 · 한국어 미지원(영어만)"
-      },
-      {
-        "title": "어 시스터즈 저니 (A Sister's Journey)",
-        "genre": "액션 메트로배니아 · 픽셀아트",
-        "publisher": "Florian Lackner / Florian Lackner",
-        "price": "미확인",
-        "note": "한국어 미지원"
-      },
-      {
-        "title": "바론 (Baron)",
-        "genre": "액션 RPG · 인디",
-        "publisher": "Storm Rise Studio / Storm Rise Studio",
-        "price": "미확인",
-        "note": "앞서 해보기 · 한국어 미지원"
-      },
-      {
-        "title": "노마드 드라이브 (Nomad Drive)",
-        "genre": "어드벤처 · 시뮬레이션 · 인디",
-        "publisher": "Indie Devil / Indie Devil",
-        "price": "미확인",
-        "note": "앞서 해보기 · 한국어 지원 · 스팀 표기는 아직 '출시 예정'(해외 일정표 기준 10/20)"
-      },
-      {
-        "title": "디멘티움 2 (Dementium II)",
-        "genre": "호러 액션 어드벤처",
-        "publisher": "Atooi / Atooi",
-        "price": "미확인",
-        "note": "한국어 미지원(영어만) · 스팀 표기는 '2026년 10월'(해외 일정표 기준 10/20)"
-      },
-      {
-        "title": "하이퍼넷 익스플로러 (Hypernet Explorer)",
-        "genre": "RPG · 시뮬레이션 · 인디",
-        "publisher": "Nocoldiz / Esoteric Heavy Industries",
-        "price": "미확인",
-        "note": "앞서 해보기 · 한국어 미지원(영·이) · 스팀 표기는 '2026년 10월'(해외 일정표 기준 10/20)"
-      }
+      {"title": "스튜피드 네버 다이즈 (Stupid Never Dies)", "genre": "3D 액션 RPG", "publisher": "GPTRACK50 / 세가(공동 유통)", "price": "₩54,800 (글로리어스 이디엇 에디션 ₩69,800)", "note": "한국어 자막 지원 · 해외 10/21, 한국 정식 출시일은 10/22 · 청소년이용불가"},
+      {"title": "더 킬링 스톤 (The Killing Stone)", "genre": "덱빌딩 카드 배틀 · 포크 호러", "publisher": "Question / Question", "price": "미확인 (해외 $19.99)", "note": "앞서 해보기 종료, 1.0 정식 출시 · 한국어 지원 미확인"},
+      {"title": "메이플스토리 클래식 월드 (MapleStory Classic World)", "genre": "MMORPG", "publisher": "넥슨코리아 / Nexon America", "price": "무료", "note": "글로벌 서버 정식 오픈, 한국 시간 10/22 03:00 · 스팀 메이플스토리(글로벌) 설치 후 이용 · 한국 접속 가능 여부 미확인"},
+      {"title": "컷아웃 빌리지 (Cutout Village)", "genre": "미확인", "publisher": "미확인", "price": "미확인", "note": "PC·Mac"}
     ],
     "playstation": [
-      {
-        "title": "우리는 여기에 있었다 투모로우 (We Were Here Tomorrow)",
-        "genre": "2인 비대칭 협동 퍼즐 어드벤처",
-        "publisher": "Total Mayhem Games / TMG Studios B.V.",
-        "price": "미확인 (해외 $19.99)",
-        "note": "PS5 · 한국어 지원 · 온라인 필수(PS Plus 필요) · 크로스플레이"
-      },
-      {
-        "title": "마이코펑크: 곰팡이 버스터즈 (Mycopunk)",
-        "genre": "협동 FPS · 루터 슈터",
-        "publisher": "Pigeons at Play / Devolver Digital",
-        "price": "미확인 (해외 $14.99)",
-        "note": "PS5 · PS Plus 스페셜·디럭스(엑스트라·프리미엄) 첫날 포함 · UTC 17시 = 한국시간 21일 새벽 2시 해제 · 콘솔판 한국어 미확인"
-      },
-      {
-        "title": "디노 크라이시스 2 (Dino Crisis 2)",
-        "genre": "서바이벌 액션 · PS1 클래식 이식",
-        "publisher": "Capcom / Capcom",
-        "price": "미확인 (해외 $9.99 예상)",
-        "note": "PS5·PS4 · PS Plus 디럭스(프리미엄) 첫날 포함 · 되감기·퀵세이브·화면 필터 추가, 트로피 없음 · 한국어 미확인"
-      },
-      {
-        "title": "프랑켄슈타인: 어웨이크닝 오브 호러 (Frankenstein: Awakening of Horror)",
-        "genre": "3인칭 서바이벌 호러",
-        "publisher": "Witenovastudio OÜ / Witenovastudio OÜ",
-        "price": "미확인",
-        "note": "PS5·PS4 · 한국어 지원 미확인"
-      }
+      {"title": "스튜피드 네버 다이즈 (Stupid Never Dies)", "genre": "3D 액션 RPG", "publisher": "GPTRACK50 / 세가퍼블리싱코리아", "price": "₩54,800 (글로리어스 이디엇 에디션 ₩69,800)", "note": "PS5 · 한국어 자막 지원 · PS스토어 해금 한국 시간 10/22 07:00 · 패키지는 PS5판만"},
+      {"title": "더 킬링 스톤 (The Killing Stone)", "genre": "덱빌딩 카드 배틀 · 포크 호러", "publisher": "Question / Question", "price": "미확인 (해외 $19.99)", "note": "PS5 · 한국어 지원 미확인"},
+      {"title": "헤일 투 더 레인보우 (Hail to the Rainbow)", "genre": "어드벤처 · 퍼즐", "publisher": "Sergey Noskov / Sometimes You", "price": "미확인 (해외 $14.99)", "note": "PS5·PS4 콘솔판 · 한국어 지원 미확인"}
     ],
     "switch": [
-      {
-        "title": "아이 엠 유어 비스트 (I Am Your Beast)",
-        "genre": "액션 FPS · 복수 스릴러",
-        "publisher": "Strange Scaffold / Strange Scaffold",
-        "price": "미확인",
-        "note": "스위치·스위치2 다운로드 · 한국 eShop 출시·한국어 미확인(스팀판은 영어만)"
-      }
+      {"title": "헤일 투 더 레인보우 (Hail to the Rainbow)", "genre": "어드벤처 · 퍼즐", "publisher": "Sergey Noskov / Sometimes You", "price": "미확인 (해외 $14.99, 출시 전 20% 할인)", "note": "다운로드 전용 · 한국 e숍 출시 여부·한국어 지원 미확인"}
     ]
   }
 }
