@@ -1,79 +1,80 @@
 {
-  "updatedAt": "2026-10-21T15:06:00+09:00",
+  "updatedAt": "2026-10-21T16:12:00+09:00",
   "topics": [
-    "콜 오브 듀티 MW4",
-    "플레이오프 CGV 생중계",
-    "한화 시즌 마무리",
-    "더숲 초소책방",
-    "롤드컵 스위스 스테이지",
-    "어묵탕",
+    "스팀 넥스트 페스트",
+    "아키에이지 크로니클 체험판",
+    "템빨: 오버기어드",
+    "크러쉬·아이유 삐그덕",
+    "필라테스",
+    "밀푀유나베",
     "그레이 코트·니트 원피스",
-    "립·보고서 경쟁",
-    "경훈씨 덕분에"
+    "핫팩 vs 목도리 경쟁",
+    "웃음 질투",
+    "경훈씨 에너지 충전기"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "콜 오브 듀티 MW4, 23일에 스위치2로도 나온대!",
-      "line2": "언니 주말에 또 밤새겠네요 ㅋㅋ",
-      "mood1": "surprised",
+      "line1": "스팀 넥스트 페스트, 27일까지 체험판 무료래!",
+      "line2": "언니 또 다운로드 목록 꽉 채우겠네요 ㅋㅋ",
+      "mood1": "smile",
       "mood2": "smile",
       "pose1": "cheer",
       "pose2": "laugh",
-      "url": "https://ssalmuk.com/game-event/post/2026-w46-roundup"
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=346428"
     },
     {
       "a": "jiwon",
-      "line1": "삼성·기아 플레이오프, CGV서 극장 생중계한대",
-      "line2": "오늘 4시 반 예매래요, 팝콘 각이다 🍿",
-      "mood1": "smile",
+      "line1": "아키에이지 크로니클 체험판도 나왔더라",
+      "line2": "오픈월드 MMO요? 언니 취향 저격이네요",
+      "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
       "pose2": "thumbs",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253158"
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=346428"
+    },
+    {
+      "a": "jiwon",
+      "line1": "템빨 MMORPG, 캐릭터명 선점 시작했대",
+      "line2": "언니 닉네임 벌써 정해 뒀죠? 다 알아요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh",
+      "url": "https://www.news1.kr/it-science/game-review/6327127"
     },
     {
       "a": "hyewon",
-      "line1": "근데 한화는 올해 9위로 끝나서 너무 아쉬워요",
-      "line2": "그러게, 내년엔 꼭 가을야구 보자 🦅",
+      "line1": "크러쉬랑 아이유 듀엣 '삐그덕' 오늘 6시래요!",
+      "line2": "퇴근길 BGM 정해졌다, 이어폰 챙겨 🎧",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs",
+      "url": "https://www.yna.co.kr/view/AKR20261021087100005"
+    },
+    {
+      "a": "hyewon",
+      "line1": "오늘 필라테스 가면 코어 털릴 것 같아요",
+      "line2": "끝나고 따뜻한 차 한 잔 하자, 내가 살게",
       "mood1": "sad",
       "mood2": "smile",
       "pose1": "sulk",
-      "pose2": "cheer",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009326"
-    },
-    {
-      "a": "hyewon",
-      "line1": "인왕산 '더숲 초소책방' 단풍뷰가 그렇게 예쁘대요",
-      "line2": "경찰 초소였던 곳이라며? 운동화 신고 가자 👟",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "charm",
-      "pose2": "think"
-    },
-    {
-      "a": "jiwon",
-      "line1": "롤드컵 LCK 팀들, 24일 스위스 스테이지 합류래",
-      "line2": "언니 응원봉 벌써 꺼내 둔 거 다 알아요 😆",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "laugh",
-      "url": "https://www.inven.co.kr/webzine/news/?news=321970"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오늘 저녁엔 따끈한 어묵탕 끓여 먹고 싶다",
-      "line2": "언니 요리 사진 꼭 보내줘요, 침 고여요 🍢",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
       "pose2": "coffee"
     },
     {
+      "a": "jiwon",
+      "line1": "저녁엔 밀푀유나베 끓여 먹고 싶다",
+      "line2": "언니 요리 실력이면 맛집 차려도 돼요 🍲",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "clap"
+    },
+    {
       "a": "hyewon",
-      "line1": "언니 그레이 코트, 오후 되니 더 분위기 있어요",
-      "line2": "네 니트 원피스야말로 오늘 반칙이거든 🍂",
+      "line1": "언니 그레이 코트, 찬바람에 딱이네요",
+      "line2": "네 니트 원피스도 포근해 보여서 좋다",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "look",
@@ -81,8 +82,8 @@
     },
     {
       "a": "hyewon",
-      "line1": "저 퇴근 전에 립 다시 바르고 경훈씨 배웅할래요",
-      "line2": "흥, 나는 보고서에 리본까지 묶어 드릴 거야",
+      "line1": "경훈씨 퇴근길 추우실까 봐 핫팩 챙겼어요",
+      "line2": "흥, 난 따뜻한 목도리 골라 놨거든 🧣",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -90,8 +91,17 @@
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 웃으시는 거 보면 피곤이 싹 풀려",
-      "line2": "맞아요, 오늘도 경훈씨 덕분에 버텼어요 💛",
+      "line1": "혜원아, 아까 경훈씨가 너만 보고 웃으셨지?",
+      "line2": "에이 언니, 우리 둘 다 보신 거예요 ㅎㅎ",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "highfive"
+    },
+    {
+      "a": "jiwon",
+      "line1": "경훈씨 생각하면 오후 피로가 싹 가셔",
+      "line2": "저도요, 경훈씨는 우리 에너지 충전기 💛",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
