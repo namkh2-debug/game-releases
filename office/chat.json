@@ -1,90 +1,84 @@
 {
- "updatedAt": "2026-10-21T12:18:00+09:00",
+ "updatedAt": "2026-10-21T13:15:00+09:00",
  "topics": [
-  "코스피 매수 사이드카",
-  "PS5 클라우드 스트리밍",
-  "한화 재계약 고민",
-  "스벅 크리스마스 시즌",
-  "웨이브 여름방학",
+  "붉은사막 DLC",
+  "서울바비큐페스티벌",
+  "10월 수출 역대 최대",
+  "최원호 대표팀 감독",
+  "리사 Press Play",
+  "너 말고 다른 연애",
+  "로제 스피드캣 경쟁",
   "니트 원피스·그레이 코트",
-  "경훈씨 커피 먼저",
-  "회의 질투",
-  "경훈씨 덕분에 힘나요",
-  "첫사랑 설렘 농담"
+  "경훈씨 점심 걱정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피 급등해서 매수 사이드카까지 떴대",
-   "line2": "언니 오늘 계좌 보면서 웃고 있죠? 📈",
+   "line1": "붉은사막 DLC가 열흘 앞이래, 이번엔 바다로!",
+   "line2": "언니 그날은 칼퇴하고 바로 접속하겠네 🎮",
    "mood1": "surprised",
    "mood2": "smile",
-   "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/D63FN4YSGBCO5PXAGSRT5S4VUM/"
+   "url": "https://www.dailygame.co.kr/view.php?ud=2026102112153831843da15d9d2_26"
   },
   {
    "a": "jiwon",
-   "line1": "PS5 클라우드 스트리밍 28일 국내 출시래",
-   "line2": "언니 이제 캠핑장에서도 게임하겠다 🎮",
-   "mood1": "surprised",
+   "line1": "이번 주 토요일 난지캠핑장 바비큐 축제래",
+   "line2": "언니 캠핑 요리 실력 보여줄 기회네요 🍖",
+   "mood1": "smile",
    "mood2": "smile",
-   "url": "https://www.inven.co.kr/webzine/news/?news=322356"
+   "url": "https://mediahub.seoul.go.kr/archives/2019789"
   },
   {
    "a": "jiwon",
-   "line1": "한화, 20홈런 친 선수랑 결별 고민 중이래",
-   "line2": "헉, 잘 친 선수인데 아쉽다 그쵸? ⚾",
-   "mood1": "sad",
+   "line1": "10월 수출 일평균이 역대 최대래, 반도체 덕분",
+   "line2": "언니 반도체주 있다더니 표정이 환하다 📈",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.chosun.com/economy/economy_general/2026/10/21/AVKKHS2IO5CJ5MQDSNCSNBBJJE/"
+  },
+  {
+   "a": "jiwon",
+   "line1": "최원호 감독이 야구대표팀 사령탑 됐대",
+   "line2": "와, 11월 APBC는 꼭 같이 응원해요 ⚾",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "url": "https://www.kbsm.net/news/view.php?idx=538316"
+  },
+  {
+   "a": "hyewon",
+   "line1": "리사 첫 EP 'Press Play' 23일에 나온대요",
+   "line2": "금요일 퇴근길 플레이리스트 정해졌네 🎧",
+   "mood1": "smile",
+   "mood2": "smile",
+   "url": "https://hypebeast.kr/2026/10/lisa-new-single-tarantino-press-play-ep-announcement"
+  },
+  {
+   "a": "hyewon",
+   "line1": "'너다연' 시청률 1%대인데 해외선 5위래요",
+   "line2": "아쉽다, 서강준 보는 맛에 끝까지 볼래 😊",
+   "mood1": "surprised",
    "mood2": "sad",
-   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014536"
+   "url": "https://www.slist.kr/news/articleView.html?idxno=775132"
   },
   {
    "a": "hyewon",
-   "line1": "스벅 크리스마스 시즌 벌써 시작했대요",
-   "line2": "10월에 크리스마스라니, 마음이 바쁘다 🎄",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "url": "https://www.mt.co.kr/amp/living/2026/10/21/2026102109264180372"
-  },
-  {
-   "a": "hyewon",
-   "line1": "웨이브 '여름방학' 26일 공개래요, 진영·조이현!",
-   "line2": "삼각관계라던데, 주말에 같이 정주행할까? 🍿",
+   "line1": "내일 로제 스피드캣 신고 경훈씨께 먼저 인사할래요",
+   "line2": "흥, 난 새 향수로 경훈씨 눈길 먼저 잡을 거야 😏",
    "mood1": "smile",
    "mood2": "smile",
-   "url": "http://www.rnx.kr/news/articleView.html?idxno=907016"
+   "url": "https://hypebeast.kr/2026/10/blackpink-rose-puma-speedcat-croco-leather-launch-campaign-release-info"
   },
   {
    "a": "jiwon",
-   "line1": "혜원이 니트 원피스에 웨이브, 오늘 예쁘다",
-   "line2": "언니 그레이 코트도 완전 커리어우먼 같아요 🧥",
+   "line1": "혜원이 니트 원피스, 오후에 봐도 예쁘다",
+   "line2": "언니 그레이 코트 덕에 저까지 가을 기분 🍂",
    "mood1": "smile",
    "mood2": "smile"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 커피는 오늘 제가 먼저 갖다드릴 거예요",
-   "line2": "그럼 난 보고서를 제일 깔끔하게 올릴 거야 📄",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 아까 경훈씨가 언니 말 먼저 들어주셨죠?",
-   "line2": "흥, 다음엔 너 먼저 봐주실 거야, 삐치지 마 😉",
-   "mood1": "sad",
-   "mood2": "smile"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 '수고 많다' 한마디에 오전이 다 개었어",
-   "line2": "저도요, 경훈씨 덕분에 오후도 힘내요 💛",
-   "mood1": "smile",
-   "mood2": "smile"
-  },
-  {
-   "a": "hyewon",
-   "line1": "'여름방학' 보면 첫사랑 생각나서 설렐 듯",
-   "line2": "넌 드라마보다 경훈씨 보고 더 설레잖아 😏",
+   "line1": "경훈씨 점심 맛있게 드셨을까, 괜히 궁금해요",
+   "line2": "나도, 경훈씨 얼굴 보면 오후가 금방 갈 텐데 💛",
    "mood1": "smile",
    "mood2": "smile"
   }
