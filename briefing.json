@@ -1,9 +1,9 @@
 {
  "date": "2026-10-21",
- "updatedAt": "2026-10-21T08:04:00+09:00",
+ "updatedAt": "2026-10-21T09:06:36+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 12.9,
+  "temp": 13.2,
   "low": 12.0,
   "high": 16.0,
   "condition": "흐림, 오전 한때 빗방울 후 낮부터 구름많음",
@@ -14,24 +14,29 @@
  },
  "breaking": [
   {
-   "title": "20일 부산서 70대 남성 무궁화호 열차에 치여 사망",
-   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261021.99099005953",
-   "source": "국제신문"
+   "title": "코스피, 113.60p(2.05%) 오른 5666.34 출발",
+   "url": "https://www.fnnews.com/news/202610210859123433",
+   "source": "파이낸셜뉴스"
   },
   {
-   "title": "젤렌스키-미 윗코프 특사 오슬로에서 회담, 정전조건 조율",
-   "url": "https://www.newsis.com/view/NISX20261021_0003834155",
-   "source": "뉴시스"
+   "title": "10월 1~20일 수출액 616억달러 ‘역대 최대’…반도체 222.5%↑",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02765046645615216&mediaCodeNo=257",
+   "source": "이데일리"
   },
   {
-   "title": "다우·S&P500 상승 마감…테슬라 1.5%↑",
-   "url": "https://www.munhwa.com/article/11624941",
+   "title": "부산서 무궁화호 열차에 70대 남성 치어 숨져…‘선로 진입 경위 조사중’",
+   "url": "https://www.munhwa.com/article/11624994",
    "source": "문화일보"
   },
   {
-   "title": "스페이스X 3분기 매출 145억8000만 달러…전년대비 161%↑",
-   "url": "https://www.newsis.com/view/NISX20261021_0003834146",
-   "source": "뉴시스"
+   "title": "한동훈, 차기 대선 적합도 18.7%…무당층·중도층에서도 가장 높아",
+   "url": "https://www.munhwa.com/article/11624981",
+   "source": "문화일보"
+  },
+  {
+   "title": "서울 아파트 재산세 3조 돌파",
+   "url": "https://magazine.hankyung.com/business/article/202610214685b",
+   "source": "한경매거진"
   }
  ],
  "news": [
@@ -46,6 +51,12 @@
    "url": "https://www.hani.co.kr/arti/politics/assembly/1283305.html",
    "source": "한겨레",
    "summary": "민주당이 조희대 대법원장 탄핵 추진에 앞서 국정조사로 여론을 먼저 모으는 방안을 검토 중이다."
+  },
+  {
+   "title": "北, 사흘새 60회 경고 사격 받고도 MDL 계속 넘어왔다",
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/21/VS2YB4TVI5GLZK5BRZBK4BRMZ4/",
+   "source": "조선일보",
+   "summary": "북한군이 사흘간 60회 경고 사격에도 군사분계선을 계속 넘어오며 남북 긴장이 높아지고 있다."
   },
   {
    "title": "트럼프 \"러시아는 거대한 나라‥젤렌스키, 종전 합의해야\"",
@@ -84,6 +95,18 @@
    "summary": "모기지 금리 부담에 미국 9월 기존 주택 계약 지수가 66으로 역대 최저를 기록했다."
   },
   {
+   "title": "초호황에 숨겨진 SK하이닉스의 걱정거리… “HBM4 시장서 우위 약화”",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/21/MGHRLHJGNBCWXINTEDPQHSOALI/",
+   "source": "조선비즈",
+   "summary": "3분기 사상 최대 이익 전망 속에 HBM4 출하가 기대에 못 미치고 삼성과의 점유율 격차가 좁혀졌다."
+  },
+  {
+   "title": "마이크론 파업 예고…삼성전자·SK하이닉스 반사이익 기대",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440274",
+   "source": "연합인포맥스",
+   "summary": "마이크론 대만 D램 공장 노조의 파업 예고로 국내 반도체 기업의 가격 결정력이 커질 수 있다는 분석이 나왔다."
+  },
+  {
    "title": "국제유가, 5개월 만에 최고치 찍고 하락‥美·이란 간 중재 기대",
    "url": "https://imnews.imbc.com/news/2026/world/article/6859472_36925.html",
    "source": "MBC 뉴스",
@@ -114,6 +137,12 @@
    "summary": "대한야구소프트볼협회가 임원 배우자 업체에 국고보조금 사업을 몰아줬다는 의혹이 제기됐다."
   },
   {
+   "title": "명절 농·축산물 가격 상승에 9월 생산자물가 0.2% 올라",
+   "url": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do?no=105475&siteId=1",
+   "source": "한국무역협회",
+   "summary": "추석 명절 농·축산물 가격이 오르며 9월 생산자물가가 전월보다 0.2% 상승했다."
+  },
+  {
    "title": "\"100만원 벌어봤자 74만원 사라진다\"…'그냥 쉼' 번진 유럽",
    "url": "https://www.hankyung.com/article/2026102041421",
    "source": "한국경제",
@@ -124,6 +153,12 @@
    "url": "https://www.yna.co.kr/view/AKR20261021003500099",
    "source": "연합뉴스",
    "summary": "우간다에서 입국한 여성이 나이지리아에서 에볼라 확진 판정을 받았다."
+  },
+  {
+   "title": "캐나다 앨버타주, 분리독립 추진 주민투표 부결…잔류 선택",
+   "url": "https://www.yna.co.kr/view/AKR20261020123451009",
+   "source": "연합뉴스",
+   "summary": "캐나다 앨버타주 분리독립 추진 주민투표가 부결돼 캐나다 잔류가 결정됐다."
   },
   {
    "title": "美국방 \"우리가 우크라 스타실드 제한? 그런 적 없어\"",
@@ -156,12 +191,6 @@
    "summary": "유엔사가 DMZ 남방한계선 조정을 요구하는 등 관할권 통제를 강화하고 있다."
   },
   {
-   "title": "“통합돌봄 기금 조성 필요, 내국세·상속증여세 등 재원 검토”",
-   "url": "https://bravo.etoday.co.kr/view/atc_view/20286",
-   "source": "이투데이",
-   "summary": "통합돌봄 수요 급증에 대비해 세금 기반의 적립형 기금을 조성하자는 제안이 나왔다."
-  },
-  {
    "title": "일론 머스크 \"스페이스X·테슬라 합병 논의…장점 많아\"",
    "url": "https://www.hankyung.com/article/202610214579i",
    "source": "한국경제",
@@ -180,22 +209,10 @@
    "summary": "플라스틱 도마 칼질로 연간 미세플라스틱 7000만 개가 몸에 들어올 수 있어 관리가 중요하다."
   },
   {
-   "title": "“폐경 서서히 오는 줄 알았는데”…여성 100만명 분석하니 몸 ‘급변’ [노화설계]",
-   "url": "https://www.donga.com/news/It/article/all/20261020/134876885/2",
-   "source": "동아일보",
-   "summary": "여성 100만 명 분석 결과 폐경기에는 몸이 서서히가 아니라 급격히 변한다는 연구가 나왔다."
-  },
-  {
    "title": "역대 PS 최장 비거리 타이, 김도영 145m 초대형 만루포",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690885",
    "source": "KBS 뉴스",
    "summary": "KIA가 준PO를 3연승으로 끝낸 가운데 김도영의 145m 만루포가 PS 최장 비거리 타이 기록을 세웠다."
-  },
-  {
-   "title": "최지만 데리고 월드시리즈 갔던 탬파베이 또 진출…밀워키와 ‘첫 우승’ 격돌",
-   "url": "https://www.seoul.co.kr/news/sport/baseball/baseball-world/2026/10/21/20261021500003",
-   "source": "서울신문",
-   "summary": "탬파베이가 6년 만에 월드시리즈에 올라 밀워키와 첫 우승을 놓고 맞붙는다."
   }
  ]
 }
