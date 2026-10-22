@@ -1,110 +1,110 @@
 {
- "updatedAt": "2026-10-22T17:10:00+09:00",
+ "updatedAt": "2026-10-22T18:20:00+09:00",
  "topics": [
-  "PEAK 콘솔판 출시",
-  "콜 오브 듀티 MW4 내일 출시",
-  "이디야 치즈 수플레·생초코파이",
-  "토요일 바비큐 마시멜로 꼬치",
-  "떡상사 첫 공개 한 시간 전",
-  "해질녘 코트 단추·니트 소매",
-  "경훈씨 퇴근길 뒷모습",
-  "내일 첫 커피 vs 손편지 경쟁",
-  "휴대폰 보며 웃음 썸 농담",
-  "하루 수고 하이파이브"
+  "스튜피드 네버 다이즈 출시",
+  "스벅 겨울 e-프리퀀시",
+  "100일의 거짓말 사진관",
+  "투자자예탁금 90조 하회",
+  "트렌치·진주 귀걸이 퇴근룩",
+  "토요일 캠핑 군고구마",
+  "경훈씨와 빨리 가는 하루",
+  "손글씨 쪽지 vs 따뜻한 차 경쟁",
+  "거장항준 오디션 대사",
+  "퇴근 후 썸 연락 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "협동 등반 게임 PEAK, 오늘 콘솔판 나왔대",
-   "line2": "언니랑 저랑 밧줄 잡고 오르면 딱이겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://playobservatory.com/radar/whats-launching-october-22-29-2026/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "콜 오브 듀티 MW4가 내일 나온대",
-   "line2": "언니 주말 약속 비워 두는 거 다 알아요 ㅋ",
+   "line1": "데메크 제작진 신작 '스튜피드 네버 다이즈' 오늘 나왔대",
+   "line2": "좀비가 폭풍 성장? 언니 밤샘 각이네요 ㅋ",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://gamedropradar.com/releases/october-2026"
+   "url": "https://prtimes.jp/main/html/rd/p/000007545.000005397.html"
   },
   {
    "a": "hyewon",
-   "line1": "이디야에 치즈 수플레·생초코파이 나왔대요",
-   "line2": "내일 아침 커피랑 하나씩 사 볼까?",
+   "line1": "스벅 겨울 e-프리퀀시 오늘 시작했어요",
+   "line2": "17잔이라니, 우리 둘이 나눠 모으자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "coffee",
-   "url": "https://msgad.kr/articles/16312/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "토요일 바비큐, 마시멜로 꼬치 벌써 샀어",
-   "line2": "언니 추진력 최고! 핫초코 가루 챙길게요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "highfive"
+   "url": "https://www.donga.com/news/Economy/article/all/20261021/134880821/1"
   },
   {
    "a": "hyewon",
-   "line1": "떡상사 한 시간 남았어요, 판결 준비됐죠?",
-   "line2": "팝콘 들고 무죄 피켓까지 들 거야 ㅋㅋ",
+   "line1": "100일의 거짓말 5회에 사진관 장면 나온대요",
+   "line2": "흑백 사진 한 장, 나도 로망이었어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "투자자예탁금이 90조 아래로 내려갔대",
+   "line2": "언니 적립식이니까 오히려 줍줍 타임?",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261022145600008"
+  },
+  {
+   "a": "hyewon",
+   "line1": "트렌치 단추 다 잠그니 진주 귀걸이만 보여요",
+   "line2": "그게 포인트지, 저녁 조명에 딱이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "토요일 캠핑 군고구마는 내가 맡을게",
+   "line2": "그럼 전 마시멜로 꼬치 굽기 담당!",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh"
+   "pose2": "highfive"
   },
   {
    "a": "jiwon",
-   "line1": "해 지니까 코트 단추 끝까지 잠갔어",
-   "line2": "전 니트 소매로 손까지 쏙 숨겼어요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
+   "line1": "경훈씨 계신 날은 시간이 너무 빨리 가",
+   "line2": "맞아요, 오늘도 벌써 저녁이라 아쉬워요",
+   "mood1": "smile",
+   "mood2": "sad",
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 퇴근길 뒷모습도 든든해 보여요",
-   "line2": "맞아, 그 모습 보면 내일이 기다려져",
+   "line1": "내일 경훈씨 책상엔 제 손글씨 쪽지 놓을래요",
+   "line2": "흥, 나는 따뜻한 차까지 같이 둘 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "love",
-   "pose2": "heart"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일 아침 첫 커피는 제 차례인 거 알죠?",
-   "line2": "흥, 그럼 난 다이어리에 손편지 꽂아 둘래",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오늘 왜 자꾸 휴대폰 보고 웃어?",
-   "line2": "비밀이에요~ 설렘은 야근수당 없거든요 😏",
-   "mood1": "surprised",
+   "line1": "오디션 1등 자신 있다더니 대본은 외웠어?",
+   "line2": "첫 대사는 '경훈씨, 퇴근하세요'예요 ㅎ",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "laugh",
    "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "오늘 하루도 정말 수고 많았어",
-   "line2": "언니 덕분에 웃으면서 버텼어요, 고마워요",
+   "a": "hyewon",
+   "line1": "언니, 썸은 퇴근 후 연락이 진짜래요",
+   "line2": "그럼 오늘 밤 휴대폰 무음 해제해야겠네",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "highfive"
+   "pose1": "talkto",
+   "pose2": "laugh"
   }
  ]
 }
