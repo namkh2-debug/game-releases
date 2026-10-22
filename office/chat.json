@@ -1,89 +1,87 @@
 {
- "updatedAt": "2026-10-22T22:12:00+09:00",
+ "updatedAt": "2026-10-22T23:07:00+09:00",
  "topics": [
-  "라그나로크 온라인 PLUS+ CBT",
-  "일랜시아 모바일 사전예약",
-  "김태호 PD 산독기",
-  "빙그레 오크 아메리카노",
-  "토요일 캠핑 장작·담요",
-  "밤 니트·수면양말",
-  "경훈씨 내일 일정 챙기기",
-  "화분 물 vs 모니터 닦기 경쟁",
-  "하트 문자 썸 농담",
-  "꿀잠 인사"
+  "LG 마레이 34리바운드 신기록",
+  "장애인AG 금 21개 목표 달성",
+  "주말 겹친 핼러윈",
+  "일랜시아 닉네임 비밀",
+  "내일 커피 첫 잔 알람",
+  "내일 아이보리 니트 출근룩",
+  "자기 전 경훈씨 생각",
+  "보고서 표지 vs 그래프 경쟁",
+  "칭찬 질투",
+  "회사 앞 붕어빵 트럭"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'라그나로크 온라인 PLUS+' 국내 CBT 시작했대",
-   "line2": "언니 포링 잡던 시절 소환이네요 ㅋㅋ",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "http://www.gamefocus.co.kr/detail.php?number=180003"
-  },
-  {
-   "a": "jiwon",
-   "line1": "넥슨 '일랜시아 모바일' 사전예약 오늘 시작이래",
-   "line2": "추억 게임이죠? 언니 그때 닉네임 뭐였어요?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm",
-   "url": "http://www.gameabout.com/news/articleView.html?idxno=100733"
-  },
-  {
-   "a": "hyewon",
-   "line1": "김태호 PD 새 예능에 서인영·홍진경 나온대요",
-   "line2": "조합부터 웃기다, 첫 회는 같이 보자",
+   "line1": "LG 마레이가 리바운드 34개, KBL 신기록이래!",
+   "line2": "고글 쓰고 뛰었다면서요? 완전 투혼이다",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.tenasia.co.kr/article/2026102277284"
-  },
-  {
-   "a": "jiwon",
-   "line1": "빙그레 '오크 아메리카노' 새로 나왔대",
-   "line2": "이름부터 캠핑 장작 느낌이에요 ㅎㅎ",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.foodtoday.or.kr/news/article.html?no=208996"
-  },
-  {
-   "a": "jiwon",
-   "line1": "토요일 캠핑 장작은 내가 미리 주문해 뒀어",
-   "line2": "역시 언니! 전 담요 두 장 챙길게요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
    "pose2": "clap"
   },
   {
    "a": "hyewon",
-   "line1": "집 오자마자 트렌치 벗고 니트만 남겼어요",
-   "line2": "난 카멜 코트 걸자마자 수면양말부터!",
+   "line1": "장애인AG 우리 선수단 금 21개 목표 달성했대요",
+   "line2": "조기성 선수는 12년 만의 금이래, 뭉클해",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "down",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "자기 전에 경훈씨 내일 일정 한 번 더 봤어",
-   "line2": "내일도 경훈씨 편하게 해 드리고 싶어서죠?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "clap",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261022196700007"
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 책상 화분 물은 제가 줄래요",
-   "line2": "흥, 난 모니터 먼지까지 반짝반짝 닦을 거야",
+   "line1": "올해 핼러윈은 주말이랑 딱 겹친대요",
+   "line2": "그럼 우린 붐비는 데 말고 조용히 캠핑 가자",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261022168500011"
+  },
+  {
+   "a": "jiwon",
+   "line1": "아까 물어본 일랜시아 닉네임은… 비밀이야 ㅎㅎ",
+   "line2": "에이, 언니 그렇게 나오면 더 궁금하잖아요!",
+   "mood1": "smile",
+   "mood2": "sad",
+   "pose1": "charm",
+   "pose2": "sulk"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 커피 첫 잔은 제 차례, 알람도 맞췄어요",
+   "line2": "알았어, 이번엔 진짜 순순히 양보할게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일은 아이보리 니트에 진주 귀걸이 또 할래요",
+   "line2": "난 카멜 코트에 머플러 색만 바꿔 볼까 봐",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "charm",
+   "pose2": "think"
+  },
+  {
+   "a": "jiwon",
+   "line1": "누워서 경훈씨 생각하니 마음이 포근해져",
+   "line2": "저도요, 그래서 내일 아침이 기다려져요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "love",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 보고서 표지는 경훈씨 취향 색으로 할래요",
+   "line2": "흥, 난 한눈에 보이게 그래프까지 넣을 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -91,21 +89,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "잘 자 문자에 하트 붙이면 썸이래",
-   "line2": "언니 방금 누구한테 하트 보냈어요? 😏",
-   "mood1": "smile",
+   "line1": "아까 경훈씨가 네 보고만 칭찬하시더라?",
+   "line2": "언니 것도 꼼꼼하다 하셨잖아요, 삐지지 마요",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto"
+   "pose1": "sulk",
+   "pose2": "charm"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 오늘도 고생 많았어요, 꿀잠 자요",
-   "line2": "너도! 내일 아침 반짝이는 얼굴로 보자",
+   "a": "jiwon",
+   "line1": "회사 앞에 붕어빵 트럭 하나 생기면 좋겠다",
+   "line2": "생기면 팥이랑 슈크림 제가 다 쏠게요!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "highfive"
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
