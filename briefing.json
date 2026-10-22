@@ -1,9 +1,9 @@
 {
  "date": "2026-10-22",
- "updatedAt": "2026-10-22T13:12:00+09:00",
+ "updatedAt": "2026-10-22T14:15:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 12,
+  "temp": 13.2,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -14,29 +14,29 @@
  },
  "breaking": [
   {
-   "title": "신현송 \"일시적 재원으로 재정지출 확대, 각별히 유의해야\"",
-   "url": "https://www.news1.kr/economy/trend/6328486",
-   "source": "뉴스1"
+   "title": "“이자 장사 논란” 금감원, 은행 들여다본다",
+   "url": "https://magazine.hankyung.com/business/article/202610228618b",
+   "source": "한경매거진"
   },
   {
-   "title": "한은 총재 \"석유최고가격제, 장기적으로 재정에 문제\"",
-   "url": "https://www.yna.co.kr/view/AKR20261022099600002",
+   "title": "청주 무인카페서 30대가 혼자 있던 술 취한 20대 여성 추행…입건",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/10/22/20261022500123",
+   "source": "서울신문"
+  },
+  {
+   "title": "LG디스플레이, 3분기 영업익 2506억…전년比 42%↓",
+   "url": "https://www.newsis.com/view/NISX20261022_0003836787",
+   "source": "뉴시스"
+  },
+  {
+   "title": "이 대통령 “중수청 지휘 감독 포기는 헌법 위반·탄핵 사유”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8692474",
+   "source": "KBS 뉴스"
+  },
+  {
+   "title": "한은 총재 \"내후년 정도면 물가 목표수준 가까이 갈 것\"",
+   "url": "https://www.yna.co.kr/view/AKR20261022101400002",
    "source": "연합뉴스"
-  },
-  {
-   "title": "인천 청라복합문화센터서 가스총 오발 사고…6명 부상",
-   "url": "https://www.munhwa.com/article/11625369",
-   "source": "문화일보"
-  },
-  {
-   "title": "李대통령 \"초국가범죄 TF 출범 1년…보이스피싱 피해 절반 이하로 줄어\"",
-   "url": "https://www.segye.com/newsView/20261022510422",
-   "source": "세계일보"
-  },
-  {
-   "title": "금융위원장 \"디지털자산기본법 빨리 논의…과세는 여러 상황 고려해야\"",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03742486645615544&mediaCodeNo=257",
-   "source": "이데일리"
   }
  ],
  "news": [
@@ -53,10 +53,10 @@
    "summary": "김여정 부장이 전 국경선에 새 대응수단이 대기 중이며 대남 확성기도 곧 가동하겠다고 위협했다."
   },
   {
-   "title": "국회, 종합감사 본격화…‘공소취소·레버리지’ 재공방 전망",
-   "url": "https://www.khan.co.kr/article/202610220725001",
-   "source": "경향신문",
-   "summary": "오늘 10개 상임위 국정감사, 공소취소 문제와 레버리지 ETF를 두고 여야가 재격돌할 전망이에요."
+   "title": "김동관·김동원도 지분 넘긴다…김동선, 한화M&S 공개매수 규모 확대",
+   "url": "https://www.investchosun.com/site/data/html_dir/2026/10/22/2026102280058.html",
+   "source": "인베스트조선",
+   "summary": "김동선 부회장이 형들의 지분까지 넘겨받으며 한화M&S 공개매수 규모를 키웠다."
   },
   {
    "title": "‘16년 감형’ 박성재 징역 9년…법원 “윤석열과 계엄 사전모의 안 해”",
@@ -167,16 +167,16 @@
    "summary": "초광역특구법에 장시간 노동 허용 등 독소조항 많다는 비판 제기"
   },
   {
-   "title": "푸틴, 中 리창 총리와 접견…“다음달 APEC서 시진핑과 회담 가능성“",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022022025bBe",
-   "source": "연합뉴스TV",
-   "summary": "푸틴 대통령이 리창 중국 총리를 만나 다음 달 APEC에서 시진핑 주석과의 회담 가능성을 언급했다."
+   "title": "테슬라, 3분기 매출 37조원…자율주행 SW 채택률 증가",
+   "url": "https://www.yna.co.kr/view/AKR20261022008051091",
+   "source": "연합뉴스",
+   "summary": "테슬라가 3분기 매출 약 37조원을 기록했고 자율주행 소프트웨어 채택률이 늘었다."
   },
   {
-   "title": "CNN \"美중간선거 민주당 후보 지지 49%…공화당에 10%p 앞서\"",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022072903LK8",
+   "title": "교황, 폐암 수술 뒤 ‘추가 치료 불필요’ 판정",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022074241XaT",
    "source": "연합뉴스TV",
-   "summary": "미 중간선거를 열흘여 앞두고 CNN 조사에서 트럼프 대통령 국정 지지율이 32%로 역대 최저를 기록했다."
+   "summary": "최근 폐암 수술을 받은 교황 레오 14세가 추가 치료는 필요 없다는 진단을 받았다."
   },
   {
    "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
@@ -191,10 +191,10 @@
    "summary": "30호 태풍 참피가 제주도 남쪽으로 방향을 튼 뒤 일본에 상륙할 가능성이 높다는 전망이 나왔다."
   },
   {
-   "title": "전국 내륙 한파특보 발효…아침 기온 전날 대비 10도 하락",
-   "url": "https://www.khan.co.kr/article/202610220732001",
-   "source": "경향신문",
-   "summary": "찬 공기 유입으로 내륙 대부분에 한파특보, 아침 기온이 전날보다 약 10도 낮아졌어요."
+   "title": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트 '클로드 듀엣' 공개",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216510",
+   "source": "AI타임스",
+   "summary": "앤트로픽이 업무용 AI 에이전트 '클로드 듀엣'을 공개하며 메타·오픈AI와 경쟁에 나섰다."
   },
   {
    "title": "연세대 포털도 해킹됐다…재학생 등 1만여명 개인정보 유출",
@@ -203,10 +203,10 @@
    "summary": "연세대 포털이 해킹돼 재학생 등 1만여 명의 개인정보가 유출돼 학교가 수사를 의뢰했다."
   },
   {
-   "title": "경찰, '역삼동 연쇄 방화' 70대 구속영장 신청",
-   "url": "https://www.ytn.co.kr/_ln/0103_202610212137010746",
-   "source": "YTN",
-   "summary": "역삼동 특허법인 두 곳에 불을 질러 19명을 다치게 한 70대에 구속영장이 신청됐고 살인미수 혐의 적용도 검토 중이다."
+   "title": "서울 아파트 실거래가 1년 새 15.5%↑",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8692464",
+   "source": "KBS 뉴스",
+   "summary": "서울 아파트 매매가가 1년 새 15.5% 올라 2021년 11월 이후 가장 높은 상승률을 기록했다."
   },
   {
    "title": "현대차 5세대 투싼, 계약 첫날 1만5천대 돌파…역대 최고 인기",
