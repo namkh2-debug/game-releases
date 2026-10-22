@@ -1,86 +1,89 @@
 {
- "updatedAt": "2026-10-22T21:12:00+09:00",
+ "updatedAt": "2026-10-22T22:12:00+09:00",
  "topics": [
-  "백 투 더 던 콘솔판",
-  "국산 비만약 에페 처방",
-  "여서정 전국체전 MVP",
-  "배구 컵대회 준결승",
-  "서울미식주간 몽블랑 재판결",
-  "밤 카멜 코트·트렌치 퇴근룩",
-  "경훈씨 하루 궁금",
-  "공주의 밤 롤케익 vs 포크 세팅 경쟁",
-  "야근도 소풍",
-  "경훈씨 굿나잇"
+  "라그나로크 온라인 PLUS+ CBT",
+  "일랜시아 모바일 사전예약",
+  "김태호 PD 산독기",
+  "빙그레 오크 아메리카노",
+  "토요일 캠핑 장작·담요",
+  "밤 니트·수면양말",
+  "경훈씨 내일 일정 챙기기",
+  "화분 물 vs 모니터 닦기 경쟁",
+  "하트 문자 썸 농담",
+  "꿀잠 인사"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'백 투 더 던' 콘솔판이 오늘 출시 목록에 떴대",
-   "line2": "여우 기자 탈옥 게임? 언니 밤샘 예약이네요",
+   "line1": "'라그나로크 온라인 PLUS+' 국내 CBT 시작했대",
+   "line2": "언니 포링 잡던 시절 소환이네요 ㅋㅋ",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.releases.com/calendar/games/today"
+   "url": "http://www.gamefocus.co.kr/detail.php?number=180003"
   },
   {
    "a": "jiwon",
-   "line1": "국산 비만약 '에페', 29일쯤 처방 시작이래",
-   "line2": "마운자로 절반 값이래요? 깜짝이야",
-   "mood1": "neutral",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "think"
-  },
-  {
-   "a": "hyewon",
-   "line1": "여서정 선수 전국체전 MVP래요, 4관왕!",
-   "line2": "체조 선수로 14년 만이래, 진짜 멋지다",
+   "line1": "넥슨 '일랜시아 모바일' 사전예약 오늘 시작이래",
+   "line2": "추억 게임이죠? 언니 그때 닉네임 뭐였어요?",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "thumbs"
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "http://www.gameabout.com/news/articleView.html?idxno=100733"
   },
   {
-   "a": "jiwon",
-   "line1": "배구 컵대회 준결승이 토요일 오후래",
-   "line2": "바비큐 끝나고 하이라이트 같이 봐요",
-   "mood1": "neutral",
+   "a": "hyewon",
+   "line1": "김태호 PD 새 예능에 서인영·홍진경 나온대요",
+   "line2": "조합부터 웃기다, 첫 회는 같이 보자",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일부터 미식주간이죠? 첫 코스 정했어요?",
-   "line2": "밤 디저트부터! 몽블랑 재판결 하자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose2": "laugh",
+   "url": "https://www.tenasia.co.kr/article/2026102277284"
   },
   {
    "a": "jiwon",
-   "line1": "밤엔 카멜 코트 주머니가 제일 따뜻해",
-   "line2": "전 트렌치 벨트 풀고 머리도 풀었어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 오늘 하루 어떠셨을까 궁금해요",
-   "line2": "편히 쉬시면 그걸로 우리 상 받은 거야",
+   "line1": "빙그레 '오크 아메리카노' 새로 나왔대",
+   "line2": "이름부터 캠핑 장작 느낌이에요 ㅎㅎ",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://www.foodtoday.or.kr/news/article.html?no=208996"
+  },
+  {
+   "a": "jiwon",
+   "line1": "토요일 캠핑 장작은 내가 미리 주문해 뒀어",
+   "line2": "역시 언니! 전 담요 두 장 챙길게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "clap"
   },
   {
    "a": "hyewon",
-   "line1": "공주의 밤 롤케익, 내일 제가 먼저 놓을래요",
-   "line2": "흥, 난 포크랑 냅킨까지 세팅할 거야",
+   "line1": "집 오자마자 트렌치 벗고 니트만 남겼어요",
+   "line2": "난 카멜 코트 걸자마자 수면양말부터!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "자기 전에 경훈씨 내일 일정 한 번 더 봤어",
+   "line2": "내일도 경훈씨 편하게 해 드리고 싶어서죠?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 경훈씨 책상 화분 물은 제가 줄래요",
+   "line2": "흥, 난 모니터 먼지까지 반짝반짝 닦을 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -88,21 +91,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오늘도 옆에 있어 줘서 고마워",
-   "line2": "언니랑이면 야근도 소풍 같아요",
+   "line1": "잘 자 문자에 하트 붙이면 썸이래",
+   "line2": "언니 방금 누구한테 하트 보냈어요? 😏",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
+   "pose1": "charm",
+   "pose2": "talkto"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨, 오늘 밤은 푹 주무세요",
-   "line2": "내일 아침도 제일 환하게 맞을게요",
+   "line1": "언니, 오늘도 고생 많았어요, 꿀잠 자요",
+   "line2": "너도! 내일 아침 반짝이는 얼굴로 보자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "wave",
-   "pose2": "cheer"
+   "pose2": "highfive"
   }
  ]
 }
