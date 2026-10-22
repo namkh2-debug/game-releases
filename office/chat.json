@@ -1,89 +1,86 @@
 {
- "updatedAt": "2026-10-22T20:11:02+09:00",
+ "updatedAt": "2026-10-22T21:12:00+09:00",
  "topics": [
-  "스튜피드 네버 다이즈 출시",
-  "안세영 47연승 8강",
-  "이디야 생 초코파이·모찌떡",
-  "맘스터치 후덕죽 XO버거",
-  "떡상사 이어보기",
-  "진주 귀걸이·카멜 트렌치 퇴근룩",
-  "경훈씨 웃음소리",
-  "손난로 vs 무릎담요 경쟁",
-  "하루 마무리 하이파이브",
-  "경훈씨 저녁 챙기기"
+  "백 투 더 던 콘솔판",
+  "국산 비만약 에페 처방",
+  "여서정 전국체전 MVP",
+  "배구 컵대회 준결승",
+  "서울미식주간 몽블랑 재판결",
+  "밤 카멜 코트·트렌치 퇴근룩",
+  "경훈씨 하루 궁금",
+  "공주의 밤 롤케익 vs 포크 세팅 경쟁",
+  "야근도 소풍",
+  "경훈씨 굿나잇"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "세가 '스튜피드 네버 다이즈' 오늘 나왔대",
-   "line2": "좀비가 폭풍 성장? 언니 취향 저격이네요",
+   "line1": "'백 투 더 던' 콘솔판이 오늘 출시 목록에 떴대",
+   "line2": "여우 기자 탈옥 게임? 언니 밤샘 예약이네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://prtimes.jp/main/html/rd/p/000007545.000005397.html"
+   "url": "https://www.releases.com/calendar/games/today"
   },
   {
    "a": "jiwon",
-   "line1": "안세영 방금 47연승, 프랑스오픈 8강이래!",
-   "line2": "통증 안고도요? 진짜 대단해요",
-   "mood1": "surprised",
+   "line1": "국산 비만약 '에페', 29일쯤 처방 시작이래",
+   "line2": "마운자로 절반 값이래요? 깜짝이야",
+   "mood1": "neutral",
    "mood2": "surprised",
-   "pose1": "cheer",
-   "pose2": "clap",
-   "url": "https://www.mt.co.kr/sports/2026/10/22/202610221926770037O"
-  },
-  {
-   "a": "hyewon",
-   "line1": "이디야에 생 초코파이랑 딸기 모찌떡 나왔대요",
-   "line2": "모찌떡은 내 몫으로 하나 꼭 남겨 줘",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto",
-   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026391"
-  },
-  {
-   "a": "jiwon",
-   "line1": "맘스터치가 후덕죽 셰프랑 XO버거 냈대",
-   "line2": "언니, 캠핑 가면 XO 볶음밥 해 주세요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm",
-   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417241"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 떡상사 출근길에 다 봤어요?",
-   "line2": "아직 반만! 내일 점심에 마저 볼 거야",
-   "mood1": "neutral",
-   "mood2": "smile",
    "pose1": "talkto",
    "pose2": "think"
   },
   {
    "a": "hyewon",
-   "line1": "진주 귀걸이 하고 퇴근하니 괜히 신나요",
-   "line2": "카멜 트렌치랑 찰떡이더라, 인정!",
-   "mood1": "smile",
+   "line1": "여서정 선수 전국체전 MVP래요, 4관왕!",
+   "line2": "체조 선수로 14년 만이래, 진짜 멋지다",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "clap",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 웃음소리 들으면 하루가 말랑해져",
-   "line2": "맞아요, 그 웃음이 저희 퇴근 선물이죠",
+   "line1": "배구 컵대회 준결승이 토요일 오후래",
+   "line2": "바비큐 끝나고 하이라이트 같이 봐요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일부터 미식주간이죠? 첫 코스 정했어요?",
+   "line2": "밤 디저트부터! 몽블랑 재판결 하자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "love",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "밤엔 카멜 코트 주머니가 제일 따뜻해",
+   "line2": "전 트렌치 벨트 풀고 머리도 풀었어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 오늘 하루 어떠셨을까 궁금해요",
+   "line2": "편히 쉬시면 그걸로 우리 상 받은 거야",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
    "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 책상에 손난로 먼저 둘래요",
-   "line2": "흥, 난 무릎담요 곱게 개어 올려 둘 거야",
+   "line1": "공주의 밤 롤케익, 내일 제가 먼저 놓을래요",
+   "line2": "흥, 난 포크랑 냅킨까지 세팅할 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -91,8 +88,8 @@
   },
   {
    "a": "jiwon",
-   "line1": "오늘도 무사히 하루 끝! 우리 수고했어",
-   "line2": "언니도요, 내일 또 같이 힘내요",
+   "line1": "혜원아, 오늘도 옆에 있어 줘서 고마워",
+   "line2": "언니랑이면 야근도 소풍 같아요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "highfive",
@@ -100,12 +97,12 @@
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨, 저녁은 꼭 따뜻한 걸로 드세요",
-   "line2": "야식은 살짝만 드시기예요, 약속!",
+   "line1": "경훈씨, 오늘 밤은 푹 주무세요",
+   "line2": "내일 아침도 제일 환하게 맞을게요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "wave",
-   "pose2": "charm"
+   "pose2": "cheer"
   }
  ]
 }
