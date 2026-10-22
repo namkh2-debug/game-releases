@@ -1,9 +1,9 @@
 {
  "date": "2026-10-22",
- "updatedAt": "2026-10-22T12:07:14+09:00",
+ "updatedAt": "2026-10-22T13:12:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 11,
+  "temp": 12,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -19,6 +19,11 @@
    "source": "뉴스1"
   },
   {
+   "title": "한은 총재 \"석유최고가격제, 장기적으로 재정에 문제\"",
+   "url": "https://www.yna.co.kr/view/AKR20261022099600002",
+   "source": "연합뉴스"
+  },
+  {
    "title": "인천 청라복합문화센터서 가스총 오발 사고…6명 부상",
    "url": "https://www.munhwa.com/article/11625369",
    "source": "문화일보"
@@ -32,11 +37,6 @@
    "title": "금융위원장 \"디지털자산기본법 빨리 논의…과세는 여러 상황 고려해야\"",
    "url": "https://www.edaily.co.kr/News/Read?newsId=03742486645615544&mediaCodeNo=257",
    "source": "이데일리"
-  },
-  {
-   "title": "靑 \"李대통령, AI에 국정 물은 것 아냐…헌법·법률 팩트 확인\"",
-   "url": "https://www.fnnews.com/news/202610221102137062",
-   "source": "파이낸셜뉴스"
   }
  ],
  "news": [
