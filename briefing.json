@@ -1,9 +1,9 @@
 {
  "date": "2026-10-22",
- "updatedAt": "2026-10-22T15:15:00+09:00",
+ "updatedAt": "2026-10-22T16:15:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 13.6,
+  "temp": 13.7,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -14,19 +14,19 @@
  },
  "breaking": [
   {
+   "title": "코스피 3% 넘게 급락...5,600선까지 무너져",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610221541476834",
+   "source": "YTN"
+  },
+  {
    "title": "헌재, '존속살해 가중처벌' 형법 조항 합헌 결정",
    "url": "https://www.newsis.com/view/NISX20261022_0003836905",
    "source": "뉴시스"
   },
   {
-   "title": "“이자 장사 논란” 금감원, 은행 들여다본다",
-   "url": "https://magazine.hankyung.com/business/article/202610228618b",
-   "source": "한경매거진"
-  },
-  {
-   "title": "청주 무인카페서 30대가 혼자 있던 술 취한 20대 여성 추행…입건",
-   "url": "https://www.seoul.co.kr/news/society/accident/2026/10/22/20261022500123",
-   "source": "서울신문"
+   "title": "'역삼동 연쇄 방화' 70대 남성, 구속심사 출석",
+   "url": "https://www.ajunews.com/view/20261022104555616",
+   "source": "아주경제"
   },
   {
    "title": "LG디스플레이, 3분기 영업익 2506억…전년比 42%↓",
@@ -34,9 +34,9 @@
    "source": "뉴시스"
   },
   {
-   "title": "이 대통령 “중수청 지휘 감독 포기는 헌법 위반·탄핵 사유”",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8692474",
-   "source": "KBS 뉴스"
+   "title": "“이자 장사 논란” 금감원, 은행 들여다본다",
+   "url": "https://magazine.hankyung.com/business/article/202610228618b",
+   "source": "한경매거진"
   }
  ],
  "news": [
@@ -89,10 +89,10 @@
    "summary": "AI 반도체 수출 호조로 한국이 일본을 제치고 세계 수출 5위에 올랐어요."
   },
   {
-   "title": "\"금리 동결\"에 코스피 5500선 '풀썩'…3%대 급락",
-   "url": "https://www.mt.co.kr/stock/2026/10/22/2026102214045997041",
-   "source": "머니투데이",
-   "summary": "외국인·기관 동반 매도에 오후 한때 3.31% 내린 5545까지 밀렸고 삼성전자·SK하이닉스도 4~6% 하락했다."
+   "title": "투자자예탁금 결국 90조원도 하회…9개월 만에 처음",
+   "url": "https://www.yna.co.kr/view/AKR20261022145600008",
+   "source": "연합뉴스",
+   "summary": "증시 대기자금인 투자자예탁금이 21일 89조6천억원으로 7거래일 연속 줄며 9개월여 만에 90조원 아래로 내려갔다."
   },
   {
    "title": "영풍·MBK, 고려아연 상대 주주대표소송 1심 패소",
