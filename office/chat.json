@@ -1,96 +1,80 @@
 {
- "updatedAt": "2026-10-22T13:14:00+09:00",
+ "updatedAt": "2026-10-22T14:20:00+09:00",
  "topics": [
-  "오후 니트 출근룩",
-  "버건디 네일",
-  "유퀴즈 강소라 AI 드라마",
-  "천천히 강렬하게 12월 공개",
-  "원피스 그랜드 레스토랑 출시",
-  "기준금리 동결",
-  "점심 국밥 질투",
-  "우디 향수 vs 무화과 핸드크림",
-  "경훈씨 회의 끝 기다림",
-  "오후 일정·차 챙기기"
+  "풋볼 매니저27 무료 체험",
+  "장시환 은퇴",
+  "수도권 단풍 절정·화담숲",
+  "서울 아파트값 15.5%",
+  "몽블랑 심사 이어가기",
+  "오후 블라우스·그레이 니트",
+  "경훈씨 결재 정성",
+  "보고서 표지 vs 포스트잇 경쟁",
+  "거울 보며 웃음 썸 농담",
+  "오후 세 시 하이파이브"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "언니, 점심 먹고 재킷 벗었는데 니트만 괜찮죠?",
-   "line2": "그레이 니트에 네이비 슬랙스, 완전 단정해",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 봐요, 네일 가을 버건디로 바꿨어요",
-   "line2": "어머 반짝반짝, 경훈씨 결재판 넘길 때 보이겠다",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "charm",
-   "pose2": "none"
-  },
-  {
-   "a": "hyewon",
-   "line1": "유퀴즈 강소라 편, 무협소설을 AI 드라마로 만들었대요",
-   "line2": "와, 나도 옛날 캠핑 일기 꺼내 볼까",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "송혜교·공유 넷플릭스 신작, 12월 11일 공개래요",
-   "line2": "노희경 작가잖아, 그날은 무조건 정주행이다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs"
-  },
-  {
    "a": "jiwon",
-   "line1": "원피스 레스토랑 게임 오늘 스위치로 나왔어",
-   "line2": "언니 요리 실력이면 발라티에 사장님감인데요",
+   "line1": "풋볼 매니저27, 30일부터 6일간 무료 체험이래",
+   "line2": "언니 감독 놀이하다 밤새면 안 돼요 ㅋㅋ",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://m.ruliweb.com/news/read/230031"
+   "url": "https://www.inven.co.kr/webzine/news/?news=322442"
   },
   {
    "a": "jiwon",
-   "line1": "한은이 오늘 기준금리 연 3%로 동결했대",
-   "line2": "그럼 예금 금리 더 내리기 전에 적금 하나 들까요",
+   "line1": "장시환 은퇴래, 한화에서도 던졌던 투수잖아",
+   "line2": "20년 마운드라니, 박수 보내고 싶어요",
    "mood1": "neutral",
-   "mood2": "neutral",
+   "mood2": "smile",
    "pose1": "think",
-   "pose2": "think",
-   "url": "https://www.yna.co.kr/view/AKR20261022069300002"
+   "pose2": "clap",
+   "url": "https://www.chosun.com/sports/baseball/2026/10/22/GYZDSZJTGI4TKMZXMZSTSZDGMQ/"
   },
   {
    "a": "hyewon",
-   "line1": "언니 한마디에 경훈씨 점심 국밥 고르셨잖아요",
-   "line2": "경훈씨 입맛은 내가 좀 알지~ 내일은 네 차례!",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 새 우디 향수, 경훈씨 눈치채셨을걸?",
-   "line2": "전 무화과 핸드크림으로 맞불 놨거든요!",
+   "line1": "수도권 단풍 29일쯤 절정이래요, 화담숲도요!",
+   "line2": "다음 주 점심 산책 코스로 딱이다 🍁",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "charm"
+   "pose2": "thumbs",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=391979"
+  },
+  {
+   "a": "jiwon",
+   "line1": "서울 아파트값 1년 새 15.5% 올랐대",
+   "line2": "헉, 언니 청약통장부터 다시 봐요",
+   "mood1": "surprised",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "none",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8692464"
   },
   {
    "a": "hyewon",
-   "line1": "오후엔 경훈씨 회의 끝나는 문소리만 기다려요",
-   "line2": "나도, 그 소리가 내 오후 알람이야",
+   "line1": "언니, 몽블랑 심사 결과 들었어요?",
+   "line2": "아직이야, 퇴근 전엔 꼭 여쭤보자",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "jiwon",
+   "line1": "코트는 걸어두고 블라우스 소매만 걷었어",
+   "line2": "전 그레이 니트라 오후엔 딱 포근해요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "wave"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 결재 한 줄에도 정성이 보여요",
+   "line2": "그치, 그런 분 곁이라 일할 맛 나",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -98,12 +82,30 @@
   },
   {
    "a": "jiwon",
-   "line1": "오후 일정은 내가 깔끔하게 정리해 둘게",
-   "line2": "그럼 따뜻한 차는 제가 맡을게요, 언니",
+   "line1": "오후 보고서, 표지까지 내가 예쁘게 뽑을래",
+   "line2": "전 요약본에 응원 포스트잇 붙일 거예요!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 아까 거울 보며 혼자 웃던데, 썸?",
+   "line2": "쉿, 설레는 건 퇴근 후에만 할 거야 😏",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오후 세 시만 넘기면 금방이야",
+   "line2": "그럼 우리 하이파이브하고 버텨요!",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "highfive"
   }
  ]
 }
