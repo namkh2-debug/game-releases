@@ -1,204 +1,219 @@
 {
-  "date": "2026-10-23",
-  "updatedAt": "2026-10-23T06:40:00+09:00",
-  "region": "경기 광주",
-  "weather": {
-    "temp": 6.2,
-    "low": 3,
-    "high": 17,
-    "condition": "맑음",
-    "rainChance": "0%",
-    "dust": "미세먼지 좋음, 초미세먼지 좋음",
-    "tip": "아침 3도 안팎으로 초겨울처럼 쌀쌀해요. 코트나 두꺼운 재킷을 입고, 낮엔 17도까지 올라 일교차가 크니 겹쳐 입으세요. 우산은 필요 없어요.",
-    "source": "기상청 단기예보(울림 114.it.kr), 에어코리아, Open-Meteo 현재기온"
+ "date": "2026-10-23",
+ "updatedAt": "2026-10-23T07:03:00+09:00",
+ "region": "경기 광주",
+ "weather": {
+  "temp": 6.4,
+  "low": 3,
+  "high": 17,
+  "condition": "맑음",
+  "rainChance": "0%",
+  "dust": "미세먼지 좋음, 초미세먼지 좋음",
+  "tip": "아침 3도 안팎으로 초겨울처럼 쌀쌀해요. 코트나 두꺼운 재킷을 입고, 낮엔 17도까지 올라 일교차가 크니 겹쳐 입으세요. 우산은 필요 없어요.",
+  "source": "기상청 단기예보(울림 114.it.kr), 에어코리아, Open-Meteo 현재기온"
+ },
+ "breaking": [
+  {
+   "title": "中 티베트 나취서 규모 7.0 강진…16명 사망·46명 부상",
+   "url": "https://www.newsis.com/view/NISX20261023_0003837750",
+   "source": "뉴시스"
   },
-  "breaking": [
-    {
-      "title": "\"美, 내달 3일부터 국제선 입국자 전원에 에볼라 증명서 요구\"<로이터>",
-      "url": "https://www.yna.co.kr/view/AKR20261023007400091",
-      "source": "연합뉴스"
-    }
-  ],
-  "news": [
-    {
-      "title": "시장직·대선출마 걸린 오세훈 2심 선고 오후 2시 생중계",
-      "url": "https://www.yna.co.kr/view/AKR20261022191200004",
-      "source": "연합뉴스",
-      "summary": "오세훈 서울시장 항소심 선고가 오늘 오후 2시 생중계돼 시장직 유지 여부가 갈린다."
-    },
-    {
-      "title": "정부 '北 정전협정 위반' 유엔 서한…안보리 이사국 회람 승인",
-      "url": "https://www.yna.co.kr/view/AKR20261023004500072",
-      "source": "연합뉴스",
-      "summary": "정부가 북한의 정전협정 위반을 알리는 유엔 서한을 보냈고 안보리 이사국 회람이 승인됐다."
-    },
-    {
-      "title": "이 대통령 \"중수청 지휘·감독 포기는 탄핵 사유\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811097&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "이재명 대통령이 중대범죄수사청 지휘·감독을 포기하는 것은 탄핵 사유라고 말했다."
-    },
-    {
-      "title": "상임위 8곳 국정감사…미래기금·초광역특구법 등 공방 전망",
-      "url": "https://www.yna.co.kr/view/AKR20261022181800001",
-      "source": "연합뉴스",
-      "summary": "국회 상임위 8곳에서 국정감사가 열려 미래기금·초광역특구법 등을 두고 공방이 예상된다."
-    },
-    {
-      "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
-      "url": "https://www.yna.co.kr/view/AKR20261023007600072",
-      "source": "연합뉴스",
-      "summary": "AI 거품 우려가 다시 커지며 뉴욕증시 기술주가 급락해 나스닥이 2.6% 떨어졌다."
-    },
-    {
-      "title": "\"기준금리 동결했는데 왜\"…코스피 급락한 이유",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810891&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "기준금리 동결에도 코스피가 급락한 배경을 짚었다."
-    },
-    {
-      "title": "국제유가, 후티의 사우디 공격에 급등…브렌트유 5개월만에 최고",
-      "url": "https://www.yna.co.kr/view/AKR20261023006200072",
-      "source": "연합뉴스",
-      "summary": "후티 반군의 사우디 공격 여파로 국제유가가 급등해 브렌트유가 5개월 만에 최고치를 찍었다."
-    },
-    {
-      "title": "젠슨황 \"2029년 메모리 공급과잉 없다…메모리는 다다익선\"",
-      "url": "https://www.yna.co.kr/view/AKR20261023004200091",
-      "source": "연합뉴스",
-      "summary": "젠슨 황 엔비디아 CEO가 2029년까지 메모리 공급과잉은 없다며 메모리는 많을수록 좋다고 말했다."
-    },
-    {
-      "title": "\"中 티베트서 규모 7.0 강진…진원 깊이 10㎞\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261022198552098",
-      "source": "연합뉴스",
-      "summary": "중국 티베트에서 규모 7.0의 강진이 발생했으며 진원 깊이는 10㎞로 알려졌다."
-    },
-    {
-      "title": "부산교통공사 노사 단체교섭 최종 타결…열차 정상운행",
-      "url": "https://www.yna.co.kr/view/AKR20261022198300051",
-      "source": "연합뉴스",
-      "summary": "부산교통공사 노사가 추가 협상 끝에 단체교섭을 최종 타결해 오늘 지하철이 정상 운행한다."
-    },
-    {
-      "title": "'소방관 순직' 부천 화재 초반 인화물질 추정 보고에도 '공격 진압'",
-      "url": "https://www.yna.co.kr/view/AKR20261023000600065",
-      "source": "연합뉴스",
-      "summary": "소방관이 순직한 부천 화재 현장에서 초반 인화물질 추정 보고에도 공격 진압이 이뤄진 것으로 전해졌다."
-    },
-    {
-      "title": "생존자들 입 모아 \"죽이려 했다\"…역삼 방화범 구속",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810894&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "역삼동 연쇄 방화 혐의 70대가 구속됐고 생존자들은 '죽이려 했다'고 입을 모았다."
-    },
-    {
-      "title": "전국 법원 전산망 2시간 마비 풀려…\"해킹 무관, 원인 파악중\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261022187400004",
-      "source": "연합뉴스",
-      "summary": "전국 법원 전산망이 2시간가량 마비됐다가 복구됐으며 해킹과는 무관하다고 법원은 밝혔다."
-    },
-    {
-      "title": "'첫 국산 GLP-1 비만신약' 에페 29일께 처방 시작",
-      "url": "https://www.yna.co.kr/view/AKR20261022132900017",
-      "source": "연합뉴스",
-      "summary": "첫 국산 GLP-1 계열 비만 신약 '에페'가 29일께부터 처방되기 시작한다."
-    },
-    {
-      "title": "가상자산 과세 또 유예하나…김민석 \"연내 결론\"(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261022022851001",
-      "source": "연합뉴스",
-      "summary": "가상자산 과세가 또 유예될지 관심인 가운데 김민석 총리는 연내 결론을 내겠다고 했다."
-    },
-    {
-      "title": "국토장관 \"1인가구·전세사기에 전세의 월세화\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023053211wwE",
-      "source": "연합뉴스TV",
-      "summary": "국토교통부 장관이 1인가구 증가와 전세사기 여파로 전세의 월세화가 진행 중이라고 진단했다."
-    },
-    {
-      "title": "'산재 은폐' 지시 확인했지만…\"형사 처벌 어려워\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811093&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "쿠팡 산재 은폐 지시는 확인됐지만 형사 처벌은 어렵다는 판단이 나와 논란이 일고 있다."
-    },
-    {
-      "title": "쿠팡, 48억원 대미 로비…중간선거앞 美민주당 후원도 증액",
-      "url": "https://www.yna.co.kr/view/AKR20261022199800071",
-      "source": "연합뉴스",
-      "summary": "쿠팡이 미국에서 48억원 규모 로비를 벌이고 중간선거를 앞두고 민주당 후원도 늘렸다."
-    },
-    {
-      "title": "\"트럼프, 머스크에 전화…우크라 스타실드 제한 해제 요청\"",
-      "url": "https://www.yna.co.kr/view/AKR20261023006700072",
-      "source": "연합뉴스",
-      "summary": "트럼프 대통령이 머스크에게 전화해 우크라이나에 대한 스타실드 사용 제한 해제를 요청했다고 전해졌다."
-    },
-    {
-      "title": "폭력사태에 놀란 프랑스, 집회 제한…시위대 \"수용 못해\"(종합2보)",
-      "url": "https://www.yna.co.kr/view/AKR20261022189352085",
-      "source": "연합뉴스",
-      "summary": "폭력 사태가 잇따르자 프랑스 정부가 집회를 제한했고 시위대는 반발하고 있다."
-    },
-    {
-      "title": "시위 예고에 루브르 24일 휴관…상점들도 약탈 대비 '무장'",
-      "url": "https://www.yna.co.kr/view/AKR20261023004900085",
-      "source": "연합뉴스",
-      "summary": "프랑스 시위 예고로 루브르 박물관이 24일 휴관하고 상점들도 약탈에 대비하고 있다."
-    },
-    {
-      "title": "\"에너지 다음은 식량 위기\"…경유·비료값 급등에 엘니뇨까지",
-      "url": "https://www.yna.co.kr/view/AKR20261023007200072",
-      "source": "연합뉴스",
-      "summary": "경유·비료값 급등에 엘니뇨까지 겹치며 에너지에 이어 식량 위기 우려가 커지고 있다."
-    },
-    {
-      "title": "2029년 달 궤도선 보낼 궤도수송선, 한화에어로가 개발한다",
-      "url": "https://www.yna.co.kr/view/AKR20261022187000017",
-      "source": "연합뉴스",
-      "summary": "2029년 달 궤도선을 보낼 궤도수송선을 한화에어로스페이스가 개발한다."
-    },
-    {
-      "title": "AI가 찾은 '보안 결함'…각국 웹사이트 해킹 비상",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810884&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "AI가 찾아낸 보안 결함으로 세계 각국 웹사이트에 해킹 비상이 걸렸다."
-    },
-    {
-      "title": "로그인 없이 서버 장악?…\"국내 취약 서버 11만 개\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810885&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "로그인 없이 서버를 장악할 수 있는 취약점에 노출된 국내 서버가 11만 개에 이른다."
-    },
-    {
-      "title": "LG CNS, 챗GPT 기업 고객 3만명 확보…산업 전반 확산",
-      "url": "https://www.yna.co.kr/view/AKR20261022171800017",
-      "source": "연합뉴스",
-      "summary": "LG CNS가 챗GPT 기업 고객 3만 명을 확보하며 산업 전반으로 활용을 넓히고 있다."
-    },
-    {
-      "title": "미디어콘텐츠 창작법인 수입 1조 넘어…4년 만에 11배로 성장",
-      "url": "https://www.yna.co.kr/view/AKR20261022164100002",
-      "source": "연합뉴스",
-      "summary": "미디어콘텐츠 창작법인 수입이 1조원을 넘어 4년 만에 11배로 성장했다."
-    },
-    {
-      "title": "교황, 폐암 수술에도 \"내년 방한…서울서 만남 고대\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810901&plink=RSSLINK&cooper=RSSREADER",
-      "source": "SBS 뉴스",
-      "summary": "폐암 수술을 받은 교황이 내년 방한 의지를 밝히며 서울에서의 만남을 고대한다고 했다."
-    },
-    {
-      "title": "수영 조기성 12년 만의 금…한국, 장애인AG '금 21개' 목표 달성",
-      "url": "https://www.yna.co.kr/view/AKR20261022196700007",
-      "source": "연합뉴스",
-      "summary": "수영 조기성이 12년 만에 금메달을 따며 한국이 장애인아시안게임 금 21개 목표를 달성했다."
-    },
-    {
-      "title": "마레이 34리바운드로 KBL 새 역사…프로농구 LG, 3연패 탈출(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261022194051007",
-      "source": "연합뉴스",
-      "summary": "LG 마레이가 한 경기 34리바운드로 KBL 새 역사를 썼고 LG는 3연패에서 벗어났다."
-    }
-  ]
+  {
+   "title": "'메타發 쇼크'에 美 나스닥 또 급락, 마이크론 6%대 폭락",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300012.html",
+   "source": "뉴데일리"
+  },
+  {
+   "title": "AI 투자 쇼크·프랑스 재정 불안 강타…美국채 10년물 금리 한 달 만에 5% 아래로",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300016.html",
+   "source": "뉴데일리"
+  },
+  {
+   "title": "\"美, 내달 3일부터 국제선 입국자 전원에 에볼라 증명서 요구\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023051505lHs",
+   "source": "연합뉴스TV"
+  }
+ ],
+ "news": [
+  {
+   "title": "시장직·대선출마 걸린 오세훈 2심 선고 오후 2시 생중계",
+   "url": "https://www.yna.co.kr/view/AKR20261022191200004",
+   "source": "연합뉴스",
+   "summary": "오세훈 서울시장 항소심 선고가 오늘 오후 2시 생중계돼 시장직 유지 여부가 갈린다."
+  },
+  {
+   "title": "정부 '北 정전협정 위반' 유엔 서한…안보리 이사국 회람 승인",
+   "url": "https://www.yna.co.kr/view/AKR20261023004500072",
+   "source": "연합뉴스",
+   "summary": "정부가 북한의 정전협정 위반을 알리는 유엔 서한을 보냈고 안보리 이사국 회람이 승인됐다."
+  },
+  {
+   "title": "이 대통령 \"중수청 지휘·감독 포기는 탄핵 사유\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811097&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "이재명 대통령이 중대범죄수사청 지휘·감독을 포기하는 것은 탄핵 사유라고 말했다."
+  },
+  {
+   "title": "상임위 8곳 국정감사…미래기금·초광역특구법 등 공방 전망",
+   "url": "https://www.yna.co.kr/view/AKR20261022181800001",
+   "source": "연합뉴스",
+   "summary": "국회 상임위 8곳에서 국정감사가 열려 미래기금·초광역특구법 등을 두고 공방이 예상된다."
+  },
+  {
+   "title": "\"기준금리 동결했는데 왜\"…코스피 급락한 이유",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810891&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "기준금리 동결에도 코스피가 급락한 배경을 짚었다."
+  },
+  {
+   "title": "국제유가, 후티의 사우디 공격에 급등…브렌트유 5개월만에 최고",
+   "url": "https://www.yna.co.kr/view/AKR20261023006200072",
+   "source": "연합뉴스",
+   "summary": "후티 반군의 사우디 공격 여파로 국제유가가 급등해 브렌트유가 5개월 만에 최고치를 찍었다."
+  },
+  {
+   "title": "젠슨황 \"2029년 메모리 공급과잉 없다…메모리는 다다익선\"",
+   "url": "https://www.yna.co.kr/view/AKR20261023004200091",
+   "source": "연합뉴스",
+   "summary": "젠슨 황 엔비디아 CEO가 2029년까지 메모리 공급과잉은 없다며 메모리는 많을수록 좋다고 말했다."
+  },
+  {
+   "title": "부산교통공사 노사 단체교섭 최종 타결…열차 정상운행",
+   "url": "https://www.yna.co.kr/view/AKR20261022198300051",
+   "source": "연합뉴스",
+   "summary": "부산교통공사 노사가 추가 협상 끝에 단체교섭을 최종 타결해 오늘 지하철이 정상 운행한다."
+  },
+  {
+   "title": "'소방관 순직' 부천 화재 초반 인화물질 추정 보고에도 '공격 진압'",
+   "url": "https://www.yna.co.kr/view/AKR20261023000600065",
+   "source": "연합뉴스",
+   "summary": "소방관이 순직한 부천 화재 현장에서 초반 인화물질 추정 보고에도 공격 진압이 이뤄진 것으로 전해졌다."
+  },
+  {
+   "title": "생존자들 입 모아 \"죽이려 했다\"…역삼 방화범 구속",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810894&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "역삼동 연쇄 방화 혐의 70대가 구속됐고 생존자들은 '죽이려 했다'고 입을 모았다."
+  },
+  {
+   "title": "전국 법원 전산망 2시간 마비 풀려…\"해킹 무관, 원인 파악중\"(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261022187400004",
+   "source": "연합뉴스",
+   "summary": "전국 법원 전산망이 2시간가량 마비됐다가 복구됐으며 해킹과는 무관하다고 법원은 밝혔다."
+  },
+  {
+   "title": "'첫 국산 GLP-1 비만신약' 에페 29일께 처방 시작",
+   "url": "https://www.yna.co.kr/view/AKR20261022132900017",
+   "source": "연합뉴스",
+   "summary": "첫 국산 GLP-1 계열 비만 신약 '에페'가 29일께부터 처방되기 시작한다."
+  },
+  {
+   "title": "가상자산 과세 또 유예하나…김민석 \"연내 결론\"(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261022022851001",
+   "source": "연합뉴스",
+   "summary": "가상자산 과세가 또 유예될지 관심인 가운데 김민석 총리는 연내 결론을 내겠다고 했다."
+  },
+  {
+   "title": "연세대 포털 해킹…1만 5천여 건 개인정보 유출",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810902&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "연세대 포털이 해킹돼 1만 5천여 건의 개인정보가 유출됐다."
+  },
+  {
+   "title": "국토장관 \"1인가구·전세사기에 전세의 월세화\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023053211wwE",
+   "source": "연합뉴스TV",
+   "summary": "국토교통부 장관이 1인가구 증가와 전세사기 여파로 전세의 월세화가 진행 중이라고 진단했다."
+  },
+  {
+   "title": "'산재 은폐' 지시 확인했지만…\"형사 처벌 어려워\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811093&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "쿠팡 산재 은폐 지시는 확인됐지만 형사 처벌은 어렵다는 판단이 나와 논란이 일고 있다."
+  },
+  {
+   "title": "쿠팡, 48억원 대미 로비…중간선거앞 美민주당 후원도 증액",
+   "url": "https://www.yna.co.kr/view/AKR20261022199800071",
+   "source": "연합뉴스",
+   "summary": "쿠팡이 미국에서 48억원 규모 로비를 벌이고 중간선거를 앞두고 민주당 후원도 늘렸다."
+  },
+  {
+   "title": "\"트럼프, 머스크에 전화…우크라 스타실드 제한 해제 요청\"",
+   "url": "https://www.yna.co.kr/view/AKR20261023006700072",
+   "source": "연합뉴스",
+   "summary": "트럼프 대통령이 머스크에게 전화해 우크라이나에 대한 스타실드 사용 제한 해제를 요청했다고 전해졌다."
+  },
+  {
+   "title": "폭력사태에 놀란 프랑스, 집회 제한…시위대 \"수용 못해\"(종합2보)",
+   "url": "https://www.yna.co.kr/view/AKR20261022189352085",
+   "source": "연합뉴스",
+   "summary": "폭력 사태가 잇따르자 프랑스 정부가 집회를 제한했고 시위대는 반발하고 있다."
+  },
+  {
+   "title": "시위 예고에 루브르 24일 휴관…상점들도 약탈 대비 '무장'",
+   "url": "https://www.yna.co.kr/view/AKR20261023004900085",
+   "source": "연합뉴스",
+   "summary": "프랑스 시위 예고로 루브르 박물관이 24일 휴관하고 상점들도 약탈에 대비하고 있다."
+  },
+  {
+   "title": "\"에너지 다음은 식량 위기\"…경유·비료값 급등에 엘니뇨까지",
+   "url": "https://www.yna.co.kr/view/AKR20261023007200072",
+   "source": "연합뉴스",
+   "summary": "경유·비료값 급등에 엘니뇨까지 겹치며 에너지에 이어 식량 위기 우려가 커지고 있다."
+  },
+  {
+   "title": "태풍 '참피' 상륙 안해도 장시간 비바람…변수는?",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023064752hyd",
+   "source": "연합뉴스TV",
+   "summary": "태풍 참피가 한반도에 상륙하지 않더라도 장시간 비바람 영향이 예상된다."
+  },
+  {
+   "title": "2029년 달 궤도선 보낼 궤도수송선, 한화에어로가 개발한다",
+   "url": "https://www.yna.co.kr/view/AKR20261022187000017",
+   "source": "연합뉴스",
+   "summary": "2029년 달 궤도선을 보낼 궤도수송선을 한화에어로스페이스가 개발한다."
+  },
+  {
+   "title": "AI가 찾은 '보안 결함'…각국 웹사이트 해킹 비상",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810884&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "AI가 찾아낸 보안 결함으로 세계 각국 웹사이트에 해킹 비상이 걸렸다."
+  },
+  {
+   "title": "로그인 없이 서버 장악?…\"국내 취약 서버 11만 개\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810885&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "로그인 없이 서버를 장악할 수 있는 취약점에 노출된 국내 서버가 11만 개에 이른다."
+  },
+  {
+   "title": "LG CNS, 챗GPT 기업 고객 3만명 확보…산업 전반 확산",
+   "url": "https://www.yna.co.kr/view/AKR20261022171800017",
+   "source": "연합뉴스",
+   "summary": "LG CNS가 챗GPT 기업 고객 3만 명을 확보하며 산업 전반으로 활용을 넓히고 있다."
+  },
+  {
+   "title": "미디어콘텐츠 창작법인 수입 1조 넘어…4년 만에 11배로 성장",
+   "url": "https://www.yna.co.kr/view/AKR20261022164100002",
+   "source": "연합뉴스",
+   "summary": "미디어콘텐츠 창작법인 수입이 1조원을 넘어 4년 만에 11배로 성장했다."
+  },
+  {
+   "title": "교황, 폐암 수술에도 \"내년 방한…서울서 만남 고대\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810901&plink=RSSLINK&cooper=RSSREADER",
+   "source": "SBS 뉴스",
+   "summary": "폐암 수술을 받은 교황이 내년 방한 의지를 밝히며 서울에서의 만남을 고대한다고 했다."
+  },
+  {
+   "title": "수영 조기성 12년 만의 금…한국, 장애인AG '금 21개' 목표 달성",
+   "url": "https://www.yna.co.kr/view/AKR20261022196700007",
+   "source": "연합뉴스",
+   "summary": "수영 조기성이 12년 만에 금메달을 따며 한국이 장애인아시안게임 금 21개 목표를 달성했다."
+  },
+  {
+   "title": "마레이 34리바운드로 KBL 새 역사…프로농구 LG, 3연패 탈출(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261022194051007",
+   "source": "연합뉴스",
+   "summary": "LG 마레이가 한 경기 34리바운드로 KBL 새 역사를 썼고 LG는 3연패에서 벗어났다."
+  }
+ ]
 }
