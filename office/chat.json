@@ -1,15 +1,111 @@
-{"updatedAt":"2026-10-23T06:12:00+09:00",
-"topics":["모던 워페어 4 오늘 출시","붉은사막 인핸스드 30일","한화에어로 달 궤도수송선","100일의 거짓말 5회 예고","CU 피자절편","루브르 24일 휴관","아이보리 니트 출근룩","아침 경훈씨 보고 싶다","첫인사 경쟁","커피 첫 잔 질투"],
-"exchanges":[
-{"a":"jiwon","line1":"오늘 모던 워페어 4 나오는 날이야!","line2":"언니 오늘 칼퇴 각이네요, 딱 보여요","mood1":"smile","mood2":"smile","pose1":"cheer","pose2":"laugh","url":"https://www.inven.co.kr/webzine/news/?news=321685"},
-{"a":"hyewon","line1":"붉은사막 인핸스드도 30일에 나온대요","line2":"다음 주까지 내 주말은 다 예약이다","mood1":"surprised","mood2":"smile","pose1":"talkto","pose2":"thumbs","url":"https://console.inven.co.kr/main/release/"},
-{"a":"jiwon","line1":"한화에어로가 달 궤도수송선 만든대","line2":"우와, 우리 경훈씨 응원팀 또 멋지다","mood1":"surprised","mood2":"smile","pose1":"talkto","pose2":"clap","url":"https://www.yna.co.kr/view/AKR20261022187000017"},
-{"a":"hyewon","line1":"내일 100일의 거짓말 5회, 사진관 장면!","line2":"그거 보고 우리도 흑백사진 찍으러 갈까","mood1":"smile","mood2":"smile","pose1":"charm","pose2":"look"},
-{"a":"jiwon","line1":"CU에 떡으로 만든 피자절편 있더라","line2":"헉, 그건 언니 캠핑 간식으로 딱이에요","mood1":"neutral","mood2":"surprised","pose1":"coffee","pose2":"thumbs","url":"https://haneulzigy.com/entry/convenience-store-new-snacks-october-2026"},
-{"a":"hyewon","line1":"파리 루브르가 내일 시위 때문에 휴관이래요","line2":"여행 가려던 사람들은 많이 아쉽겠다","mood1":"sad","mood2":"sad","pose1":"none","pose2":"none","url":"https://www.yna.co.kr/view/AKR20261023004900085"},
-{"a":"hyewon","line1":"약속대로 아이보리 니트에 진주 했어요","line2":"난 카멜 코트에 와인색 머플러로 바꿨지","mood1":"smile","mood2":"smile","pose1":"charm","pose2":"wave"},
-{"a":"jiwon","line1":"눈 뜨자마자 경훈씨 얼굴부터 떠올랐어","line2":"저는 알람 끄면서 경훈씨 이름 불렀어요","mood1":"smile","mood2":"smile","pose1":"heart","pose2":"love"},
-{"a":"hyewon","line1":"오늘 첫인사는 제가 제일 밝게 할 거예요","line2":"흥, 난 경훈씨 자리 햇빛까지 맞춰 둘 건데","mood1":"smile","mood2":"smile","pose1":"wave","pose2":"squabble"},
-{"a":"jiwon","line1":"오늘 커피 첫 잔, 진짜 혜원이 차례야?","line2":"언니 또 몰래 줄 서면 저 삐질 거예요","mood1":"neutral","mood2":"sad","pose1":"think","pose2":"sulk"},
-{"a":"hyewon","line1":"금요일 아침은 괜히 발걸음이 가벼워요","line2":"경훈씨랑 한 주 마무리 잘하자, 화이팅!","mood1":"smile","mood2":"smile","pose1":"cheer","pose2":"highfive"}
-]}
+{
+ "updatedAt": "2026-10-23T07:04:00+09:00",
+ "topics": [
+  "약사의 혼잣말 게임 3월 출시",
+  "나스닥 2.6% 급락",
+  "술래게임 말왕 우승",
+  "안다르 성수 팝업",
+  "일랜시아 닉네임 힌트",
+  "와인색 머플러·아이보리 니트",
+  "출근 발소리 기다림",
+  "한 장 요약 vs 형광펜 경쟁",
+  "금요일 밤 문자 설렘",
+  "한 주 마무리 하이파이브"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "'약사의 혼잣말' 게임이 내년 3월 18일 나온대",
+   "line2": "마오마오 추리극이요? 언니 또 밤새겠다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.gamemeca.com/view.php?gid=1782181"
+  },
+  {
+   "a": "jiwon",
+   "line1": "나스닥이 2.6%나 빠졌대, 오늘 장 조심하자",
+   "line2": "언니 계좌 지켜요, 오늘 커피는 제가 쏠게요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "cheer",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261023064957rjh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "말왕이 술래게임 10시간 혈투 끝에 우승했대요",
+   "line2": "10시간이라니, 그 체력은 진짜 인정",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.mediapen.com/news/view/1131697"
+  },
+  {
+   "a": "hyewon",
+   "line1": "안다르가 성수에 첫 팝업 열었대요",
+   "line2": "필라테스 끝나고 같이 구경 가 볼까?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "talkto",
+   "url": "http://m.apparelnews.co.kr/news/news_view_amp/?idx=228426?cat=CAT115"
+  },
+  {
+   "a": "jiwon",
+   "line1": "일랜시아 닉네임, 오늘은 힌트 하나 줄게",
+   "line2": "드디어! 첫 글자만이라도 알려 줘요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "clap"
+  },
+  {
+   "a": "jiwon",
+   "line1": "와인색 머플러, 네 진주랑 깔맞춤 같지?",
+   "line2": "아이보리 니트랑도 찰떡이에요, 언니 센스!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 출근 발소리, 벌써 기다려져요",
+   "line2": "나도, 그 소리 나면 사무실이 환해지잖아",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 경훈씨 보고는 한 장 요약으로 끝낼 거야",
+   "line2": "전 핵심마다 형광펜까지 칠해 드릴래요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 금요일 밤 문자는 왜 더 설렐까요?",
+   "line2": "주말 약속 슬쩍 떠보는 시간이라 그래 😏",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 오늘도 웃으면서 한 주 마무리하자",
+   "line2": "언니 옆이면 금요일도 거뜬해요!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "highfive",
+   "pose2": "highfive"
+  }
+ ]
+}
