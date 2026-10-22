@@ -1,9 +1,9 @@
 {
  "date": "2026-10-22",
- "updatedAt": "2026-10-22T08:15:00+09:00",
+ "updatedAt": "2026-10-22T09:04:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 4,
+  "temp": 6,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -14,29 +14,29 @@
  },
  "breaking": [
   {
+   "title": "상어 부캉이, 차단막 그물 뚫고 돌아와… 30m×30m 좁은 공간서 맴돌아",
+   "url": "https://www.seoul.co.kr/news/society/2026/10/22/20261022500011",
+   "source": "서울신문"
+  },
+  {
+   "title": "삼성E&A 3분기 매출 2.9조..영업익 1조 시대 확실시",
+   "url": "https://www.fnnews.com/news/202610220830420986",
+   "source": "파이낸셜뉴스"
+  },
+  {
+   "title": "'문재인 정부' 넘었다...서울 아파트 실거래가 '급증'",
+   "url": "https://magazine.hankyung.com/business/article/202610227486b",
+   "source": "한경매거진"
+  },
+  {
+   "title": "檢개혁 누가맞나…李대통령29.4%·유시민26.6%-미디어토마토",
+   "url": "https://www.munhwa.com/article/11625296",
+   "source": "문화일보"
+  },
+  {
    "title": "민주콩고, 국경밖 에볼라 확산 이후 다시 환자발생 급증--WHO",
    "url": "https://www.newsis.com/view/NISX20261022_0003835899",
    "source": "뉴시스"
-  },
-  {
-   "title": "경기 포천 관인면 초과리서 화재 발생",
-   "url": "https://www.etoday.co.kr/news/view/2638614",
-   "source": "이투데이"
-  },
-  {
-   "title": "美, 후티 공격 앞둔걸까…사우디 내 미 공무원·가족에 대피령",
-   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261022.99099006405",
-   "source": "국제신문"
-  },
-  {
-   "title": "북 김여정 “전 국경선 새 대응수단 임무 대기…수일 안엔 확성기”",
-   "url": "https://ichannela.com/news/main/news_detailPage.do?publishId=000000556259",
-   "source": "채널A 뉴스"
-  },
-  {
-   "title": "조국당 첫 9%대…진보층서 지지율 급등, 국힘·민주는 오차범위 접전-미디어토마토",
-   "url": "https://www.munhwa.com/article/11625272",
-   "source": "문화일보"
   }
  ],
  "news": [
@@ -95,10 +95,16 @@
    "summary": "두 회사가 공동 투자로 세종·부산 사업장에 AI 반도체 패키지기판 라인을 증설해요."
   },
   {
-   "title": "이 대통령 “제미나이에 물어봤다” 발언에…나경원 “대통령 처참한 수준”",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1283502.html",
-   "source": "한겨레",
-   "summary": "수사기관장 국무회의 참석 문제를 AI에 물어봤다는 대통령 발언에 야권이 비판했어요."
+   "title": "KB증권 \"반도체주 우려 정점 통과했다…11∼12월 W자 반등\"",
+   "url": "https://m.yonhapnewstv.co.kr/news/AKR202610220828532ek",
+   "source": "연합뉴스TV",
+   "summary": "KB증권이 최근 급락한 삼성전자·SK하이닉스 등 반도체주가 저평가 구간에 들어섰다며 연말 반등 가능성을 제시했다."
+  },
+  {
+   "title": "김민석 \"가상자산 과세 여부, 올해 집중 논의해 결론\"",
+   "url": "https://kbthink.com/news-list/view.html?newsId=20261022083336807",
+   "source": "KB Think",
+   "summary": "민주당 김민석 대표가 가상자산 과세를 그대로 시행할지 보완할지 올해 안에 결론을 내겠다고 밝혔다."
   },
   {
    "title": "선관위 특검, '외유성 출장 의혹' 노태악 자택 압수수색...휴대전화 확보",
@@ -131,6 +137,18 @@
    "summary": "트럼프 지지 슈퍼팩, 중간선거에 약 3천240억원 쏟아부어 공화당 지원"
   },
   {
+   "title": "CNN \"美중간선거 민주당 후보 지지 49%…공화당에 10%p 앞서\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022072903LK8",
+   "source": "연합뉴스TV",
+   "summary": "미 중간선거를 열흘여 앞두고 CNN 조사에서 트럼프 대통령 국정 지지율이 32%로 역대 최저를 기록했다."
+  },
+  {
+   "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216500",
+   "source": "AI타임스",
+   "summary": "오픈AI가 구글 클라우드를 통해 최신 모델과 코딩 에이전트 코덱스를 기업에 판매하기로 했다."
+  },
+  {
    "title": "교황, 폐암 수술 뒤 ’추가 치료 불필요’ 판정",
    "url": "https://www.yonhapnewstv.co.kr/news/AKR20261022074241XaT",
    "source": "연합뉴스TV",
@@ -155,12 +173,6 @@
    "summary": "미 국가안보국, PHP 보안 취약점 비상…즉시 업데이트 못하면 오프라인 전환 권고"
   },
   {
-   "title": "캐나다 앨버타주 분리독립 추진 부결",
-   "url": "https://www.seoul.co.kr/news/international/2026/10/22/20261022012007",
-   "source": "서울신문",
-   "summary": "캐나다 앨버타주 분리독립 절차 착수 주민투표, 75.3% 반대로 부결"
-  },
-  {
    "title": "[단독] 삼성전자 ‘감사 페스티벌’서 감사 받지 못한 소비자…“담당자 실수”",
    "url": "https://www.hani.co.kr/arti/economy/consumer/1283555.html",
    "source": "한겨레",
@@ -171,6 +183,18 @@
    "url": "https://www.mt.co.kr/sports/2026/10/22/202610211752778760O",
    "source": "머니투데이",
    "summary": "대표팀 내 손흥민 리더십 논란이 국정감사까지…축구협회 \"내부에서 해결\""
+  },
+  {
+   "title": "\"백덤블링 해도 병뚜껑은 못 열어\"...이재용 '로봇 사업' 직접 챙긴다",
+   "url": "https://www.mt.co.kr/industry/2026/10/22/2026102118135284723",
+   "source": "머니투데이",
+   "summary": "이재용 삼성전자 회장이 로봇사업추진실을 직접 찾아 현황을 점검하는 등 로봇 사업에 드라이브를 건다."
+  },
+  {
+   "title": "‘폭력시위’ 밀라노에 공수부대 투입…프랑스에선 24일 대규모 시위",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8691994",
+   "source": "KBS 뉴스",
+   "summary": "이탈리아 밀라노에 폭력 시위로 공수부대가 투입됐고 프랑스에서는 24일 대규모 시위가 예고됐다."
   },
   {
    "title": "가을야구 홈런 6방 때린 삼총사… 호랑이 군단, 사자 심장 노린다",
@@ -195,30 +219,6 @@
    "url": "https://www.chosun.com/economy/science/2026/10/22/KBFVLMU2Y5DVDCXLPGFHCXGJEA/",
    "source": "조선일보",
    "summary": "NASA, 비용 부담에 화성 시료 지구 귀환 중단…중국이 먼저 가져올 수도"
-  },
-  {
-   "title": "항생제 내성균 잡는 바이러스, AI로 설계해 환자에 첫 투여",
-   "url": "https://www.dongascience.com/ko/news/80469",
-   "source": "DongA Science",
-   "summary": "미 스타트업, AI로 설계한 박테리오파지를 항생제 내성균 환자에게 첫 투여"
-  },
-  {
-   "title": "크루즈선 집단 감염 '한타바이러스' 치료제 개발 실마리",
-   "url": "https://www.dongascience.com/ko/news/80464",
-   "source": "DongA Science",
-   "summary": "한타바이러스가 사람 세포에 침투하는 과정 규명…치료제 개발 실마리"
-  },
-  {
-   "title": "추위가 어떻게 노화 늦출까… 그 비밀은 근육 속 물질",
-   "url": "https://www.chosun.com/economy/science/2026/10/22/JLECKORQ3VHLZKIXFW6NNKA62E/",
-   "source": "조선일보",
-   "summary": "추운 환경에서 근육이 만드는 물질이 다른 장기 노화를 늦춘다는 연구"
-  },
-  {
-   "title": "“초가공식품 먹더라도”… 대장암 발생률 2% 낮추는 조리법",
-   "url": "https://health.chosun.com/site/data/html_dir/2026/10/21/2026102103155.html",
-   "source": "헬스조선",
-   "summary": "초가공식품을 먹더라도 조리법을 바꾸면 대장암 위험을 낮출 수 있다는 연구"
   }
  ]
 }
