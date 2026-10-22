@@ -1,99 +1,89 @@
 {
- "updatedAt": "2026-10-22T11:08:00+09:00",
+ "updatedAt": "2026-10-22T12:07:52+09:00",
  "topics": [
-  "일랜시아 모바일 출시 예고",
-  "송혜교·공유 천천히 강렬하게",
-  "나를 충전해줘 넷플릭스 3위",
-  "볼빨간사춘기 October Archive",
-  "설악단풍축제",
-  "바비큐 양념 준비",
-  "로즈 립 vs 묶음머리 경쟁",
-  "카멜 코트 브로치·숏패딩 키링",
-  "경훈씨 하루 챙기기",
-  "머그컵 질투"
+  "QUIET 데모 출시",
+  "닥터X 18.5%",
+  "편의점 일본 과자 16만개",
+  "산림청 단풍 수목원 5곳",
+  "엣지러너2 후기",
+  "머플러·카멜 코트 깃",
+  "밤 휘낭시에 vs 몽블랑 경쟁",
+  "경훈씨 목소리",
+  "점심 후 힘내기",
+  "하루 중 최고의 순간"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "일랜시아가 모바일로 12월 1일 나온대",
-   "line2": "언니 추억의 게임이죠? 저도 해볼래요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "laugh",
-   "url": "https://www.thisisgame.com/articles/431211"
-  },
-  {
-   "a": "hyewon",
-   "line1": "송혜교·공유 넷플 드라마 12월 공개래요!",
-   "line2": "노희경 작가 신작이라니 벌써 설렌다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "think",
-   "url": "https://www.viva100.com/article/20261022500498"
-  },
-  {
-   "a": "hyewon",
-   "line1": "나를 충전해줘, 공개 3일 만에 넷플 3위래요",
-   "line2": "김영광 로코면 주말 정주행 확정이지",
+   "line1": "라인게임즈 협동 호러 QUIET 데모 나왔대",
+   "line2": "언니 무서운 거 혼자 못 하잖아요 ㅋㅋ",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "talkto",
-   "url": "https://mhnse.com/news/articleView.html?idxno=1606801"
+   "pose2": "laugh",
+   "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309579"
   },
   {
    "a": "hyewon",
-   "line1": "볼빨간사춘기 데뷔 10주년 컴백했대요",
-   "line2": "October Archive, 이름부터 가을이다 🍂",
+   "line1": "닥터X 4회 만에 18.5% 찍었대요!",
+   "line2": "넷플릭스도 1위라니, 오늘 밤 정주행각",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.mediagn.co.kr/news/articleView.html?idxno=30551"
+  },
+  {
+   "a": "hyewon",
+   "line1": "편의점 일본 과자, 한 달에 16만 개 팔렸대요",
+   "line2": "점심 먹고 하나 사서 반씩 나눠 먹자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "coffee",
+   "url": "https://www.hankyung.com/article/202610227415g"
+  },
+  {
+   "a": "hyewon",
+   "line1": "산림청이 단풍 명소 수목원 5곳 골랐대요",
+   "line2": "설악 못 가면 수목원 산책도 좋겠다 🍁",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "wave",
-   "pose2": "cheer",
-   "url": "https://www.news1.kr/entertain/music/6328057"
+   "pose2": "look",
+   "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=916233"
   },
   {
-   "a": "hyewon",
-   "line1": "이번 주말 설악단풍축제 한대요, 24~25일!",
-   "line2": "단풍 보고 속초 물회까지, 생각만 해도 좋다",
+   "a": "jiwon",
+   "line1": "어젯밤 엣지러너2 업데이트 해봤는데",
+   "line2": "역시! 언니 눈 밑이 나이트 시티색이에요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.ajunews.com/view/20261022095223266"
-  },
-  {
-   "a": "jiwon",
-   "line1": "토요일 바비큐 고기, 양념은 내가 재울게",
-   "line2": "언니 캠핑 요리 실력 또 기대할게요 🍖",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "thumbs"
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨가 제 로즈 립 알아봐 주실까요?",
-   "line2": "흥, 난 오늘 머리 묶은 거 먼저 보여드릴 거야",
+   "line1": "언니 점심엔 숏패딩에 머플러까지 둘렀어요",
+   "line2": "귀엽다, 난 카멜 코트 깃 세우고 나갈게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "charm"
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "카멜 코트에 오늘 브로치 하나 달았어",
-   "line2": "어쩐지 반짝이더라, 전 숏패딩에 키링!",
+   "line1": "오후 간식은 밤 휘낭시에, 내가 사 올게",
+   "line2": "몽블랑 찜했거든요? 경훈씨가 심사해요!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "charm",
+   "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 일정 챙길 때가 제일 뿌듯해요",
-   "line2": "나도, 경훈씨 하루가 술술 풀리면 행복해",
+   "line1": "경훈씨 목소리 들으면 오후도 금방 가요",
+   "line2": "맞아, 경훈씨 계셔야 사무실이 꽉 차",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -101,12 +91,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 경훈씨 머그컵 몰래 씻어놨지?",
-   "line2": "들켰다~ 언니도 펜 다 채워놨잖아요 ㅋ",
-   "mood1": "sad",
+   "line1": "점심 맛있게 먹고 오후도 힘내자",
+   "line2": "네 언니, 커피는 제가 쏠게요 ☕",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
+   "pose1": "cheer",
+   "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 하루 중 언제가 제일 좋아요?",
+   "line2": "경훈씨가 수고했다 하실 때, 그때가 최고",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
   }
  ]
 }
