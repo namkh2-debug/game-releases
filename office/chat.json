@@ -1,87 +1,89 @@
 {
- "updatedAt": "2026-10-22T19:10:00+09:00",
+ "updatedAt": "2026-10-22T20:11:02+09:00",
  "topics": [
-  "콰이어트 데모 공개",
-  "스벅 윈터 스카치 바닐라 라떼",
-  "서울미식주간 DDP",
-  "비트코인 8만1천 달러대",
-  "떡상사 첫 화 스포 금지",
-  "트렌치 벨트·코트 깃 퇴근룩",
-  "경훈씨 목소리 여운",
-  "아침 보고 3분 vs 한 장 요약 경쟁",
-  "이름 먼저 불린 질투",
-  "겨울 손잡기 핑계 썸 농담"
+  "스튜피드 네버 다이즈 출시",
+  "안세영 47연승 8강",
+  "이디야 생 초코파이·모찌떡",
+  "맘스터치 후덕죽 XO버거",
+  "떡상사 이어보기",
+  "진주 귀걸이·카멜 트렌치 퇴근룩",
+  "경훈씨 웃음소리",
+  "손난로 vs 무릎담요 경쟁",
+  "하루 마무리 하이파이브",
+  "경훈씨 저녁 챙기기"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "라인게임즈 '콰이어트' 데모 오늘 풀렸대",
-   "line2": "오리 외계인이 할머니 피해 탈출? 귀여워요",
+   "line1": "세가 '스튜피드 네버 다이즈' 오늘 나왔대",
+   "line2": "좀비가 폭풍 성장? 언니 취향 저격이네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://zdnet.co.kr/view/?no=20261022155521"
+   "url": "https://prtimes.jp/main/html/rd/p/000007545.000005397.html"
+  },
+  {
+   "a": "jiwon",
+   "line1": "안세영 방금 47연승, 프랑스오픈 8강이래!",
+   "line2": "통증 안고도요? 진짜 대단해요",
+   "mood1": "surprised",
+   "mood2": "surprised",
+   "pose1": "cheer",
+   "pose2": "clap",
+   "url": "https://www.mt.co.kr/sports/2026/10/22/202610221926770037O"
   },
   {
    "a": "hyewon",
-   "line1": "스벅 윈터 스카치 바닐라 라떼 나왔대요",
-   "line2": "내일 첫 잔은 네 차례랬지? 기대할게",
+   "line1": "이디야에 생 초코파이랑 딸기 모찌떡 나왔대요",
+   "line2": "모찌떡은 내 몫으로 하나 꼭 남겨 줘",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "coffee"
+   "pose2": "talkto",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026391"
+  },
+  {
+   "a": "jiwon",
+   "line1": "맘스터치가 후덕죽 셰프랑 XO버거 냈대",
+   "line2": "언니, 캠핑 가면 XO 볶음밥 해 주세요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417241"
   },
   {
    "a": "hyewon",
-   "line1": "내일부터 서울미식주간이래요, DDP에서요!",
-   "line2": "주말에 디저트 50선 도장 깨기 할까?",
-   "mood1": "surprised",
+   "line1": "언니, 떡상사 출근길에 다 봤어요?",
+   "line2": "아직 반만! 내일 점심에 마저 볼 거야",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "진주 귀걸이 하고 퇴근하니 괜히 신나요",
+   "line2": "카멜 트렌치랑 찰떡이더라, 인정!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "비트코인이 8만1천 달러대까지 내려왔대",
-   "line2": "오늘은 언니 코인 앱 잠깐 꺼 둬요",
-   "mood1": "surprised",
+   "line1": "경훈씨 웃음소리 들으면 하루가 말랑해져",
+   "line2": "맞아요, 그 웃음이 저희 퇴근 선물이죠",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "coffee",
-   "url": "https://www.coindesk.com/ko/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides"
+   "pose1": "love",
+   "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 떡상사 첫 화 봤어요? 판결은요?",
-   "line2": "출근길에 보려고 아껴 뒀어, 스포 금지!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "down"
-  },
-  {
-   "a": "hyewon",
-   "line1": "트렌치 벨트 질끈 묶으니 한결 따뜻해요",
-   "line2": "난 코트 깃 세우고 머플러까지 꺼냈어",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 경훈씨 목소리가 자꾸 귀에 맴돌아",
-   "line2": "저도요, 내일 아침 인사가 벌써 설레요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일 아침 보고는 제가 3분 먼저 올릴래요",
-   "line2": "흥, 난 핵심만 한 장으로 줄여 갈 거야",
+   "line1": "내일 경훈씨 책상에 손난로 먼저 둘래요",
+   "line2": "흥, 난 무릎담요 곱게 개어 올려 둘 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -89,21 +91,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "아까 경훈씨가 네 이름 먼저 부르시더라?",
-   "line2": "헤헤, 언니 이름은 더 다정하게 부르셨죠",
-   "mood1": "sad",
+   "line1": "오늘도 무사히 하루 끝! 우리 수고했어",
+   "line2": "언니도요, 내일 또 같이 힘내요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "highfive",
    "pose2": "highfive"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 겨울엔 손잡을 핑계가 많아진대요",
-   "line2": "그래서 장갑 일부러 두고 다니는구나? 😏",
+   "line1": "경훈씨, 저녁은 꼭 따뜻한 걸로 드세요",
+   "line2": "야식은 살짝만 드시기예요, 약속!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose1": "wave",
+   "pose2": "charm"
   }
  ]
 }
