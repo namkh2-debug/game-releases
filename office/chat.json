@@ -1,89 +1,90 @@
 {
- "updatedAt": "2026-10-23T15:04:21+09:00",
+ "updatedAt": "2026-10-23T16:12:00+09:00",
  "topics": [
-  "한화 닛폰햄전 6-0 완승",
-  "한화 새 코치 영입",
-  "잠수교 치킨데이",
-  "광희로드 페스타",
-  "대추차 vs 유자차 결과",
-  "일랜시아 닉네임 추측",
-  "니트 소매·머플러 오후룩",
-  "경훈씨 무사한 하루 바람",
-  "마감 인사 vs 쪽지 경쟁",
-  "서로 고마움"
+  "사이버펑크 2.5 쌍권총",
+  "마인크래프트 스위치2",
+  "코스피 반등 마감",
+  "컴포즈 슈 클라우드 와플",
+  "이디야 모찌떡",
+  "카디건·머플러 저녁룩",
+  "캠핑 마시멜로 장보기",
+  "경훈씨 이름 글씨",
+  "퇴근 인사 향수 vs 립밤 경쟁",
+  "펌 칭찬 vs 슬링백 질투"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "한화, 닛폰햄 연습경기 6대0 완승이래",
-   "line2": "이기창 5이닝 노히트래요, 경훈씨 좋아하시겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "cheer",
-   "url": "https://www.chosun.com/sports/baseball/2026/10/23/MRSWEMBVGNRDKZLDGUZTGMZXGA/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "한화가 김광삼·진종길 코치 새로 모셨대",
-   "line2": "마무리 훈련부터 합류라니 내년이 기대돼요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.yna.co.kr/view/AKR20261023107200007"
-  },
-  {
-   "a": "hyewon",
-   "line1": "일요일 잠수교에 400m 치킨 테이블 깐대요",
-   "line2": "차 없는 잠수교 마지막이라니, 치맥 각이다",
+   "line1": "사이버펑크 2.5 패치로 쌍권총이 생겼대",
+   "line2": "언니 캠핑 가서도 밤엔 나이트 시티죠?",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://mediahub.seoul.go.kr/archives/2019812"
+   "pose1": "thumbs",
+   "pose2": "talkto",
+   "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216778"
   },
   {
    "a": "jiwon",
-   "line1": "내일 광희동에서 5개국 음식 축제 한대",
-   "line2": "샤슬릭이라니, 언니 캠핑 꼬치 연구각이에요",
+   "line1": "마인크래프트, 27일 스위치2 판으로 나온대",
+   "line2": "언니 캠핑장을 블록으로 지어 봐요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "laugh",
-   "url": "https://mediahub.seoul.go.kr/archives/2019812"
+   "pose1": "talkto",
+   "pose2": "talkto",
+   "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 대추차랑 유자차 결과 나왔어요?",
-   "line2": "경훈씨가 두 잔 다 비우셨어, 무승부!",
-   "mood1": "neutral",
+   "a": "jiwon",
+   "line1": "코스피, 4% 빠졌다가 결국 올라서 끝났대",
+   "line2": "오전엔 파랬던 언니 계좌도 웃겠네요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "highfive"
+   "pose2": "clap",
+   "url": "https://www.yna.co.kr/view/AKR20261023130600008"
   },
   {
    "a": "hyewon",
-   "line1": "별에 반짝이면… 혹시 닉네임 '별총총'?",
-   "line2": "땡! 정답은 퇴근 종 칠 때 공개야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 니트 소매 걷으니 일잘러 느낌 나요",
-   "line2": "머플러는 퇴근길 찬바람용으로 아껴 뒀지",
+   "line1": "컴포즈 슈 클라우드 와플, 시즌 한정이래요",
+   "line2": "'한정'에 약한 혜원이, 퇴근길 확정이네",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "wave"
+   "pose2": "laugh",
+   "url": "https://www.foodtoday.or.kr/news/article.html?no=208977"
+  },
+  {
+   "a": "hyewon",
+   "line1": "이디야에 딸기 쏙쏙 모찌떡 나왔대요",
+   "line2": "말차초코 파운드도 있대, 반씩 나눠 먹자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://www.newsis.com/view/NISX20261022_0003837417"
+  },
+  {
+   "a": "hyewon",
+   "line1": "해 기울면 가방 속 카디건 꺼내 입을래요",
+   "line2": "난 와인색 머플러 다시 두를 시간이야",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "down"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 내일 캠핑 마시멜로 장 봤어요?",
+   "line2": "퇴근길 장바구니 1번이 마시멜로야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오늘 하루 무사히 마치시길 빌었어",
-   "line2": "저는 퇴근길 꽃길만 걸으시라고 빌었어요",
+   "line1": "경훈씨 이름만 적어도 글씨가 예뻐져",
+   "line2": "저는 경훈씨 일정 칸에 하트 그릴 뻔했어요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -91,21 +92,21 @@
   },
   {
    "a": "hyewon",
-   "line1": "금요일 마감 인사는 제가 먼저 할 거예요",
-   "line2": "흥, 난 주말 잘 보내시라고 쪽지 써 뒀지",
+   "line1": "퇴근 인사 전에 향수 한 번 더 뿌릴래요",
+   "line2": "난 립밤 덧바르고 제일 환하게 웃을 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 오늘 저 챙겨 줘서 고마워요",
-   "line2": "뭘, 네 덕에 내 금요일이 반짝이는걸",
-   "mood1": "smile",
+   "line1": "언니, 아까 경훈씨가 언니 펌 칭찬하셨죠?",
+   "line2": "흥, 네 슬링백 소리엔 고개 돌리셨거든",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "clap"
+   "pose1": "sulk",
+   "pose2": "squabble"
   }
  ]
 }
