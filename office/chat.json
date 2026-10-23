@@ -1,62 +1,60 @@
 {
- "updatedAt": "2026-10-23T22:12:00+09:00",
+ "updatedAt": "2026-10-23T23:12:00+09:00",
  "topics": [
-  "스텔라 블레이드×오버워치 컬래버",
-  "고막남친 온유 딱밤 사과",
-  "한화 새 코치 영입",
-  "무라카미 류 별세",
-  "퇴근 후 슬링백·수면양말",
-  "경훈씨 편한 마무리",
-  "손편지 vs 쿠키 경쟁",
-  "캠핑 텐트 농담",
-  "주말 늦잠",
-  "주말 응원"
+  "손석구 비서진 출연",
+  "장민호 400m 세계신기록",
+  "원주만두축제 개막",
+  "남한산성 가을 페스타",
+  "잠옷·후드티 금요일 밤",
+  "경훈씨 소파 휴식",
+  "노래 vs 블라인드 경쟁",
+  "수고했어 질투",
+  "금요일 밤 밀당 농담",
+  "꿀잠 응원"
  ],
  "exchanges": [
   {
+   "a": "hyewon",
+   "line1": "손석구가 지금 '비서진'에 나온대요, 11시 10분!",
+   "line2": "비서 얘기면 우리가 원조인데 말이지",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh"
+  },
+  {
    "a": "jiwon",
-   "line1": "스텔라 블레이드가 오버워치랑 컬래버한대",
-   "line2": "이브 스킨 나오면 언니 밤새 하겠다",
+   "line1": "장민호 선수, 400m 세계신기록 세웠대",
+   "line2": "16년 만이래요, 듣다가 울컥했어요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "cheer",
+   "url": "https://www.yna.co.kr/view/AKR20261023179100007"
+  },
+  {
+   "a": "jiwon",
+   "line1": "원주만두축제 첫날부터 인산인해였대",
+   "line2": "언니 캠핑 메뉴에 만두 추가각이네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112452"
+   "url": "https://www.newsis.com/view/NISX20261023_0003839331"
   },
   {
    "a": "hyewon",
-   "line1": "지금 '고막남친'에 온유 나와요, 딱밤 사과!",
-   "line2": "16년째 사과라니, 의리 하나는 최고네",
+   "line1": "남한산성 가을 페스타, 일요일까지래요",
+   "line2": "캠핑 다녀와서 산성길 단풍 보러 갈까",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "laugh",
-   "url": "https://www.tenasia.co.kr/article/2026102305404"
-  },
-  {
-   "a": "jiwon",
-   "line1": "한화, 김광삼·진종길 코치 새로 모셨대",
-   "line2": "내년엔 경훈씨 응원이 더 신나시겠다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "cheer",
-   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188699"
-  },
-  {
-   "a": "jiwon",
-   "line1": "무라카미 류 작가 별세 소식 들었어?",
-   "line2": "'투명에 가까운 블루' 다시 읽어 볼래요",
-   "mood1": "sad",
-   "mood2": "sad",
-   "pose1": "none",
-   "pose2": "none",
-   "url": "https://www.ytn.co.kr/_ln/0104_202610232121293757"
+   "pose2": "think"
   },
   {
    "a": "hyewon",
-   "line1": "집 오자마자 슬링백 벗으니 살 것 같아요",
-   "line2": "난 머플러 풀고 수면양말부터 신었지",
+   "line1": "스카프 풀고 극세사 잠옷으로 갈아입었어요",
+   "line2": "난 캠핑 짐 싸느라 아직 후드티 차림이야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "down",
@@ -64,44 +62,44 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오늘 하루도 편히 마무리하셨겠지?",
-   "line2": "생각만 해도 마음에 담요 덮은 기분이에요",
+   "line1": "경훈씨 지금쯤 소파에서 쉬고 계시려나",
+   "line2": "꿈에서 뵈면 제가 먼저 손 흔들래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "heart"
+   "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "월요일 경훈씨 책상엔 제 손편지 둘래요",
-   "line2": "흥, 난 그 옆에 직접 구운 쿠키 놓을 거야",
+   "line1": "월요일엔 경훈씨 좋아하실 노래 틀어 둘래요",
+   "line2": "그럼 난 아침 햇살 들게 블라인드 담당!",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 캠핑장 텐트는 몇 인용이에요?",
-   "line2": "그건 비밀, 별들만 알면 돼",
-   "mood1": "surprised",
+   "a": "jiwon",
+   "line1": "혜원아, 아까 경훈씨가 너한테만 수고했대?",
+   "line2": "언니 몫까지 제가 대신 받아 둔 거예요~",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "sulk",
    "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 내일은 알람 끄고 늦잠 자",
-   "line2": "언니도요, 캠핑 사진은 꼭 보내 주세요",
+   "line1": "금요일 밤엔 왜 문자 하나도 설렐까",
+   "line2": "답장은 3분 뒤에, 그게 밀당이래요 언니",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "wave"
+   "pose1": "think",
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨, 주말엔 걱정 다 내려놓으세요",
-   "line2": "월요일엔 우리가 웃음 두 배로 드릴게요",
+   "line1": "언니, 오늘도 고생한 우리 꿀잠 자요",
+   "line2": "응, 꿈에서도 서로 응원단 해 주자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
