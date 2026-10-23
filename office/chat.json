@@ -1,89 +1,80 @@
 {
- "updatedAt": "2026-10-23T21:04:32+09:00",
+ "updatedAt": "2026-10-23T22:12:00+09:00",
  "topics": [
-  "콜 오브 듀티 MW4 출시",
-  "서울 바비큐 페스티벌 난지캠핑장",
-  "서디페 팝업 수원메쎄",
-  "잠수교 치킨데이",
-  "백수 이세돌 첫방 후기",
-  "스카프·머플러 주말 가방",
-  "경훈씨 없는 주말",
-  "넥타이 립 vs 손수건 경쟁",
-  "문 잡아 드리기 질투",
-  "금요일 밤 푹 자기"
+  "스텔라 블레이드×오버워치 컬래버",
+  "고막남친 온유 딱밤 사과",
+  "한화 새 코치 영입",
+  "무라카미 류 별세",
+  "퇴근 후 슬링백·수면양말",
+  "경훈씨 편한 마무리",
+  "손편지 vs 쿠키 경쟁",
+  "캠핑 텐트 농담",
+  "주말 늦잠",
+  "주말 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "콜 오브 듀티 MW4 오늘 나왔어, 한반도 배경",
-   "line2": "언니 주말 캠핑에 게임기까지 챙기는 거예요?",
+   "line1": "스텔라 블레이드가 오버워치랑 컬래버한대",
+   "line2": "이브 스킨 나오면 언니 밤새 하겠다",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.playstation.com/ko-kr/editorial/this-month-on-playstation/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "난지캠핑장 바비큐 축제, 숯불 다 준대",
-   "line2": "내일 감바스 말고 고기 굽기로 바꿔요?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://seoulzine.com/12678"
+   "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112452"
   },
   {
    "a": "hyewon",
-   "line1": "서디페 팝업, 내일 수원메쎄에서 열려요",
-   "line2": "디저트 원정이네, 빈손으로 오면 안 된다?",
+   "line1": "지금 '고막남친'에 온유 나와요, 딱밤 사과!",
+   "line2": "16년째 사과라니, 의리 하나는 최고네",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs",
-   "url": "https://litt.ly/seouldessertf"
-  },
-  {
-   "a": "hyewon",
-   "line1": "일요일 잠수교에 400m 치킨 테이블 깔린대요",
-   "line2": "치킨 앞에선 다이어트도 쉬는 날이지",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://mediahub.seoul.go.kr/archives/2019812"
-  },
-  {
-   "a": "hyewon",
-   "line1": "'백수 이세돌' 맥주 100잔 다 팔았을까요?",
-   "line2": "그 승부욕이면 101잔째도 팔았을 거야",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "도트 스카프는 풀어서 주말 가방에 넣었어요",
-   "line2": "난 와인색 머플러, 캠핑장까지 데려간다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
+   "url": "https://www.tenasia.co.kr/article/2026102305404"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 목소리 없는 주말, 벌써 조용하다",
-   "line2": "월요일 아침 인사가 제일 기다려져요",
-   "mood1": "sad",
+   "line1": "한화, 김광삼·진종길 코치 새로 모셨대",
+   "line2": "내년엔 경훈씨 응원이 더 신나시겠다",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "think",
+   "pose2": "cheer",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188699"
+  },
+  {
+   "a": "jiwon",
+   "line1": "무라카미 류 작가 별세 소식 들었어?",
+   "line2": "'투명에 가까운 블루' 다시 읽어 볼래요",
+   "mood1": "sad",
+   "mood2": "sad",
+   "pose1": "none",
+   "pose2": "none",
+   "url": "https://www.ytn.co.kr/_ln/0104_202610232121293757"
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 경훈씨 넥타이 색에 립 맞출래요",
-   "line2": "흥, 난 셔츠 색에 맞춘 손수건 준비할 거야",
+   "line1": "집 오자마자 슬링백 벗으니 살 것 같아요",
+   "line2": "난 머플러 풀고 수면양말부터 신었지",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 오늘 하루도 편히 마무리하셨겠지?",
+   "line2": "생각만 해도 마음에 담요 덮은 기분이에요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "월요일 경훈씨 책상엔 제 손편지 둘래요",
+   "line2": "흥, 난 그 옆에 직접 구운 쿠키 놓을 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -91,20 +82,29 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 퇴근 때 경훈씨 문 먼저 잡아 드렸죠?",
-   "line2": "반 박자 빨랐을 뿐이야, 삐치지 마~",
-   "mood1": "sad",
+   "line1": "언니, 캠핑장 텐트는 몇 인용이에요?",
+   "line2": "그건 비밀, 별들만 알면 돼",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "wave"
+   "pose1": "talkto",
+   "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오늘 밤은 휴대폰 내려놓고 푹 자",
-   "line2": "언니도요, 내일 캠핑은 힘 남겨 가요",
+   "line1": "혜원아, 내일은 알람 끄고 늦잠 자",
+   "line2": "언니도요, 캠핑 사진은 꼭 보내 주세요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "wave",
+   "pose2": "wave"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨, 주말엔 걱정 다 내려놓으세요",
+   "line2": "월요일엔 우리가 웃음 두 배로 드릴게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
