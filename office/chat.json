@@ -1,81 +1,80 @@
 {
- "updatedAt": "2026-10-23T08:20:00+09:00",
+ "updatedAt": "2026-10-23T09:10:00+09:00",
  "topics": [
-  "원피스 그랜드 레스토랑 출시",
-  "삼전·닉스 자사주 55조 완료",
-  "강소라 비연신검 AI 드라마",
-  "사천에어쇼",
-  "백수 이세돌",
-  "머플러 리본·아이보리 니트",
-  "주말엔 푹 쉬세요",
-  "귤 vs 보리차 경쟁",
-  "이름 먼저 질투",
-  "금요일 커피"
+  "넷플릭스 한국 10년",
+  "솔리다임 상장 철회",
+  "서인국 팬미팅",
+  "반포대로 북캠핑",
+  "일랜시아 닉네임 첫 글자",
+  "머플러 리본·진주 귀걸이",
+  "경훈씨 웃음소리",
+  "일정표 vs 메모지 경쟁",
+  "밥 한번 먹자 썸",
+  "출근이 즐거운 이유"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "오늘 '원피스 그랜드 레스토랑' 나오는 날이래",
-   "line2": "언니 캠핑 요리 실력, 게임에서도 보여 줘요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.gamemeca.com/view.php?gid=1781193"
-  },
-  {
-   "a": "jiwon",
-   "line1": "삼전·닉스 자사주 55조 매입이 다 끝났대",
-   "line2": "이제 이달 말 주주환원 발표에 눈길 가네요",
+   "a": "hyewon",
+   "line1": "넷플릭스 한국 온 지 벌써 10년이래요",
+   "line2": "회원 80%가 K콘텐츠 본다니 대단하다",
    "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "think",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/10/23/MQZTCNZRMU4TSMRZMFRTAZBUMU/"
-  },
-  {
-   "a": "hyewon",
-   "line1": "강소라가 초딩 때 쓴 무협소설, AI 드라마 됐대요",
-   "line2": "'비연신검'이라니, 제목부터 너무 귀엽다",
-   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610230078"
+  },
+  {
+   "a": "jiwon",
+   "line1": "SK하이닉스가 솔리다임 상장 접었대",
+   "line2": "언니 주식 앱 또 열어 보는 거죠? ㅎㅎ",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
    "pose2": "laugh",
-   "url": "https://www.starnewskorea.com/broadcast-show/2026/10/21/2026102122271532576"
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023074712W4x"
   },
   {
    "a": "hyewon",
-   "line1": "사천에어쇼가 25일까지래요, 블랙이글스 보고파",
-   "line2": "남해 바다랑 묶어서 가을 여행 코스 짜 볼까?",
+   "line1": "서인국이 2년 만에 국내 팬미팅 한대요",
+   "line2": "너 티켓팅 손 벌써 풀고 있지?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "think",
-   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1553428"
+   "pose2": "talkto",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610230031"
   },
   {
    "a": "jiwon",
-   "line1": "이세돌도 '백수 이세돌'로 새 일 찾는 중이래",
-   "line2": "언니도 캠핑 요리 유튜브 도전해 봐요!",
-   "mood1": "neutral",
+   "line1": "내일 반포대로에서 북캠핑 한대, 도심 캠핑!",
+   "line2": "텐트 대신 돗자리에 책이라니 낭만이다",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.newsis.com/view/NISX20261022_0003837304"
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://www.munhwa.com/article/11625270"
+  },
+  {
+   "a": "jiwon",
+   "line1": "그래서 일랜시아 닉네임 첫 글자는… '별'",
+   "line2": "별빛? 별사탕? 언니 감성 들켰다 ㅋㅋ",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 머플러 매듭 아침이랑 바꿨죠?",
-   "line2": "응, 네 아이보리 니트 보고 리본으로 묶었어",
-   "mood1": "surprised",
+   "line1": "언니 머플러 리본, 점심까지 안 풀었네요",
+   "line2": "네 진주 귀걸이랑 세트라 못 풀겠더라",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
    "pose2": "look"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 이번 주 고생 많으셨는데 주말엔 푹 쉬셨으면",
-   "line2": "다음 주 월요일엔 더 반갑게 맞아 드려요, 우리",
+   "line1": "경훈씨 웃음소리 나면 내 하루가 정리돼",
+   "line2": "맞아요, 그게 우리 사무실 배경음악이죠",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -83,30 +82,30 @@
   },
   {
    "a": "hyewon",
-   "line1": "오늘은 경훈씨 책상에 귤 까서 예쁘게 둘래요",
-   "line2": "흥, 난 따끈한 보리차 텀블러 벌써 채워 놨지",
+   "line1": "오늘 경훈씨 일정표, 제가 색깔별로 정리할래요",
+   "line2": "흥, 난 회의마다 메모지 미리 붙여 둘 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "아까 경훈씨가 네 이름부터 부르시더라",
-   "line2": "헤헤, 언니는 커피 칭찬 들었잖아요, 공평!",
-   "mood1": "sad",
+   "a": "hyewon",
+   "line1": "요즘 '밥 한번 먹자'가 고백이래요",
+   "line2": "그럼 난 오늘 세 번 고백받은 거네? 😏",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "talkto",
    "pose2": "charm"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 금요일 아침 커피는 왜 더 맛있을까요?",
-   "line2": "주말이 코앞이라 뭐든 달콤한 거지",
+   "a": "jiwon",
+   "line1": "혜원아, 오늘도 네 덕분에 출근이 즐겁다",
+   "line2": "언니가 있어서 저도 매일 든든해요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "wave",
+   "pose2": "highfive"
   }
  ]
 }
