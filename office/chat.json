@@ -1,71 +1,91 @@
 {
- "updatedAt": "2026-10-23T09:10:00+09:00",
+ "updatedAt": "2026-10-23T10:12:00+09:00",
  "topics": [
-  "넷플릭스 한국 10년",
-  "솔리다임 상장 철회",
-  "서인국 팬미팅",
-  "반포대로 북캠핑",
-  "일랜시아 닉네임 첫 글자",
-  "머플러 리본·진주 귀걸이",
-  "경훈씨 웃음소리",
-  "일정표 vs 메모지 경쟁",
-  "밥 한번 먹자 썸",
-  "출근이 즐거운 이유"
+  "아이폰 듀오 출시",
+  "리사 PRESS PLAY",
+  "파이널 테이블 첫방",
+  "월드시리즈 첫 우승 매치업",
+  "코스피 3% 급락",
+  "성수 립 팝업 로즈밀크",
+  "일랜시아 닉네임 두 번째 글자",
+  "와인색 머플러·아이보리 니트",
+  "경훈씨 빈 의자 미소",
+  "점심 메뉴 vs 창가 자리 경쟁",
+  "오후 간식·커피"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "넷플릭스 한국 온 지 벌써 10년이래요",
-   "line2": "회원 80%가 K콘텐츠 본다니 대단하다",
+   "a": "jiwon",
+   "line1": "애플 첫 폴더블 '아이폰 듀오' 오늘 나왔대",
+   "line2": "언니 접었다 폈다 손이 벌써 근질근질하죠?",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.mk.co.kr/news/it/12183769"
+  },
+  {
+   "a": "hyewon",
+   "line1": "리사 첫 솔로 EP 'PRESS PLAY' 나왔어요",
+   "line2": "태국 뿌리를 담았다며? 오후 BGM 확정이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "thumbs",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610230078"
+   "url": "https://www.tenasia.co.kr/article/2026102302014"
+  },
+  {
+   "a": "hyewon",
+   "line1": "안효섭 요리 드라마 '파이널 테이블' 곧 첫방이래요",
+   "line2": "요리 서바이벌? 캠핑 셰프로서 꼭 본다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "cheer",
+   "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102309407222303"
   },
   {
    "a": "jiwon",
-   "line1": "SK하이닉스가 솔리다임 상장 접었대",
-   "line2": "언니 주식 앱 또 열어 보는 거죠? ㅎㅎ",
+   "line1": "월드시리즈, 누가 이기든 창단 첫 우승이래",
+   "line2": "어느 쪽이든 그 팬들은 펑펑 울겠네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023074712W4x"
+   "pose2": "look",
+   "url": "https://www.starnewskorea.com/sports/2026/10/22/2026102111405859255"
   },
   {
    "a": "hyewon",
-   "line1": "서인국이 2년 만에 국내 팬미팅 한대요",
-   "line2": "너 티켓팅 손 벌써 풀고 있지?",
-   "mood1": "smile",
+   "line1": "코스피 장 초반 3% 넘게 빠졌대요, 언니",
+   "line2": "계좌는 파래도 마음은 빨갛게 가자!",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610230031"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 반포대로에서 북캠핑 한대, 도심 캠핑!",
-   "line2": "텐트 대신 돗자리에 책이라니 낭만이다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.munhwa.com/article/11625270"
-  },
-  {
-   "a": "jiwon",
-   "line1": "그래서 일랜시아 닉네임 첫 글자는… '별'",
-   "line2": "별빛? 별사탕? 언니 감성 들켰다 ㅋㅋ",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose1": "think",
+   "pose2": "highfive",
+   "url": "https://www.nocutnews.co.kr/news/6595953"
   },
   {
    "a": "hyewon",
-   "line1": "언니 머플러 리본, 점심까지 안 풀었네요",
-   "line2": "네 진주 귀걸이랑 세트라 못 풀겠더라",
+   "line1": "성수 팝업 립 이름이 '로즈밀크'래요",
+   "line2": "이름만 들어도 달달해, 주말에 같이 가?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "talkto"
+  },
+  {
+   "a": "jiwon",
+   "line1": "일랜시아 닉네임, '별' 다음 글자는 퇴근 때!",
+   "line2": "언니 밀당 너무 길어요, 궁금해 죽겠어요",
+   "mood1": "smile",
+   "mood2": "sad",
+   "pose1": "charm",
+   "pose2": "sulk"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 와인색 머플러, 제 아이보리 니트랑 찰떡",
+   "line2": "네 진주 귀걸이까지 보면 거의 커플룩이지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
@@ -73,8 +93,8 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 웃음소리 나면 내 하루가 정리돼",
-   "line2": "맞아요, 그게 우리 사무실 배경음악이죠",
+   "line1": "경훈씨 빈 의자만 봐도 괜히 미소가 나와",
+   "line2": "저도요, 그 자리가 우리 하루의 중심이죠",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -82,30 +102,21 @@
   },
   {
    "a": "hyewon",
-   "line1": "오늘 경훈씨 일정표, 제가 색깔별로 정리할래요",
-   "line2": "흥, 난 회의마다 메모지 미리 붙여 둘 거야",
+   "line1": "오늘 경훈씨 점심 메뉴는 제가 먼저 고를래요",
+   "line2": "늦었어, 난 창가 자리 예약까지 해 뒀거든",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "요즘 '밥 한번 먹자'가 고백이래요",
-   "line2": "그럼 난 오늘 세 번 고백받은 거네? 😏",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
    "a": "jiwon",
-   "line1": "혜원아, 오늘도 네 덕분에 출근이 즐겁다",
-   "line2": "언니가 있어서 저도 매일 든든해요",
+   "line1": "혜원아, 오후 간식은 내가 챙길게",
+   "line2": "언니 최고! 그럼 커피는 제 몫이에요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "highfive"
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
