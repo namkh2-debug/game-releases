@@ -1,224 +1,224 @@
 {
- "date": "2026-10-23",
- "updatedAt": "2026-10-23T15:04:05+09:00",
- "region": "경기 광주",
- "weather": {
-  "temp": 19,
-  "low": 3,
-  "high": 17,
-  "condition": "맑음",
-  "rainChance": "0%",
-  "dust": "미세먼지 좋음, 초미세먼지 좋음",
-  "tip": "아침 3도 안팎으로 초겨울처럼 쌀쌀해요. 코트나 두꺼운 재킷을 입고, 낮엔 17도까지 올라 일교차가 크니 겹쳐 입으세요. 우산은 필요 없어요.",
-  "source": "기상청 단기예보(울림 114.it.kr), 에어코리아, Open-Meteo 현재기온"
- },
- "breaking": [
-  {
-   "title": "국방부 \"북측에 남북 군사회담 개최 제안\"",
-   "url": "https://www.fnnews.com/news/202610231424034679",
-   "source": "파이낸셜뉴스"
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T16:10:00+09:00",
+  "region": "경기 광주",
+  "weather": {
+    "temp": 19,
+    "low": 3,
+    "high": 17,
+    "condition": "맑음",
+    "rainChance": "0%",
+    "dust": "미세먼지 좋음, 초미세먼지 좋음",
+    "tip": "아침 3도 안팎으로 초겨울처럼 쌀쌀해요. 코트나 두꺼운 재킷을 입고, 낮엔 17도까지 올라 일교차가 크니 겹쳐 입으세요. 우산은 필요 없어요.",
+    "source": "기상청 단기예보(울림 114.it.kr), 에어코리아, Open-Meteo 현재기온"
   },
-  {
-   "title": "'여론조사 비용 대납' 오세훈, 항소심 무죄...1심 유죄 뒤집혀",
-   "url": "https://www.ytn.co.kr/_ln/0103_202610231421182286",
-   "source": "YTN"
-  },
-  {
-   "title": "국방부 \"필요시 유엔사 포함 3자회담도 가능…北호응 기대\"",
-   "url": "https://www.yna.co.kr/view/AKR20261023103800504",
-   "source": "연합뉴스"
-  },
-  {
-   "title": "국방부 \"남북 MDL 상호확인·군통신선 복원 회담해야\"",
-   "url": "https://www.yna.co.kr/view/AKR20261023103400504",
-   "source": "연합뉴스"
-  },
-  {
-   "title": "이 대통령, 최길수 특별감찰관 임명 재가",
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693584",
-   "source": "KBS 뉴스"
-  }
- ],
- "news": [
-  {
-   "title": "[단독] 오세훈표 한강버스만 공익감사 ‘당일 각하’…청구된 910건 중 유일",
-   "url": "https://www.hani.co.kr/arti/area/capital/1283770.html",
-   "source": "한겨레",
-   "summary": "감사원에 청구된 공익감사 910건 중 서울시 한강버스 건만 접수 당일 각하된 것으로 드러났다."
-  },
-  {
-   "title": "하락세 벗어난 이 대통령 지지율…7주 만에 40%대 회복 [갤럽]",
-   "url": "https://www.hani.co.kr/arti/politics/assembly/1283815.html",
-   "source": "한겨레",
-   "summary": "한국갤럽 20~22일 조사에서 이 대통령 직무 긍정률이 40%로 7주 만에 40%대를 회복했다."
-  },
-  {
-   "title": "이 대통령 \"강력범죄와 전쟁 선포\"‥사전 예방 체제로 전환",
-   "url": "https://imnews.imbc.com/news/2026/politics/article/6860169_36911.html",
-   "source": "MBC 뉴스",
-   "summary": "이 대통령이 잇단 강력범죄에 전쟁을 선포하는 각오로 대응하고 사전 예방 체제로 바꾸라고 지시했다."
-  },
-  {
-   "title": "군 “2024년 이후 DMZ 북한 매설 지뢰 96만 발 추정”",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8693516",
-   "source": "KBS 뉴스",
-   "summary": "군은 '적대적 두 국가' 선언 이후 북한이 비무장지대에 매설한 지뢰를 약 96만 발로 추정했다."
-  },
-  {
-   "title": "김여정 “국경선 새 대응수단 대기”…커지는 우발충돌 위험",
-   "url": "https://www.hani.co.kr/arti/politics/defense/1283754.html",
-   "source": "한겨레",
-   "summary": "김여정 부장이 국경선 새 대응수단과 대남 확성기 대기를 예고해 남북 긴장이 높아지고 있다."
-  },
-  {
-   "title": "정부 '北 정전협정 위반' 유엔 서한…안보리 이사국 회람 승인",
-   "url": "https://www.yna.co.kr/view/AKR20261023004500072",
-   "source": "연합뉴스",
-   "summary": "정부가 북한의 정전협정 위반을 알리는 유엔 서한을 보냈고 안보리 이사국 회람이 승인됐다."
-  },
-  {
-   "title": "코스피, 4% 급락후 낙폭 좁혀 5,390선…하닉은 한때 상승전환",
-   "url": "https://www.yna.co.kr/view/AKR20261023076100008",
-   "source": "연합뉴스",
-   "summary": "미국발 AI 투자 우려에 코스피가 장 초반 4% 넘게 빠졌다가 낙폭을 일부 만회하며 출렁였다."
-  },
-  {
-   "title": "배경훈 \"PHP 취약점 계기로 범부처 종합대책 마련하겠다\"",
-   "url": "https://www.yna.co.kr/view/AKR20261023091900017",
-   "source": "연합뉴스",
-   "summary": "PHP의 심각한 보안 취약점과 관련해 과기부총리가 범부처 종합대책과 조직 개편을 검토 중이라고 밝혔다."
-  },
-  {
-   "title": "[기업] HD현대, 미국에 합작 조선소 설립...2029년 가동",
-   "url": "https://www.ytn.co.kr/_ln/0102_202610231314293106",
-   "source": "YTN",
-   "summary": "HD현대가 미국 키윗과 합작법인 'HD키윗조선'을 세워 미국에 새 조선소를 짓는다. 2029년 가동 목표."
-  },
-  {
-   "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
-   "url": "https://www.yna.co.kr/view/AKR20261023007600072",
-   "source": "연합뉴스",
-   "summary": "AI 투자 불안이 다시 커지며 뉴욕증시 기술주가 급락해 나스닥이 2.6% 떨어졌다."
-  },
-  {
-   "title": "신세계그룹 정기인사, 한채양 물러나고 정용진 직접 경영 전면에",
-   "url": "https://www.investchosun.com/site/data/html_dir/2026/10/23/2026102380076.html",
-   "source": "인베스트조선",
-   "summary": "신세계그룹 정기인사에서 한채양 대표가 물러나고 정용진 회장이 경영 전면에 나섰다."
-  },
-  {
-   "title": "삼전·닉스 ‘55조 자사주’ 매입 마무리… 증시 버팀목 빠진 ‘실적·추가 환원’에 쏠린 눈",
-   "url": "https://biz.chosun.com/stock/stock_general/2026/10/23/NJE2R3B5VJHFRMBXR5WUGQESHQ/",
-   "source": "조선비즈",
-   "summary": "삼성전자·SK하이닉스의 55조원 자사주 매입이 끝나 이달 말 실적과 추가 주주환원에 관심이 쏠린다."
-  },
-  {
-   "title": "서울 아파트 월세 거래, 사상 첫 전세 추월…주거비 부담 커진다",
-   "url": "https://news.knn.co.kr/news/article_sns/1841",
-   "source": "KNN",
-   "summary": "서울 아파트 월세 거래가 사상 처음 전세를 넘어서며 세입자 주거비 부담이 커지고 있다."
-  },
-  {
-   "title": "금감원 \"8월 은행 원화 대출 연체율 0.7% 육박\"",
-   "url": "https://www.ytn.co.kr/_ln/0102_202610230906252726",
-   "source": "YTN",
-   "summary": "8월 국내은행 원화대출 연체율이 0.7%에 육박해 9년 10개월 만에 최고치를 기록했다."
-  },
-  {
-   "title": "트럼프 \"이란, 중간선거 앞 유가 올리려 모든 것 꾸며내\"",
-   "url": "https://www.yna.co.kr/view/AKR20261023005000071",
-   "source": "연합뉴스",
-   "summary": "트럼프 대통령은 이란이 중간선거를 앞두고 유가를 올리려 상황을 꾸며낸다고 주장했다."
-  },
-  {
-   "title": "푸틴 \"우크라 평화협상, 러시아·유럽 전체의 안보 보장에 맞춰져야\"",
-   "url": "https://www.newspim.com/news/view/20261023000114",
-   "source": "뉴스핌",
-   "summary": "푸틴 대통령은 우크라이나 평화협상이 러시아와 유럽 전체의 안보 보장에 맞춰져야 한다고 말했다."
-  },
-  {
-   "title": "中 티베트 규모 7.0 강진… 최소 16명 사망·주택 300여 채 붕괴",
-   "url": "https://www.kado.net/news/articleView.html?idxno=2080011",
-   "source": "강원도민일보",
-   "summary": "중국 티베트에서 규모 7.0 강진이 나 최소 16명이 숨지고 주택 300여 채가 무너졌다."
-  },
-  {
-   "title": "美, 11월 3일부터 입국자에 에볼라 관련 확인 의무화",
-   "url": "https://www.donga.com/news/Inter/article/all/20261023/134894204/1",
-   "source": "동아일보",
-   "summary": "미국이 11월 3일부터 입국자에게 에볼라 관련 확인을 의무화한다."
-  },
-  {
-   "title": "“파리 비행기 취소할게요”…대한항공·아시아나 ‘수수료 면제’",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1283792.html",
-   "source": "한겨레",
-   "summary": "파리 시위가 이어지자 대한항공·아시아나가 파리 항공권 환불·변경 수수료를 면제하기로 했다."
-  },
-  {
-   "title": "‘최고 23도’ 낮부터 추위 풀린다…태풍 ‘참피’에 제주·남부 비",
-   "url": "https://www.hani.co.kr/arti/society/environment/1283781.html",
-   "source": "한겨레",
-   "summary": "상강인 오늘 아침 추위는 낮부터 풀리고, 태풍 '참피' 영향으로 제주·남부에 비가 온다."
-  },
-  {
-   "title": "사전예약 1분만에 마감…애플 첫 폴더블 ‘아이폰 듀오’ 오늘 출시",
-   "url": "https://www.mk.co.kr/news/it/12183769",
-   "source": "매일경제",
-   "summary": "애플 첫 폴더블폰 ‘아이폰 듀오’가 23일 국내 출시됐고, 첫날 배송 사전예약은 1분 만에 마감됐다."
-  },
-  {
-   "title": "최휘영 \"유홍준, 중앙박물관 명예·신뢰 훼손…철저하게 감사\"",
-   "url": "https://www.yna.co.kr/view/AKR20261023097400005",
-   "source": "연합뉴스",
-   "summary": "소장품 논란으로 사의한 유홍준 전 국립중앙박물관장에 대해 문체부 장관이 강도 높은 감사를 예고했다."
-  },
-  {
-   "title": "스위스, 평양에 외교사무소 가동…'한반도 평화중재 역할' 의향",
-   "url": "https://www.yna.co.kr/view/AKR20261023078400504",
-   "source": "연합뉴스",
-   "summary": "스위스가 북한과 수교 이후 처음으로 평양에 정치 대화를 맡는 외교사무소를 열어 운영 중이다."
-  },
-  {
-   "title": "빅테크 IPO 줄연기 속 '독야청청' 앤트로픽...내달 중순 상장",
-   "url": "https://www.ytn.co.kr/_ln/0104_202610230834085560",
-   "source": "YTN",
-   "summary": "빅테크 상장이 줄줄이 미뤄지는 가운데 앤트로픽이 다음 달 중순 상장을 추진한다."
-  },
-  {
-   "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전",
-   "url": "https://www.hankyung.com/article/202610230670i",
-   "source": "한국경제",
-   "summary": "LG그룹이 현대차그룹 로보틱스랩장을 영입하며 피지컬 AI 인재 확보에 나섰다."
-  },
-  {
-   "title": "[단독] 100억 투입 인공위성 사업, 실패하고도 발표 안 해",
-   "url": "https://www.chosun.com/economy/science/2026/10/23/SEGBPDOD2RAJ3LR4KPKXKYGOHM/",
-   "source": "조선일보",
-   "summary": "100억원이 들어간 K-라드큐브 위성이 임무에 실패했지만 정부가 6개월간 알리지 않았다."
-  },
-  {
-   "title": "\"예전만 못한 투자 열기\"…오픈AI, 'AI 거품론'에 몸값 10% 낮췄다",
-   "url": "https://www.mt.co.kr/world/2026/10/23/2026102309045689778",
-   "source": "머니투데이",
-   "summary": "AI 거품론 속에 투자 열기가 식으며 오픈AI가 투자자들에게 제시한 몸값을 10% 낮췄다."
-  },
-  {
-   "title": "비타민 주사 둔갑한 ‘납 빼는 주사’ 53만개 풀렸다…73%는 동네의원으로",
-   "url": "https://www.mk.co.kr/news/politics/12183778",
-   "source": "매일경제",
-   "summary": "비타민 주사로 둔갑한 '납 빼는 주사' 53만 개가 풀렸고 73%가 동네의원으로 갔다."
-  },
-  {
-   "title": "'첫 국산 GLP-1 비만신약' 에페 29일께 처방 시작",
-   "url": "https://www.yna.co.kr/view/AKR20261022132900017",
-   "source": "연합뉴스",
-   "summary": "첫 국산 GLP-1 계열 비만 신약 '에페'가 29일께부터 처방되기 시작한다."
-  },
-  {
-   "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에",
-   "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974106",
-   "source": "대한민국 정책브리핑",
-   "summary": "12월부터 민간 앱에서 지방세 환급금을 조회하고 바로 청구할 수 있게 된다."
-  }
- ]
+  "breaking": [
+    {
+      "title": "코스피, 0.3% 반등 5,550 마감…SK하이닉스 4.4%↑",
+      "url": "https://www.yna.co.kr/view/AKR20261023130600008",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "특검, 오세훈 2심 무죄에 \"실망스러워…상고해 바로잡을 것\"",
+      "url": "https://www.yna.co.kr/view/AKR20261023117000004",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "'부캉이' 머무는 부산 바다에 기름 유출 사고 발생",
+      "url": "https://www.munhwa.com/article/11625831",
+      "source": "문화일보"
+    },
+    {
+      "title": "국방부 \"북측에 남북 군사회담 개최 제안\"",
+      "url": "https://www.fnnews.com/news/202610231424034679",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "'여론조사 비용 대납' 오세훈, 항소심 무죄...1심 유죄 뒤집혀",
+      "url": "https://www.ytn.co.kr/_ln/0103_202610231421182286",
+      "source": "YTN"
+    }
+  ],
+  "news": [
+    {
+      "title": "[단독] 오세훈표 한강버스만 공익감사 ‘당일 각하’…청구된 910건 중 유일",
+      "url": "https://www.hani.co.kr/arti/area/capital/1283770.html",
+      "source": "한겨레",
+      "summary": "감사원에 청구된 공익감사 910건 중 서울시 한강버스 건만 접수 당일 각하된 것으로 드러났다."
+    },
+    {
+      "title": "하락세 벗어난 이 대통령 지지율…7주 만에 40%대 회복 [갤럽]",
+      "url": "https://www.hani.co.kr/arti/politics/assembly/1283815.html",
+      "source": "한겨레",
+      "summary": "한국갤럽 20~22일 조사에서 이 대통령 직무 긍정률이 40%로 7주 만에 40%대를 회복했다."
+    },
+    {
+      "title": "이 대통령 \"강력범죄와 전쟁 선포\"‥사전 예방 체제로 전환",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6860169_36911.html",
+      "source": "MBC 뉴스",
+      "summary": "이 대통령이 잇단 강력범죄에 전쟁을 선포하는 각오로 대응하고 사전 예방 체제로 바꾸라고 지시했다."
+    },
+    {
+      "title": "군 “2024년 이후 DMZ 북한 매설 지뢰 96만 발 추정”",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8693516",
+      "source": "KBS 뉴스",
+      "summary": "군은 '적대적 두 국가' 선언 이후 북한이 비무장지대에 매설한 지뢰를 약 96만 발로 추정했다."
+    },
+    {
+      "title": "김여정 “국경선 새 대응수단 대기”…커지는 우발충돌 위험",
+      "url": "https://www.hani.co.kr/arti/politics/defense/1283754.html",
+      "source": "한겨레",
+      "summary": "김여정 부장이 국경선 새 대응수단과 대남 확성기 대기를 예고해 남북 긴장이 높아지고 있다."
+    },
+    {
+      "title": "정부 '北 정전협정 위반' 유엔 서한…안보리 이사국 회람 승인",
+      "url": "https://www.yna.co.kr/view/AKR20261023004500072",
+      "source": "연합뉴스",
+      "summary": "정부가 북한의 정전협정 위반을 알리는 유엔 서한을 보냈고 안보리 이사국 회람이 승인됐다."
+    },
+    {
+      "title": "[마감시황] 코스피, 장중 4%대 급락 딛고 반등…SK하이닉스 4.42% 상승",
+      "url": "https://www.ajunews.com/view/20261023151318414",
+      "source": "아주경제",
+      "summary": "코스피가 장중 4%대 급락을 딛고 0.30% 오른 5,550.30에 마감했고, SK하이닉스는 솔리다임 상장 철회 소식에 4.42% 올랐다."
+    },
+    {
+      "title": "배경훈 \"PHP 취약점 계기로 범부처 종합대책 마련하겠다\"",
+      "url": "https://www.yna.co.kr/view/AKR20261023091900017",
+      "source": "연합뉴스",
+      "summary": "PHP의 심각한 보안 취약점과 관련해 과기부총리가 범부처 종합대책과 조직 개편을 검토 중이라고 밝혔다."
+    },
+    {
+      "title": "[기업] HD현대, 미국에 합작 조선소 설립...2029년 가동",
+      "url": "https://www.ytn.co.kr/_ln/0102_202610231314293106",
+      "source": "YTN",
+      "summary": "HD현대가 미국 키윗과 합작법인 'HD키윗조선'을 세워 미국에 새 조선소를 짓는다. 2029년 가동 목표."
+    },
+    {
+      "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
+      "url": "https://www.yna.co.kr/view/AKR20261023007600072",
+      "source": "연합뉴스",
+      "summary": "AI 투자 불안이 다시 커지며 뉴욕증시 기술주가 급락해 나스닥이 2.6% 떨어졌다."
+    },
+    {
+      "title": "신세계그룹 정기인사, 한채양 물러나고 정용진 직접 경영 전면에",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/10/23/2026102380076.html",
+      "source": "인베스트조선",
+      "summary": "신세계그룹 정기인사에서 한채양 대표가 물러나고 정용진 회장이 경영 전면에 나섰다."
+    },
+    {
+      "title": "삼전·닉스 ‘55조 자사주’ 매입 마무리… 증시 버팀목 빠진 ‘실적·추가 환원’에 쏠린 눈",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/23/NJE2R3B5VJHFRMBXR5WUGQESHQ/",
+      "source": "조선비즈",
+      "summary": "삼성전자·SK하이닉스의 55조원 자사주 매입이 끝나 이달 말 실적과 추가 주주환원에 관심이 쏠린다."
+    },
+    {
+      "title": "서울 아파트 월세 거래, 사상 첫 전세 추월…주거비 부담 커진다",
+      "url": "https://news.knn.co.kr/news/article_sns/1841",
+      "source": "KNN",
+      "summary": "서울 아파트 월세 거래가 사상 처음 전세를 넘어서며 세입자 주거비 부담이 커지고 있다."
+    },
+    {
+      "title": "금감원 \"8월 은행 원화 대출 연체율 0.7% 육박\"",
+      "url": "https://www.ytn.co.kr/_ln/0102_202610230906252726",
+      "source": "YTN",
+      "summary": "8월 국내은행 원화대출 연체율이 0.7%에 육박해 9년 10개월 만에 최고치를 기록했다."
+    },
+    {
+      "title": "트럼프 \"이란, 중간선거 앞 유가 올리려 모든 것 꾸며내\"",
+      "url": "https://www.yna.co.kr/view/AKR20261023005000071",
+      "source": "연합뉴스",
+      "summary": "트럼프 대통령은 이란이 중간선거를 앞두고 유가를 올리려 상황을 꾸며낸다고 주장했다."
+    },
+    {
+      "title": "푸틴 \"우크라 평화협상, 러시아·유럽 전체의 안보 보장에 맞춰져야\"",
+      "url": "https://www.newspim.com/news/view/20261023000114",
+      "source": "뉴스핌",
+      "summary": "푸틴 대통령은 우크라이나 평화협상이 러시아와 유럽 전체의 안보 보장에 맞춰져야 한다고 말했다."
+    },
+    {
+      "title": "中 티베트 규모 7.0 강진… 최소 16명 사망·주택 300여 채 붕괴",
+      "url": "https://www.kado.net/news/articleView.html?idxno=2080011",
+      "source": "강원도민일보",
+      "summary": "중국 티베트에서 규모 7.0 강진이 나 최소 16명이 숨지고 주택 300여 채가 무너졌다."
+    },
+    {
+      "title": "美, 11월 3일부터 입국자에 에볼라 관련 확인 의무화",
+      "url": "https://www.donga.com/news/Inter/article/all/20261023/134894204/1",
+      "source": "동아일보",
+      "summary": "미국이 11월 3일부터 입국자에게 에볼라 관련 확인을 의무화한다."
+    },
+    {
+      "title": "“파리 비행기 취소할게요”…대한항공·아시아나 ‘수수료 면제’",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1283792.html",
+      "source": "한겨레",
+      "summary": "파리 시위가 이어지자 대한항공·아시아나가 파리 항공권 환불·변경 수수료를 면제하기로 했다."
+    },
+    {
+      "title": "‘최고 23도’ 낮부터 추위 풀린다…태풍 ‘참피’에 제주·남부 비",
+      "url": "https://www.hani.co.kr/arti/society/environment/1283781.html",
+      "source": "한겨레",
+      "summary": "상강인 오늘 아침 추위는 낮부터 풀리고, 태풍 '참피' 영향으로 제주·남부에 비가 온다."
+    },
+    {
+      "title": "사전예약 1분만에 마감…애플 첫 폴더블 ‘아이폰 듀오’ 오늘 출시",
+      "url": "https://www.mk.co.kr/news/it/12183769",
+      "source": "매일경제",
+      "summary": "애플 첫 폴더블폰 ‘아이폰 듀오’가 23일 국내 출시됐고, 첫날 배송 사전예약은 1분 만에 마감됐다."
+    },
+    {
+      "title": "최휘영 \"유홍준, 중앙박물관 명예·신뢰 훼손…철저하게 감사\"",
+      "url": "https://www.yna.co.kr/view/AKR20261023097400005",
+      "source": "연합뉴스",
+      "summary": "소장품 논란으로 사의한 유홍준 전 국립중앙박물관장에 대해 문체부 장관이 강도 높은 감사를 예고했다."
+    },
+    {
+      "title": "스위스, 평양에 외교사무소 가동…'한반도 평화중재 역할' 의향",
+      "url": "https://www.yna.co.kr/view/AKR20261023078400504",
+      "source": "연합뉴스",
+      "summary": "스위스가 북한과 수교 이후 처음으로 평양에 정치 대화를 맡는 외교사무소를 열어 운영 중이다."
+    },
+    {
+      "title": "빅테크 IPO 줄연기 속 '독야청청' 앤트로픽...내달 중순 상장",
+      "url": "https://www.ytn.co.kr/_ln/0104_202610230834085560",
+      "source": "YTN",
+      "summary": "빅테크 상장이 줄줄이 미뤄지는 가운데 앤트로픽이 다음 달 중순 상장을 추진한다."
+    },
+    {
+      "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전",
+      "url": "https://www.hankyung.com/article/202610230670i",
+      "source": "한국경제",
+      "summary": "LG그룹이 현대차그룹 로보틱스랩장을 영입하며 피지컬 AI 인재 확보에 나섰다."
+    },
+    {
+      "title": "[단독] 100억 투입 인공위성 사업, 실패하고도 발표 안 해",
+      "url": "https://www.chosun.com/economy/science/2026/10/23/SEGBPDOD2RAJ3LR4KPKXKYGOHM/",
+      "source": "조선일보",
+      "summary": "100억원이 들어간 K-라드큐브 위성이 임무에 실패했지만 정부가 6개월간 알리지 않았다."
+    },
+    {
+      "title": "\"예전만 못한 투자 열기\"…오픈AI, 'AI 거품론'에 몸값 10% 낮췄다",
+      "url": "https://www.mt.co.kr/world/2026/10/23/2026102309045689778",
+      "source": "머니투데이",
+      "summary": "AI 거품론 속에 투자 열기가 식으며 오픈AI가 투자자들에게 제시한 몸값을 10% 낮췄다."
+    },
+    {
+      "title": "비타민 주사 둔갑한 ‘납 빼는 주사’ 53만개 풀렸다…73%는 동네의원으로",
+      "url": "https://www.mk.co.kr/news/politics/12183778",
+      "source": "매일경제",
+      "summary": "비타민 주사로 둔갑한 '납 빼는 주사' 53만 개가 풀렸고 73%가 동네의원으로 갔다."
+    },
+    {
+      "title": "'첫 국산 GLP-1 비만신약' 에페 29일께 처방 시작",
+      "url": "https://www.yna.co.kr/view/AKR20261022132900017",
+      "source": "연합뉴스",
+      "summary": "첫 국산 GLP-1 계열 비만 신약 '에페'가 29일께부터 처방되기 시작한다."
+    },
+    {
+      "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974106",
+      "source": "대한민국 정책브리핑",
+      "summary": "12월부터 민간 앱에서 지방세 환급금을 조회하고 바로 청구할 수 있게 된다."
+    }
+  ]
 }
