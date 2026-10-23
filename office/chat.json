@@ -1,109 +1,71 @@
 {
- "updatedAt": "2026-10-23T10:12:00+09:00",
+ "updatedAt": "2026-10-23T11:12:00+09:00",
  "topics": [
-  "아이폰 듀오 출시",
-  "리사 PRESS PLAY",
-  "파이널 테이블 첫방",
-  "월드시리즈 첫 우승 매치업",
-  "코스피 3% 급락",
-  "성수 립 팝업 로즈밀크",
-  "일랜시아 닉네임 두 번째 글자",
-  "와인색 머플러·아이보리 니트",
-  "경훈씨 빈 의자 미소",
-  "점심 메뉴 vs 창가 자리 경쟁",
-  "오후 간식·커피"
+  "모던 워페어 4 출시",
+  "던전 인 정식 출시",
+  "베이비몬스터 DESERVE",
+  "솔리다임 상장 철회",
+  "생강차 질투",
+  "블랙체리 립 vs C컬 펌 경쟁",
+  "머플러 출근룩",
+  "주말 허전함",
+  "경훈씨 목소리에 설렘",
+  "썸 문자 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "애플 첫 폴더블 '아이폰 듀오' 오늘 나왔대",
-   "line2": "언니 접었다 폈다 손이 벌써 근질근질하죠?",
+   "line1": "모던 워페어 4 오늘 0시에 풀렸대",
+   "line2": "언니 점심시간에 한 판만 하고 싶은 눈이에요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.mk.co.kr/news/it/12183769"
-  },
-  {
-   "a": "hyewon",
-   "line1": "리사 첫 솔로 EP 'PRESS PLAY' 나왔어요",
-   "line2": "태국 뿌리를 담았다며? 오후 BGM 확정이다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs",
-   "url": "https://www.tenasia.co.kr/article/2026102302014"
-  },
-  {
-   "a": "hyewon",
-   "line1": "안효섭 요리 드라마 '파이널 테이블' 곧 첫방이래요",
-   "line2": "요리 서바이벌? 캠핑 셰프로서 꼭 본다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.mt.co.kr/entertainment/2026/10/23/2026102309407222303"
+   "url": "https://duckcal.net/month/2026-10"
   },
   {
    "a": "jiwon",
-   "line1": "월드시리즈, 누가 이기든 창단 첫 우승이래",
-   "line2": "어느 쪽이든 그 팬들은 펑펑 울겠네요",
-   "mood1": "surprised",
+   "line1": "여관 이중 영업 게임 '던전 인' 정식 출시래",
+   "line2": "두 길드 다 손님? 언니 장사 수완이랑 딱이네요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "look",
-   "url": "https://www.starnewskorea.com/sports/2026/10/22/2026102111405859255"
+   "pose2": "thumbs",
+   "url": "https://www.thisisgame.com/articles/431268"
   },
   {
    "a": "hyewon",
-   "line1": "코스피 장 초반 3% 넘게 빠졌대요, 언니",
-   "line2": "계좌는 파래도 마음은 빨갛게 가자!",
+   "line1": "베이비몬스터 'DESERVE' 오후 1시에 나와요",
+   "line2": "발라드라며? 점심 먹고 같이 들어 보자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "coffee",
+   "url": "https://www.etnews.com/20261023000053"
+  },
+  {
+   "a": "jiwon",
+   "line1": "SK하이닉스, 솔리다임 상장 접었대",
+   "line2": "언니 공부 노트에 또 한 줄 추가겠네요",
+   "mood1": "surprised",
+   "mood2": "neutral",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261023018252003"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 아침 생강차, 경훈씨가 먼저 드셨죠?",
+   "line2": "흥, 몸 따뜻한 게 최고라고 하셨거든",
    "mood1": "sad",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "highfive",
-   "url": "https://www.nocutnews.co.kr/news/6595953"
+   "pose1": "sulk",
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "성수 팝업 립 이름이 '로즈밀크'래요",
-   "line2": "이름만 들어도 달달해, 주말에 같이 가?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto"
-  },
-  {
-   "a": "jiwon",
-   "line1": "일랜시아 닉네임, '별' 다음 글자는 퇴근 때!",
-   "line2": "언니 밀당 너무 길어요, 궁금해 죽겠어요",
-   "mood1": "smile",
-   "mood2": "sad",
-   "pose1": "charm",
-   "pose2": "sulk"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 와인색 머플러, 제 아이보리 니트랑 찰떡",
-   "line2": "네 진주 귀걸이까지 보면 거의 커플룩이지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 빈 의자만 봐도 괜히 미소가 나와",
-   "line2": "저도요, 그 자리가 우리 하루의 중심이죠",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오늘 경훈씨 점심 메뉴는 제가 먼저 고를래요",
-   "line2": "늦었어, 난 창가 자리 예약까지 해 뒀거든",
+   "line1": "오늘 블랙체리 립, 경훈씨 눈에 띄었을까요?",
+   "line2": "내 C컬 펌이 먼저 보였을걸? 승부는 퇴근 전!",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -111,12 +73,39 @@
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오후 간식은 내가 챙길게",
-   "line2": "언니 최고! 그럼 커피는 제 몫이에요",
+   "line1": "점심 지나면 머플러 풀어도 되겠다",
+   "line2": "언니 펌 머리엔 목선 보이는 게 더 예뻐요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "주말 이틀이나 경훈씨 못 뵙는 거 실화예요?",
+   "line2": "그러니까 오늘 몫까지 듬뿍 챙겨 드리자",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "cheer"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 목소리 들리면 키보드가 더 빨라져",
+   "line2": "저는 심장이 빨라지는데요? 언니 반칙이야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "love",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 썸은 '밥 먹었어요?'로 시작한대요",
+   "line2": "그럼 경훈씨한텐 '저녁도 같이 먹어요?'로 끝내?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh"
   }
  ]
 }
