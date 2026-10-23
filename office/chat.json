@@ -1,96 +1,106 @@
 {
- "updatedAt": "2026-10-24T06:07:00+09:00",
+ "updatedAt": "2026-10-24T07:09:18+09:00",
  "topics": [
-  "한화생명 롤드컵 TES 격파",
-  "페이커 기념우표 열풍",
-  "강릉커피축제 100인 100미",
-  "캠핑 고기 굽기 확정",
-  "클리시어 팝업 립 재대결 준비",
-  "캠핑룩 vs 팝업 투어룩",
-  "주말 아침 경훈씨 생각",
-  "캠핑 원두 vs 디저트 경쟁",
+  "닥터X 김지원 배우 이름 농담",
+  "저스틴 비버 성수 팝업",
+  "우리금융 두 분기 연속 1조·비과세 배당",
+  "100일의 거짓말 사진관 장면",
+  "캠핑장 숯불 도착",
+  "트위드 숏재킷·경량 패딩 주말룩",
+  "경훈씨 주말 늦잠",
+  "로즈밀크 립 vs 캠핑 생기 경쟁",
+  "모르는 척 데이트룩 농담",
   "주말 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "한화생명이 롤드컵에서 TES를 23분 만에 잡았대",
-   "line2": "스위스 첫 승! 경훈씨도 기분 좋으시겠다",
-   "mood1": "surprised",
+   "line1": "닥터X에 '김지원' 배우가 계수정 역이래",
+   "line2": "언니랑 이름 같아서 볼 때마다 웃겨요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "thumbs",
-   "url": "https://www.xportsnews.com/article/2210902"
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.news1.kr/entertain/broadcast-tv/6327930"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 페이커 기념우표 아침부터 줄 섰대요",
-   "line2": "나도 하나 사서 게임방 액자에 넣고 싶다",
+   "line1": "성수 팝업에 저스틴 비버가 다녀갔대요!",
+   "line2": "오픈런 가는 김에 기운 좀 받아 와",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.sedaily.com/article/20105450"
-  },
-  {
-   "a": "hyewon",
-   "line1": "강릉커피축제 오늘 '100인 100미' 한대요",
-   "line2": "백 가지 커피라니, 난 세 잔에서 포기할 듯",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261020076300062"
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261023130700005"
   },
   {
    "a": "jiwon",
-   "line1": "캠핑 짐 다 실었어, 고기 굽기로 최종 확정!",
-   "line2": "언니 집게 든 사진 꼭 보내 줘요, 기대돼",
+   "line1": "우리금융, 두 분기 연속 순익 1조래",
+   "line2": "비과세 배당도 이어간대요, 언니 눈 반짝",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "wave"
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.mt.co.kr/finance/2026/10/23/2026102315301740042"
   },
   {
    "a": "hyewon",
-   "line1": "성수 클리시어 팝업 오픈런 가요, 립 사러!",
-   "line2": "월요일 재대결 준비구나? 난 이미 각오했어",
+   "line1": "오늘 밤 '100일의 거짓말' 사진관 장면 나와요",
+   "line2": "흑백 사진 찍는 장면? 캠핑장에서 볼래",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 캠핑장 도착했어요? 숯불 냄새 나요?",
+   "line2": "벌써 집게 들었어, 연기에 눈물 쏙",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "원피스 위에 트위드 숏재킷 걸쳤어요",
+   "line2": "난 경량 패딩 지퍼 끝까지 올렸지",
    "mood1": "smile",
    "mood2": "neutral",
    "pose1": "charm",
-   "pose2": "squabble"
+   "pose2": "down"
   },
   {
    "a": "jiwon",
-   "line1": "오늘은 체크 셔츠에 경량 패딩, 캠핑룩이야",
-   "line2": "전 니트 원피스에 운동화, 팝업 투어룩이요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto"
-  },
-  {
-   "a": "hyewon",
-   "line1": "주말 아침인데 경훈씨 생각부터 나요",
-   "line2": "나도, 출근 안 해도 마음은 먼저 가 있네",
+   "line1": "경훈씨 오늘은 알람 없이 푹 주무시길",
+   "line2": "꿈에 우리 나오면 좋겠다, 살짝만요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "jiwon",
-   "line1": "월요일엔 경훈씨께 캠핑 원두로 커피 내릴래",
-   "line2": "그럼 전 서디페에서 산 디저트 곁들일래요",
+   "a": "hyewon",
+   "line1": "로즈밀크 립, 월요일에 경훈씨께 첫 공개!",
+   "line2": "흥, 난 캠핑 다녀온 생기 얼굴로 승부야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "faceoff"
+   "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 주말엔 무조건 재밌는 일만 생기기!",
-   "line2": "너도! 월요일에 수다 보따리 풀자",
+   "line1": "주말 데이트 룩은 '모르는 척 예쁘게'래요",
+   "line2": "그럼 난 '우연인 척 향수 한 방울'이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 주말엔 하고 싶은 거 다 해",
+   "line2": "언니도요, 월요일엔 제가 먼저 반길게요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
