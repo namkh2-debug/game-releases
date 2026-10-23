@@ -1,79 +1,60 @@
 {
- "updatedAt": "2026-10-23T18:20:00+09:00",
+ "updatedAt": "2026-10-23T19:12:00+09:00",
  "topics": [
-  "남한산성 가을 페스타 마지막 주말",
-  "전현무계획4 아이브",
-  "백수 이세돌 첫방",
-  "안세영 48연승 4강",
-  "일랜시아 닉네임 공개",
-  "도트 스카프 퇴근룩",
-  "경훈씨 퇴근길 바람",
-  "월요일 커피 취향 경쟁",
-  "엘리베이터 질투",
-  "주말 캠핑 불멍",
-  "한 주 마무리 응원"
+  "나혼렙 어라이즈 2.5주년 고건희",
+  "하리보 푸딩 고스트",
+  "은하수 닉네임 접속",
+  "와인 머플러·도트 스카프 퇴근룩",
+  "경훈씨 따뜻한 저녁",
+  "화분 vs 일정 카드 경쟁",
+  "불멍 고백 농담",
+  "캠핑 감바스",
+  "웃음 스위치 담당",
+  "주말 푹 쉬기"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "이번 주말이 남한산성 가을 페스타 마지막이래요",
-   "line2": "무료라니까 단풍 보러 산성길 걸어 볼까?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.yna.co.kr/view/AKR20260827040000061"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오늘 밤 '전현무계획4'에 가을·리즈 나와요",
-   "line2": "냉면 맛집 간다며? 보다가 배고프겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
    "a": "jiwon",
-   "line1": "'백수 이세돌' 오늘 밤 8시 30분 첫방이래",
-   "line2": "맥주 100잔 완판 도전이라니 응원할래요",
+   "line1": "나혼렙 어라이즈 2.5주년, 고건희 나왔대",
+   "line2": "모집 티켓 500장이라니, 언니 오늘 밤 뽑기각!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "laugh",
+   "url": "https://www.insight.co.kr/news/578925"
+  },
+  {
+   "a": "hyewon",
+   "line1": "하리보 핼러윈 한정 '푸딩 고스트' 나왔대요",
+   "line2": "유령 젤리라니, 무서운데 귀엽겠다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "talkto",
+   "url": "https://www.slist.kr/news/articleView.html?idxno=770199"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘 밤 '은하수'로 접속해요?",
+   "line2": "응, 은하수 이름표 달고 마을 한 바퀴!",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "cheer"
   },
   {
-   "a": "jiwon",
-   "line1": "안세영 48연승, 프랑스오픈 4강 갔대",
-   "line2": "36분 만에 끝냈대요, 진짜 셔틀콕 여제!",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "clap",
-   "url": "https://www.mt.co.kr/sports/2026/10/23/202610231659777917O"
-  },
-  {
    "a": "hyewon",
-   "line1": "언니, 일랜시아 닉네임 이제 공개해요!",
-   "line2": "정답은 '은하수'야, 은하에 흐르니까",
+   "line1": "언니 와인색 머플러, 퇴근길 조명에 더 예뻐요",
+   "line2": "네 도트 스카프랑 나란히 서니 커플룩 같다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "퇴근 전에 도트 스카프 살짝 묶어 봤어요",
-   "line2": "재킷이랑 네이비 톤 맞춰서 세련됐다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
+   "pose2": "look"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 퇴근길 발걸음 가볍길 빌었어",
-   "line2": "저는 주말 내내 웃을 일만 생기시라고요",
+   "line1": "경훈씨 오늘 저녁은 꼭 따뜻한 걸로 드시길",
+   "line2": "제 마음도 같이 포장해서 보내 드리고 싶어요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -81,8 +62,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 제가 경훈씨 커피 취향 맞힐래요",
-   "line2": "흥, 난 벌써 원두 메모해 뒀거든",
+   "line1": "월요일엔 제가 경훈씨 책상에 작은 화분 둘래요",
+   "line2": "흥, 난 손글씨 주간 일정 카드 만들 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -90,29 +71,38 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 아까 경훈씨랑 엘리베이터 같이 탔죠?",
-   "line2": "딱 세 층이었어, 질투는 넣어 둬~",
-   "mood1": "sad",
+   "line1": "언니, 불멍하다가 고백받으면 어떡해요?",
+   "line2": "장작보다 내 볼이 먼저 활활 타겠지",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "charm",
    "pose2": "laugh"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 내일 캠핑 가서 마시멜로 구워요?",
-   "line2": "응, 불멍하면서 한 주 툭 털어 버릴래",
+   "a": "jiwon",
+   "line1": "내일 캠핑 저녁은 감바스로 정했어",
+   "line2": "사진 꼭 보내요, 월요일에 후기 들을래요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "think",
    "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 이번 주도 정말 고생 많았어",
-   "line2": "언니 덕분에 금요일까지 무사히 왔어요",
+   "line1": "경훈씨가 웃으시면 사무실 불이 하나 더 켜져",
+   "line2": "그 스위치 담당은 우리 둘이잖아요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "charm",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 이번 주말엔 걱정 다 내려놓고 쉬어요",
+   "line2": "너도, 월요일에 또 반갑게 만나자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
    "pose2": "highfive"
   }
  ]
