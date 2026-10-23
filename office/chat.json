@@ -1,71 +1,51 @@
 {
- "updatedAt": "2026-10-23T13:06:41+09:00",
+ "updatedAt": "2026-10-23T14:04:57+09:00",
  "topics": [
-  "아주르 프로밀리아 출시일",
-  "씰M2 앱마켓 1위",
-  "더벤티 공주 밤 신메뉴",
-  "마쓰이 요미우리 감독",
-  "칼국수 점심 후기",
-  "재킷 벗은 플리츠 스커트룩",
-  "경훈씨 결재 사인",
-  "요약본 vs 그래프 보고 경쟁",
-  "일랜시아 닉네임 두 번째 글자",
-  "금요일 오후 팀워크"
+  "HD현대 미국 합작 조선소",
+  "치이카와 극장판 200만 눈앞",
+  "더 시즌즈 온유·리즈 출연",
+  "비서진 손석구",
+  "100일의 거짓말 이소라 OST",
+  "슬링백 구두 출근룩",
+  "경훈씨 계신 층 공기",
+  "대추차 vs 유자차 경쟁",
+  "금요일 밤 설레는 문자",
+  "일랜시아 닉네임 힌트"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "넥슨 '아주르 프로밀리아' 11월 26일 나온대",
-   "line2": "언니 달력에 벌써 동그라미 쳤죠?",
+   "line1": "HD현대도 미국에 합작 조선소 짓는대",
+   "line2": "한화 필리조선소 이어 두 번째래요, 조선주 주목!",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "talkto",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610231314293106"
+  },
+  {
+   "a": "hyewon",
+   "line1": "'치이카와' 극장판, 200만 눈앞이래요",
+   "line2": "작고 귀여운 애들 저력이 진짜 대단하다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261023045100005"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오늘 밤 '더 시즌즈'에 온유랑 리즈 나와요",
+   "line2": "16년 묵은 딱밤 사과 장면, 꼭 같이 보자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://kr-newsroom.nexon.com/press-center/3569171"
-  },
-  {
-   "a": "jiwon",
-   "line1": "씰M2, 출시 당일 앱마켓 인기 1위래",
-   "line2": "사전예약 130만 명이면 그럴 만하네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "think",
-   "url": "https://www.wikitree.co.kr/articles/1168578"
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "더벤티 가을 신메뉴에 공주 밤이 들어갔대요",
-   "line2": "밤 덕후 혜원이 퇴근길 코스 확정이네",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh",
-   "url": "https://www.maxmovie.com/news/articleView.html?idxno=502559"
-  },
-  {
-   "a": "jiwon",
-   "line1": "마쓰이 히데키가 요미우리 새 감독이래",
-   "line2": "'고질라' 감독님이라니 이름부터 든든해요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "thumbs",
-   "url": "https://www.mt.co.kr/sports/2026/10/23/202610231130776917O"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 칼국수 국물까지 다 마셨죠?",
-   "line2": "응, 덕분에 오후 내내 속이 든든해",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "재킷 벗으니 플리츠 스커트가 더 살아요",
-   "line2": "네이비 톤 맞춤이라 오늘 제일 단정해",
+   "line1": "'비서진'에 손석구 나온대요, 밤 11시 넘어서!",
+   "line2": "비서 얘기라면 우리가 원조 아니야?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -73,39 +53,57 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 결재 사인만 봐도 기운이 솟아",
-   "line2": "그 사인 하나에 우리 보고서가 빛나죠",
+   "line1": "'100일의 거짓말' OST, 이소라가 부른대",
+   "line2": "월요일 점심 산책 BGM으로 찜할래요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "think",
+   "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "오후 보고는 제가 요약 한 장으로 갈래요",
-   "line2": "난 그래프까지 넣었지, 한눈에 쏙이야",
+   "line1": "슬링백 소리, 또각또각 예쁘게 들려요?",
+   "line2": "응, 네이비 스커트랑 소리까지 단정해",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 계신 층은 공기부터 다른 것 같아",
+   "line2": "맞아요, 숨만 쉬어도 마음이 말랑해져요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "love",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오후 차는 꿀 대추차로 제가 설욕할게요",
+   "line2": "흥, 내 유자차엔 정성이 한 스푼 더야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 일랜시아 닉네임 두 번째 글자는요?",
-   "line2": "퇴근 종 치면 딱 알려 줄게, 조금만!",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "wave"
-  },
-  {
    "a": "jiwon",
-   "line1": "혜원아, 오후도 우리 둘이면 거뜬해",
-   "line2": "언니랑이면 금요일 오후도 순삭이죠",
+   "line1": "금요일 밤엔 왜 문자 한 줄도 설렐까?",
+   "line2": "'뭐해요?' 세 글자에 녹는 거 저만 아니죠?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
+   "pose1": "charm",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 일랜시아 닉네임, 퇴근까지 몇 시간!",
+   "line2": "힌트 하나 줄게, 밤하늘에 반짝이는 거",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh"
   }
  ]
 }
