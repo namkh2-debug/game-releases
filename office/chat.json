@@ -1,60 +1,69 @@
 {
- "updatedAt": "2026-10-23T19:12:00+09:00",
+ "updatedAt": "2026-10-23T20:10:00+09:00",
  "topics": [
-  "나혼렙 어라이즈 2.5주년 고건희",
-  "하리보 푸딩 고스트",
-  "은하수 닉네임 접속",
-  "와인 머플러·도트 스카프 퇴근룩",
-  "경훈씨 따뜻한 저녁",
-  "화분 vs 일정 카드 경쟁",
-  "불멍 고백 농담",
-  "캠핑 감바스",
-  "웃음 스위치 담당",
-  "주말 푹 쉬기"
+  "FF 레조넌스 스팀 출시",
+  "파이널 테이블 첫방",
+  "하나금융 역대 최대 순익",
+  "익산 국화축제 개막",
+  "스카프·머플러 퇴근길룩",
+  "경훈씨 따끈한 저녁",
+  "립 vs 펌 월요일 재대결",
+  "캠핑 마시멜로 별 농담",
+  "금요일 밤 손발 척척"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "나혼렙 어라이즈 2.5주년, 고건희 나왔대",
-   "line2": "모집 티켓 500장이라니, 언니 오늘 밤 뽑기각!",
+   "line1": "FF 레조넌스 스팀판 오늘 나왔어, 한국어 돼",
+   "line2": "도트 그래픽 언니 취향 저격이겠다!",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.insight.co.kr/news/578925"
+   "pose2": "talkto",
+   "url": "https://jp.finalfantasy.com/news/6126"
   },
   {
    "a": "hyewon",
-   "line1": "하리보 핼러윈 한정 '푸딩 고스트' 나왔대요",
-   "line2": "유령 젤리라니, 무서운데 귀엽겠다",
+   "line1": "안효섭 셰프 드라마 '파이널 테이블' 내일 첫방!",
+   "line2": "요리 드라마면 나 캠핑 메뉴 훔쳐 와야지",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "talkto",
-   "url": "https://www.slist.kr/news/articleView.html?idxno=770199"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오늘 밤 '은하수'로 접속해요?",
-   "line2": "응, 은하수 이름표 달고 마을 한 바퀴!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 와인색 머플러, 퇴근길 조명에 더 예뻐요",
-   "line2": "네 도트 스카프랑 나란히 서니 커플룩 같다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose2": "laugh",
+   "url": "https://news.tf.co.kr/read/entertain/2363642.htm"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오늘 저녁은 꼭 따뜻한 걸로 드시길",
-   "line2": "제 마음도 같이 포장해서 보내 드리고 싶어요",
+   "line1": "하나금융, 3분기 누적 순익 역대 최대래",
+   "line2": "언니 배당 공부 또 시작이죠? 노트 펴요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "coffee",
+   "url": "https://www.newsis.com/view/NISX20261023_0003838685"
+  },
+  {
+   "a": "hyewon",
+   "line1": "익산 천만송이 국화축제 오늘 개막했대요",
+   "line2": "국화밭 사진 찍으면 단풍보다 예쁠까?",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "퇴근길엔 스카프를 리본 말고 길게 늘였어요",
+   "line2": "난 머플러 한 바퀴 더 감았지, 밤공기 대비!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "wave"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 오늘 저녁은 따끈한 국물 드셨으면",
+   "line2": "그 생각만 해도 제 마음이 먼저 데워져요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -62,47 +71,29 @@
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 제가 경훈씨 책상에 작은 화분 둘래요",
-   "line2": "흥, 난 손글씨 주간 일정 카드 만들 거야",
+   "line1": "클리시어 새 립, 월요일엔 내가 이긴다 언니",
+   "line2": "난 펌 컬에 광택 에센스 추가할 거야, 흥",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 불멍하다가 고백받으면 어떡해요?",
-   "line2": "장작보다 내 볼이 먼저 활활 타겠지",
+   "a": "jiwon",
+   "line1": "내일 캠핑 가면 마시멜로는 몇 개 구울 거야?",
+   "line2": "별 보면서 손잡을 사람 생기면 무제한이요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose1": "look",
+   "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "내일 캠핑 저녁은 감바스로 정했어",
-   "line2": "사진 꼭 보내요, 월요일에 후기 들을래요",
+   "line1": "이번 주도 우리 손발 척척이었다, 그치?",
+   "line2": "언니랑이라 금요일 밤이 더 개운해요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "coffee"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨가 웃으시면 사무실 불이 하나 더 켜져",
-   "line2": "그 스위치 담당은 우리 둘이잖아요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "heart"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 이번 주말엔 걱정 다 내려놓고 쉬어요",
-   "line2": "너도, 월요일에 또 반갑게 만나자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "highfive",
    "pose2": "highfive"
   }
  ]
