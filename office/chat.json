@@ -1,99 +1,110 @@
 {
- "updatedAt": "2026-10-23T20:10:00+09:00",
+ "updatedAt": "2026-10-23T21:04:32+09:00",
  "topics": [
-  "FF 레조넌스 스팀 출시",
-  "파이널 테이블 첫방",
-  "하나금융 역대 최대 순익",
-  "익산 국화축제 개막",
-  "스카프·머플러 퇴근길룩",
-  "경훈씨 따끈한 저녁",
-  "립 vs 펌 월요일 재대결",
-  "캠핑 마시멜로 별 농담",
-  "금요일 밤 손발 척척"
+  "콜 오브 듀티 MW4 출시",
+  "서울 바비큐 페스티벌 난지캠핑장",
+  "서디페 팝업 수원메쎄",
+  "잠수교 치킨데이",
+  "백수 이세돌 첫방 후기",
+  "스카프·머플러 주말 가방",
+  "경훈씨 없는 주말",
+  "넥타이 립 vs 손수건 경쟁",
+  "문 잡아 드리기 질투",
+  "금요일 밤 푹 자기"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "FF 레조넌스 스팀판 오늘 나왔어, 한국어 돼",
-   "line2": "도트 그래픽 언니 취향 저격이겠다!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "talkto",
-   "url": "https://jp.finalfantasy.com/news/6126"
-  },
-  {
-   "a": "hyewon",
-   "line1": "안효섭 셰프 드라마 '파이널 테이블' 내일 첫방!",
-   "line2": "요리 드라마면 나 캠핑 메뉴 훔쳐 와야지",
+   "line1": "콜 오브 듀티 MW4 오늘 나왔어, 한반도 배경",
+   "line2": "언니 주말 캠핑에 게임기까지 챙기는 거예요?",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://news.tf.co.kr/read/entertain/2363642.htm"
+   "url": "https://www.playstation.com/ko-kr/editorial/this-month-on-playstation/"
   },
   {
    "a": "jiwon",
-   "line1": "하나금융, 3분기 누적 순익 역대 최대래",
-   "line2": "언니 배당 공부 또 시작이죠? 노트 펴요",
-   "mood1": "surprised",
+   "line1": "난지캠핑장 바비큐 축제, 숯불 다 준대",
+   "line2": "내일 감바스 말고 고기 굽기로 바꿔요?",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "coffee",
-   "url": "https://www.newsis.com/view/NISX20261023_0003838685"
+   "pose2": "talkto",
+   "url": "https://seoulzine.com/12678"
   },
   {
    "a": "hyewon",
-   "line1": "익산 천만송이 국화축제 오늘 개막했대요",
-   "line2": "국화밭 사진 찍으면 단풍보다 예쁠까?",
-   "mood1": "smile",
-   "mood2": "neutral",
-   "pose1": "talkto",
-   "pose2": "think"
-  },
-  {
-   "a": "hyewon",
-   "line1": "퇴근길엔 스카프를 리본 말고 길게 늘였어요",
-   "line2": "난 머플러 한 바퀴 더 감았지, 밤공기 대비!",
+   "line1": "서디페 팝업, 내일 수원메쎄에서 열려요",
+   "line2": "디저트 원정이네, 빈손으로 오면 안 된다?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "wave"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 오늘 저녁은 따끈한 국물 드셨으면",
-   "line2": "그 생각만 해도 제 마음이 먼저 데워져요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose2": "thumbs",
+   "url": "https://litt.ly/seouldessertf"
   },
   {
    "a": "hyewon",
-   "line1": "클리시어 새 립, 월요일엔 내가 이긴다 언니",
-   "line2": "난 펌 컬에 광택 에센스 추가할 거야, 흥",
-   "mood1": "smile",
+   "line1": "일요일 잠수교에 400m 치킨 테이블 깔린대요",
+   "line2": "치킨 앞에선 다이어트도 쉬는 날이지",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://mediahub.seoul.go.kr/archives/2019812"
   },
   {
-   "a": "jiwon",
-   "line1": "내일 캠핑 가면 마시멜로는 몇 개 구울 거야?",
-   "line2": "별 보면서 손잡을 사람 생기면 무제한이요",
+   "a": "hyewon",
+   "line1": "'백수 이세돌' 맥주 100잔 다 팔았을까요?",
+   "line2": "그 승부욕이면 101잔째도 팔았을 거야",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "도트 스카프는 풀어서 주말 가방에 넣었어요",
+   "line2": "난 와인색 머플러, 캠핑장까지 데려간다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
+   "pose1": "down",
    "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "이번 주도 우리 손발 척척이었다, 그치?",
-   "line2": "언니랑이라 금요일 밤이 더 개운해요",
+   "line1": "경훈씨 목소리 없는 주말, 벌써 조용하다",
+   "line2": "월요일 아침 인사가 제일 기다려져요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "월요일엔 경훈씨 넥타이 색에 립 맞출래요",
+   "line2": "흥, 난 셔츠 색에 맞춘 손수건 준비할 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 퇴근 때 경훈씨 문 먼저 잡아 드렸죠?",
+   "line2": "반 박자 빨랐을 뿐이야, 삐치지 마~",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "wave"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 오늘 밤은 휴대폰 내려놓고 푹 자",
+   "line2": "언니도요, 내일 캠핑은 힘 남겨 가요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
    "pose2": "highfive"
   }
  ]
