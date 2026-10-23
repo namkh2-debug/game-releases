@@ -1,9 +1,9 @@
 {
  "date": "2026-10-23",
- "updatedAt": "2026-10-23T13:06:02+09:00",
+ "updatedAt": "2026-10-23T14:04:09+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 18.6,
+  "temp": 19,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -14,43 +14,49 @@
  },
  "breaking": [
   {
-   "title": "인천공항서 빵 봉지에 불 지른 남성 붙잡혀, 시민이 소화기로 진화",
-   "url": "https://www.munhwa.com/article/11625828",
-   "source": "문화일보"
+   "title": "오세훈 “1심에서 제출되지 않았던 결정적 증거 제출”",
+   "url": "https://www.hani.co.kr/arti/society/society_general/1283830.html",
+   "source": "한겨레"
   },
   {
-   "title": "“한번이라도 해외거래 하면”…가상자산 보유자 내역·잔액·개인정보 매달 들여다본다",
-   "url": "https://www.dt.co.kr/article/12090844",
-   "source": "디지털타임스"
+   "title": "이 대통령, 최길수 특별감찰관 임명 재가",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693584",
+   "source": "KBS 뉴스"
   },
   {
-   "title": "李대통령 지지율 40% 회복…2030 지지율은 ‘하락’ [한국갤럽]",
-   "url": "https://www.kyeonggi.com/article/20261023580055",
+   "title": "중국인 국내 소유 주택 6만채 넘었다…전체 외국인 보유의 57% 차지",
+   "url": "https://www.kyeonggi.com/article/20261023580129",
    "source": "경기일보"
   },
   {
-   "title": "'흉기난동' 최충락, '경찰 감시' 망상 빠져 범행 결심",
-   "url": "https://www.hankyung.com/article/2026102308477",
-   "source": "한국경제"
+   "title": "‘부캉이’ 있는 북항 앞바다서 기름 유출 사고",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026102313352281518",
+   "source": "부산일보"
   },
   {
-   "title": "이 대통령 “강력범죄에 전쟁 선포 각오로 대응”",
-   "url": "https://www.mk.co.kr/article/12183976",
-   "source": "매일경제"
+   "title": "친할아버지 찔러 살해한 20대 여대생, 징역 5년⋯존속 살해 혐의 미인정",
+   "url": "http://www.inews24.com/view/2018332",
+   "source": "아이뉴스24"
   }
  ],
  "news": [
-  {
-   "title": "시장직·대선출마 걸린 오세훈 2심 선고 오후 2시 생중계",
-   "url": "https://www.yna.co.kr/view/AKR20261022191200004",
-   "source": "연합뉴스",
-   "summary": "오세훈 서울시장 항소심 선고가 오늘 오후 2시 생중계돼 시장직 유지 여부가 갈린다."
-  },
   {
    "title": "[단독] 오세훈표 한강버스만 공익감사 ‘당일 각하’…청구된 910건 중 유일",
    "url": "https://www.hani.co.kr/arti/area/capital/1283770.html",
    "source": "한겨레",
    "summary": "감사원에 청구된 공익감사 910건 중 서울시 한강버스 건만 접수 당일 각하된 것으로 드러났다."
+  },
+  {
+   "title": "하락세 벗어난 이 대통령 지지율…7주 만에 40%대 회복 [갤럽]",
+   "url": "https://www.hani.co.kr/arti/politics/assembly/1283815.html",
+   "source": "한겨레",
+   "summary": "한국갤럽 20~22일 조사에서 이 대통령 직무 긍정률이 40%로 7주 만에 40%대를 회복했다."
+  },
+  {
+   "title": "이 대통령 \"강력범죄와 전쟁 선포\"‥사전 예방 체제로 전환",
+   "url": "https://imnews.imbc.com/news/2026/politics/article/6860169_36911.html",
+   "source": "MBC 뉴스",
+   "summary": "이 대통령이 잇단 강력범죄에 전쟁을 선포하는 각오로 대응하고 사전 예방 체제로 바꾸라고 지시했다."
   },
   {
    "title": "군 “2024년 이후 DMZ 북한 매설 지뢰 96만 발 추정”",
@@ -75,6 +81,12 @@
    "url": "https://www.hani.co.kr/arti/economy/finance/1283786.html",
    "source": "한겨레",
    "summary": "AI 투자 비용 우려가 빅테크로 번지며 코스피가 장중 3% 넘게 빠져 5300선까지 밀렸다."
+  },
+  {
+   "title": "[기업] HD현대, 미국에 합작 조선소 설립...2029년 가동",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610231314293106",
+   "source": "YTN",
+   "summary": "HD현대가 미국 키윗과 합작법인 'HD키윗조선'을 세워 미국에 새 조선소를 짓는다. 2029년 가동 목표."
   },
   {
    "title": "뉴욕증시, AI 불안 재고조에 기술주 급락…나스닥 2.6%↓",
@@ -105,12 +117,6 @@
    "url": "https://news.knn.co.kr/news/article_sns/1841",
    "source": "KNN",
    "summary": "서울 아파트 월세 거래가 사상 처음 전세를 넘어서며 세입자 주거비 부담이 커지고 있다."
-  },
-  {
-   "title": "[단독] “한국인도 내집 없는데”…중국인 소유 주택 1만6550채 늘었다",
-   "url": "https://www.mk.co.kr/news/economy/12183825",
-   "source": "매일경제",
-   "summary": "중국인이 소유한 국내 주택이 3년 새 1만6550채 늘어 6만1439채가 됐다."
   },
   {
    "title": "금감원 \"8월 은행 원화 대출 연체율 0.7% 육박\"",
@@ -213,12 +219,6 @@
    "url": "https://www.dongascience.com/ko/news/80506",
    "source": "동아사이언스",
    "summary": "가축 바이러스 '샤몬다'에 프랑스에서 첫 인체 감염 환자가 숨졌지만 확산 가능성은 낮다고 한다."
-  },
-  {
-   "title": "한국 남자탁구, 5년 만에 아시아선수권 단체전 은메달…중국 우승",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8693433",
-   "source": "KBS 뉴스",
-   "summary": "한국 남자 탁구가 아시아선수권 단체전에서 5년 만에 은메달을 땄고 우승은 중국이 차지했다."
   }
  ]
 }
