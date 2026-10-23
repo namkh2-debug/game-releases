@@ -1,71 +1,97 @@
 {
- "updatedAt": "2026-10-23T11:12:00+09:00",
+ "updatedAt": "2026-10-23T12:15:00+09:00",
  "topics": [
-  "모던 워페어 4 출시",
-  "던전 인 정식 출시",
-  "베이비몬스터 DESERVE",
-  "솔리다임 상장 철회",
-  "생강차 질투",
-  "블랙체리 립 vs C컬 펌 경쟁",
-  "머플러 출근룩",
-  "주말 허전함",
-  "경훈씨 목소리에 설렘",
-  "썸 문자 농담"
+  "칼국수 점심",
+  "디티에스 상장 첫날",
+  "로드나인 하칸 서버",
+  "뤼팽 파트4 공개",
+  "순천만 갈대축제",
+  "재킷 벗은 블라우스룩",
+  "토요일 캠핑 장보기",
+  "경훈씨 점심 걱정",
+  "식후 커피 타는 솜씨 경쟁",
+  "늘 곁에서 응원"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "모던 워페어 4 오늘 0시에 풀렸대",
-   "line2": "언니 점심시간에 한 판만 하고 싶은 눈이에요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://duckcal.net/month/2026-10"
-  },
-  {
-   "a": "jiwon",
-   "line1": "여관 이중 영업 게임 '던전 인' 정식 출시래",
-   "line2": "두 길드 다 손님? 언니 장사 수완이랑 딱이네요",
+   "a": "hyewon",
+   "line1": "언니, 점심은 약속대로 칼국수 가요!",
+   "line2": "좋아, 오늘 같은 날 국물이 딱이지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "thumbs",
-   "url": "https://www.thisisgame.com/articles/431268"
+   "pose1": "talkto",
+   "pose2": "thumbs"
   },
   {
-   "a": "hyewon",
-   "line1": "베이비몬스터 'DESERVE' 오후 1시에 나와요",
-   "line2": "발라드라며? 점심 먹고 같이 들어 보자",
+   "a": "jiwon",
+   "line1": "오늘 상장한 디티에스, 공모가 두 배쯤 갔대",
+   "line2": "언니 청약 안 했죠? 표정에 다 써 있어요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261023046000008"
+  },
+  {
+   "a": "jiwon",
+   "line1": "로드나인 새 서버 '하칸' 저녁 7시에 열린대",
+   "line2": "언니 퇴근하자마자 캐릭터 만들 기세네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "coffee",
-   "url": "https://www.etnews.com/20261023000053"
+   "pose2": "talkto",
+   "url": "https://www.gamemeca.com/news.php?rts="
+  },
+  {
+   "a": "hyewon",
+   "line1": "넷플릭스 '뤼팽' 파트4 오늘 나왔대요",
+   "line2": "주말에 정주행각이다, 간식은 내가 쏠게",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "cheer",
+   "url": "https://seoulmunhwa.com/post/zsbgPcX7"
+  },
+  {
+   "a": "hyewon",
+   "line1": "순천만 갈대축제가 이번 주말에 한대요",
+   "line2": "갈대밭 노을 사진, 생각만 해도 가을이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "점심 지나서 재킷 벗고 블라우스만 입었어요",
+   "line2": "아이보리 블라우스, 네 얼굴이 환해 보여",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "SK하이닉스, 솔리다임 상장 접었대",
-   "line2": "언니 공부 노트에 또 한 줄 추가겠네요",
-   "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261023018252003"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 아침 생강차, 경훈씨가 먼저 드셨죠?",
-   "line2": "흥, 몸 따뜻한 게 최고라고 하셨거든",
-   "mood1": "sad",
+   "line1": "내일 캠핑 장은 오늘 퇴근길에 볼 거야",
+   "line2": "마시멜로 꼭 챙겨요, 저번에 약속했잖아요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "charm"
+   "pose1": "think",
+   "pose2": "talkto"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 점심 제때 드셨는지 자꾸 신경 쓰여",
+   "line2": "저도요. 든든히 드셔야 오후도 거뜬하시죠",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "오늘 블랙체리 립, 경훈씨 눈에 띄었을까요?",
-   "line2": "내 C컬 펌이 먼저 보였을걸? 승부는 퇴근 전!",
+   "line1": "식후 커피는 제가 타 드릴래요, 비율 연구했어요",
+   "line2": "어머, 경훈씨 입맛은 내가 다 꿰고 있거든",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -73,39 +99,12 @@
   },
   {
    "a": "jiwon",
-   "line1": "점심 지나면 머플러 풀어도 되겠다",
-   "line2": "언니 펌 머리엔 목선 보이는 게 더 예뻐요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "hyewon",
-   "line1": "주말 이틀이나 경훈씨 못 뵙는 거 실화예요?",
-   "line2": "그러니까 오늘 몫까지 듬뿍 챙겨 드리자",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "cheer"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 목소리 들리면 키보드가 더 빨라져",
-   "line2": "저는 심장이 빨라지는데요? 언니 반칙이야",
+   "line1": "경훈씨가 웃으시면 우리 하루도 같이 맑아져",
+   "line2": "그러니까 언제나 옆에서 힘이 돼 드리자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "love",
-   "pose2": "heart"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 썸은 '밥 먹었어요?'로 시작한대요",
-   "line2": "그럼 경훈씨한텐 '저녁도 같이 먹어요?'로 끝내?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
+   "pose2": "highfive"
   }
  ]
 }
