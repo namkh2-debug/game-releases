@@ -1,9 +1,9 @@
 {
  "date": "2026-10-23",
- "updatedAt": "2026-10-23T19:10:00+09:00",
+ "updatedAt": "2026-10-23T20:10:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 16.8,
+  "temp": 15.3,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -14,14 +14,14 @@
  },
  "breaking": [
   {
-   "title": "이스라엘, 군에 요르단강 서안 전면 봉쇄 지시",
-   "url": "https://www.newsis.com/view/NISX20261023_0003839078",
+   "title": "시위 계속 파리에서 총격으로 2명 부상…프랑스 언론",
+   "url": "https://www.newsis.com/view/NISX20261023_0003839246",
    "source": "뉴시스"
   },
   {
-   "title": "경기 버스노조 파업 찬반 투표 가결...합의 안 되면 30일 총파업",
-   "url": "https://www.ytn.co.kr/_ln/0115_202610231623197467",
-   "source": "YTN"
+   "title": "이스라엘, 군에 요르단강 서안 전면 봉쇄 지시",
+   "url": "https://www.newsis.com/view/NISX20261023_0003839078",
+   "source": "뉴시스"
   }
  ],
  "news": [
