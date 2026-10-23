@@ -1,105 +1,96 @@
 {
- "updatedAt": "2026-10-23T23:12:00+09:00",
+ "updatedAt": "2026-10-24T06:07:00+09:00",
  "topics": [
-  "손석구 비서진 출연",
-  "장민호 400m 세계신기록",
-  "원주만두축제 개막",
-  "남한산성 가을 페스타",
-  "잠옷·후드티 금요일 밤",
-  "경훈씨 소파 휴식",
-  "노래 vs 블라인드 경쟁",
-  "수고했어 질투",
-  "금요일 밤 밀당 농담",
-  "꿀잠 응원"
+  "한화생명 롤드컵 TES 격파",
+  "페이커 기념우표 열풍",
+  "강릉커피축제 100인 100미",
+  "캠핑 고기 굽기 확정",
+  "클리시어 팝업 립 재대결 준비",
+  "캠핑룩 vs 팝업 투어룩",
+  "주말 아침 경훈씨 생각",
+  "캠핑 원두 vs 디저트 경쟁",
+  "주말 응원"
  ],
  "exchanges": [
   {
+   "a": "jiwon",
+   "line1": "한화생명이 롤드컵에서 TES를 23분 만에 잡았대",
+   "line2": "스위스 첫 승! 경훈씨도 기분 좋으시겠다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "thumbs",
+   "url": "https://www.xportsnews.com/article/2210902"
+  },
+  {
    "a": "hyewon",
-   "line1": "손석구가 지금 '비서진'에 나온대요, 11시 10분!",
-   "line2": "비서 얘기면 우리가 원조인데 말이지",
+   "line1": "언니, 페이커 기념우표 아침부터 줄 섰대요",
+   "line2": "나도 하나 사서 게임방 액자에 넣고 싶다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.sedaily.com/article/20105450"
+  },
+  {
+   "a": "hyewon",
+   "line1": "강릉커피축제 오늘 '100인 100미' 한대요",
+   "line2": "백 가지 커피라니, 난 세 잔에서 포기할 듯",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "장민호 선수, 400m 세계신기록 세웠대",
-   "line2": "16년 만이래요, 듣다가 울컥했어요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "cheer",
-   "url": "https://www.yna.co.kr/view/AKR20261023179100007"
-  },
-  {
-   "a": "jiwon",
-   "line1": "원주만두축제 첫날부터 인산인해였대",
-   "line2": "언니 캠핑 메뉴에 만두 추가각이네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "coffee",
    "pose2": "laugh",
-   "url": "https://www.newsis.com/view/NISX20261023_0003839331"
-  },
-  {
-   "a": "hyewon",
-   "line1": "남한산성 가을 페스타, 일요일까지래요",
-   "line2": "캠핑 다녀와서 산성길 단풍 보러 갈까",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "think"
-  },
-  {
-   "a": "hyewon",
-   "line1": "스카프 풀고 극세사 잠옷으로 갈아입었어요",
-   "line2": "난 캠핑 짐 싸느라 아직 후드티 차림이야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "laugh"
+   "url": "https://www.yna.co.kr/view/AKR20261020076300062"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 지금쯤 소파에서 쉬고 계시려나",
-   "line2": "꿈에서 뵈면 제가 먼저 손 흔들래요",
+   "line1": "캠핑 짐 다 실었어, 고기 굽기로 최종 확정!",
+   "line2": "언니 집게 든 사진 꼭 보내 줘요, 기대돼",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "thumbs",
    "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 경훈씨 좋아하실 노래 틀어 둘래요",
-   "line2": "그럼 난 아침 햇살 들게 블라인드 담당!",
+   "line1": "성수 클리시어 팝업 오픈런 가요, 립 사러!",
+   "line2": "월요일 재대결 준비구나? 난 이미 각오했어",
    "mood1": "smile",
-   "mood2": "smile",
+   "mood2": "neutral",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 아까 경훈씨가 너한테만 수고했대?",
-   "line2": "언니 몫까지 제가 대신 받아 둔 거예요~",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "금요일 밤엔 왜 문자 하나도 설렐까",
-   "line2": "답장은 3분 뒤에, 그게 밀당이래요 언니",
+   "line1": "오늘은 체크 셔츠에 경량 패딩, 캠핑룩이야",
+   "line2": "전 니트 원피스에 운동화, 팝업 투어룩이요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh"
+   "pose1": "charm",
+   "pose2": "talkto"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 오늘도 고생한 우리 꿀잠 자요",
-   "line2": "응, 꿈에서도 서로 응원단 해 주자",
+   "line1": "주말 아침인데 경훈씨 생각부터 나요",
+   "line2": "나도, 출근 안 해도 마음은 먼저 가 있네",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "jiwon",
+   "line1": "월요일엔 경훈씨께 캠핑 원두로 커피 내릴래",
+   "line2": "그럼 전 서디페에서 산 디저트 곁들일래요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 주말엔 무조건 재밌는 일만 생기기!",
+   "line2": "너도! 월요일에 수다 보따리 풀자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
