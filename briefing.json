@@ -1,9 +1,9 @@
 {
  "date": "2026-10-23",
- "updatedAt": "2026-10-23T10:08:00+09:00",
+ "updatedAt": "2026-10-23T11:10:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 12.7,
+  "temp": 15.0,
   "low": 3,
   "high": 17,
   "condition": "맑음",
@@ -14,6 +14,16 @@
  },
  "breaking": [
   {
+   "title": "SK하이닉스 \"美 솔리다임 상장 철회... 자본시장 여건 고려\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023074712W4x",
+   "source": "연합뉴스TV"
+  },
+  {
+   "title": "코스피, 5400선 하회… 장 초반 2%대↓",
+   "url": "https://www.mt.co.kr/stock/2026/10/23/2026102309015915818",
+   "source": "머니투데이"
+  },
+  {
    "title": "코스피 5400선 붕괴…장 초반 3% 넘게 하락",
    "url": "https://www.nocutnews.co.kr/news/6595953",
    "source": "노컷뉴스"
@@ -22,21 +32,6 @@
    "title": "김민석 “서울시장 보선 마음의 준비 중…오세훈 ‘유죄’ 무게”",
    "url": "https://www.kyeonggi.com/article/20261023580023",
    "source": "경기일보"
-  },
-  {
-   "title": "SK하이닉스 \"美 솔리다임 상장 철회... 자본시장 여건 고려\"",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023074712W4x",
-   "source": "연합뉴스TV"
-  },
-  {
-   "title": "은행 대출 연체율 10여년 만에 최고",
-   "url": "https://magazine.hankyung.com/business/article/202610230142b",
-   "source": "한경매거진"
-  },
-  {
-   "title": "“美, 내달 3일부터 국제선 입국자 전원에 에볼라 증명서 요구”",
-   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261023.99099006739",
-   "source": "국제신문"
   }
  ],
  "news": [
@@ -173,10 +168,10 @@
    "summary": "12월부터 민간 앱에서 지방세 환급금을 조회하고 바로 청구할 수 있게 된다."
   },
   {
-   "title": "폭력사태에 놀란 프랑스, 집회 제한…시위대 \"수용 못해\"(종합2보)",
-   "url": "https://www.yna.co.kr/view/AKR20261022189352085",
-   "source": "연합뉴스",
-   "summary": "폭력 사태가 잇따르자 프랑스 정부가 집회를 제한했고 시위대는 반발하고 있다."
+   "title": "'층간소음' 이웃 살해 양민준, 항소심도 징역 25년",
+   "url": "https://www.donga.com/news/Society/article/all/20261023/134895219/1",
+   "source": "동아일보",
+   "summary": "대전고법이 피고인과 검찰 항소를 모두 기각하고 1심 징역 25년과 전자발찌 10년을 유지했다."
   },
   {
    "title": "시위 예고에 루브르 24일 휴관…상점들도 약탈 대비 '무장'",
