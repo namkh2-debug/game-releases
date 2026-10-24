@@ -1,70 +1,81 @@
 {
- "updatedAt": "2026-10-24T09:10:00+09:00",
+ "updatedAt": "2026-10-24T10:12:00+09:00",
  "topics": [
-  "백수 이세돌 첫방 맥주 86잔",
-  "한화 마무리캠프 아침 7시",
-  "박보검 미용사 자격증·매직컬2",
-  "지구마불 시즌4 화제성 3위",
-  "숯불 패딩·트위드 재킷 주말룩",
-  "고기 굽다 경훈씨 생각",
-  "일정표 스티커 vs 마시멜로 경쟁",
-  "별 사진·립 발색샷 교환",
-  "잘 웃고 다니기"
+  "니케 4주년 방송",
+  "닥터X 19% 돌파",
+  "블루 아카이브 5주년 페스티벌",
+  "아이폰 듀오 품귀",
+  "사오리 비단실 몽블랑 팝업",
+  "골드 체인 팔찌·숯불 주말룩",
+  "주말 경훈씨 일정표에 안심",
+  "살구 티 라떼 vs 새 향수 경쟁",
+  "'조심히 들어가' 질투",
+  "별 보며 빈 소원 설렘",
+  "느긋한 토요일"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "이세돌 첫방, 맥주 86잔이나 팔았대요!",
-   "line2": "100잔은 못 채웠어도 대단하다 진짜",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "clap",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610240035"
-  },
-  {
    "a": "jiwon",
-   "line1": "한화 마무리캠프, 아침 7시에 시작이래",
-   "line2": "좋은 습관부터래요, 내년이 기대돼요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "cheer",
-   "url": "https://sports.khan.co.kr/article/202610240611003/amp"
-  },
-  {
-   "a": "hyewon",
-   "line1": "박보검, 재도전 끝에 미용사 자격증 땄대요",
-   "line2": "'보검 매직컬2' 11월이지? 머리 맡기고파",
-   "mood1": "surprised",
+   "line1": "니케 4주년 방송, 오늘 저녁 7시래",
+   "line2": "언니 캠핑장에서도 그거 챙겨 볼 거죠?",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.sportsworldi.com/newsView/20261024500787"
+   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61695"
+  },
+  {
+   "a": "hyewon",
+   "line1": "닥터X 시청률 19% 뚫었대요!",
+   "line2": "와, 다음 회 응징 장면 벌써 궁금해",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "think",
+   "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/HA3TIMZVGQ3GCZRQGM3TCMJQMQ/"
   },
   {
    "a": "jiwon",
-   "line1": "'지구마불' 시즌4가 화제성 3위래",
-   "line2": "식상할 줄 알았는데 또 보게 되네요",
+   "line1": "블루 아카이브 5주년 축제, 11월 킨텍스래",
+   "line2": "언니 또 굿즈 양손 가득 들고 오겠네요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.tenasia.co.kr/article/2026102303794"
+   "pose1": "thumbs",
+   "pose2": "laugh",
+   "url": "https://www.inews24.com/list/020500"
   },
   {
-   "a": "jiwon",
-   "line1": "숯불 냄새 밸까 봐 패딩 뒤집어 입었어",
-   "line2": "전 트위드 재킷에 플랫슈즈로 걸어요",
+   "a": "hyewon",
+   "line1": "아이폰 듀오, 세계 곳곳에서 품귀래요",
+   "line2": "접는 아이폰이라니 나도 살짝 탐나",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261024007600075"
+  },
+  {
+   "a": "hyewon",
+   "line1": "11월 10일부터 스위트파크에 몽블랑 팝업!",
+   "line2": "밤 무스 1mm 그거? 그건 같이 가자",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "새 골드 체인 팔찌, 데님이랑 찰떡이죠?",
+   "line2": "예쁘다~ 난 숯불 연기 향수 뿌린 셈이야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "laugh",
-   "pose2": "charm"
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "고기 굽다가 경훈씨 몫 한 점 떠올렸어",
-   "line2": "언니도요? 맛있는 거 보면 저도 생각나요",
+   "a": "hyewon",
+   "line1": "주말엔 경훈씨 일정표만 봐도 마음이 놓여요",
+   "line2": "나도. 이번 주 잘 버텨 주셔서 고마워",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -72,8 +83,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "월요일 일정표, 스티커로 예쁘게 꾸밀래요",
-   "line2": "난 마시멜로 구워서 예쁘게 포장해 갈걸?",
+   "line1": "월요일엔 살구 티 라떼로 칭찬 받을래요",
+   "line2": "흥, 난 새 향수 뿌리고 첫 결재 받으러 간다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -81,21 +92,30 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 저녁엔 별 사진 꼭 보내줘요",
-   "line2": "응, 대신 팝업 립 발색샷이랑 교환이다",
-   "mood1": "smile",
+   "line1": "금요일에 언니만 '조심히 들어가' 들었죠?",
+   "line2": "짐이 많아서 그런 거야, 삐지지 마~",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs"
+   "pose1": "sulk",
+   "pose2": "highfive"
   },
   {
    "a": "jiwon",
-   "line1": "오늘도 우리 둘 다 잘 웃고 다니자",
-   "line2": "언니 웃는 거 보면 저도 기분 좋아져요",
+   "line1": "어젯밤 별 보면서 소원 하나 빌었어",
+   "line2": "언니 얼굴 빨개졌다! 누구 생각했어요?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "남은 토요일은 천천히, 느긋하게 보내자",
+   "line2": "네, 월요일에 웃으면서 만나요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
