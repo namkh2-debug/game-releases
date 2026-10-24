@@ -1,100 +1,79 @@
 {
-  "updatedAt": "2026-10-24T22:18:00+09:00",
+  "updatedAt": "2026-10-24T23:15:00+09:00",
   "topics": [
-    "한화 김광삼·진종길 코치 영입",
-    "정은원 '마지막 기회' 각오",
-    "파이널판타지 레조넌스 HD-2D 출시",
-    "서울아프리카페스티벌 커피 세리머니",
-    "스벅 카스텔라 고구마 라떼",
-    "파이널 테이블 첫방 직전 어묵탕",
-    "흰 티·데님 퇴근룩",
-    "경훈씨 하루 끝 별 하나",
-    "일요일 아침 안부 문자 경쟁",
-    "굿나잇 인사"
+    "페이커 우표 9시간 대기",
+    "아이폰 듀오 힌지 균열",
+    "길고양이 라떼 응원 영수증",
+    "파이널 테이블 첫방 야식",
+    "흰 티·회색 집업 밤 사무실 룩",
+    "경훈씨 생각에 따뜻한 토요일 밤",
+    "월요일 엘리베이터 인사 vs 노래 경쟁",
+    "이모티콘·사진 칭찬 질투",
+    "드라마 키스신 설렘 농담",
+    "자기 전 따뜻한 물 한 잔"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "한화, 김광삼·진종길 코치 새로 모셨대",
-      "line2": "투수랑 수비 보강이네요, 내년 기대돼요!",
+      "line1": "페이커 우표 받으려고 9시간 줄 선 아빠도 있대",
+      "line2": "아들 주려고였대요? 그 마음이 더 감동이에요",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "cheer",
-      "url": "https://www.sportsseoul.com/news/read/1643570"
+      "pose2": "heart",
+      "url": "https://www.hankyung.com/article/202610231047H"
     },
     {
-      "a": "hyewon",
-      "line1": "정은원이 '마지막 기회'라며 준비한대요",
-      "line2": "그 각오면 2루 다시 날아오를 거야",
+      "a": "jiwon",
+      "line1": "아이폰 듀오, 힌지 쪽 화면 균열 얘기 나오네",
+      "line2": "폴더블 첫 작이라 그런가, 좀 아쉽네요",
       "mood1": "neutral",
-      "mood2": "smile",
+      "mood2": "sad",
       "pose1": "think",
-      "pose2": "thumbs",
-      "url": "https://www.mt.co.kr/sports/2026/10/24/202610240850779805O"
-    },
-    {
-      "a": "jiwon",
-      "line1": "파판 레조넌스, 이번 주 HD-2D로 나왔대",
-      "line2": "도트 감성 RPG? 언니 일요일 순삭이다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "laugh",
-      "url": "https://brightdays.jp/archives/22176"
+      "pose2": "think",
+      "url": "https://zdnet.co.kr/view/?no=20261024071502"
     },
     {
       "a": "hyewon",
-      "line1": "반포 아프리카 축제, 커피 세리머니도 했대요",
-      "line2": "에티오피아 커피 원조잖아, 향 궁금하다",
+      "line1": "길고양이 라떼 고쳐 준 카페에 응원 주문이 왔대요",
+      "line2": "만들지 말라는 영수증이라니, 마음이 찡하다",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "coffee",
-      "url": "https://www.yna.co.kr/view/AKR20261023156451371"
+      "pose2": "heart",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261023093633v1n"
     },
     {
       "a": "hyewon",
-      "line1": "스벅 카스텔라 고구마 라떼 마셔 봤어요?",
-      "line2": "이름부터 간식이네, 다음에 같이 가자",
+      "line1": "언니, 파이널 테이블 시작부터 배고파요",
+      "line2": "그래서 어묵탕 한 그릇 더 퍼 놨지",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "coffee"
+    },
+    {
+      "a": "hyewon",
+      "line1": "흰 티 위에 회색 집업 하나 걸쳤어요, 포근하죠",
+      "line2": "데님이랑 딱이네, 밤 사무실 룩으로 합격",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
-      "pose2": "look",
-      "url": "https://v.daum.net/v/20261006110110775"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 파이널 테이블 곧 시작해요!",
-      "line2": "어묵탕 다시 데웠어, 숟가락만 들고 와",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "laugh",
-      "url": "https://www.mk.co.kr/news/broadcasting-service/12184816"
-    },
-    {
-      "a": "jiwon",
-      "line1": "재킷 걸어 두고 흰 티에 데님만, 편하다",
-      "line2": "언니 퇴근룩이 출근룩보다 더 예뻐요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "down",
       "pose2": "thumbs"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 하루 끝에 별 하나 달아 드리고파",
-      "line2": "제일 반짝이는 걸로요, 경훈씨 닮게",
+      "line1": "경훈씨 이름만 떠올려도 토요일 밤이 따뜻해",
+      "line2": "맞아요, 그 생각 하나로 마음이 꽉 차요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
+      "pose1": "love",
+      "pose2": "heart"
     },
     {
       "a": "hyewon",
-      "line1": "내일 아침 안부 문자, 제가 1등 할 거예요",
-      "line2": "흥, 난 손그림 이모티콘으로 승부한다",
+      "line1": "월요일 아침, 엘리베이터 앞에서 제가 먼저 기다릴래요",
+      "line2": "흥, 난 경훈씨 좋아하는 노래 미리 틀어 둘 거야",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -102,12 +81,30 @@
     },
     {
       "a": "jiwon",
-      "line1": "졸리면 먼저 들어가, 불은 내가 끌게",
-      "line2": "굿나잇 인사는 언니랑 같이 할래요",
+      "line1": "아까 경훈씨가 네 이모티콘 따라 쓰시더라?",
+      "line2": "언니 사진엔 '잘 나왔네' 하셨잖아요, 피장파장",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "laugh"
+    },
+    {
+      "a": "hyewon",
+      "line1": "드라마 키스신 나오면 왜 저까지 숨 참죠?",
+      "line2": "심장이 대본을 먼저 읽어서 그래, 들켰네",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "charm"
+    },
+    {
+      "a": "jiwon",
+      "line1": "늦었으니 따뜻한 물 한 잔 마시고 자자",
+      "line2": "언니가 챙겨 주니까 잠이 솔솔 와요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "highfive"
+      "pose1": "look",
+      "pose2": "look"
     }
   ]
 }
