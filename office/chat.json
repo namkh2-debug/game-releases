@@ -1,89 +1,81 @@
 {
- "updatedAt": "2026-10-25T07:20:00+09:00",
+ "updatedAt": "2026-10-25T08:10:00+09:00",
  "topics": [
-  "김태균 유소년 캠프 4회째 커피차",
-  "아스트로니어 개발사 해고",
-  "더 커뮤니티2 도청 반응",
-  "삼립-제스티살룬 협업 버거",
-  "청송 주산지 단풍 절정",
-  "시미즈 안무 연습 이어가기",
-  "일요일 셔츠·니트 원피스 투샷",
-  "경훈씨 웃는 얼굴 떠올리기",
-  "얼그레이 로즈 립 vs 새 향수 재대결",
-  "늦잠 깨워 줄 사람 설렘 농담"
+  "한화 교육리그 지바롯데전 0-7",
+  "콜 오브 듀티 MW4 출시",
+  "스위치2 스포츠 리조트 우후섬",
+  "성수 라 바닐 첫 팝업",
+  "성수 빵력장터 30일 오픈",
+  "일요일 니트 원피스·셔츠 조거룩",
+  "경훈씨 쉬는 날 몽글한 마음",
+  "월요일 꽃 vs 손글씨 메모 경쟁",
+  "파이널 테이블 1화 후기 이어가기",
+  "수다 타임 커피 한 잔 더"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "김태균 유소년 캠프, 벌써 4회째래",
-   "line2": "커피차까지 보냈대요? 레전드는 다르네",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "clap",
-   "url": "https://www.chosun.com/sports/baseball/2026/10/25/GRTGEYRZGQ3TINBRGNRTSZDCHE/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "아스트로니어 개발사, 30명 넘게 해고래",
-   "line2": "신작 부진 때문이래요? 마음 아프네요",
+   "line1": "한화, 교육리그서 지바롯데에 0-7 졌대",
+   "line2": "2안타라니 아쉽다, 26일 오릭스전은 꼭!",
    "mood1": "sad",
    "mood2": "sad",
    "pose1": "think",
-   "pose2": "none",
-   "url": "https://www.inven.co.kr/webzine/news/?news=322540"
+   "pose2": "cheer",
+   "url": "https://www.xportsnews.com/article/2211045"
   },
   {
-   "a": "hyewon",
-   "line1": "더 커뮤니티2, '도청까지?' 반응이래요",
-   "line2": "마이야르·동키 조합이면 나도 볼래",
+   "a": "jiwon",
+   "line1": "콜 오브 듀티 MW4, 한반도가 배경이래",
+   "line2": "23일 나왔죠? 캠페인 스케일 궁금해요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.nocutnews.co.kr/news/6596490"
+   "pose2": "think",
+   "url": "https://news.instant-gaming.com/en/articles/22528-this-week-s-releases-from-october-19-to-25-2026"
   },
   {
    "a": "hyewon",
-   "line1": "삼립이 제스티살룬이랑 버거 냈대요",
-   "line2": "언니 다음 캠핑 메뉴 후보로 찜!",
+   "line1": "스위치2 스포츠 리조트 나왔대요, 우후섬!",
+   "line2": "양궁·자전거도 된대, 주말 내기 한판?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/amp/view/AKR20261023160000030"
+   "url": "https://news.instant-gaming.com/en/articles/22528-this-week-s-releases-from-october-19-to-25-2026"
   },
   {
    "a": "hyewon",
-   "line1": "청송 주산지, 이번 주말 단풍 절정이래요",
-   "line2": "물에 비친 단풍, 사진만 봐도 힐링이다",
+   "line1": "성수 라 바닐 첫 팝업, 27일까지래요",
+   "line2": "이름부터 향긋하다, 퇴근길에 들를까",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원아, 시미즈 안무 연습은 좀 했어?",
-   "line2": "거울 앞에서 열 번! 월요일 기대하세요",
-   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "cheer"
-  },
-  {
-   "a": "jiwon",
-   "line1": "셔츠 소매 걷으니 일요일 기분 제대로야",
-   "line2": "니트 원피스랑 둘이 딱 주말 투샷이네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "look"
+   "pose2": "look",
+   "url": "https://spotts.kr/f/popup-2026-la-vanille-seongsu"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 웃는 얼굴 떠올리면 일요일도 반짝",
-   "line2": "그 미소 내일 보려고 오늘 푹 쉬자",
+   "line1": "30일부터 성수에 빵력장터 열린대요",
+   "line2": "빵 세계라니, 빈 가방 챙겨 가자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://now.nemoneai.com/posts/13458"
+  },
+  {
+   "a": "hyewon",
+   "line1": "니트 원피스에 운동화, 오늘 종일 편해요",
+   "line2": "난 셔츠에 조거, 일요일엔 이게 정답",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 쉬는 날엔 마음이 괜히 몽글해",
+   "line2": "편히 쉬시게 우리 멀리서 응원해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -91,8 +83,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 얼그레이 로즈 립으로 갈 거예요",
-   "line2": "흥, 난 새 향수 한 방울이면 끝이야",
+   "line1": "월요일 경훈씨 책상 꽃은 제가 꽂을래요",
+   "line2": "흥, 난 손글씨 메모로 아침 열어 드린다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -100,12 +92,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "늦잠 자는데 누가 깨워 주면 좋겠다",
-   "line2": "언니, 그 '누가'가 누군지 다 알아요~",
+   "line1": "혜원아, 파이널 테이블 1화 어땠어?",
+   "line2": "멧돼지 요리 장면에서 배고파 혼났어요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니랑 수다 떨면 시간이 금방 가요",
+   "line2": "나도 그래, 커피 한 잔 더 내릴까?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
