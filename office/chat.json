@@ -1,61 +1,71 @@
 {
-  "updatedAt": "2026-10-24T20:05:00+09:00",
+  "updatedAt": "2026-10-24T21:07:54+09:00",
   "topics": [
-    "슈퍼 마리오 아버지 日 문화훈장",
-    "안세영 프랑스오픈 결승",
-    "김우빈♥신민아 유퀴즈",
-    "파이널 테이블 첫방 야식 어묵탕",
-    "트위드 재킷 소매·코랄 틴트",
-    "경훈씨 무탈한 하루 바람",
-    "생강차 티백 vs 꿀 생강청 경쟁",
-    "문자 하트 질투",
-    "주말 고민도 휴식",
-    "토닥토닥 수고 인사"
+    "아주르 프로밀리아 11월 26일 국내 출시",
+    "한화 교육리그 지바롯데전 0-7",
+    "지구마불 세계여행4 넷플 예능 1위",
+    "외국인 필라테스 예약 3배",
+    "은행잎 절정 노란 니트 승부",
+    "리본핀 풀고 퇴근 모드 머리",
+    "경훈씨 푹 주무시길·자장가",
+    "월요일 첫 결재 vs 좋아하는 색 표지 경쟁",
+    "불토 설렘 농담",
+    "서로 챙겨 줘서 고마운 마음"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "'슈퍼 마리오 아버지', 日 문화훈장 받는대",
-      "line2": "게임 분야는 처음이래요? 멋지다!",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "talkto",
-      "pose2": "clap",
-      "url": "https://www.yna.co.kr/view/AKR20261024023500073"
-    },
-    {
-      "a": "hyewon",
-      "line1": "안세영, 오쿠하라 꺾고 프랑스오픈 결승!",
-      "line2": "역시 셔틀콕 여제, 결승도 화이팅",
+      "line1": "넥슨 '아주르 프로밀리아', 11월 26일 국내 출시래",
+      "line2": "판타지 RPG요? 언니 11월 말 또 바쁘겠다",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "cheer",
-      "url": "https://www.olympics.com/ko/news/badminton-an-seyoung-reaches-final-france-open-2026"
-    },
-    {
-      "a": "hyewon",
-      "line1": "김우빈은 신민아한테 늘 '제일 예뻐'래요",
-      "line2": "10년 연애하고도 그렇다니 부럽다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "look",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/MFTDIZBRGMZGGMTEGAYDQOJQMI/"
+      "pose2": "laugh",
+      "url": "https://en.sedaily.com/technology/2026/10/24/nexons-fantasy-rpg-azur-promilia-to-launch-in-korea-on-nov"
     },
     {
       "a": "jiwon",
-      "line1": "파이널 테이블 첫방, 세 시간도 안 남았네",
-      "line2": "야식은 언니 캠핑 어묵탕 남은 걸로요!",
-      "mood1": "smile",
+      "line1": "한화, 교육리그서 지바롯데에 0-7로 졌대",
+      "line2": "캠프 숙제 생긴 거죠, 다음엔 꼭 이겨요!",
+      "mood1": "sad",
       "mood2": "smile",
       "pose1": "think",
-      "pose2": "laugh"
+      "pose2": "cheer",
+      "url": "https://biz.chosun.com/sports/baseball/2026/10/24/GVRTOZBZGJRGEZTDGYZTIZJWGE/"
     },
     {
       "a": "hyewon",
-      "line1": "재킷 소매 살짝 걷으니 데님이랑 경쾌하죠?",
-      "line2": "응, 코랄 틴트랑 어울려서 생기 있어",
+      "line1": "지구마불 시즌4, 첫 방부터 넷플 예능 1위래요",
+      "line2": "빠니보틀 여행이면 나도 보고 싶어지네",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "thumbs",
+      "url": "https://www.diarypoint.com/news/articleView.html?idxno=6443"
+    },
+    {
+      "a": "hyewon",
+      "line1": "외국인 필라테스 예약이 1~9월 3배 늘었대요",
+      "line2": "우리 혜원이 필라테스도 한류였네 ㅎㅎ",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "laugh",
+      "url": "https://www.etnews.com/20261012000010"
+    },
+    {
+      "a": "hyewon",
+      "line1": "은행잎 절정이 30일쯤이래요, 노란 니트 각!",
+      "line2": "그 니트 승부 얘기 아직 유효한 거지?",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "look"
+    },
+    {
+      "a": "hyewon",
+      "line1": "리본핀 풀고 머리 내렸어요, 퇴근 모드!",
+      "line2": "트위드 재킷엔 풀린 머리도 잘 어울린다",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -63,8 +73,8 @@
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 오늘 하루 무탈하셨길 바라",
-      "line2": "그 마음 전해졌을 거예요, 분명히",
+      "line1": "경훈씨 오늘 밤은 깊이 푹 주무시면 좋겠다",
+      "line2": "꿈에서라도 웃으시게 자장가 불러 드리고파",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
@@ -72,39 +82,30 @@
     },
     {
       "a": "hyewon",
-      "line1": "생강차 티백 한 상자, 제가 먼저 챙겨요",
-      "line2": "흥, 난 꿀 생강청 직접 담가 갈 거야",
+      "line1": "월요일 첫 결재는 제가 1등으로 올릴래요",
+      "line2": "흥, 난 표지를 경훈씨 좋아하는 색으로 한다",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "squabble"
     },
     {
-      "a": "jiwon",
-      "line1": "경훈씨가 아까 네 문자에만 하트 누르셨지?",
-      "line2": "언니 건 읽자마자 답장하셨잖아요~",
-      "mood1": "sad",
+      "a": "hyewon",
+      "line1": "언니, 토요일 밤은 왜 괜히 설레요?",
+      "line2": "불토잖아, 심장도 주말 특근 중인 거지",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "sulk",
+      "pose1": "talkto",
       "pose2": "laugh"
     },
     {
       "a": "jiwon",
-      "line1": "주말 뭐 할지 고민만 하다 하루 갔네",
-      "line2": "고민하는 시간도 휴식이죠, 언니",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "talkto"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 오늘 수고 많았어요, 토닥토닥",
-      "line2": "너도, 네 웃음 덕에 하루가 가볍더라",
+      "line1": "오늘도 서로 챙겨 줘서 고마워, 혜원아",
+      "line2": "언니랑 일하는 게 제일 큰 복지예요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "thumbs"
+      "pose1": "coffee",
+      "pose2": "highfive"
     }
   ]
 }
