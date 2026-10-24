@@ -1,112 +1,111 @@
 {
- "updatedAt": "2026-10-24T12:11:20+09:00",
+ "updatedAt": "2026-10-24T13:05:27+09:00",
  "topics": [
-  "미야모토 시게루 日 문화훈장",
-  "한화 정은원 부활 기대",
-  "떡 디저트 열풍",
-  "크라임씬 제로 시즌2",
-  "만보 걷기 꼭 아니어도",
-  "트위드 재킷·골드 팔찌 vs 숯불 패딩",
-  "경훈씨 미소가 주말 활력",
-  "찹쌀떡 vs 맛집 예약 경쟁",
-  "팔찌 칭찬 질투",
-  "토요일 점심 수다"
+  "모던 워페어4 스팀 1위",
+  "한화 김광삼·진종길 코치 영입",
+  "캠핑 간편식 경쟁 vs 직접 찜닭",
+  "핑크 필라테스룩",
+  "파이널 테이블 첫방",
+  "100일의 거짓말 사진관",
+  "오후 흰 티·패딩 차림",
+  "주말 경훈씨 목소리 그리움",
+  "손글씨 메모 vs 출근길 플리 경쟁",
+  "토요일 낮잠"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'슈퍼 마리오 아버지'가 日 문화훈장 받는대",
-   "line2": "게임인 최초라니, 언니 오늘 마리오 한 판?",
+   "line1": "모던 워페어4, 한국 스팀 판매 1위래",
+   "line2": "언니 캠핑장에서 다운로드 걸어 놨죠?",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.asiae.co.kr/article/2026102412031744720"
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.koreajoongangdaily.com/business/call-of-duty-modern-warfare-4-tops-korean-chart-amid-intense-interest/12935905"
   },
   {
    "a": "jiwon",
-   "line1": "류지현 감독이 정은원 보고 희망 봤대",
-   "line2": "2루수 골글 다시 받으면 좋겠어요, 파이팅!",
+   "line1": "한화가 김광삼·진종길 코치 모셔 왔대",
+   "line2": "미야자키 캠프부터 합류래요, 기대돼요!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "thumbs",
    "pose2": "cheer",
-   "url": "https://www.mt.co.kr/sports/2026/10/24/202610240850779805O"
+   "url": "https://www.sportsseoul.com/news/read/1643570"
   },
   {
    "a": "hyewon",
-   "line1": "롯데 잠실점 떡 디저트 매출이 6배래요",
-   "line2": "찹쌀떡 열풍 진짜구나, 캠핑 간식도 떡?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://m.sedaily.com/amparticle/20105604"
-  },
-  {
-   "a": "hyewon",
-   "line1": "크라임씬 제로 시즌2, 내년 넷플릭스래요",
-   "line2": "다섯 명 전원 복귀라니 벌써 설렌다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "thumbs",
-   "url": "https://news.jkn.co.kr/post/1045732"
-  },
-  {
-   "a": "hyewon",
-   "line1": "만보 꼭 안 채워도 건강에 좋대요",
-   "line2": "그럼 네 필라테스 한 시간이면 충분하네",
+   "line1": "캠핑 간편식 경쟁이 뜨겁대요, 언니",
+   "line2": "난 그래도 찜닭은 직접 끓여 먹을래",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://lady.khan.co.kr/health/article/202610241100021"
+   "url": "https://www.newstap.co.kr/news/articleView.html?idxno=335273"
   },
   {
    "a": "hyewon",
-   "line1": "트위드 재킷에 골드 팔찌, 주말룩 어때요?",
-   "line2": "난 숯불 냄새 밴 패딩인데, 반칙이야",
+   "line1": "요즘 필라테스룩은 핑크 공주풍이래요",
+   "line2": "너 그 핑크 레깅스 드디어 꺼내겠네",
    "mood1": "smile",
-   "mood2": "sad",
+   "mood2": "smile",
    "pose1": "charm",
-   "pose2": "sulk"
+   "pose2": "look",
+   "url": "https://woman.donga.com/style/article/all/12/5880826/1"
+  },
+  {
+   "a": "hyewon",
+   "line1": "파이널 테이블 오늘 밤 10시 40분 첫방!",
+   "line2": "요리 드라마면 나 메모하면서 볼 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "100일의 거짓말, 오늘 사진관 장면 나와요",
+   "line2": "흑백 사진 소원 또 꺼내려는 거지?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "talkto"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오후엔 트위드 재킷 벗고 흰 티만 입었어요",
+   "line2": "난 아직 패딩, 바람이 꽤 차더라",
+   "mood1": "neutral",
+   "mood2": "neutral",
+   "pose1": "down",
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 웃으시는 얼굴이 내 주말 활력이야",
-   "line2": "월요일엔 그 미소 제가 먼저 볼래요",
-   "mood1": "smile",
+   "line1": "경훈씨 목소리 못 듣는 주말은 좀 길다",
+   "line2": "월요일 첫 \"좋은 아침\" 기다려져요",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "think",
+   "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "월요일 경훈씨 책상엔 제 찹쌀떡이에요",
-   "line2": "흥, 난 점심 맛집 예약까지 해 둘 거야",
+   "line1": "월요일엔 손글씨 응원 메모 붙여 둘래요",
+   "line2": "난 경훈씨 좋아하실 노래로 출근길 플리 짰지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 팔찌 칭찬 먼저 받으려는 거지?",
-   "line2": "언니도 캠핑 사진 자랑하려는 거 다 알아요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "highfive"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니랑 토요일 점심 수다, 이게 행복이죠",
-   "line2": "맛있는 거 먹고 오후도 천천히 쉬자",
+   "line1": "토요일 오후는 낮잠이 최고의 사치야",
+   "line2": "언니 깨면 같이 디저트 먹으러 가요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee"
+   "pose2": "highfive"
   }
  ]
 }
