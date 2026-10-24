@@ -1,9 +1,9 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T17:05:00+09:00",
+  "updatedAt": "2026-10-24T18:10:56+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 16.3,
+    "temp": 15.7,
     "low": 12,
     "high": 21,
     "condition": "흐림 후 구름많음",
@@ -32,11 +32,6 @@
       "title": "프로축구 FC서울, 10년 만에 K리그1 우승",
       "url": "https://www.newsis.com/view/NISX20261024_0003839553",
       "source": "뉴시스"
-    },
-    {
-      "title": "통일부 \"김정은 방중…오늘 신압록대교 통해 단둥 도착\"",
-      "url": "https://www.asiae.co.kr/article/2026102415021961789",
-      "source": "아시아경제"
     }
   ],
   "news": [
