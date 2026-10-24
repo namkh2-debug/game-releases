@@ -1,112 +1,110 @@
 {
- "updatedAt": "2026-10-24T17:10:00+09:00",
- "topics": [
-  "포핸즈 최종회 자체 최고",
-  "내 새끼의 연애3 첫 만남",
-  "컬트 오브 더 램 스위치2",
-  "언더커버 셰프 스핀오프 29일",
-  "삼성 김재윤 PO 이탈",
-  "캠핑 어묵탕 후기",
-  "저녁 재킷 단추·리본핀",
-  "경훈씨 주말 저녁 메뉴",
-  "롬앤 립 vs 새 향수 첫인사",
-  "다음 주 셋이 파이팅"
- ],
- "exchanges": [
-  {
-   "a": "hyewon",
-   "line1": "포핸즈 최종회 9.4%, 자체 최고래요!",
-   "line2": "송강 보려고 끝까지 달린 보람 있네",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.wikitree.co.kr/articles/1168726"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내새연3, 이종혁 아들·전희철 딸 첫 만남!",
-   "line2": "아빠들이 보면 더 떨리겠다 ㅎㅎ",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://enews.imbc.com/News/ViewAmp/522272"
-  },
-  {
-   "a": "jiwon",
-   "line1": "컬트 오브 더 램, 스위치2 버전 나왔대",
-   "line2": "양 키우는 거요? 귀여운데 은근 오싹",
-   "mood1": "smile",
-   "mood2": "neutral",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309609"
-  },
-  {
-   "a": "jiwon",
-   "line1": "언더커버 셰프 스핀오프, 29일 첫 방송래",
-   "line2": "언니 요리 승부욕 또 불타겠네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.famtimes.co.kr/news/articleView.html?idxno=702996"
-  },
-  {
-   "a": "jiwon",
-   "line1": "삼성 김재윤, PO 앞두고 이탈했대",
-   "line2": "가을야구 앞이라 아쉽네요, 쾌유하길",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "think",
-   "pose2": "down",
-   "url": "https://www.osen.co.kr/article/G1112897637"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 캠핑 어묵탕 결국 끓였어요?",
-   "line2": "응, 꼬치 하나에 별 하나씩 세며 먹었지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "재킷 단추 다 잠그니 단정하죠? 리본핀도요",
-   "line2": "응, 오늘 저녁룩은 깔끔하게 인정",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 주말 저녁 메뉴가 괜히 궁금해",
-   "line2": "맛있는 거 드시고 웃으셨으면 좋겠어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "hyewon",
-   "line1": "월요일엔 롬앤 립 바르고 1등으로 인사!",
-   "line2": "흥, 난 새 향수 뿌리고 문 앞에 서 있을걸",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "다음 주도 우리 셋이 힘내 봐요",
-   "line2": "경훈씨랑 우리면 뭐든 되지, 파이팅!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "highfive"
-  }
- ]
+  "updatedAt": "2026-10-24T18:10:56+09:00",
+  "topics": [
+    "FC서울 10년 만에 우승 확정",
+    "붉은사막 첫 DLC 30일 바다 항해",
+    "DLC 연애·결혼 설렘 농담",
+    "한화생명 롤드컵 TES 23분 격파",
+    "청송 주산지 단풍 절정",
+    "코랄 브라운 틴트·트위드 재킷",
+    "'일찍 들어가세요' 선수 질투",
+    "경훈씨 어깨 주물러 드리고 싶은 마음",
+    "아이브 안무 vs 캠핑 레시피 카드 경쟁",
+    "토요일 저녁 노을"
+  ],
+  "exchanges": [
+    {
+      "a": "jiwon",
+      "line1": "FC서울, 강원과 비기고 10년 만에 우승 확정!",
+      "line2": "아까 말한 그 경기요? 상암 축제 났겠다",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "cheer",
+      "pose2": "clap",
+      "url": "https://www.yna.co.kr/view/AKR20261024037400007"
+    },
+    {
+      "a": "jiwon",
+      "line1": "붉은사막 첫 DLC, 30일에 바다 항해 나온대",
+      "line2": "배까지 만든다고요? 언니 주말 순삭각",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "laugh",
+      "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100152350009941"
+    },
+    {
+      "a": "hyewon",
+      "line1": "그 DLC, 게임 속 연애에 결혼까지 된대요",
+      "line2": "흠흠, 난 현실 설렘이 더 좋던데~",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "charm",
+      "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100152350009941"
+    },
+    {
+      "a": "jiwon",
+      "line1": "한화생명, 롤드컵서 TES를 23분 만에 잡았대",
+      "line2": "한화 이름만 보이면 응원하게 돼요!",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "thumbs",
+      "pose2": "cheer"
+    },
+    {
+      "a": "hyewon",
+      "line1": "청송 주산지 단풍, 이번 주말 절정이래요",
+      "line2": "물에 비친 단풍, 언젠가 같이 찍어 보자",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "look"
+    },
+    {
+      "a": "hyewon",
+      "line1": "퇴근 전에 코랄 브라운 틴트로 바꿨어요",
+      "line2": "트위드 재킷이랑 톤 딱이네, 인정!",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니가 '일찍 들어가세요' 먼저 했죠?",
+      "line2": "그건 타이밍 싸움이야, 내일은 네 차례~",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "charm"
+    },
+    {
+      "a": "jiwon",
+      "line1": "경훈씨 오늘 하루 고단하지 않으셨을까",
+      "line2": "생각만 해도 어깨 주물러 드리고 싶어요",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "heart"
+    },
+    {
+      "a": "hyewon",
+      "line1": "월요일엔 아이브 안무로 경훈씨 웃겨 드릴래요",
+      "line2": "흥, 난 캠핑 요리 레시피 카드 들고 간다",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "squabble"
+    },
+    {
+      "a": "jiwon",
+      "line1": "토요일 저녁 노을은 괜히 마음이 말랑해",
+      "line2": "언니랑 같이 보니까 더 예쁜 것 같아요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "look"
+    }
+  ]
 }
