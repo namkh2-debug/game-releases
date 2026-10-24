@@ -1,89 +1,70 @@
 {
-  "updatedAt": "2026-10-24T19:16:00+09:00",
+  "updatedAt": "2026-10-24T20:05:00+09:00",
   "topics": [
-    "탕탕에이스 출시",
-    "류지현 감독 미야자키 출국",
-    "부캉이 부산항 재발견",
-    "쿠키런 10주년 축제",
-    "파이널 테이블 첫방 야식",
-    "네이비 재킷·흰 티·연청 데님",
-    "플레이리스트 vs 손글씨 메모 경쟁",
-    "경훈씨 웃음소리",
-    "썸 답장 속도 농담",
-    "주말 저녁 차 한 잔"
+    "슈퍼 마리오 아버지 日 문화훈장",
+    "안세영 프랑스오픈 결승",
+    "김우빈♥신민아 유퀴즈",
+    "파이널 테이블 첫방 야식 어묵탕",
+    "트위드 재킷 소매·코랄 틴트",
+    "경훈씨 무탈한 하루 바람",
+    "생강차 티백 vs 꿀 생강청 경쟁",
+    "문자 하트 질투",
+    "주말 고민도 휴식",
+    "토닥토닥 수고 인사"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "탕탕특공대 후속 '탕탕에이스' 나왔대",
-      "line2": "동물 파일럿 비행 슈팅? 귀엽겠다",
+      "line1": "'슈퍼 마리오 아버지', 日 문화훈장 받는대",
+      "line2": "게임 분야는 처음이래요? 멋지다!",
       "mood1": "smile",
       "mood2": "surprised",
       "pose1": "talkto",
-      "pose2": "think",
-      "url": "https://www.sportschosun.com/entertainment/2026-10-24/202610240100151980009914"
-    },
-    {
-      "a": "jiwon",
-      "line1": "류지현 감독, 내일 미야자키로 먼저 간대",
-      "line2": "한화 마무리캠프, 원석 많이 찾길!",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "cheer",
-      "url": "https://www.mt.co.kr/sports/2026/10/24/202610241213778443O"
+      "pose2": "clap",
+      "url": "https://www.yna.co.kr/view/AKR20261024023500073"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 부캉이 부산항에서 다시 보였대요",
-      "line2": "건강하다니 다행이다, 넓은 바다로 가렴",
+      "line1": "안세영, 오쿠하라 꺾고 프랑스오픈 결승!",
+      "line2": "역시 셔틀콕 여제, 결승도 화이팅",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
+      "pose2": "cheer",
+      "url": "https://www.olympics.com/ko/news/badminton-an-seyoung-reaches-final-france-open-2026"
+    },
+    {
+      "a": "hyewon",
+      "line1": "김우빈은 신민아한테 늘 '제일 예뻐'래요",
+      "line2": "10년 연애하고도 그렇다니 부럽다",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
       "pose2": "look",
-      "url": "https://www.yna.co.kr/view/AKR20261024043300051"
-    },
-    {
-      "a": "hyewon",
-      "line1": "쿠키런 10주년 축제, 어린이대공원이래요",
-      "line2": "쿠키 굿즈 보면 지갑 열리는 거 알지?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "laugh",
-      "url": "https://nqbrief.com/ko/games/"
-    },
-    {
-      "a": "hyewon",
-      "line1": "오늘 밤 파이널 테이블 첫방, 같이 달려요",
-      "line2": "셰프 드라마면 야식 각오해야겠다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee"
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/10/24/MFTDIZBRGMZGGMTEGAYDQOJQMI/"
     },
     {
       "a": "jiwon",
-      "line1": "재킷 다시 걸쳤더니 데님이랑 더 잘 맞네",
-      "line2": "네이비에 흰 티, 언니 오늘 정석이에요",
+      "line1": "파이널 테이블 첫방, 세 시간도 안 남았네",
+      "line2": "야식은 언니 캠핑 어묵탕 남은 걸로요!",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh"
+    },
+    {
+      "a": "hyewon",
+      "line1": "재킷 소매 살짝 걷으니 데님이랑 경쾌하죠?",
+      "line2": "응, 코랄 틴트랑 어울려서 생기 있어",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "thumbs"
     },
     {
-      "a": "hyewon",
-      "line1": "경훈씨 플레이리스트, 제가 먼저 만들래요",
-      "line2": "흥, 난 손글씨 메모로 감동 노릴 거야",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "squabble"
-    },
-    {
       "a": "jiwon",
-      "line1": "경훈씨 웃는 소리 들으면 하루가 환해져",
-      "line2": "맞아요, 그 웃음 하나면 충분해요",
+      "line1": "경훈씨 오늘 하루 무탈하셨길 바라",
+      "line2": "그 마음 전해졌을 거예요, 분명히",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
@@ -91,21 +72,39 @@
     },
     {
       "a": "hyewon",
-      "line1": "썸은 답장 속도에서 다 티 난대요",
-      "line2": "그럼 경훈씨 답장은 내가 제일 빨라야지",
+      "line1": "생강차 티백 한 상자, 제가 먼저 챙겨요",
+      "line2": "흥, 난 꿀 생강청 직접 담가 갈 거야",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "think",
-      "pose2": "charm"
+      "pose1": "charm",
+      "pose2": "squabble"
     },
     {
       "a": "jiwon",
-      "line1": "주말 저녁엔 따뜻한 차 한 잔이 최고야",
-      "line2": "언니랑 마시면 더 맛있는 거 알죠?",
+      "line1": "경훈씨가 아까 네 문자에만 하트 누르셨지?",
+      "line2": "언니 건 읽자마자 답장하셨잖아요~",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "laugh"
+    },
+    {
+      "a": "jiwon",
+      "line1": "주말 뭐 할지 고민만 하다 하루 갔네",
+      "line2": "고민하는 시간도 휴식이죠, 언니",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "talkto"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 오늘 수고 많았어요, 토닥토닥",
+      "line2": "너도, 네 웃음 덕에 하루가 가볍더라",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "highfive"
+      "pose1": "wave",
+      "pose2": "thumbs"
     }
   ]
 }
