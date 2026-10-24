@@ -1,111 +1,109 @@
 {
- "updatedAt": "2026-10-24T13:05:27+09:00",
+ "updatedAt": "2026-10-24T14:10:00+09:00",
  "topics": [
-  "모던 워페어4 스팀 1위",
-  "한화 김광삼·진종길 코치 영입",
-  "캠핑 간편식 경쟁 vs 직접 찜닭",
-  "핑크 필라테스룩",
-  "파이널 테이블 첫방",
-  "100일의 거짓말 사진관",
-  "오후 흰 티·패딩 차림",
-  "주말 경훈씨 목소리 그리움",
-  "손글씨 메모 vs 출근길 플리 경쟁",
-  "토요일 낮잠"
+  "놀토 댄서 안무 대결",
+  "음악중심 아이브·베이비몬스터",
+  "FC서울 우승 확정 도전",
+  "밀워키 월드시리즈 1차전 승리",
+  "하나금융 3분기 역대 최대 순익",
+  "반묶음 벨벳 리본 집게핀",
+  "모닥불 앞 경훈씨 생각",
+  "크로찌 vs 새 향수 경쟁",
+  "주말 안부 문자 질투",
+  "앞치마 셰프 설렘 농담"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "모던 워페어4, 한국 스팀 판매 1위래",
-   "line2": "언니 캠핑장에서 다운로드 걸어 놨죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.koreajoongangdaily.com/business/call-of-duty-modern-warfare-4-tops-korean-chart-amid-intense-interest/12935905"
-  },
-  {
-   "a": "jiwon",
-   "line1": "한화가 김광삼·진종길 코치 모셔 왔대",
-   "line2": "미야자키 캠프부터 합류래요, 기대돼요!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "cheer",
-   "url": "https://www.sportsseoul.com/news/read/1643570"
-  },
-  {
    "a": "hyewon",
-   "line1": "캠핑 간편식 경쟁이 뜨겁대요, 언니",
-   "line2": "난 그래도 찜닭은 직접 끓여 먹을래",
-   "mood1": "neutral",
+   "line1": "놀토에 오늘 댄서 바다·시미즈·인규 나온대요",
+   "line2": "안무 대결까지? 우리 둘이 붙어도 재밌겠다",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.newstap.co.kr/news/articleView.html?idxno=335273"
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "요즘 필라테스룩은 핑크 공주풍이래요",
-   "line2": "너 그 핑크 레깅스 드디어 꺼내겠네",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "look",
-   "url": "https://woman.donga.com/style/article/all/12/5880826/1"
-  },
-  {
-   "a": "hyewon",
-   "line1": "파이널 테이블 오늘 밤 10시 40분 첫방!",
-   "line2": "요리 드라마면 나 메모하면서 볼 거야",
+   "line1": "음중에 아이브랑 베이비몬스터 나와요, 3시 20분!",
+   "line2": "캠핑 의자에서 폰으로 같이 챙겨 볼게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "wave",
-   "pose2": "think"
-  },
-  {
-   "a": "hyewon",
-   "line1": "100일의 거짓말, 오늘 사진관 장면 나와요",
-   "line2": "흑백 사진 소원 또 꺼내려는 거지?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오후엔 트위드 재킷 벗고 흰 티만 입었어요",
-   "line2": "난 아직 패딩, 바람이 꽤 차더라",
-   "mood1": "neutral",
-   "mood2": "neutral",
-   "pose1": "down",
-   "pose2": "coffee"
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 목소리 못 듣는 주말은 좀 길다",
-   "line2": "월요일 첫 \"좋은 아침\" 기다려져요",
-   "mood1": "sad",
+   "line1": "FC서울, 오늘 강원 이기면 리그 우승 확정이래",
+   "line2": "10년 만이라던데, 상암 분위기 뜨겁겠어요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "cheer"
+  },
+  {
+   "a": "jiwon",
+   "line1": "밀워키가 월드시리즈 1차전 3-2로 이겼대",
+   "line2": "창단 첫 우승 도전이라니, 저도 응원할래요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "clap",
+   "url": "https://www.yna.co.kr/view/AKR20261024027800007"
+  },
+  {
+   "a": "jiwon",
+   "line1": "하나금융 3분기 누적 순익 또 역대 최대래",
+   "line2": "언니 배당 얘기 시작하면 해 지는 거 알죠?",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "heart"
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261023117351527"
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 손글씨 응원 메모 붙여 둘래요",
-   "line2": "난 경훈씨 좋아하실 노래로 출근길 플리 짰지",
+   "line1": "반묶음에 벨벳 리본 집게핀, 오후 포인트예요",
+   "line2": "흰 티에 리본 귀엽다, 난 아직 숯불 패딩",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "모닥불 보다가 경훈씨 다정한 말투가 떠올랐어",
+   "line2": "저도요, 그 한마디면 주말이 포근해져요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "월요일 출근 전에 왓어브레드 크로찌 사 올래요",
+   "line2": "흥, 난 새 향수 뿌리고 첫 보고 들어간다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "토요일 오후는 낮잠이 최고의 사치야",
-   "line2": "언니 깨면 같이 디저트 먹으러 가요",
-   "mood1": "smile",
+   "a": "hyewon",
+   "line1": "언니, 경훈씨께 주말 안부 먼저 보냈죠?",
+   "line2": "딱 한 줄이었어, 너도 보내면 되잖아~",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "highfive"
+   "pose1": "sulk",
+   "pose2": "talkto"
+  },
+  {
+   "a": "jiwon",
+   "line1": "앞치마 맨 셰프 같은 남자, 좀 설레지 않아?",
+   "line2": "언니, 그거 누구 앞치마 상상한 거예요?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "laugh"
   }
  ]
 }
