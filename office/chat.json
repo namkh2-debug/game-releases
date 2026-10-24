@@ -1,79 +1,89 @@
 {
- "updatedAt": "2026-10-25T06:12:00+09:00",
+ "updatedAt": "2026-10-25T07:20:00+09:00",
  "topics": [
-  "파이널 테이블 첫방 멧돼지 요리 오프닝",
-  "한화 류지현 감독 끝없는 회의",
-  "피겨 서민규 시니어 GP 데뷔 쇼트 3위",
-  "쓱데이 30일 반값 한우",
-  "놀토 시미즈 안무 시안 60개(월요일 안무 약속 이어가기)",
-  "일요일 휴일 모드 옷차림",
-  "경훈씨 일요일 늦잠 바람",
-  "주말 브런치 맛집 vs 프렌치토스트 경쟁",
-  "어제 어묵탕 후기 이어가기",
-  "일요일 아침 커피 향"
+  "김태균 유소년 캠프 4회째 커피차",
+  "아스트로니어 개발사 해고",
+  "더 커뮤니티2 도청 반응",
+  "삼립-제스티살룬 협업 버거",
+  "청송 주산지 단풍 절정",
+  "시미즈 안무 연습 이어가기",
+  "일요일 셔츠·니트 원피스 투샷",
+  "경훈씨 웃는 얼굴 떠올리기",
+  "얼그레이 로즈 립 vs 새 향수 재대결",
+  "늦잠 깨워 줄 사람 설렘 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "파이널 테이블 첫방, 첫 장면부터 셰프더라",
-   "line2": "멧돼지 요리로 시작이라니! 오늘 2회도 봐요",
+   "line1": "김태균 유소년 캠프, 벌써 4회째래",
+   "line2": "커피차까지 보냈대요? 레전드는 다르네",
    "mood1": "smile",
    "mood2": "surprised",
    "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://tvdaily.co.kr/read.php3?aid=17928567501806818002"
+   "pose2": "clap",
+   "url": "https://www.chosun.com/sports/baseball/2026/10/25/GRTGEYRZGQ3TINBRGNRTSZDCHE/"
   },
   {
    "a": "jiwon",
-   "line1": "류지현 감독, 회의 많아 어질어질하시대",
-   "line2": "그만큼 고민 중이란 거죠, 캠프 기대돼요",
-   "mood1": "neutral",
-   "mood2": "smile",
+   "line1": "아스트로니어 개발사, 30명 넘게 해고래",
+   "line2": "신작 부진 때문이래요? 마음 아프네요",
+   "mood1": "sad",
+   "mood2": "sad",
    "pose1": "think",
-   "pose2": "cheer",
-   "url": "https://www.chosun.com/sports/baseball/2026/10/24/MM2DANZXHAYDOYZVME4DSMRTGA/"
+   "pose2": "none",
+   "url": "https://www.inven.co.kr/webzine/news/?news=322540"
   },
   {
    "a": "hyewon",
-   "line1": "피겨 서민규, 시니어 데뷔 쇼트 3위래요",
-   "line2": "프리는 오늘 밤이래, 메달 꼭 응원하자",
+   "line1": "더 커뮤니티2, '도청까지?' 반응이래요",
+   "line2": "마이야르·동키 조합이면 나도 볼래",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "clap",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.nocutnews.co.kr/news/6596490"
+  },
+  {
+   "a": "hyewon",
+   "line1": "삼립이 제스티살룬이랑 버거 냈대요",
+   "line2": "언니 다음 캠핑 메뉴 후보로 찜!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/amp/view/AKR20261023160000030"
+  },
+  {
+   "a": "hyewon",
+   "line1": "청송 주산지, 이번 주말 단풍 절정이래요",
+   "line2": "물에 비친 단풍, 사진만 봐도 힐링이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 시미즈 안무 연습은 좀 했어?",
+   "line2": "거울 앞에서 열 번! 월요일 기대하세요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
    "pose2": "cheer"
   },
   {
    "a": "jiwon",
-   "line1": "쓱데이 30일부터래, 반값 한우 장바구니 각",
-   "line2": "언니 다음 캠핑 고기는 그걸로 해결이네요",
+   "line1": "셔츠 소매 걷으니 일요일 기분 제대로야",
+   "line2": "니트 원피스랑 둘이 딱 주말 투샷이네요",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261016146700030"
-  },
-  {
-   "a": "hyewon",
-   "line1": "시미즈 안무 시안, 채택된 것만 60개래요",
-   "line2": "그 안무 월요일에 보여 준다던 약속 기억해",
-   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "look"
   },
   {
    "a": "hyewon",
-   "line1": "일요일이라 니트 원피스에 운동화 신었어요",
-   "line2": "난 셔츠에 조거 팬츠, 우리 둘 다 휴일 모드",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 오늘은 알람 없이 늦잠 주무시길",
-   "line2": "깨시면 제일 먼저 굿모닝 해 드리고 싶다",
+   "line1": "경훈씨 웃는 얼굴 떠올리면 일요일도 반짝",
+   "line2": "그 미소 내일 보려고 오늘 푹 쉬자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -81,30 +91,21 @@
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 브런치 맛집, 제가 먼저 찾아 둘래요",
-   "line2": "흥, 난 프렌치토스트 직접 구워 갈 거야",
+   "line1": "월요일엔 얼그레이 로즈 립으로 갈 거예요",
+   "line2": "흥, 난 새 향수 한 방울이면 끝이야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 어제 어묵탕 국물 남았어요?",
-   "line2": "한 방울도 없어, 다음 캠핑 땐 두 배로 끓일게",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
    "a": "jiwon",
-   "line1": "일요일 아침엔 커피 향만 맡아도 행복해",
-   "line2": "언니가 내린 커피면 행복이 두 배죠",
+   "line1": "늦잠 자는데 누가 깨워 주면 좋겠다",
+   "line2": "언니, 그 '누가'가 누군지 다 알아요~",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "charm",
+   "pose2": "laugh"
   }
  ]
 }
