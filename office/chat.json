@@ -1,109 +1,110 @@
 {
- "updatedAt": "2026-10-25T16:10:00+09:00",
+ "updatedAt": "2026-10-25T17:03:47+09:00",
  "topics": [
-  "3분기 PC 출하 21% 감소",
-  "마비스 화이트 민트 팝업",
-  "런닝맨·1박2일 동시간대",
-  "잠수교 보행전용 전환",
-  "감바스 캠핑 장보기 이어가기",
-  "선선한 저녁 카디건·셔츠룩",
-  "월요일 경훈씨 응원",
-  "회의 자료 색 vs 하트 라떼아트 경쟁",
-  "칭찬 횟수 질투",
-  "이소라 널 OST"
+  "100일의 거짓말 5회 밀정 포기·최고 9.1%",
+  "6회·김연경2 9시10분 채널 경쟁 이어가기",
+  "가상자산 과세 추가 유예 검토",
+  "부산항 상어 부캉이",
+  "파이널 테이블 1화 감상 이어가기",
+  "베레모 단풍길 일요일룩",
+  "경훈씨 생각에 입꼬리",
+  "엘리베이터 vs 로비 첫인사 경쟁",
+  "셔츠 소매 설렘 농담",
+  "주말 끝 수다 응원"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "메모리값 급등에 PC 출하가 21% 줄었대",
-   "line2": "언니 새 그래픽카드 꿈은 잠시 보류네요",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "http://www.inews24.com/view/2018665"
-  },
-  {
    "a": "hyewon",
-   "line1": "성수 마비스 민트 팝업, 28일부터래요",
-   "line2": "치약 팝업이라니, 웃을 맛 나겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오늘 런닝맨이랑 1박2일 시간 똑같대요",
-   "line2": "리모컨 쟁탈전 각이다, 가위바위보 하자",
+   "line1": "100일의 거짓말, 김유정이 밀정 포기 선언했대요",
+   "line2": "5회 최고 9.1%래, 오늘 밤 6회 꼭 보자",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/25/MI2GMMZQMZSDANJQGI3TKZRQGI/"
+  },
+  {
+   "a": "jiwon",
+   "line1": "근데 6회랑 김연경 리벤지전, 둘 다 9시 10분이야",
+   "line2": "언니, 오늘 밤 채널 전쟁 2차전이네요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "think",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "잠수교 내일부터 차 못 다니고 걷는 다리래",
-   "line2": "그럼 저녁 산책 코스 하나 늘었네요",
-   "mood1": "neutral",
+   "line1": "가상자산 과세, 또 미루는 걸 검토한대",
+   "line2": "언니 코인 지갑이 안도의 한숨 쉬겠네요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.hankookilbo.com/news/article/A2026102510050001582"
+   "pose2": "laugh",
+   "url": "https://economist.co.kr/article/view/ecn202610250010"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 감바스 캠핑 장보기 목록 써 봤어요?",
-   "line2": "마늘 두 통부터 적었지, 새우는 네 담당",
+   "line1": "부산항에 상어 '부캉이'가 이틀째 보였대요",
+   "line2": "이름 붙여 준 게 더 귀엽다, 무사하길",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "look",
+   "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/25/2026102590061.html"
+  },
+  {
+   "a": "hyewon",
+   "line1": "어젯밤 파이널 테이블 1화 봤어요, 언니?",
+   "line2": "봤지, 라면 끓이고 싶어서 혼났어",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee"
   },
   {
-   "a": "hyewon",
-   "line1": "선선해져서 카디건 다시 꺼내 입었어요",
-   "line2": "난 셔츠 단추 다시 잠갔어, 베레모 귀엽다",
-   "mood1": "neutral",
+   "a": "jiwon",
+   "line1": "베레모 쓰고 단풍길 걸으니 어땠어?",
+   "line2": "낙엽이 발밑에서 바스락, 가을 다 가졌어요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "down",
-   "pose2": "thumbs"
+   "pose1": "talkto",
+   "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 내일 월요일, 지치지 않으셨으면 해",
-   "line2": "우리가 옆에서 비타민처럼 톡톡 해 드려요",
+   "line1": "경훈씨 이름만 떠올려도 입꼬리가 올라가",
+   "line2": "저도요, 표정 관리가 안 된다니까요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
-   "pose2": "cheer"
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 첫 회의 자료, 제가 색 맞출래요",
-   "line2": "흥, 난 첫 커피에 하트 라떼아트 할 거야",
+   "line1": "내일은 엘리베이터 앞에서 제가 먼저 기다릴래요",
+   "line2": "흥, 난 로비 입구에서 먼저 손 흔들 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "faceoff"
+   "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "언니 아까 경훈씨 칭찬 두 번 들었죠?",
-   "line2": "세어 봤어? 너도 내일 세 번 들을 거야",
-   "mood1": "sad",
+   "line1": "경훈씨 셔츠 소매 걷으실 때 좀 설레요",
+   "line2": "그 팔뚝은 15세 관람가 넘는다, 쉿",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "이소라 '널'이 내일 낮 12시에 나온대",
-   "line2": "점심 산책 배경음악 벌써 정해졌네요",
+   "line1": "주말 끝자락엔 네 수다가 제일 좋은 약이야",
+   "line2": "언니 리액션이 있어서 제 수다가 사는 거예요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
-   "pose2": "look"
+   "pose2": "highfive"
   }
  ]
 }
