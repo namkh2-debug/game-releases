@@ -1,109 +1,99 @@
 {
-  "updatedAt": "2026-10-25T13:22:00+09:00",
-  "topics": [
-    "PO 1차전 태풍 우천 취소·26일 재개",
-    "붉은사막 DLC 미지의 여정 30일",
-    "아일릿 체포하겠어 손총 안무",
-    "신인감독 김연경2 리벤지전",
-    "니트 원피스·버건디 베레모, 셔츠 소매룩",
-    "일요일 오후 경훈씨 안부",
-    "손총 안무 vs 마음 체포 경쟁",
-    "이모티콘 답장 캡처 질투",
-    "손끝 스치는 장면 설렘 농담",
-    "서로 웃는 얼굴 응원"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "PO 1차전, 태풍 때문에 우천 취소됐대",
-      "line2": "내일 6시 반 재개래요, 설렘 하루 연장!",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "talkto",
-      "url": "https://www.yna.co.kr/view/AKR20261025024900007"
-    },
-    {
-      "a": "jiwon",
-      "line1": "붉은사막 DLC가 30일에 콘솔로 나온대",
-      "line2": "미지의 여정이요? 언니 주말 순삭이네요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "thumbs",
-      "pose2": "laugh",
-      "url": "https://www.globale.co.kr/news/articleView.html?idxno=40789"
-    },
-    {
-      "a": "hyewon",
-      "line1": "아일릿 '체포하겠어' 손총 안무 화제래요",
-      "line2": "내일 나온다며? 출근길에 바로 틀자",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "hyewon",
-      "line1": "오늘 밤 신인감독 김연경2, 리벤지전이래요",
-      "line2": "황연주 합류 효과 궁금하다, 같이 보자",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "talkto"
-    },
-    {
-      "a": "hyewon",
-      "line1": "니트 원피스에 버건디 베레모 써 봤어요",
-      "line2": "단풍색 깔맞춤이네, 난 셔츠 소매 또 걷음",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "일요일 오후엔 경훈씨 안부가 괜히 궁금해",
-      "line2": "푹 쉬고 계시면 그걸로 우리도 충전이죠",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "heart"
-    },
-    {
-      "a": "jiwon",
-      "line1": "내일 손총 안무, 경훈씨께 내가 먼저 할 거야",
-      "line2": "그럼 전 경훈씨 마음부터 먼저 체포할래요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "squabble",
-      "pose2": "charm"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 경훈씨 이모티콘 답장 캡처 자랑했죠?",
-      "line2": "한 번 받은 걸 어떡해, 너도 곧 받을 거야",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "highfive"
-    },
-    {
-      "a": "jiwon",
-      "line1": "드라마 속 손끝 스치는 장면이 제일 떨려",
-      "line2": "그 1초가 키스신보다 위험하대요, 쉿",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "charm"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 웃는 얼굴 보면 일할 맛이 나요",
-      "line2": "너 덕분에 우리 사무실이 늘 환해",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "look"
-    }
-  ]
+ "updatedAt": "2026-10-25T14:10:00+09:00",
+ "topics": [
+  "마인크래프트 스위치2판 27일",
+  "삼전닉스 실적 28·29일 발표",
+  "리센느 웹예능 화제성 1위",
+  "신인감독 김연경2 리벤지전 이어가기",
+  "캠핑 감바스 이어가기",
+  "베레모·셔츠 소매 오후룩",
+  "경훈씨 퇴근길 안부",
+  "토키와야키 vs 새 향수 경쟁",
+  "월요일 기다림 응원"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "마인크래프트 스위치2판, 27일에 나온대",
+   "line2": "언니 집 짓다 밤새는 거 아니에요?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "laugh",
+   "url": "https://pogwire.com/releases/new-games-this-week"
+  },
+  {
+   "a": "jiwon",
+   "line1": "하이닉스 28일, 삼성 29일 실적 발표래",
+   "line2": "주주환원 보따리 크면 좋겠어요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.news1.kr/industry/general-industry/6330421"
+  },
+  {
+   "a": "hyewon",
+   "line1": "리센느 원이 웹예능이 화제성 1위래요",
+   "line2": "제목 엄청 길던 그거? 나도 봐야겠다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 김연경 리벤지전 몇 시부터죠?",
+   "line2": "9시 10분! 치킨 시켜 놓고 응원하자",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "cheer"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 감바스 캠핑 날짜는 잡았어요?",
+   "line2": "추워지기 전에 이번 달 안에 가자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "베레모 쓰니까 진짜 가을 화보 같다",
+   "line2": "언니도 셔츠 소매 걷으니 멋있어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 오늘 저녁은 뭐 드시려나",
+   "line2": "따뜻한 거 드시고 푹 쉬셨으면 좋겠다",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 토키와야키로 경훈씨 입맛 잡을래요",
+   "line2": "흥, 내 새 향수는 문 열자마자 이겨",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "내일 월요일인데 이상하게 신난다",
+   "line2": "우리 둘이 같이라서 그런가 봐요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "highfive"
+  }
+ ]
 }
