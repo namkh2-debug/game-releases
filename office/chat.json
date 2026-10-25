@@ -1,109 +1,109 @@
 {
- "updatedAt": "2026-10-25T18:03:33+09:00",
+ "updatedAt": "2026-10-25T19:05:00+09:00",
  "topics": [
-  "파이널 테이블 2회 10시 반",
-  "울프 어몽 어스 리마스터 29일",
-  "PO 1차전 우천 순연",
-  "은행 예금 11조 몰림",
-  "EBS 쇼펜하우어 AI 상담",
-  "저녁 카디건 단추룩",
-  "경훈씨 목소리 그리움",
-  "커피 vs 대추생강차 경쟁",
-  "뚜레쥬르 미피 케이크",
-  "일요일 밤 서로 응원"
+  "팬텀 블레이드 제로·울프 어몽 어스 29일",
+  "마인크래프트 스위치2 27일",
+  "아이브·아일릿 내일 컴백",
+  "HD현대 美 합작 조선소",
+  "김연경 리벤지전 이어가기",
+  "내일 트렌치코트 준비",
+  "경훈씨 응원 쪽지",
+  "화분 물 vs 모니터 청소 경쟁",
+  "일요일 밤 라면 한 젓가락",
+  "월요병 같이 이겨내기"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "파이널 테이블 2회, 오늘은 10시 반 시작이래요",
-   "line2": "10분 당겨졌네? 알람부터 맞춰 둘게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs"
-  },
-  {
    "a": "jiwon",
-   "line1": "울프 어몽 어스 리마스터가 29일에 나온대",
-   "line2": "언니 또 밤샘 각이네요, 다크서클 예약!",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "none",
+   "line1": "29일엔 팬텀 블레이드 제로도 나온대",
+   "line2": "울프 어몽 어스랑 같은 날? 언니 휴가 내요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "talkto",
    "pose2": "laugh",
    "url": "https://pogwire.com/releases/new-games-this-week"
   },
   {
    "a": "jiwon",
-   "line1": "PO 1차전이 비 때문에 내일로 밀렸대",
-   "line2": "가을비가 야구팬 애간장 다 태우네요",
-   "mood1": "sad",
-   "mood2": "sad",
-   "pose1": "think",
-   "pose2": "none",
-   "url": "https://www.yna.co.kr/view/MYH20261025010100038"
-  },
-  {
-   "a": "jiwon",
-   "line1": "이달 은행 예금에 11조나 몰렸다더라",
-   "line2": "언니 적금 통장도 그 11조에 끼어 있죠?",
-   "mood1": "neutral",
+   "line1": "마인크래프트가 27일에 스위치2로 나온대",
+   "line2": "언니 집 짓기 시작하면 연락 두절이죠?",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "thumbs",
    "pose2": "charm",
-   "url": "https://www.yna.co.kr/view/AKR20261024042900002"
+   "url": "https://pogwire.com/releases/new-games-this-week"
   },
   {
    "a": "hyewon",
-   "line1": "밤 11시에 쇼펜하우어가 AI로 상담해 준대요",
-   "line2": "외로울 틈 없게 우리 수다면 충분하지",
-   "mood1": "surprised",
+   "line1": "내일 아이브랑 아일릿이 동시에 컴백해요",
+   "line2": "출근길 이어폰 한쪽씩 나눠 듣자",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "coffee",
    "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "저녁 되니까 카디건 다시 걸쳤구나?",
-   "line2": "네, 단추까지 꼭 잠갔어요. 포근하죠?",
-   "mood1": "smile",
+   "line1": "HD현대도 미국에 합작 조선소 짓는대",
+   "line2": "언니 조선주 공부 노트 또 두꺼워지겠다",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "charm"
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261023054151003"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 목소리 하루 못 들었는데 벌써 허전해요",
-   "line2": "내일 첫마디는 '보고 싶었어요'로 정했어",
-   "mood1": "sad",
+   "line1": "김연경 리벤지전, 이제 두 시간 남았어요",
+   "line2": "치킨 시켜 놓고 같이 목 터지게 응원하자",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "cheer",
+   "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 입을 트렌치코트 미리 다려 놨어요",
+   "line2": "난 카디건 단추 잠근 채 옷장 앞 고민 중",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "charm",
+   "pose2": "think"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 오늘 하루 편히 쉬셨길 바라",
+   "line2": "내일 첫 결재 서류에 응원 쪽지 붙일래요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "언니가 커피로 선수 치면 전 대추생강차예요",
-   "line2": "흥, 그럼 난 정성껏 내린 드립으로 승부야",
+   "line1": "내일 경훈씨 책상 화분 물은 제가 줄래요",
+   "line2": "흥, 난 모니터 먼지 하나 없게 닦을 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "뚜레쥬르 미피 케이크 봤어요? 너무 귀여워",
-   "line2": "경훈씨 책상에 두면 결재 도장도 웃겠다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "laugh"
+   "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "월요일 앞둔 밤인데 네 덕에 든든해",
-   "line2": "내일도 우리 둘이 경훈씨 하루 빛내 드려요",
+   "line1": "일요일 밤인데 라면 한 젓가락만 할까?",
+   "line2": "언니 그 한 젓가락이 늘 한 봉지잖아요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "talkto",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니랑 있으면 월요병이 안 찾아와요",
+   "line2": "그럼 내일도 우리 둘이 같이 이겨내자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
    "pose2": "highfive"
   }
  ]
