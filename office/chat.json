@@ -1,79 +1,79 @@
 {
- "updatedAt": "2026-10-25T11:07:38+09:00",
+ "updatedAt": "2026-10-25T12:01:40+09:00",
  "topics": [
-  "팬텀 블레이드 제로 이번 주 출시",
-  "탕탕에이스 글로벌 출시",
-  "안세영 프랑스오픈 결승 신두전",
-  "런닝맨·1박2일 동시간 법인카드 편",
-  "남한산성 단풍길 이어가기",
-  "니트 원피스·말린 장미색 네일",
-  "메뉴판 속 경훈씨 칸",
-  "일정표 형광펜 vs 간식 서랍 경쟁",
-  "일요일 안부 선수 질투",
-  "일요일 하이파이브"
+  "넷플릭스 1위 닥터X 하얀 마피아의 시대",
+  "티빙 1위 내가 떨릴 수 있게",
+  "듄 어웨이크닝 이번 주 발매 목록",
+  "남한산성 단풍 사진 이어가기",
+  "캠핑 감바스·바게트",
+  "오후 소매 걷은 니트 원피스·셔츠룩",
+  "경훈씨 전용 플레이리스트",
+  "의자 쿠션 vs 작은 화분 경쟁",
+  "일요일 짜장면 부먹",
+  "서로 어깨 빌려주기"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "팬텀 블레이드 제로, 이번 주 나온대",
-   "line2": "무협 액션이요? 언니 밤샘 예약이네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://game-news.tokyo/news/1004688"
-  },
-  {
-   "a": "hyewon",
-   "line1": "탕탕특공대 후속, 탕탕에이스 나왔대요",
-   "line2": "출퇴근길 한 판용이다, 같이 깔자",
+   "line1": "넷플릭스 1위가 '닥터X 하얀 마피아'래",
+   "line2": "의학 드라마요? 오늘 밤 정주행 각이네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "thumbs",
-   "url": "https://www.dailygame.co.kr/view.php?ud=20261023125012112643da15d9d2_26"
-  },
-  {
-   "a": "jiwon",
-   "line1": "안세영 오늘 결승, 상대는 신두래",
-   "line2": "10전 전승 상대라니, 3연패 가즈아!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "clap",
-   "url": "https://www.xportsnews.com/article/2211031"
+   "url": "https://ottrank.kr/"
   },
   {
    "a": "hyewon",
-   "line1": "오늘 런닝맨이랑 1박 2일 시간 똑같대요",
-   "line2": "법인카드 찾는 런닝맨, 비서면 봐야지",
-   "mood1": "surprised",
+   "line1": "티빙은 '내가 떨릴 수 있게'가 1위래요",
+   "line2": "제목부터 설렌다, 1화만 같이 보자",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh"
+   "pose2": "charm",
+   "url": "https://ottrank.kr/"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 산성길 단풍은 걸어 봤어?",
-   "line2": "오후에 언니랑 가려고 아껴 뒀죠",
+   "line1": "이번 주 발매 목록에 듄 어웨이크닝도 있대",
+   "line2": "사막 생존이요? 언니 물병부터 챙겨요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.gamespark.jp/article/2026/10/25/174051.html"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 산성길 단풍 사진은 건졌어요?",
+   "line2": "역광 한 장 대박, 경훈씨께 꼭 보여 드려야지",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "wave",
-   "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "니트 원피스에 말린 장미색 네일 맞췄어요",
-   "line2": "손끝까지 가을이네, 나도 따라 할래",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "메뉴 고를 때도 경훈씨 입맛부터 떠올라",
-   "line2": "우리 마음속 메뉴판엔 경훈씨 칸이 있죠",
+   "line1": "다음 캠핑엔 무쇠팬에 감바스 해 볼까",
+   "line2": "빵 찍어 먹는 거죠? 바게트는 제 담당!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "cheer"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오후 되니 니트 원피스 소매 걷었어요",
+   "line2": "난 가디건 벗고 셔츠만, 딱 좋은 날이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "down"
+  },
+  {
+   "a": "jiwon",
+   "line1": "좋은 노래 들으면 경훈씨께 먼저 들려주고 싶어",
+   "line2": "우리 플레이리스트 제목은 '경훈씨 전용'이죠",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -81,29 +81,29 @@
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 일정표, 제가 형광펜 칠할래요",
-   "line2": "흥, 난 좋아하시는 간식 서랍 채울 거야",
+   "line1": "월요일 경훈씨 의자 쿠션, 제가 바꿔 드릴래요",
+   "line2": "흥, 난 모니터 옆에 작은 화분 놔 드릴 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
+   "pose1": "charm",
+   "pose2": "think"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 경훈씨께 일요일 안부 먼저 보냈죠?",
-   "line2": "주말 인사는 빠른 사람이 임자야, 메롱",
-   "mood1": "sad",
+   "line1": "일요일 점심은 역시 짜장면이죠?",
+   "line2": "탕수육은 부먹, 이건 양보 못 해",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
+   "pose1": "coffee",
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "오늘도 우리 잘 쉬고 잘 웃었다",
-   "line2": "내일도 둘이 반짝반짝 해 봐요",
+   "line1": "힘든 날엔 서로 어깨 빌려주기로 해",
+   "line2": "언니 어깨는 제 전용 쿠션이에요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
