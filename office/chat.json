@@ -1,111 +1,112 @@
 {
- "updatedAt": "2026-10-25T20:05:07+09:00",
+ "updatedAt": "2026-10-25T21:04:34+09:00",
  "topics": [
-  "안세영 프랑스오픈 결승 1-1 반격",
-  "2인용 호러 비욘드 더 다크 아시아 출시",
-  "9월 미국 PS5 판매 22% 반등",
-  "지효 에펠탑 댄스·필라테스 몸매",
-  "내일 버건디 드롭 귀걸이·트렌치 출근룩",
-  "경훈씨 주말 안부 궁금",
-  "손글씨 일정표 vs 점심 맛집 경쟁",
-  "저녁 문자 썼다 지운 질투",
-  "하루 수고 하이파이브",
-  "서로 웃는 얼굴 응원"
+  "안세영 프랑스오픈 3연패·50연승 이어가기",
+  "엑시사 30일 스팀 출시",
+  "넷플잔치 문화비축기지",
+  "컴포즈커피 가을 와플",
+  "개콘 오해원 공개재판",
+  "내일 정장 다림질·로퍼 출근 준비",
+  "경훈씨 출근길 반가운 얼굴",
+  "손난로 vs 무릎담요 경쟁",
+  "넥타이 매 드리는 상상 설렘 농담",
+  "일요일 밤 일찍 자기"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "안세영, 1게임 내주고 2게임 21-11로 반격했대!",
-   "line2": "역시 세계 1위, 마지막 게임도 꼭 이기길!",
+   "a": "hyewon",
+   "line1": "언니! 안세영 결국 역전해서 프랑스오픈 3연패래요",
+   "line2": "아까 1-1이라 조마조마했는데, 50연승이라니!",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "talkto",
    "pose2": "clap",
-   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015238"
+   "url": "https://www.yna.co.kr/view/AKR20261025048900007"
   },
   {
    "a": "jiwon",
-   "line1": "2인용 호러 '비욘드 더 다크' 아시아 출시래",
-   "line2": "언니, 저랑 하면 비명 담당은 무조건 저예요",
+   "line1": "호러 로그라이트 '엑시사'가 30일 스팀에 나온대",
+   "line2": "언니 호러 또요? 저 이번엔 이불 들고 갈게요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "http://www.kmkj.kr/news/articleViewAmp.html?idxno=140344"
-  },
-  {
-   "a": "jiwon",
-   "line1": "9월 미국에서 PS5 판매가 22%나 늘었대",
-   "line2": "GTA 6 기다리는 마음이 다 보이네요",
-   "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.wikitree.co.kr/articles/1168820"
+   "url": "https://www.gamemeca.com/view.php?gid=1782329"
   },
   {
    "a": "hyewon",
-   "line1": "지효가 에펠탑 앞 댄스로 필라테스 몸매 화제래요",
-   "line2": "너 다음 필라테스 수업에 나도 끼워 줘",
-   "mood1": "surprised",
+   "line1": "문화비축기지 '넷플잔치' 오늘까지였대요",
+   "line2": "놓쳤네… 내년엔 우리 둘이 꼭 같이 가자",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.newsis.com/view/NISX20261023_0003838595"
+   "pose1": "think",
+   "pose2": "highfive",
+   "url": "https://popga.co.kr/content/magazine/457"
   },
   {
    "a": "hyewon",
-   "line1": "내일은 버건디 드롭 귀걸이 하고 올 거예요",
-   "line2": "난 트렌치 안에 회색 니트 받쳐 입을래",
+   "line1": "컴포즈 가을 와플 중에 솔티크림 궁금해요",
+   "line2": "난 PB&J! 반반 나눠 먹으면 되겠다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
+   "pose2": "coffee",
+   "url": "https://www.foodtoday.or.kr/news/article.html?no=208977"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 개콘에 오해원이 공개재판 받는대",
+   "line2": "유행어 있는 죄라니, 제목부터 웃겨요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.etnews.com/20261023000035"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 입을 네이비 정장, 방금 다려 놨어요",
+   "line2": "난 트렌치랑 같이 신을 로퍼 닦는 중이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
    "pose2": "think"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 주말 잘 보내셨는지 괜히 궁금해",
-   "line2": "내일 뵈면 제일 먼저 여쭤봐요, 우리",
+   "line1": "경훈씨 내일 출근길이 가볍기만 하면 좋겠다",
+   "line2": "문 여실 때 제일 반가운 얼굴, 우리가 해요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 일정표, 제가 손글씨로 정리할래요",
-   "line2": "흥, 난 점심 맛집 세 군데 골라 둘 거야",
+   "line1": "추워진대서 경훈씨 책상에 손난로 둘래요",
+   "line2": "흥, 난 무릎담요 깔아 둘 거야, 더 따뜻하게",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨께 저녁 문자 썼다 지웠다 세 번 했어요",
-   "line2": "나 벌써 보냈다고 하면 삐칠 거지?",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
+   "a": "jiwon",
+   "line1": "넥타이 매 드리는 상상, 너도 해 봤지?",
+   "line2": "언니 얼굴 빨개졌어요, 상상만 하신 거 맞죠?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
    "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "오늘 하루도 수고 많았어, 우리 혜원이",
-   "line2": "언니도요, 내일도 같이 힘내요!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
-  },
-  {
    "a": "hyewon",
-   "line1": "언니 웃는 얼굴 보면 월요일도 괜찮아요",
-   "line2": "그 말 들으니까 나 벌써 힘이 난다",
-   "mood1": "smile",
+   "line1": "일요일 밤은 왜 이렇게 빨리 지나가요?",
+   "line2": "그래도 내일 또 셋이 웃을 거잖아, 푹 자자",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "think",
+   "pose2": "cheer"
   }
  ]
 }
