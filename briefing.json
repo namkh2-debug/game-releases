@@ -1,9 +1,9 @@
 {
  "date": "2026-10-25",
- "updatedAt": "2026-10-25T16:08:00+09:00",
+ "updatedAt": "2026-10-25T17:03:28+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 22,
+  "temp": 20,
   "low": 11,
   "high": 23,
   "condition": "오전 흐림, 오후 맑음",
@@ -13,6 +13,16 @@
   "source": "네이버 날씨(기상청·웨더아이 제공, 송정동 기준)"
  },
  "breaking": [
+  {
+   "title": "상어 '부캉이' 이틀째 부산항 국제여객터미널 인근서 관측",
+   "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/25/2026102590061.html",
+   "source": "TV조선"
+  },
+  {
+   "title": "LIG D&A, 수억원대 뇌물 혐의에 1223억 방산사업 무산 위기",
+   "url": "https://n.news.naver.com/article/243/0000104687",
+   "source": "이코노미스트"
+  },
   {
    "title": "남해동부바깥먼바다 태풍경보 발령",
    "url": "https://www.yonhapnewstv.co.kr/news/MYH20261025155629RCK",
@@ -27,16 +37,6 @@
    "title": "인천경찰청·12개 경찰서 홈페이지 ‘운영 중단’…“보안점검 중”",
    "url": "https://www.kyeonggi.com/article/20261025580203",
    "source": "경기일보"
-  },
-  {
-   "title": "음주운전 제지하는 시민 차로 치고 달아난 30대 입건…면허 취소 수치",
-   "url": "https://www.segye.com/newsView/20261025508050",
-   "source": "세계일보"
-  },
-  {
-   "title": "청와대, 비트코인 등 '가상자산 과세' 추가 유예 검토",
-   "url": "https://economist.co.kr/article/view/ecn202610250010",
-   "source": "이코노미스트"
   }
  ],
  "news": [
@@ -75,6 +75,12 @@
    "url": "https://www.yna.co.kr/view/AKR20261024003000071",
    "source": "연합뉴스",
    "summary": "트럼프 2기 반환점 중간선거가 1주일 앞으로 다가온 가운데 고물가·이란 전쟁 여파로 트럼프 지지율은 역대 최저 수준이다."
+  },
+  {
+   "title": "청와대, 비트코인 등 '가상자산 과세' 추가 유예 검토",
+   "url": "https://economist.co.kr/article/view/ecn202610250010",
+   "source": "이코노미스트",
+   "summary": "내년 1월 시행 예정이던 가상자산 소득 과세를 다시 미루는 방안이 검토되고 있다."
   },
   {
    "title": "가계대출 다시 들썩, 5대은행 이달 2.6조↑…은행 예금 11조↑",
@@ -135,12 +141,6 @@
    "url": "https://www.yna.co.kr/view/AKR20261024037451007",
    "source": "연합뉴스",
    "summary": "강원과 1-1로 비기고 2위 울산도 포항과 비기면서 파이널 라운드 전 조기 우승을 확정했다."
-  },
-  {
-   "title": "프랑스 시위 제한에도 41만명 거리로…곳곳에서 충돌",
-   "url": "https://www.yna.co.kr/view/AKR20261024052552085",
-   "source": "연합뉴스",
-   "summary": "공공투자 부족과 고물가에 항의하는 시위에 경찰 7만명이 투입됐지만 수십만 명이 거리로 나와 곳곳에서 충돌했다."
   },
   {
    "title": "'민생행보 준비' 張·'보폭 확대' 吳…국힘 '주도권 경쟁' 돌입",
