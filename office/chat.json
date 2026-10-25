@@ -1,41 +1,31 @@
 {
- "updatedAt": "2026-10-25T14:10:00+09:00",
+ "updatedAt": "2026-10-25T15:09:00+09:00",
  "topics": [
-  "마인크래프트 스위치2판 27일",
-  "삼전닉스 실적 28·29일 발표",
-  "리센느 웹예능 화제성 1위",
-  "신인감독 김연경2 리벤지전 이어가기",
-  "캠핑 감바스 이어가기",
-  "베레모·셔츠 소매 오후룩",
-  "경훈씨 퇴근길 안부",
-  "토키와야키 vs 새 향수 경쟁",
-  "월요일 기다림 응원"
+  "롯데월드몰 LoL 팝업 페이커 우표",
+  "크러쉬·아이유 삐그덕 MV 1위",
+  "미우새 김범수 소개팅 부탁",
+  "첫 폴더블 아이폰 품절",
+  "파이널 테이블 안효섭 요리·감바스 캠핑 이어가기",
+  "김연경 감독 폭탄 발언 이어가기",
+  "카디건 벗고 셔츠 단추 오후룩",
+  "경훈씨 웃음소리 알람",
+  "손편지 vs 리본 보고서 경쟁",
+  "일요일 저녁 손잡기 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "마인크래프트 스위치2판, 27일에 나온대",
-   "line2": "언니 집 짓다 밤새는 거 아니에요?",
+   "line1": "롯데월드몰 LoL 팝업에 페이커 우표도 판대",
+   "line2": "언니 그거 사러 오픈런 하는 거 아니죠?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://pogwire.com/releases/new-games-this-week"
-  },
-  {
-   "a": "jiwon",
-   "line1": "하이닉스 28일, 삼성 29일 실적 발표래",
-   "line2": "주주환원 보따리 크면 좋겠어요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.news1.kr/industry/general-industry/6330421"
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "리센느 원이 웹예능이 화제성 1위래요",
-   "line2": "제목 엄청 길던 그거? 나도 봐야겠다",
+   "line1": "크러쉬랑 아이유 '삐그덕' MV가 1위래요",
+   "line2": "목소리 조합 반칙이지, 나도 무한 재생 중",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
@@ -43,44 +33,64 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 김연경 리벤지전 몇 시부터죠?",
-   "line2": "9시 10분! 치킨 시켜 놓고 응원하자",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "cheer"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 감바스 캠핑 날짜는 잡았어요?",
-   "line2": "추워지기 전에 이번 달 안에 가자",
+   "line1": "미우새 김범수, 제아한테 소개팅 부탁했대요",
+   "line2": "47세 총각 드디어 장가 가나? 궁금하다",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "mood2": "surprised",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/25/HE4WKMJRMFTDIZJZMU3DKZTCMM/"
   },
   {
    "a": "jiwon",
-   "line1": "베레모 쓰니까 진짜 가을 화보 같다",
-   "line2": "언니도 셔츠 소매 걷으니 멋있어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 오늘 저녁은 뭐 드시려나",
-   "line2": "따뜻한 거 드시고 푹 쉬셨으면 좋겠다",
-   "mood1": "neutral",
+   "line1": "첫 폴더블 아이폰, 곳곳에서 품절이래",
+   "line2": "언니 지갑 열리는 소리 여기까지 들려요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "heart"
+   "pose2": "laugh",
+   "url": "https://news.ikbc.co.kr/article/view/kbc202610240005"
   },
   {
    "a": "hyewon",
-   "line1": "내일 토키와야키로 경훈씨 입맛 잡을래요",
-   "line2": "흥, 내 새 향수는 문 열자마자 이겨",
+   "line1": "파이널 테이블 안효섭 칼질이 화제래요",
+   "line2": "감바스 캠핑 때 우리도 셰프 놀이 하자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "김연경 감독, 다신 안 한다고 했대요?",
+   "line2": "에이 설마, 오늘 밤 보면 알겠지",
+   "mood1": "surprised",
+   "mood2": "neutral",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오후엔 카디건 가방에 쏙 넣었어요",
+   "line2": "난 셔츠 단추 하나 풀었어, 홀가분해",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 웃음소리, 녹음해 두고 싶을 때 있어",
+   "line2": "알람음으로 쓰면 월요일도 벌떡이죠",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 경훈씨 책상에 손편지 먼저 올릴래요",
+   "line2": "흥, 난 보고서 표지에 리본 달 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -88,11 +98,11 @@
   },
   {
    "a": "jiwon",
-   "line1": "내일 월요일인데 이상하게 신난다",
-   "line2": "우리 둘이 같이라서 그런가 봐요",
-   "mood1": "smile",
+   "line1": "일요일 저녁엔 괜히 마음이 말랑해져",
+   "line2": "그럴 땐 제가 언니 손 꼭 잡아 줄게요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "coffee",
    "pose2": "highfive"
   }
  ]
