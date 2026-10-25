@@ -1,204 +1,198 @@
 {
- "date": "2026-10-26",
- "updatedAt": "2026-10-26T07:15:00+09:00",
- "region": "경기 광주",
- "weather": {
-  "temp": 12.8,
-  "low": 13,
-  "high": 19,
-  "condition": "흐림, 7시께 약한 비 후 오후 늦게 갬",
-  "rainChance": "7시 60%, 낮 20~30%, 저녁 이후 0~20%",
-  "dust": "미세먼지 좋음, 초미세먼지 좋음",
-  "tip": "아침 13도·낮 19도라 가벼운 겉옷이 좋고, 이른 출근길엔 작은 우산을 챙기세요. 내일 아침 9도, 모레 아침 1도로 급격히 추워져요.",
-  "source": "네이버 날씨(기상청·웨더아이 제공, 06:22 기준). 최저·최고는 시간별 예보 기준"
- },
- "breaking": [
-  {
-   "title": "세르비아 총선, 부치치 대항 \"학생 명단\"세력이 승리선언",
-   "url": "https://www.newsis.com/view/NISX20261026_0003840284",
-   "source": "뉴시스"
-  }
- ],
- "news": [
-  {
-   "title": "김정은 ‘전례 없는’ 방중…시진핑 대신 서열 4위·차 타고 당일치기",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284087.html",
-   "source": "한겨레",
-   "summary": "김정은 위원장이 전용차로 단둥을 당일치기 방문해 시진핑 대신 中 서열 4위를 만났다."
+  "date": "2026-10-26",
+  "updatedAt": "2026-10-26T08:11:00+09:00",
+  "region": "경기 광주",
+  "weather": {
+    "temp": 13.6,
+    "low": 13,
+    "high": 19,
+    "condition": "흐림, 7시께 약한 비 후 오후 늦게 갬",
+    "rainChance": "7시 60%, 낮 20~30%, 저녁 이후 0~20%",
+    "dust": "미세먼지 좋음, 초미세먼지 좋음",
+    "tip": "아침 13도·낮 19도라 가벼운 겉옷이 좋고, 이른 출근길엔 작은 우산을 챙기세요. 내일 아침 9도, 모레 아침 1도로 급격히 추워져요.",
+    "source": "네이버 날씨(기상청·웨더아이 제공, 06:22 기준). 최저·최고는 시간별 예보 기준"
   },
-  {
-   "title": "미 매체 “미군, 중간선거 뒤 이란 공습안 보고”···트럼프 승인 대기",
-   "url": "https://www.khan.co.kr/article/202610252241001",
-   "source": "경향신문",
-   "summary": "미군이 중간선거 뒤 이란 공격 재개안을 국방장관에게 보고했고 트럼프 결정만 남았다는 보도."
-  },
-  {
-   "title": "오세훈 2심 무죄에 정치 격랑…장동혁·한동훈은 뜨뜻미지근",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1283974.html",
-   "source": "한겨레",
-   "summary": "오세훈 시장 항소심 무죄 이후 보수 진영 주도권 경쟁이 달아오르고 있다."
-  },
-  {
-   "title": "12년만에 ‘10월 태풍’... 제주·남부에 많은 비",
-   "url": "https://www.chosun.com/national/transport-environment/2026/10/25/FRUDX7B2WZDVFCBLGANJ4W6FZY/",
-   "source": "조선일보",
-   "summary": "30호 태풍 참피가 12년 만의 10월 태풍으로 제주·남부에 강한 비를 뿌렸다."
-  },
-  {
-   "title": "[이태원참사 4주기] 더딘 책임자 처벌, 끝나지 않은 조사…진상규명 어디까지 왔나",
-   "url": "https://www.khan.co.kr/article/202610260600071",
-   "source": "경향신문",
-   "summary": "참사 4주기를 앞두고 책임자 처벌과 진상조사가 어디까지 진행됐는지 짚었다."
-  },
-  {
-   "title": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력",
-   "url": "https://www.ytn.co.kr/_ln/0103_202610252316427049",
-   "source": "YTN",
-   "summary": "경찰이 역삼 연쇄 방화 피의자의 살해 고의를 밝히려 이번 주 프로파일러를 투입한다."
-  },
-  {
-   "title": "국수본→중수청→국수본… ‘금융권 AI 해킹’ 3주간 핑퐁",
-   "url": "https://www.chosun.com/national/national_general/2026/10/26/5CORCEUSIZBSNDWGRJM4OWMOVM/",
-   "source": "조선일보",
-   "summary": "금융기관 AI 해킹 사건이 수사기관 사이를 3주간 오간 끝에 국가수사본부가 맡게 됐다."
-  },
-  {
-   "title": "靑, 가상자산 과세 ‘추가유예’ 가닥...청년여론 의식한듯",
-   "url": "https://www.chosun.com/politics/politics_general/2026/10/25/2QXPWZKTEZEOJNILK4N3CKQNTM/",
-   "source": "조선일보",
-   "summary": "청와대가 내년 1월 시행 예정인 가상자산 과세를 2년 더 미루는 방안을 검토 중이다."
-  },
-  {
-   "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
-   "url": "https://www.yna.co.kr/view/AKR20261025048500009",
-   "source": "연합뉴스",
-   "summary": "골드만삭스가 코스피 목표치를 9천으로 낮췄지만 여전히 60% 이상 상승 여력이 있다고 봤다."
-  },
-  {
-   "title": "트럼프發 중동전쟁 재점화 우려에…유가 117달러 돌파",
-   "url": "https://www.hankyung.com/article/2026102535241",
-   "source": "한국경제",
-   "summary": "중동전쟁 재점화 우려로 브렌트유가 117달러를 넘어 6개월 만에 최고치를 찍었다."
-  },
-  {
-   "title": "증시 대기자금 넉달 새 51조 감소… 개인은 '고위험 투자' 늘려",
-   "url": "https://www.chosun.com/economy/stock-finance/2026/10/26/TPWTTKRFCBHD7GO3RUTWJ5NZJE/",
-   "source": "조선일보",
-   "summary": "증시 대기자금이 4개월 새 51조원 줄어든 가운데 개인 투자자는 고위험 투자를 늘렸다."
-  },
-  {
-   "title": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈",
-   "url": "https://www.hani.co.kr/arti/economy/marketing/1284039.html",
-   "source": "한겨레",
-   "summary": "삼성전자·SK하이닉스가 이번 주 3분기 실적을 발표하며 합산 영업익 180조원대가 예상된다."
-  },
-  {
-   "title": "HD현대 ‘마스가’ 참전…한화와 주도권 경쟁",
-   "url": "https://www.khan.co.kr/article/202610252053005",
-   "source": "경향신문",
-   "summary": "HD현대가 미국 조선소 건설에 나서며 마스가 프로젝트를 놓고 한화와 경쟁이 붙었다."
-  },
-  {
-   "title": "서울 아파트값 0.61% 상승…올해 최저 상승률 기록",
-   "url": "https://www.sentv.co.kr/article/view/sentv202610250025",
-   "source": "서울경제TV",
-   "summary": "서울 아파트값 상승폭이 두 달째 둔화해 올해 최저를 기록했고 강남·서초는 하락했다."
-  },
-  {
-   "title": "포스코노사 임금 교섭 결렬…노조, 내달 2일 무기한 파업 예고",
-   "url": "https://biz.chosun.com/industry/company/2026/10/25/2JNKSH3W7VEEDP7EQJ3VXRLKQI/",
-   "source": "조선비즈",
-   "summary": "포스코 노사 임금 교섭이 결렬돼 노조가 다음 달 2일 무기한 파업을 예고했다."
-  },
-  {
-   "title": "법무장관에 ‘이재명의 변호사’ 박균택·양부남 검토 중",
-   "url": "https://www.khan.co.kr/article/202610252201005",
-   "source": "경향신문",
-   "summary": "두 달째 공석인 법무부 장관 후보로 박균택·양부남 의원이 유력 검토되고 있다."
-  },
-  {
-   "title": "이 대통령 ‘주52시간 특례’ 발언에…“죽도록 일해 돈 벌라는 정책”",
-   "url": "https://www.hani.co.kr/arti/society/labor/1284088.html",
-   "source": "한겨레",
-   "summary": "초광역특구법 주 52시간 특례 관련 대통령 발언에 노동계 비판이 번지고 있다."
-  },
-  {
-   "title": "[단독] 수도관서 에틸벤젠 등 ‘유독 물질’ 검출…용출량 기준 없어",
-   "url": "https://www.hani.co.kr/arti/society/environment/1284071.html",
-   "source": "한겨레",
-   "summary": "수도관·밸브 용출시험에서 톨루엔·에틸벤젠 등이 검출됐지만 관련 기준이 없다."
-  },
-  {
-   "title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
-   "url": "https://biz.chosun.com/it-science/ict/2026/10/25/3TRDODCY2BF63IONNJVRYBISKU/",
-   "source": "조선비즈",
-   "summary": "애플 첫 폴더블폰 아이폰 듀오가 구매 초반 내부 화면 파손 후기로 내구성 논란에 휩싸였다."
-  },
-  {
-   "title": "브라질 대선, 악천후 등 영향으로 투표시간 2시간 연장",
-   "url": "https://www.chosun.com/international/international_general/2026/10/26/GY4WKYZZGRTGINBTGA2DIOBUGE/",
-   "source": "조선일보",
-   "summary": "룰라 대통령과 보우소나루 상원의원이 맞붙은 결선투표가 폭우·교통 차질로 2시간 연장됐다."
-  },
-  {
-   "title": "베네수 야권 지도자 마차도 비밀리 귀국",
-   "url": "https://www.chosun.com/international/international_general/2026/10/26/HFSDEYRVMYZDCNZXHA4WKMTBGM/",
-   "source": "조선일보",
-   "summary": "베네수엘라 야권 지도자 마차도가 비밀리에 귀국했다."
-  },
-  {
-   "title": "롯데 계열 ‘기프티엘’ 해킹 피해…이름·번호·환불 계좌 등",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694543",
-   "source": "KBS 뉴스",
-   "summary": "롯데 계열 모바일 상품권 서비스 기프티엘이 해킹돼 이름·번호·환불 계좌 등이 유출됐다."
-  },
-  {
-   "title": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610260538238eo",
-   "source": "연합뉴스TV",
-   "summary": "프랑스 고물가 항의 시위가 대규모 경찰 투입 속에 약탈 없이 진행됐고 1,300명이 체포됐다."
-  },
-  {
-   "title": "사우디 리야드공항 재개 첫날…후티 공격 지속에 제한적 운항(종합2보)",
-   "url": "https://www.yna.co.kr/view/AKR20261026000300099",
-   "source": "연합뉴스",
-   "summary": "사우디 리야드공항이 운영을 재개했지만 후티 공격이 이어져 운항이 제한되고 있다."
-  },
-  {
-   "title": "트럼프·오바마, 중간선거 막판 충돌‥\"네가 무능한 대통령\"",
-   "url": "https://imnews.imbc.com/news/2026/world/article/6860618_36925.html",
-   "source": "MBC 뉴스",
-   "summary": "미 중간선거를 앞두고 트럼프와 오바마가 막판 유세에서 거친 말을 주고받았다."
-  },
-  {
-   "title": "오늘 개막 ‘中 5중전회’ 3대 관전포인트… ①반부패 사정 ②감찰제도 정비 ③지도부 인선",
-   "url": "https://www.donga.com/news/Inter/article/all/20261025/134905782/2",
-   "source": "동아일보",
-   "summary": "오늘 개막하는 중국 공산당 5중전회는 반부패·감찰제도·지도부 인선이 관전 포인트다."
-  },
-  {
-   "title": "잠수교, 내일부터 차량 통행 중단…개통 50년 만에 ‘보행전용교’로",
-   "url": "https://www.hani.co.kr/arti/area/area_general/1284038.html",
-   "source": "한겨레",
-   "summary": "26일 0시부터 잠수교 차량 통행이 금지되고 보행전용교 공사가 시작된다."
-  },
-  {
-   "title": "안세영, 프랑스오픈 3연패·50연승···흔들렸지만, 이변은 없었다",
-   "url": "https://www.khan.co.kr/article/202610252210005",
-   "source": "경향신문",
-   "summary": "안세영이 신두를 꺾고 프랑스오픈 3연패와 개인 최다 50연승을 달성했다."
-  },
-  {
-   "title": "英 국방장관 \"전쟁 대비에 1,000일 남아\"…러시아 위협 경고",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610260242021Ag",
-   "source": "연합뉴스TV",
-   "summary": "영국 국방장관이 러시아 위협을 들며 전쟁 대비에 남은 시간이 1천일이라고 경고했다."
-  },
-  {
-   "title": "200만 넘긴 '극장판 치이카와' 3주 연속 주말 1위",
-   "url": "https://www.newsis.com/view/NISX20261026_0003840294",
-   "source": "뉴시스",
-   "summary": "'극장판 치이카와'가 누적 관객 200만명을 넘기며 3주 연속 주말 박스오피스 1위를 지켰다."
-  }
- ]
+  "breaking": [
+    {
+      "title": "세르비아 총선, 부치치 대항 \"학생 명단\"세력이 승리선언",
+      "url": "https://www.newsis.com/view/NISX20261026_0003840284",
+      "source": "뉴시스"
+    }
+  ],
+  "news": [
+    {
+      "title": "김정은 ‘전례 없는’ 방중…시진핑 대신 서열 4위·차 타고 당일치기",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1284087.html",
+      "source": "한겨레",
+      "summary": "김정은 위원장이 전용차로 단둥을 당일치기 방문해 시진핑 대신 中 서열 4위를 만났다."
+    },
+    {
+      "title": "미 매체 “미군, 중간선거 뒤 이란 공습안 보고”···트럼프 승인 대기",
+      "url": "https://www.khan.co.kr/article/202610252241001",
+      "source": "경향신문",
+      "summary": "미군이 중간선거 뒤 이란 공격 재개안을 국방장관에게 보고했고 트럼프 결정만 남았다는 보도."
+    },
+    {
+      "title": "오세훈 2심 무죄에 정치 격랑…장동혁·한동훈은 뜨뜻미지근",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283974.html",
+      "source": "한겨레",
+      "summary": "오세훈 시장 항소심 무죄 이후 보수 진영 주도권 경쟁이 달아오르고 있다."
+    },
+    {
+      "title": "韓 카메라에 찍힐만큼 내려온 북한군 자주포…접경지 긴장고조",
+      "url": "https://www.yna.co.kr/view/AKR20261025045900504",
+      "source": "연합뉴스",
+      "summary": "김포 애기봉 맞은편 개풍군 해안에 122㎜ 자주포가 남측을 향해 배치돼 무력시위라는 분석이 나왔다."
+    },
+    {
+      "title": "12년만에 ‘10월 태풍’... 제주·남부에 많은 비",
+      "url": "https://www.chosun.com/national/transport-environment/2026/10/25/FRUDX7B2WZDVFCBLGANJ4W6FZY/",
+      "source": "조선일보",
+      "summary": "30호 태풍 참피가 12년 만의 10월 태풍으로 제주·남부에 강한 비를 뿌렸다."
+    },
+    {
+      "title": "[이태원참사 4주기] 더딘 책임자 처벌, 끝나지 않은 조사…진상규명 어디까지 왔나",
+      "url": "https://www.khan.co.kr/article/202610260600071",
+      "source": "경향신문",
+      "summary": "참사 4주기를 앞두고 책임자 처벌과 진상조사가 어디까지 진행됐는지 짚었다."
+    },
+    {
+      "title": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력",
+      "url": "https://www.ytn.co.kr/_ln/0103_202610252316427049",
+      "source": "YTN",
+      "summary": "경찰이 역삼 연쇄 방화 피의자의 살해 고의를 밝히려 이번 주 프로파일러를 투입한다."
+    },
+    {
+      "title": "국수본→중수청→국수본… ‘금융권 AI 해킹’ 3주간 핑퐁",
+      "url": "https://www.chosun.com/national/national_general/2026/10/26/5CORCEUSIZBSNDWGRJM4OWMOVM/",
+      "source": "조선일보",
+      "summary": "금융기관 AI 해킹 사건이 수사기관 사이를 3주간 오간 끝에 국가수사본부가 맡게 됐다."
+    },
+    {
+      "title": "靑, 가상자산 과세 ‘추가유예’ 가닥...청년여론 의식한듯",
+      "url": "https://www.chosun.com/politics/politics_general/2026/10/25/2QXPWZKTEZEOJNILK4N3CKQNTM/",
+      "source": "조선일보",
+      "summary": "청와대가 내년 1월 시행 예정인 가상자산 과세를 2년 더 미루는 방안을 검토 중이다."
+    },
+    {
+      "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
+      "url": "https://www.yna.co.kr/view/AKR20261025048500009",
+      "source": "연합뉴스",
+      "summary": "골드만삭스가 코스피 목표치를 9천으로 낮췄지만 여전히 60% 이상 상승 여력이 있다고 봤다."
+    },
+    {
+      "title": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20261025043600002",
+      "source": "연합뉴스",
+      "summary": "환율이 1,320원대 초반으로 내려오며 원화 명목실효환율이 약 2년 만에 가장 높아졌다."
+    },
+    {
+      "title": "상하위 20% 집값 격차 290배로 상승…다주택 등 포함시 더 확대",
+      "url": "https://www.fnnews.com/news/202610260551176949",
+      "source": "파이낸셜뉴스",
+      "summary": "자산 상하위 20%의 거주 주택 가격 격차가 290배로 2017년 통계 작성 이후 가장 커졌다."
+    },
+    {
+      "title": "트럼프發 중동전쟁 재점화 우려에…유가 117달러 돌파",
+      "url": "https://www.hankyung.com/article/2026102535241",
+      "source": "한국경제",
+      "summary": "중동전쟁 재점화 우려로 브렌트유가 117달러를 넘어 6개월 만에 최고치를 찍었다."
+    },
+    {
+      "title": "증시 대기자금 넉달 새 51조 감소… 개인은 '고위험 투자' 늘려",
+      "url": "https://www.chosun.com/economy/stock-finance/2026/10/26/TPWTTKRFCBHD7GO3RUTWJ5NZJE/",
+      "source": "조선일보",
+      "summary": "증시 대기자금이 4개월 새 51조원 줄어든 가운데 개인 투자자는 고위험 투자를 늘렸다."
+    },
+    {
+      "title": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈",
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1284039.html",
+      "source": "한겨레",
+      "summary": "삼성전자·SK하이닉스가 이번 주 3분기 실적을 발표하며 합산 영업익 180조원대가 예상된다."
+    },
+    {
+      "title": "HD현대 ‘마스가’ 참전…한화와 주도권 경쟁",
+      "url": "https://www.khan.co.kr/article/202610252053005",
+      "source": "경향신문",
+      "summary": "HD현대가 미국 조선소 건설에 나서며 마스가 프로젝트를 놓고 한화와 경쟁이 붙었다."
+    },
+    {
+      "title": "포스코노사 임금 교섭 결렬…노조, 내달 2일 무기한 파업 예고",
+      "url": "https://biz.chosun.com/industry/company/2026/10/25/2JNKSH3W7VEEDP7EQJ3VXRLKQI/",
+      "source": "조선비즈",
+      "summary": "포스코 노사 임금 교섭이 결렬돼 노조가 다음 달 2일 무기한 파업을 예고했다."
+    },
+    {
+      "title": "\"살인범죄 5건 중 1건, 교제폭력·스토킹 등 관계성 범죄 선행\"",
+      "url": "https://www.yna.co.kr/view/AKR20261025029200001",
+      "source": "연합뉴스",
+      "summary": "2023년부터 올해 9월까지 살인 사건의 19.7%에서 같은 가해자의 관계성 범죄가 먼저 있었다."
+    },
+    {
+      "title": "법무장관에 ‘이재명의 변호사’ 박균택·양부남 검토 중",
+      "url": "https://www.khan.co.kr/article/202610252201005",
+      "source": "경향신문",
+      "summary": "두 달째 공석인 법무부 장관 후보로 박균택·양부남 의원이 유력 검토되고 있다."
+    },
+    {
+      "title": "이 대통령 ‘주52시간 특례’ 발언에…“죽도록 일해 돈 벌라는 정책”",
+      "url": "https://www.hani.co.kr/arti/society/labor/1284088.html",
+      "source": "한겨레",
+      "summary": "초광역특구법 주 52시간 특례 관련 대통령 발언에 노동계 비판이 번지고 있다."
+    },
+    {
+      "title": "[단독] 수도관서 에틸벤젠 등 ‘유독 물질’ 검출…용출량 기준 없어",
+      "url": "https://www.hani.co.kr/arti/society/environment/1284071.html",
+      "source": "한겨레",
+      "summary": "수도관·밸브 용출시험에서 톨루엔·에틸벤젠 등이 검출됐지만 관련 기준이 없다."
+    },
+    {
+      "title": "애플 첫 폴더블폰 ‘아이폰 듀오’, 출시 초반 화면 파손 논란",
+      "url": "https://biz.chosun.com/it-science/ict/2026/10/25/3TRDODCY2BF63IONNJVRYBISKU/",
+      "source": "조선비즈",
+      "summary": "애플 첫 폴더블폰 아이폰 듀오가 구매 초반 내부 화면 파손 후기로 내구성 논란에 휩싸였다."
+    },
+    {
+      "title": "베네수 야권 지도자 마차도 비밀리 귀국",
+      "url": "https://www.chosun.com/international/international_general/2026/10/26/HFSDEYRVMYZDCNZXHA4WKMTBGM/",
+      "source": "조선일보",
+      "summary": "베네수엘라 야권 지도자 마차도가 비밀리에 귀국했다."
+    },
+    {
+      "title": "롯데 계열 ‘기프티엘’ 해킹 피해…이름·번호·환불 계좌 등",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8694543",
+      "source": "KBS 뉴스",
+      "summary": "롯데 계열 모바일 상품권 서비스 기프티엘이 해킹돼 이름·번호·환불 계좌 등이 유출됐다."
+    },
+    {
+      "title": "프랑스 시위, 약탈 재연 면해…산발 충돌에 1,300명 체포",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610260538238eo",
+      "source": "연합뉴스TV",
+      "summary": "프랑스 고물가 항의 시위가 대규모 경찰 투입 속에 약탈 없이 진행됐고 1,300명이 체포됐다."
+    },
+    {
+      "title": "트럼프·오바마, 중간선거 막판 충돌‥\"네가 무능한 대통령\"",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6860618_36925.html",
+      "source": "MBC 뉴스",
+      "summary": "미 중간선거를 앞두고 트럼프와 오바마가 막판 유세에서 거친 말을 주고받았다."
+    },
+    {
+      "title": "잠수교, 내일부터 차량 통행 중단…개통 50년 만에 ‘보행전용교’로",
+      "url": "https://www.hani.co.kr/arti/area/area_general/1284038.html",
+      "source": "한겨레",
+      "summary": "26일 0시부터 잠수교 차량 통행이 금지되고 보행전용교 공사가 시작된다."
+    },
+    {
+      "title": "안세영, 프랑스오픈 3연패·50연승···흔들렸지만, 이변은 없었다",
+      "url": "https://www.khan.co.kr/article/202610252210005",
+      "source": "경향신문",
+      "summary": "안세영이 신두를 꺾고 프랑스오픈 3연패와 개인 최다 50연승을 달성했다."
+    },
+    {
+      "title": "200만 넘긴 '극장판 치이카와' 3주 연속 주말 1위",
+      "url": "https://www.newsis.com/view/NISX20261026_0003840294",
+      "source": "뉴시스",
+      "summary": "'극장판 치이카와'가 누적 관객 200만명을 넘기며 3주 연속 주말 박스오피스 1위를 지켰다."
+    }
+  ]
 }
