@@ -1,9 +1,9 @@
 {
  "date": "2026-10-25",
- "updatedAt": "2026-10-25T19:04:11+09:00",
+ "updatedAt": "2026-10-25T20:04:15+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 17.2,
+  "temp": 16.3,
   "low": 11,
   "high": 23,
   "condition": "오전 흐림, 오후 맑음",
@@ -14,9 +14,19 @@
  },
  "breaking": [
   {
-   "title": "춘천 마라톤 풀코스 뛰고 운전하다 보행자 들이받아…3명 부상",
-   "url": "https://www.kado.net/news/articleView.html?idxno=2080246",
-   "source": "강원도민일보"
+   "title": "'이게 바로 안세영이지!' 16-21 충격패 당하더니 21-11 대반격…프랑스오픈 결승 1-1 원점",
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015238",
+   "source": "SPOTV NEWS"
+  },
+  {
+   "title": "마라톤 풀코스 뛴 40대女, 차 몰다 인도 돌진…2명 중상, 1명 경상",
+   "url": "https://biz.heraldcorp.com/article/10914010",
+   "source": "헤럴드경제"
+  },
+  {
+   "title": "스토킹 신고했던 전 연인 살해하고 도주…40대 男, 강릉서 검거",
+   "url": "https://www.sedaily.com/article/20105857",
+   "source": "서울경제"
   },
   {
    "title": "이 대통령 \"경제 활력, 더 많은 투자·일자리·생활의 여유로 이어져야\"",
@@ -27,16 +37,6 @@
    "title": "“마주 오던 차와 그대로 충돌”…횡성서 오토바이 역주행, 40대 운전자 숨져",
    "url": "https://www.dt.co.kr/article/12091127",
    "source": "디지털타임스"
-  },
-  {
-   "title": "부캉이 생중계하려고…부산항 해상서 배 빌려 촬영한 유튜버 적발",
-   "url": "https://www.busan.com/view/busan/view.php?code=2026102518113158478",
-   "source": "부산일보"
-  },
-  {
-   "title": "美대학 가족 초대 행사서 총격…어린이 등 11명 총상",
-   "url": "https://biz.heraldcorp.com/article/10913989",
-   "source": "헤럴드경제"
   }
  ],
  "news": [
@@ -51,12 +51,6 @@
    "url": "https://www.yna.co.kr/view/AKR20261025005200056",
    "source": "연합뉴스",
    "summary": "10월 끝 무렵 역대 가장 늦은 태풍 특보로 제주 남쪽 먼바다에 태풍경보가 내려졌다."
-  },
-  {
-   "title": "1년전 교제폭력 신고했던 여성, 가해자 지목 남성에게 살해돼",
-   "url": "https://www.yna.co.kr/view/AKR20261025022251063",
-   "source": "연합뉴스",
-   "summary": "대전서 전 연인 살해 후 도주한 40대 남성, 18시간 만에 강릉서 검거…1년 전 스토킹 신고 이력"
   },
   {
    "title": "김정은, 中 6·25참전기념관서 \"피로써 맺은 친선 영원히 계승\"",
@@ -167,6 +161,12 @@
    "summary": "고물가·공공투자 부족 항의 시위에 41만명 참가, 이탈리아·스페인 등 유럽 곳곳서도 반정부 시위"
   },
   {
+   "title": "美대학교 홈커밍데이에 총격…어린이 포함 11명 총상",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694537",
+   "source": "KBS 뉴스",
+   "summary": "미국 대학 홈커밍 가족 행사장에서 총격이 일어나 어린이를 포함해 11명이 총상을 입었다."
+  },
+  {
    "title": "트럼프 \"이란 상대 또 한번 작은 '장대한 분노' 작전할수도\"",
    "url": "https://www.yna.co.kr/view/AKR20261024004552071",
    "source": "연합뉴스",
@@ -213,12 +213,6 @@
    "url": "https://news.ikbc.co.kr/article/view/kbc202610240005",
    "source": "KBC광주방송",
    "summary": "애플의 첫 폴더블폰 '아이폰 듀오'가 곳곳에서 품절되며 흥행 우려를 덜었다."
-  },
-  {
-   "title": "'세계 최강' 안세영, 프랑스오픈 결승 진출…시즌 10승 성큼",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261024205217qKW",
-   "source": "연합뉴스TV",
-   "summary": "안세영이 4강에서 오쿠하라 노조미를 2-0으로 꺾고 시즌 10번째 우승에 도전한다."
   }
  ]
 }
