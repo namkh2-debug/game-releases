@@ -1,109 +1,109 @@
 {
- "updatedAt": "2026-10-25T17:03:47+09:00",
+ "updatedAt": "2026-10-25T18:03:33+09:00",
  "topics": [
-  "100일의 거짓말 5회 밀정 포기·최고 9.1%",
-  "6회·김연경2 9시10분 채널 경쟁 이어가기",
-  "가상자산 과세 추가 유예 검토",
-  "부산항 상어 부캉이",
-  "파이널 테이블 1화 감상 이어가기",
-  "베레모 단풍길 일요일룩",
-  "경훈씨 생각에 입꼬리",
-  "엘리베이터 vs 로비 첫인사 경쟁",
-  "셔츠 소매 설렘 농담",
-  "주말 끝 수다 응원"
+  "파이널 테이블 2회 10시 반",
+  "울프 어몽 어스 리마스터 29일",
+  "PO 1차전 우천 순연",
+  "은행 예금 11조 몰림",
+  "EBS 쇼펜하우어 AI 상담",
+  "저녁 카디건 단추룩",
+  "경훈씨 목소리 그리움",
+  "커피 vs 대추생강차 경쟁",
+  "뚜레쥬르 미피 케이크",
+  "일요일 밤 서로 응원"
  ],
  "exchanges": [
   {
    "a": "hyewon",
-   "line1": "100일의 거짓말, 김유정이 밀정 포기 선언했대요",
-   "line2": "5회 최고 9.1%래, 오늘 밤 6회 꼭 보자",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/25/MI2GMMZQMZSDANJQGI3TKZRQGI/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "근데 6회랑 김연경 리벤지전, 둘 다 9시 10분이야",
-   "line2": "언니, 오늘 밤 채널 전쟁 2차전이네요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "가상자산 과세, 또 미루는 걸 검토한대",
-   "line2": "언니 코인 지갑이 안도의 한숨 쉬겠네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://economist.co.kr/article/view/ecn202610250010"
-  },
-  {
-   "a": "hyewon",
-   "line1": "부산항에 상어 '부캉이'가 이틀째 보였대요",
-   "line2": "이름 붙여 준 게 더 귀엽다, 무사하길",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "look",
-   "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/25/2026102590061.html"
-  },
-  {
-   "a": "hyewon",
-   "line1": "어젯밤 파이널 테이블 1화 봤어요, 언니?",
-   "line2": "봤지, 라면 끓이고 싶어서 혼났어",
+   "line1": "파이널 테이블 2회, 오늘은 10시 반 시작이래요",
+   "line2": "10분 당겨졌네? 알람부터 맞춰 둘게",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "talkto",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "울프 어몽 어스 리마스터가 29일에 나온대",
+   "line2": "언니 또 밤샘 각이네요, 다크서클 예약!",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "none",
+   "pose2": "laugh",
+   "url": "https://pogwire.com/releases/new-games-this-week"
+  },
+  {
+   "a": "jiwon",
+   "line1": "PO 1차전이 비 때문에 내일로 밀렸대",
+   "line2": "가을비가 야구팬 애간장 다 태우네요",
+   "mood1": "sad",
+   "mood2": "sad",
+   "pose1": "think",
+   "pose2": "none",
+   "url": "https://www.yna.co.kr/view/MYH20261025010100038"
+  },
+  {
+   "a": "jiwon",
+   "line1": "이달 은행 예금에 11조나 몰렸다더라",
+   "line2": "언니 적금 통장도 그 11조에 끼어 있죠?",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "https://www.yna.co.kr/view/AKR20261024042900002"
+  },
+  {
+   "a": "hyewon",
+   "line1": "밤 11시에 쇼펜하우어가 AI로 상담해 준대요",
+   "line2": "외로울 틈 없게 우리 수다면 충분하지",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
    "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "베레모 쓰고 단풍길 걸으니 어땠어?",
-   "line2": "낙엽이 발밑에서 바스락, 가을 다 가졌어요",
+   "line1": "저녁 되니까 카디건 다시 걸쳤구나?",
+   "line2": "네, 단추까지 꼭 잠갔어요. 포근하죠?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "look",
    "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 이름만 떠올려도 입꼬리가 올라가",
-   "line2": "저도요, 표정 관리가 안 된다니까요",
-   "mood1": "smile",
+   "a": "hyewon",
+   "line1": "경훈씨 목소리 하루 못 들었는데 벌써 허전해요",
+   "line2": "내일 첫마디는 '보고 싶었어요'로 정했어",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "heart",
+   "pose1": "sulk",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일은 엘리베이터 앞에서 제가 먼저 기다릴래요",
-   "line2": "흥, 난 로비 입구에서 먼저 손 흔들 거야",
+   "line1": "언니가 커피로 선수 치면 전 대추생강차예요",
+   "line2": "흥, 그럼 난 정성껏 내린 드립으로 승부야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "wave"
+   "pose1": "squabble",
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 셔츠 소매 걷으실 때 좀 설레요",
-   "line2": "그 팔뚝은 15세 관람가 넘는다, 쉿",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
+   "line1": "뚜레쥬르 미피 케이크 봤어요? 너무 귀여워",
+   "line2": "경훈씨 책상에 두면 결재 도장도 웃겠다",
+   "mood1": "surprised",
+   "mood2": "laugh",
+   "pose1": "heart",
    "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "주말 끝자락엔 네 수다가 제일 좋은 약이야",
-   "line2": "언니 리액션이 있어서 제 수다가 사는 거예요",
+   "line1": "월요일 앞둔 밤인데 네 덕에 든든해",
+   "line2": "내일도 우리 둘이 경훈씨 하루 빛내 드려요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
