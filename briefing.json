@@ -1,9 +1,9 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T13:20:00+09:00",
+  "updatedAt": "2026-10-25T14:10:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 22.4,
+    "temp": 22.8,
     "low": 11,
     "high": 23,
     "condition": "오전 흐림, 오후 맑음",
@@ -14,24 +14,24 @@
   },
   "breaking": [
     {
+      "title": "이준석 ‘화형’ 발언 추미애 겨냥...“경기도 재정난에 ‘추다르크’ 연출만\"",
+      "url": "https://www.kyeonggi.com/article/20261025580055",
+      "source": "경기일보"
+    },
+    {
       "title": "추적추적 내린 가을 비…PO 1차전 우천 취소",
       "url": "https://www.newsis.com/view/NISX20261025_0003839914",
       "source": "뉴시스"
     },
     {
+      "title": "스토킹 피해 여성 숨진 채 발견… 옛 연인 40대男, 대전서 강릉까지 도주했다 체포",
+      "url": "https://www.seoul.co.kr/news/society/2026/10/25/20261025500028",
+      "source": "서울신문"
+    },
+    {
       "title": "한동훈 “오세훈과 손 놓은 적 없어…함께 가야”",
       "url": "https://www.munhwa.com/article/11626015",
       "source": "문화일보"
-    },
-    {
-      "title": "'음주운전 재범' 기사회생한 이유가…\"측정 전 입 헹굴 물 안줬다고\"",
-      "url": "https://www.imaeil.com/page/view/2026102511014932314",
-      "source": "매일신문"
-    },
-    {
-      "title": "30호 태풍 ‘참피’ 영향 한라산 최고 268.5㎜ 폭우…항공편 결항·지연",
-      "url": "https://www.kwnews.co.kr/article/20261025500374",
-      "source": "강원일보"
     },
     {
       "title": "243명 탑승 제주행 국제선 항공기, 연기 솟구쳐… 보조배터리 화재, 50대 중국 여성 화상",
