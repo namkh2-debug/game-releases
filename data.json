@@ -1,14 +1,28 @@
 {
-  "date": "2026-10-25",
-  "updatedAt": "2026-10-25T09:04:23+09:00",
+  "date": "2026-10-26",
+  "updatedAt": "2026-10-26T09:10:16+09:00",
   "platforms": {
     "steam": [
-      {"title": "비하인드 더 코너 (Behind the Corner)", "genre": "1인칭 심리 호러 (액션·인디)", "publisher": "MetaProx Studio / MetaProx Studio", "price": "₩12,320 (출시 할인 15%, 정가 ₩14,500)", "note": "한국어 미지원(영어·체코어·스페인어·독일어·폴란드어) · Steam 표기 10/24, 한국 시간 10/25 새벽 잠금 해제"},
-      {"title": "릴리 오어 호스 (Lily or Horse)", "genre": "캐주얼 (동전 던지기)", "publisher": "MetallJellyfish / MetallJellyfish", "price": "₩3,810 (출시 할인 30%, 정가 ₩5,450)", "note": "한국어 지원 · Steam 표기 10/24, 한국 시간 10/25 새벽 잠금 해제"},
-      {"title": "어비스 링 (Abyss Ring)", "genre": "로그라이크 액션 RPG (요리·던전)", "publisher": "Northern Studio LLC / Northern Studio LLC", "price": "미확인", "note": "한국어 미지원(영어·스페인어·러시아어·일본어·중국어) · Steam 표기 10/25, 오전 9시 현재 출시 전이라 한국 시간 오늘 밤~10/26 새벽 잠금 해제 예상(정확한 시각 미확인)"},
-      {"title": "태스크 바 큐브 (Task Bar Cube)", "genre": "방치형 RPG (작업 표시줄 플레이)", "publisher": "DarkRook Interactive / DarkRook Interactive", "price": "무료", "note": "한국어 지원 · Steam 표기 10/25, 오전 9시 현재 출시 전이라 한국 시간 오늘 밤~10/26 새벽 잠금 해제 예상(정확한 시각 미확인)"}
+      {"title": "태스크 바 큐브 (Task Bar Cube)", "genre": "방치형 RPG (작업 표시줄 플레이)", "publisher": "DarkRook Interactive / DarkRook Interactive", "price": "무료", "note": "한국어 지원 · Steam 표기 10/25, 한국 시간 오늘 새벽 출시 완료"},
+      {"title": "어비스 링 (Abyss Ring)", "genre": "로그라이크 액션 RPG (요리·던전)", "publisher": "Northern Studio LLC / Northern Studio LLC", "price": "미확인", "note": "한국어 미지원 · Steam 표기 10/25지만 오전 9시 현재 아직 출시 전(정확한 시각 미확인)"},
+      {"title": "레카 (REKA)", "genre": "마녀 탐험 어드벤처·건축 RPG", "publisher": "Emberstorm Entertainment / Fireshine Games, Shochiku", "price": "₩21,500", "note": "한국어 미지원 · 앞서 해보기 종료, 정식 1.0 출시 · 한국 시간 10/27 새벽 업데이트 예상(정확한 시각 미확인)"},
+      {"title": "팽토피아 (Fangtopia)", "genre": "타일 배치 퍼즐·전략 (캐주얼)", "publisher": "Absolutely Games / Secret Mode", "price": "미확인", "note": "한국어 지원 · PS5·스위치 2 동시 출시 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "나이트 플레인 (Night Plane)", "genre": "어드벤처·시뮬레이션 (인디)", "publisher": "Liquid Static Studio, Snapping Turtle / New Tales", "price": "미확인", "note": "한국어 미지원 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "더 메일룸 (The Mailroom)", "genre": "퍼즐·시뮬레이션 (인디)", "publisher": "Crowfriend / Vendetta", "price": "미확인", "note": "한국어 지원 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "동물 마을 레스토랑 이야기 (Pao Pao)", "genre": "어드벤처·시뮬레이션 (앞서 해보기)", "publisher": "ArtDock / Dreland Enterprises", "price": "미확인", "note": "한국어 지원 · 앞서 해보기 출시 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "디바인 프리퀀시 (Divine Frequency)", "genre": "액션 어드벤처 (앞서 해보기)", "publisher": "Abraxaes / Abraxaes", "price": "미확인", "note": "한국어 미지원 · 앞서 해보기 출시 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "스크램블 나이츠 온라인 (Scramble Knights Online)", "genre": "멀티플레이 액션 RPG (앞서 해보기)", "publisher": "Funktronic Labs / Funktronic Labs", "price": "미확인", "note": "한국어 지원 · 앞서 해보기 출시 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "스페이스 세이버리 (Space Savory)", "genre": "캐주얼 시뮬레이션 (인디)", "publisher": "DelusionArt Studio / DelusionArt Studio", "price": "미확인", "note": "한국어 지원 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "포제스트 킹덤 (Possessed Kingdom)", "genre": "전략 (인디)", "publisher": "Pipa Studios / Pipa Studios", "price": "미확인", "note": "한국어 지원 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "스코파 스윕 (Scopa Sweep)", "genre": "카드·전략 (캐주얼)", "publisher": "Static Fire Games / Static Fire Games", "price": "미확인", "note": "한국어 미지원 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"},
+      {"title": "언엔딩 아쿠아 (Unending Aqua)", "genre": "액션 어드벤처", "publisher": "Britney Pringle Games / Britney Pringle Games", "price": "미확인", "note": "한국어 미지원 · Steam 표기 10/26, 한국 시간 10/27 새벽 잠금 해제 예상(정확한 시각 미확인)"}
     ],
-    "playstation": [],
-    "switch": []
+    "playstation": [
+      {"title": "헌터스 문 (Hunter's Moon)", "genre": "1인칭 포크 호러 (잠입·내러티브)", "publisher": "Twin Swans / Twin Swans Limited", "price": "미확인", "note": "PS5 독점 · 한국 시간 오늘 오전 9시(UTC 0시) 출시 · 한국 PS 스토어 판매 여부·한국어 지원 미확인"},
+      {"title": "팽토피아 (Fangtopia)", "genre": "타일 배치 퍼즐·전략 (캐주얼)", "publisher": "Absolutely Games / Secret Mode", "price": "미확인", "note": "PS5 · 한국 PS 스토어 출시 시각 10/27 새벽 3시 · 한국어 지원(Steam 기준)"}
+    ],
+    "switch": [
+      {"title": "팽토피아 (Fangtopia)", "genre": "타일 배치 퍼즐·전략 (캐주얼)", "publisher": "Absolutely Games / Secret Mode", "price": "미확인 (북미 $12.99)", "note": "닌텐도 스위치 2 전용 · 한국 eShop 출시 여부·시각 미확인"}
+    ]
   }
 }
