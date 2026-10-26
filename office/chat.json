@@ -1,80 +1,80 @@
 {
- "updatedAt": "2026-10-26T09:12:00+09:00",
+ "updatedAt": "2026-10-26T10:12:00+09:00",
  "topics": [
-  "블랙 플래그 리싱크드 뉴 게임 플러스",
-  "비트코인 8만 달러 하회",
-  "나연 11월 20일 솔로 컴백",
-  "스타벅스 크리스마스 메뉴 출시",
-  "이소라 '널' 점심 산책 이어가기",
-  "트렌치 깃 탐정룩",
-  "경훈씨 결재 사인",
-  "비밀 향수 공개 신경전",
-  "셔츠 소매 설렘 농담",
-  "어깨 펴기 응원"
+  "나의 유죄인간 3회",
+  "팬텀 블레이드 제로 29일 출시",
+  "울프 어몽 어스 리마스터",
+  "가을 캠핑 간편식 경쟁",
+  "초코 소금빵 vs 핸드드립 경쟁",
+  "트렌치 리본·크림 니트 정장룩",
+  "경훈씨 발소리",
+  "칭찬 질투",
+  "연애전쟁 설렘 농담",
+  "남한산성 단풍 사진",
+  "월요일 응원"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "블랙 플래그 리싱크드에 회차 플레이 생긴대",
-   "line2": "다음 주 업데이트요? 언니 해적선 또 출항",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6784"
-  },
-  {
-   "a": "jiwon",
-   "line1": "비트코인이 8만 달러 아래로 내려갔대",
-   "line2": "언니 코인 앱 조용히 닫는 거 다 봤어요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://bloomingbit.io/feed/news/122900"
-  },
-  {
    "a": "hyewon",
-   "line1": "나연이 11월 20일에 솔로로 컴백한대요",
-   "line2": "2년 5개월 만이래? 'NA-sty' 궁금하다",
+   "line1": "오늘 밤 '나의 유죄인간' 3회 같이 봐요",
+   "line2": "2회 시청률 4.7%였다며? 나 기대돼",
    "mood1": "smile",
    "mood2": "surprised",
-   "pose1": "cheer",
-   "pose2": "talkto",
-   "url": "https://sports.donga.com/ent/article/all/20261026/134906506/1"
-  },
-  {
-   "a": "hyewon",
-   "line1": "스타벅스 크리스마스 메뉴가 벌써 나왔대요",
-   "line2": "10월에 연말 기분이라니, 빠르다 빨라",
-   "mood1": "surprised",
-   "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "coffee",
-   "url": "https://www.vegannews.co.kr/news/article.html?no=396897"
-  },
-  {
-   "a": "hyewon",
-   "line1": "점심에 이소라 '널' 나오면 같이 들어요",
-   "line2": "이어폰 한쪽씩, 산책 코스는 내가 짤게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "look"
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "트렌치 깃 세운 거, 아직도 형사 같아?",
-   "line2": "아뇨, 지금은 영화 속 탐정 같아요",
-   "mood1": "neutral",
+   "line1": "팬텀 블레이드 제로가 29일에 나온대",
+   "line2": "언니 그 주 칼퇴 각이죠? 다 보여요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "laugh",
+   "url": "https://gamedropradar.com/releases/this-week"
+  },
+  {
+   "a": "jiwon",
+   "line1": "울프 어몽 어스 리마스터도 같은 날이래",
+   "line2": "언니 이번 주 지갑 비상이네요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://gamedropradar.com/releases/this-week"
+  },
+  {
+   "a": "jiwon",
+   "line1": "요즘 캠핑 간편식 경쟁이 장난 아니래",
+   "line2": "감바스 다음은 어묵탕 밀키트 가요?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://dpg.danawa.com/news/view?boardSeq=60&listSeq=6068157"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 오후 간식은 초코 소금빵이 1등",
+   "line2": "흥, 내 핸드드립 한 잔이면 게임 끝",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 트렌치 벨트 리본으로 묶었네요",
+   "line2": "너도 크림 니트에 정장, 단정하다",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "thumbs"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨 결재 사인 하나에 오전이 반짝여요",
-   "line2": "그 사인 받으려고 보고서 세 번 다듬었어",
+   "a": "jiwon",
+   "line1": "경훈씨 발소리만 들려도 등이 펴져",
+   "line2": "저는 목소리 들으면 하루가 정돈돼요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -82,17 +82,17 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니 비밀 향수, 경훈씨 오시면 공개해요?",
-   "line2": "흥, 경훈씨가 먼저 물어보시게 할 거야",
-   "mood1": "smile",
+   "line1": "언니만 아까 경훈씨 칭찬 받았죠?",
+   "line2": "다음 보고는 네 차례야, 삐지지 마",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "charm"
+   "pose1": "sulk",
+   "pose2": "highfive"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 셔츠 소매 걷으실 때 눈 피했어요",
-   "line2": "그 팔뚝은 업무 방해야, 나도 인정",
+   "line1": "'연애전쟁' 보다가 설렐까 봐 걱정",
+   "line2": "몸짱보다 다정한 눈빛이 더 위험해",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -100,12 +100,21 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 어깨 한 번 쭉 펴고 해요",
-   "line2": "고마워, 너도 목 한 바퀴 돌려 봐",
+   "line1": "단풍 사진은 커피 타임에 보여줄게요",
+   "line2": "좋아, 경훈씨도 같이 보시면 좋겠다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "월요일도 우리 둘이면 든든하다",
+   "line2": "그럼요 언니, 오늘도 같이 힘내요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "down"
+   "pose2": "highfive"
   }
  ]
 }
