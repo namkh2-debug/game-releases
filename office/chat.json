@@ -1,89 +1,80 @@
 {
- "updatedAt": "2026-10-26T13:12:00+09:00",
+ "updatedAt": "2026-10-26T14:04:33+09:00",
  "topics": [
-  "레카 정식 출시",
-  "더 메일룸 출시",
-  "파레이돌리아 AGF 첫 시연",
-  "캠핑 밀푀유나베",
-  "라 바닐 헤어 미스트 3라운드",
-  "버건디 아이라인 오후룩",
-  "회의 자료 먼저 질투",
-  "경훈씨 발소리",
-  "빵력장터 반씩 설렘 농담",
-  "오후 커피 응원"
+  "팬텀 블레이드 제로 출시",
+  "블레이크 저택 강령회 게임패스",
+  "하이닉스 주주환원 발표",
+  "이창호 통산 2000승",
+  "석촌호수 루미나리에",
+  "트렌치 벗은 오후룩",
+  "결재 사인 든든함",
+  "핫팩 vs 손뜨개 장갑 경쟁",
+  "오후 스트레칭",
+  "캠핑 칼국수 마무리"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "오늘 '레카' 정식판 나왔대, 걷는 마법의 집!",
-   "line2": "집이 걸어 다녀요? 언니 캠핑카 꿈이네요",
-   "mood1": "surprised",
+   "line1": "팬텀 블레이드 제로, 목요일 오전 11시에 풀린대",
+   "line2": "언니 그날 점심시간 사라지는 거 아니죠?",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.famitsu.com/article/202609/87238"
+   "url": "https://pogwire.com/releases/new-games-this-week"
   },
   {
    "a": "jiwon",
-   "line1": "지옥 우편실 일하는 호러 '더 메일룸'도 오늘 출시래",
-   "line2": "한국어 된대요? 언니 혼자 밤에 하지 마요",
+   "line1": "블레이크 저택 강령회, 내일 게임패스로 콘솔 나와",
+   "line2": "추리 게임이요? 범인 맞히기 저랑 내기해요",
    "mood1": "neutral",
-   "mood2": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "https://www.gematsu.com/2026/08/the-seance-of-blake-manor-coming-to-ps5-xbox-series-and-switch-2-on-october-27"
+  },
+  {
+   "a": "jiwon",
+   "line1": "하이닉스가 28일에 주주환원 발표한대",
+   "line2": "16조 배당설은 확정 아니래요, 차분히 봐요",
+   "mood1": "surprised",
+   "mood2": "neutral",
    "pose1": "think",
    "pose2": "talkto",
-   "url": "https://m.ruliweb.com/news/read/230061"
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441119"
   },
   {
    "a": "hyewon",
-   "line1": "넥슨 '파레이돌리아' AGF서 한국어 첫 시연이래요",
-   "line2": "캐릭터한테 말 걸면 대답한다던데, 신기하다",
-   "mood1": "smile",
-   "mood2": "surprised",
+   "line1": "이창호 9단 통산 2000승이래요, 한국 최초!",
+   "line2": "돌부처 꾸준함, 우리 보고서도 본받자",
+   "mood1": "surprised",
+   "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "look",
-   "url": "https://www.fnnews.com/news/202610261125342470"
+   "pose2": "clap",
+   "url": "https://sports.khan.co.kr/article/202610261156003"
   },
   {
-   "a": "jiwon",
-   "line1": "이번 캠핑은 밀푀유나베로 국물 담당할래",
-   "line2": "배추 사이 고기 겹겹이, 언니 손맛 기대돼요",
+   "a": "hyewon",
+   "line1": "석촌호수 루미나리에가 30일에 개막한대요",
+   "line2": "불빛 산책이라니, 가을 감성 제대로네",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://sakamaka.kr/articles/camping-food-picks-autumn-hotpot-bbq-2026"
+   "pose2": "coffee"
   },
   {
    "a": "hyewon",
-   "line1": "라 바닐 헤어 미스트, 내일 꼭 받아 올 거예요",
-   "line2": "향수 3라운드? 좋아, 판정은 경훈씨가 해",
+   "line1": "언니 트렌치 벗고 소매 걷으니 일잘러 같아요",
+   "line2": "오늘 귀걸이 승부는 너한테 졌다, 인정",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "너 아이라인 색 바꿨네? 귀걸이랑 맞췄구나",
-   "line2": "티 났어요? 트렌치 벗으니까 더 잘 보이죠",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오후 회의 자료 벌써 경훈씨 책상에 뒀죠?",
-   "line2": "흥, 먼저 본 사람이 임자지 뭐~",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 목소리 들리면 키보드 소리도 경쾌해져",
-   "line2": "맞아요, 복도 발소리만 들어도 알아요",
+   "line1": "경훈씨 결재 사인 보면 괜히 마음이 놓여",
+   "line2": "저도요, 그 사인 하나에 하루가 든든해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -91,21 +82,30 @@
   },
   {
    "a": "hyewon",
-   "line1": "빵력장터 빵, 경훈씨랑 반씩 나눠 먹을래요",
-   "line2": "반씩? 그건 거의 데이트 신청인데?",
+   "line1": "추워지면 경훈씨 핫팩은 제가 먼저 챙겨요",
+   "line2": "핫팩? 난 손뜨개 장갑으로 승부할 거야",
    "mood1": "smile",
-   "mood2": "surprised",
+   "mood2": "smile",
    "pose1": "charm",
-   "pose2": "laugh"
+   "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "오후엔 둘이 커피 한 잔씩 들고 힘내자",
-   "line2": "좋아요, 언니랑 있으면 오후가 금방 가요",
-   "mood1": "smile",
+   "line1": "오후 세 시엔 둘이 스트레칭 한 번 하자",
+   "line2": "좋아요, 필라테스 동작 제가 알려줄게요",
+   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "cheer",
    "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "밀푀유나베 국물 남으면 칼국수 넣을 거야",
+   "line2": "언니 국물 끝판왕, 숟가락 들고 갈게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "laugh"
   }
  ]
 }
