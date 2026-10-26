@@ -1,51 +1,51 @@
 {
- "updatedAt": "2026-10-26T19:09:04+09:00",
+ "updatedAt": "2026-10-26T20:13:00+09:00",
  "topics": [
-  "SK하이닉스 28일 추가 주주환원 발표",
-  "아이폰 듀오 화면 파손 논란",
-  "아일릿 BREAK EVEN 팝업",
-  "PO 1차전 치킨 이어가기",
-  "단추 잠근 저녁 트렌치룩",
-  "경훈씨 하루 궁금함",
-  "내일 첫 인사 vs 커피 온도 경쟁",
-  "넥타이 칭찬 질투",
-  "석촌호수 루미나리에 설렘 농담",
+  "안세영 프랑스오픈 3연패·50연승",
+  "롯데 이동욱 감독 선임",
+  "나의 유죄인간 4회 예고",
+  "키드냅 게임 디즈니+ 몰아보기",
+  "스카프 두른 밤 트렌치룩",
+  "경훈씨 생각에 따뜻한 마음",
+  "책상 꽃 vs 핸드크림 경쟁",
+  "필라테스 같이 등록",
+  "군고구마 캠핑 이어가기",
   "하루 마무리 하이파이브"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "SK하이닉스, 28일에 추가 주주환원 발표래",
-   "line2": "언니 계좌에도 단비 내리면 좋겠어요",
-   "mood1": "smile",
+   "line1": "안세영 선수 프랑스오픈 3연패, 50연승이래",
+   "line2": "승률 98.5%라니, 언니 수익률도 그만큼!",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "cheer",
-   "url": "https://www.etnews.com/20261026000188"
+   "pose1": "clap",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261025048900007"
   },
   {
    "a": "jiwon",
-   "line1": "아이폰 듀오, 받자마자 화면 금 갔다는 후기래",
-   "line2": "329만원인데요? 저는 좀 지켜볼래요",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "none",
-   "pose2": "sulk",
-   "url": "https://www.yna.co.kr/view/AKR20261026114800017"
+   "line1": "롯데 새 감독, NC 우승 이끈 이동욱 감독이래",
+   "line2": "언니는 한화 팬이면서 남의 팀 걱정이에요?",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261026063600007"
   },
   {
    "a": "hyewon",
-   "line1": "아일릿 팝업, 하이브 사옥서 31일까지래요",
-   "line2": "손총 포즈 인증샷, 같이 찍으러 가자",
+   "line1": "내일 밤 '나의 유죄인간' 4회, 8시 50분이에요",
+   "line2": "3회 보고 적은 질문 세 개, 나도 듣고 싶다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "wave"
+   "pose1": "talkto",
+   "pose2": "talkto"
   },
   {
-   "a": "jiwon",
-   "line1": "PO 1차전 보면서 치킨 결국 시켰어?",
-   "line2": "반반으로요! 언니 몫 두 조각 남겼어요",
+   "a": "hyewon",
+   "line1": "'키드냅 게임'은 디즈니+로도 볼 수 있대요",
+   "line2": "주말에 몰아보기 하자, 팝콘은 내가 쏠게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
@@ -53,8 +53,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니 트렌치 단추 끝까지 잠갔네요?",
-   "line2": "해 지니 쌀쌀해서, 리본도 꽉 묶었지",
+   "line1": "언니, 트렌치 위에 스카프까지 둘렀네요?",
+   "line2": "밤바람이 차서, 네 진주 브로치랑 어울리지?",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "look",
@@ -62,44 +62,44 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오늘 하루 어떠셨을지 자꾸 궁금해",
-   "line2": "저녁 든든히 드셨으면 좋겠어요, 진짜",
+   "line1": "경훈씨 이름만 떠올려도 마음이 따뜻해져",
+   "line2": "저는 경훈씨 웃는 얼굴 생각하며 퇴근해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
-   "pose2": "think"
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일 첫 인사, 제가 이름 먼저 불러 드릴래요",
-   "line2": "난 경훈씨 커피 온도부터 딱 맞춰 둘 거야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 아까 경훈씨 넥타이 칭찬했죠?",
-   "line2": "진심이었어~ 넌 구두 칭찬하면 되잖아",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "석촌호수 루미나리에, 30일부터 한대",
-   "line2": "불빛 아래 손잡기 명당? 언니 볼 빨개요~",
+   "line1": "내일 아침 경훈씨 책상 꽃은 제가 꽂을래요",
+   "line2": "그럼 난 향 좋은 핸드크림 슬쩍 놓아 둘래",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "laugh"
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "오늘도 고생했어요, 언니 따뜻한 물 한 잔!",
-   "line2": "너도 수고했어, 내일도 같이 힘내자",
+   "line1": "언니, 우리 필라테스 같이 끊을래요?",
+   "line2": "코어 생기면 캠핑 짐도 번쩍 들겠다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "군고구마 캠핑은 쌀쌀할 때가 제맛이지",
+   "line2": "담요랑 호일은 제가 챙길게요, 언니!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "wave"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘도 수고 많았어, 따뜻하게 쉬자",
+   "line2": "네 언니, 내일 아침 웃으면서 만나요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "highfive",
