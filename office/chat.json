@@ -1,79 +1,62 @@
 {
- "updatedAt": "2026-10-26T12:20:00+09:00",
+ "updatedAt": "2026-10-26T13:12:00+09:00",
  "topics": [
-  "SK하이닉스 특별배당 해명",
-  "이창호 통산 2000승",
-  "아이브 룩스 캔 킬 발매",
-  "외국인 필라테스 예약 3배",
-  "버건디 귀걸이·트렌치 리본 점심룩",
-  "단풍 사진 커피 타임 이어가기",
-  "립 메모 vs 향 서류철 경쟁",
-  "경훈씨 고마워 한마디",
-  "점심 후 졸음 응원",
-  "서로 웃음 칭찬"
+  "레카 정식 출시",
+  "더 메일룸 출시",
+  "파레이돌리아 AGF 첫 시연",
+  "캠핑 밀푀유나베",
+  "라 바닐 헤어 미스트 3라운드",
+  "버건디 아이라인 오후룩",
+  "회의 자료 먼저 질투",
+  "경훈씨 발소리",
+  "빵력장터 반씩 설렘 농담",
+  "오후 커피 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "SK하이닉스 16조 특별배당설, 미확정이래",
-   "line2": "28일 실적 발표 때 공개한대요, 언니 두근?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.sisajournal.com/news/articleView.html?idxno=391639"
-  },
-  {
-   "a": "jiwon",
-   "line1": "이창호 9단이 통산 2000승 찍었대",
-   "line2": "돌부처 대기록이네요, 바둑판 앞 상상돼요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "hyewon",
-   "line1": "아이브 '룩스 캔 킬' 오늘 저녁 6시 나와요",
-   "line2": "퇴근길 첫 재생은 그걸로 하자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "talkto",
-   "url": "https://www.starnewskorea.com/star/2026/10/26/2026102608083735161"
-  },
-  {
-   "a": "hyewon",
-   "line1": "외국인 관광객 필라테스 예약이 3배래요",
-   "line2": "네 필라테스 사랑이 세계적이었구나",
+   "line1": "오늘 '레카' 정식판 나왔대, 걷는 마법의 집!",
+   "line2": "집이 걸어 다녀요? 언니 캠핑카 꿈이네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.etnews.com/20261012000010"
-  },
-  {
-   "a": "hyewon",
-   "line1": "버건디 드롭 귀걸이, 점심때도 찰랑했죠?",
-   "line2": "응, 트렌치 리본이랑 색 맞춰 보이더라",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "look"
+   "url": "https://www.famitsu.com/article/202609/87238"
   },
   {
    "a": "jiwon",
-   "line1": "단풍 사진 커피 타임에 보여드렸어?",
-   "line2": "네, 경훈씨가 한 장 더 보자 하셨어요",
+   "line1": "지옥 우편실 일하는 호러 '더 메일룸'도 오늘 출시래",
+   "line2": "한국어 된대요? 언니 혼자 밤에 하지 마요",
    "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://m.ruliweb.com/news/read/230061"
   },
   {
    "a": "hyewon",
-   "line1": "오후 결재 서류엔 제 립 컬러 메모 붙일래요",
-   "line2": "흥, 난 서류철에 향을 살짝 남겨 둘 거야",
+   "line1": "넥슨 '파레이돌리아' AGF서 한국어 첫 시연이래요",
+   "line2": "캐릭터한테 말 걸면 대답한다던데, 신기하다",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "cheer",
+   "pose2": "look",
+   "url": "https://www.fnnews.com/news/202610261125342470"
+  },
+  {
+   "a": "jiwon",
+   "line1": "이번 캠핑은 밀푀유나베로 국물 담당할래",
+   "line2": "배추 사이 고기 겹겹이, 언니 손맛 기대돼요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://sakamaka.kr/articles/camping-food-picks-autumn-hotpot-bbq-2026"
+  },
+  {
+   "a": "hyewon",
+   "line1": "라 바닐 헤어 미스트, 내일 꼭 받아 올 거예요",
+   "line2": "향수 3라운드? 좋아, 판정은 경훈씨가 해",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -81,8 +64,26 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 '고마워' 한마디가 오래 남아",
-   "line2": "저는 그 말 들은 날은 퇴근길도 노래예요",
+   "line1": "너 아이라인 색 바꿨네? 귀걸이랑 맞췄구나",
+   "line2": "티 났어요? 트렌치 벗으니까 더 잘 보이죠",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오후 회의 자료 벌써 경훈씨 책상에 뒀죠?",
+   "line2": "흥, 먼저 본 사람이 임자지 뭐~",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 목소리 들리면 키보드 소리도 경쾌해져",
+   "line2": "맞아요, 복도 발소리만 들어도 알아요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -90,20 +91,20 @@
   },
   {
    "a": "hyewon",
-   "line1": "점심 먹고 나니 눈꺼풀이 천근이에요",
-   "line2": "기지개 한 번 켜고, 오후도 같이 버티자",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "cheer"
+   "line1": "빵력장터 빵, 경훈씨랑 반씩 나눠 먹을래요",
+   "line2": "반씩? 그건 거의 데이트 신청인데?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "너 오늘따라 웃는 게 더 예쁘다",
-   "line2": "언니가 칭찬하니까 더 웃게 되잖아요",
+   "line1": "오후엔 둘이 커피 한 잔씩 들고 힘내자",
+   "line2": "좋아요, 언니랑 있으면 오후가 금방 가요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
