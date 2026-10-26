@@ -1,110 +1,111 @@
 {
- "updatedAt": "2026-10-26T08:11:57+09:00",
+ "updatedAt": "2026-10-26T09:12:00+09:00",
  "topics": [
-  "설퍼 정식판 28일 출시",
-  "환율 1,310원대 근접",
-  "파스쿠찌 대추생강차",
-  "BTS 아르헨티나 마지막 공연",
-  "베레모 각도·트렌치 소매 월요일룩",
-  "경훈씨 출근길 걱정",
-  "보고서 단풍잎 표지 vs 결론 첫 줄 경쟁",
-  "캠핑 감바스 마늘 이어가기",
-  "월요일 함께 일하는 힘",
-  "점심 고르기 차례"
+  "블랙 플래그 리싱크드 뉴 게임 플러스",
+  "비트코인 8만 달러 하회",
+  "나연 11월 20일 솔로 컴백",
+  "스타벅스 크리스마스 메뉴 출시",
+  "이소라 '널' 점심 산책 이어가기",
+  "트렌치 깃 탐정룩",
+  "경훈씨 결재 사인",
+  "비밀 향수 공개 신경전",
+  "셔츠 소매 설렘 농담",
+  "어깨 펴기 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "설퍼 정식판이 이번 주 28일에 나온대",
-   "line2": "얼리 때부터 하던 그거죠? 언니 또 밤샘각",
+   "line1": "블랙 플래그 리싱크드에 회차 플레이 생긴대",
+   "line2": "다음 주 업데이트요? 언니 해적선 또 출항",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://savepointmag.com/releases/"
+   "url": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=6784"
   },
   {
    "a": "jiwon",
-   "line1": "환율이 1,310원대 문턱까지 내려왔대",
-   "line2": "언니 달러 통장 보면서 한숨 쉬는 거 봤어요",
+   "line1": "비트코인이 8만 달러 아래로 내려갔대",
+   "line2": "언니 코인 앱 조용히 닫는 거 다 봤어요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261025043600002"
+   "pose2": "laugh",
+   "url": "https://bloomingbit.io/feed/news/122900"
   },
   {
    "a": "hyewon",
-   "line1": "파스쿠찌 대추생강차, 대추칩이 올라간대요",
-   "line2": "바삭한 고명이라니, 오후에 같이 가 보자",
+   "line1": "나연이 11월 20일에 솔로로 컴백한대요",
+   "line2": "2년 5개월 만이래? 'NA-sty' 궁금하다",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "coffee",
-   "url": "https://www.foodtoday.or.kr/news/article.html?no=209062"
+   "mood2": "surprised",
+   "pose1": "cheer",
+   "pose2": "talkto",
+   "url": "https://sports.donga.com/ent/article/all/20261026/134906506/1"
   },
   {
    "a": "hyewon",
-   "line1": "BTS 아르헨티나 마지막 공연, 다들 울었대요",
-   "line2": "'문화 혁명'이란 말까지 나왔다니 뭉클하다",
+   "line1": "스타벅스 크리스마스 메뉴가 벌써 나왔대요",
+   "line2": "10월에 연말 기분이라니, 빠르다 빨라",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "clap"
+   "pose2": "coffee",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=396897"
   },
   {
    "a": "hyewon",
-   "line1": "엘리베이터 거울에 베레모 각도 다시 봤어요",
-   "line2": "난 트렌치 소매 한 번 접었어, 오늘 포인트야",
+   "line1": "점심에 이소라 '널' 나오면 같이 들어요",
+   "line2": "이어폰 한쪽씩, 산책 코스는 내가 짤게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "down"
+   "pose2": "look"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오시는 길 막히지 않았으면 좋겠다",
-   "line2": "오시면 제일 먼저 따뜻한 물부터 드릴래요",
+   "line1": "트렌치 깃 세운 거, 아직도 형사 같아?",
+   "line2": "아뇨, 지금은 영화 속 탐정 같아요",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
+   "pose1": "charm",
+   "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 보고서 표지에 작은 단풍잎 붙였어요",
-   "line2": "흥, 난 결론을 첫 줄에 딱, 그게 더 감동이야",
+   "line1": "경훈씨 결재 사인 하나에 오전이 반짝여요",
+   "line2": "그 사인 받으려고 보고서 세 번 다듬었어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 비밀 향수, 경훈씨 오시면 공개해요?",
+   "line2": "흥, 경훈씨가 먼저 물어보시게 할 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 셔츠 소매 걷으실 때 눈 피했어요",
+   "line2": "그 팔뚝은 업무 방해야, 나도 인정",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "캠핑 감바스용 마늘, 어젯밤 다 까 놨어",
-   "line2": "언니 손에서 마늘 향 나요, 오늘 향수 패배?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
    "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "너랑 일하면 월요일도 금방 지나가",
-   "line2": "언니 칭찬 하나면 오늘 야근도 거뜬해요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "highfive"
-  },
-  {
    "a": "hyewon",
-   "line1": "언니, 오늘 점심은 제가 고를 차례예요",
-   "line2": "좋아, 대신 디저트는 내가 산다",
+   "line1": "언니, 어깨 한 번 쭉 펴고 해요",
+   "line2": "고마워, 너도 목 한 바퀴 돌려 봐",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "cheer"
+   "pose1": "cheer",
+   "pose2": "down"
   }
  ]
 }
