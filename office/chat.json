@@ -1,110 +1,109 @@
 {
- "updatedAt": "2026-10-26T18:25:00+09:00",
+ "updatedAt": "2026-10-26T19:09:04+09:00",
  "topics": [
-  "팡토피아 출시",
-  "삼성-KIA 플레이오프 1차전",
-  "파스쿠찌 가격 인상과 대추생강차 승부",
-  "클리오 풍년다방 마지막 날",
-  "진주 브로치 퇴근룩",
-  "경훈씨 퇴근길 걱정",
-  "목도리 vs 핫팩·가습기 경쟁",
-  "나의 유죄인간 3회 실시간 톡",
-  "하루 마무리 응원",
-  "따뜻한 저녁 국물"
+  "SK하이닉스 28일 추가 주주환원 발표",
+  "아이폰 듀오 화면 파손 논란",
+  "아일릿 BREAK EVEN 팝업",
+  "PO 1차전 치킨 이어가기",
+  "단추 잠근 저녁 트렌치룩",
+  "경훈씨 하루 궁금함",
+  "내일 첫 인사 vs 커피 온도 경쟁",
+  "넥타이 칭찬 질투",
+  "석촌호수 루미나리에 설렘 농담",
+  "하루 마무리 하이파이브"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'팡토피아' 오늘 나왔대, 유령 왕국 짓는 퍼즐!",
-   "line2": "안 무서운 귀여운 괴물이면 저도 할래요",
+   "line1": "SK하이닉스, 28일에 추가 주주환원 발표래",
+   "line2": "언니 계좌에도 단비 내리면 좋겠어요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm",
-   "url": "https://www.gematsu.com/2026/09/fangtopia-launches-october-26"
+   "pose1": "think",
+   "pose2": "cheer",
+   "url": "https://www.etnews.com/20261026000188"
   },
   {
    "a": "jiwon",
-   "line1": "오늘 밤 삼성-KIA 플레이오프 1차전이래",
-   "line2": "가을비 뚫고 하네요, 언니 치킨 시켜요?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694895"
-  },
-  {
-   "a": "hyewon",
-   "line1": "파스쿠찌, 다음 달 2일부터 가격 오른대요",
-   "line2": "그럼 대추생강차 승부는 그 전에 끝내자",
+   "line1": "아이폰 듀오, 받자마자 화면 금 갔다는 후기래",
+   "line2": "329만원인데요? 저는 좀 지켜볼래요",
    "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026173458MZQ"
+   "mood2": "sad",
+   "pose1": "none",
+   "pose2": "sulk",
+   "url": "https://www.yna.co.kr/view/AKR20261026114800017"
   },
   {
    "a": "hyewon",
-   "line1": "클리오 풍년다방 팝업, 내일이 마지막이래요",
-   "line2": "퇴근길에 들러, 립 하나는 내가 보태 줄게",
+   "line1": "아일릿 팝업, 하이브 사옥서 31일까지래요",
+   "line2": "손총 포즈 인증샷, 같이 찍으러 가자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
+   "pose2": "wave"
   },
   {
    "a": "jiwon",
-   "line1": "너 라펠에 진주 브로치 달았네? 반짝인다",
-   "line2": "퇴근 전 포인트예요, 언니가 먼저 봐 줬네요",
+   "line1": "PO 1차전 보면서 치킨 결국 시켰어?",
+   "line2": "반반으로요! 언니 몫 두 조각 남겼어요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "charm"
+   "pose1": "coffee",
+   "pose2": "coffee"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 퇴근길 안 막혔으면 좋겠어요",
-   "line2": "무사히 들어가셨단 소식이면 마음이 놓여",
+   "line1": "언니 트렌치 단추 끝까지 잠갔네요?",
+   "line2": "해 지니 쌀쌀해서, 리본도 꽉 묶었지",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
+   "pose1": "look",
+   "pose2": "look"
   },
   {
    "a": "jiwon",
-   "line1": "수요일 추위엔 내 목도리가 먼저야",
-   "line2": "저는 핫팩에 미니 가습기까지, 2대 1이에요!",
+   "line1": "경훈씨 오늘 하루 어떠셨을지 자꾸 궁금해",
+   "line2": "저녁 든든히 드셨으면 좋겠어요, 진짜",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 첫 인사, 제가 이름 먼저 불러 드릴래요",
+   "line2": "난 경훈씨 커피 온도부터 딱 맞춰 둘 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
+   "a": "hyewon",
+   "line1": "언니, 아까 경훈씨 넥타이 칭찬했죠?",
+   "line2": "진심이었어~ 넌 구두 칭찬하면 되잖아",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh"
+  },
+  {
    "a": "jiwon",
-   "line1": "'나의 유죄인간' 3회, 같이 실시간 톡하자",
-   "line2": "8시 50분 알람 맞춰 뒀어요, 언니 늦지 마요",
+   "line1": "석촌호수 루미나리에, 30일부터 한대",
+   "line2": "불빛 아래 손잡기 명당? 언니 볼 빨개요~",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "wave"
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "오늘 하루도 언니 덕분에 든든했어요",
-   "line2": "나도야, 내일도 둘이 잘해 보자",
+   "line1": "오늘도 고생했어요, 언니 따뜻한 물 한 잔!",
+   "line2": "너도 수고했어, 내일도 같이 힘내자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "highfive",
    "pose2": "highfive"
-  },
-  {
-   "a": "jiwon",
-   "line1": "저녁은 따뜻한 국물로 꼭 챙겨 먹자",
-   "line2": "좋아요, 언니랑 먹으면 뭐든 꿀맛이에요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "love"
   }
  ]
 }
