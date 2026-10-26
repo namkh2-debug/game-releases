@@ -1,9 +1,9 @@
 {
  "date": "2026-10-26",
- "updatedAt": "2026-10-26T11:20:00+09:00",
+ "updatedAt": "2026-10-26T12:15:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 17.7,
+  "temp": 18.1,
   "low": 13,
   "high": 19,
   "condition": "흐림, 7시께 약한 비 후 오후 늦게 갬",
@@ -13,6 +13,16 @@
   "source": "네이버 날씨(기상청·웨더아이 제공, 06:22 기준). 최저·최고는 시간별 예보 기준"
  },
  "breaking": [
+  {
+   "title": "SK하이닉스, 16조원 특별배당 추진설에…“확정된 것 없다”",
+   "url": "https://www.mk.co.kr/news/economy/12185597",
+   "source": "매경ECONOMY"
+  },
+  {
+   "title": "60대 몰던 승합차, 중앙선 넘어 연쇄충돌… 운전자 사망·7명 부상",
+   "url": "https://www.seoul.co.kr/news/society/accident/2026/10/26/20261026500094",
+   "source": "서울신문"
+  },
   {
    "title": "룰라, 브라질 대선 승리 ‘4선 성공’…보우소나루에 역전승",
    "url": "https://www.hani.co.kr/arti/international/international_general/1284117.html",
@@ -27,11 +37,6 @@
    "title": "이준석, 한동훈 겨냥…“민주 주장에 부화뇌동, 안에다가 수류탄 까넣어”",
    "url": "https://www.munhwa.com/article/11626177",
    "source": "문화일보"
-  },
-  {
-   "title": "주진우 \"김혜경 여사, 역삼 화재 당일 유명 프로골퍼 대동해 골프\"",
-   "url": "https://www.busan.com/view/busan/view.php?code=2026102610340536340",
-   "source": "부산일보"
   }
  ],
  "news": [
@@ -54,10 +59,22 @@
    "summary": "오세훈 시장 항소심 무죄 이후 보수 진영 주도권 경쟁이 달아오르고 있다."
   },
   {
+   "title": "김혜경 여사 태릉CC 골프 논란…주진우 “황제 레슨” vs 민주당 “명예훼손 범죄”",
+   "url": "https://www.donga.com/news/Politics/article/all/20261026/134908099/1",
+   "source": "동아일보",
+   "summary": "주진우 의원의 ‘황제 골프’ 의혹 제기에 민주당이 허위사실이라며 법적 조치를 예고했다."
+  },
+  {
    "title": "미 매체 “미군, 중간선거 뒤 이란 공습안 보고”···트럼프 승인 대기",
    "url": "https://www.khan.co.kr/article/202610252241001",
    "source": "경향신문",
    "summary": "미군이 중간선거 뒤 이란 공격 재개안을 국방장관에게 보고했고 트럼프 결정만 남았다는 보도."
+  },
+  {
+   "title": "코스피, 반짝 상승전환했다가 다시 1% 안팎 하락…코스닥 2%대↓",
+   "url": "https://www.yna.co.kr/view/AKR20261026072100008",
+   "source": "연합뉴스",
+   "summary": "외국인 순매도에 코스피가 오전 11시께 5,495선으로 밀리고 코스닥은 2%대 하락했다."
   },
   {
    "title": "트럼프發 중동전쟁 재점화 우려에…유가 117달러 돌파",
@@ -202,12 +219,6 @@
    "url": "https://www.khan.co.kr/article/202610252210005",
    "source": "경향신문",
    "summary": "안세영이 신두를 꺾고 프랑스오픈 3연패와 개인 최다 50연승을 달성했다."
-  },
-  {
-   "title": "200만 넘긴 '극장판 치이카와' 3주 연속 주말 1위",
-   "url": "https://www.newsis.com/view/NISX20261026_0003840294",
-   "source": "뉴시스",
-   "summary": "'극장판 치이카와'가 누적 관객 200만명을 넘기며 3주 연속 주말 박스오피스 1위를 지켰다."
   }
  ]
 }
