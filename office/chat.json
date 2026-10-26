@@ -1,80 +1,71 @@
 {
- "updatedAt": "2026-10-26T22:20:00+09:00",
+ "updatedAt": "2026-10-26T23:14:00+09:00",
  "topics": [
-  "설퍼 28일 정식 출시",
-  "넥슨 파레이돌리아 AGF 시연",
-  "클리오 풍년다방 마지막 날",
-  "석촌호수 루미나리에 30일 개막",
-  "SK하이닉스 28일 주주환원 발표",
-  "키드냅 게임 디즈니+",
-  "트렌치 벨트·스카프 밤 퇴근룩",
-  "경훈씨 끄덕임 저장",
-  "아침 차 결승전 유자차 vs 생강꿀차",
-  "월요일 마무리 굿나잇"
+  "앤트로픽 나스닥 IPO 신청",
+  "KIA PO 1차전 승리",
+  "임영웅 실황 영화 11월 18일",
+  "JYP 공개매수설",
+  "필라테스 체험 이어가기",
+  "스카프 리본 밤 퇴근룩",
+  "경훈씨 편한 꿈",
+  "포스트잇 vs 각인 펜 경쟁",
+  "엘리베이터 세 층 질투",
+  "잘 자 설렘 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'설퍼' 50만 장 팔고 28일 정식 출시래",
-   "line2": "언니 표정 보니 벌써 장바구니 담았죠?",
+   "line1": "앤트로픽이 나스닥 상장 신청했대, 티커는 ANT",
+   "line2": "언니 눈 반짝이는 거 보니 공모주 각이죠?",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.gamechosun.co.kr/webzine/article/news.php?bid=11"
-  },
-  {
-   "a": "jiwon",
-   "line1": "블루아카 만든 팀 신작, AGF서 시연했대",
-   "line2": "캐릭터랑 음성 가위바위보요? 귀엽다",
-   "mood1": "smile",
-   "mood2": "surprised",
    "pose1": "think",
-   "pose2": "none",
-   "url": "https://newspim.com/news/view/20261026000730"
-  },
-  {
-   "a": "hyewon",
-   "line1": "클리오 풍년다방 팝업, 내일이 마지막이래요",
-   "line2": "퇴근길에 들르자, 립 하나 골라 줄게",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "hyewon",
-   "line1": "석촌호수 루미나리에 30일에 개막한대요",
-   "line2": "금요일 밤 불빛 산책, 생각만 해도 좋다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261026013500004"
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261026172400072"
   },
   {
    "a": "jiwon",
-   "line1": "하이닉스 주주환원, 28일 발표래",
-   "line2": "언니 재테크 메모장 또 빼곡해지겠네요",
+   "line1": "KIA가 PO 1차전 삼성을 5대1로 이겼대",
+   "line2": "카스트로 투런이 컸대요, 내일 2차전 봐요",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.etnews.com/20261026000188"
+   "pose1": "talkto",
+   "pose2": "none",
+   "url": "https://www.newsis.com/view/NISX20261026_0003841919"
   },
   {
    "a": "hyewon",
-   "line1": "'키드냅 게임' 디즈니+로도 볼 수 있대요",
-   "line2": "내일 4회 보고 점심때 수다 떨자",
+   "line1": "임영웅 스타디움 공연, 11월 18일 영화로 나와요",
+   "line2": "엄마 모시고 같이 가자, 팝콘은 내가 쏠게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261026040800005"
+  },
+  {
+   "a": "hyewon",
+   "line1": "JYP 공개매수설에 주가가 14% 뛰었대요",
+   "line2": "회사는 제안 없었다던데, 일단 지켜보자",
+   "mood1": "surprised",
+   "mood2": "neutral",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261026171800005"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 필라테스 체험 수업 언제로 잡을까요?",
+   "line2": "목요일 저녁 어때? 매트는 내가 챙길게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "wave"
+   "pose2": "cheer"
   },
   {
-   "a": "hyewon",
-   "line1": "밤엔 트렌치 벨트까지 꽉 묶고 왔어요",
-   "line2": "잘했어, 나도 스카프 목까지 올렸어",
+   "a": "jiwon",
+   "line1": "집 가는 길에 스카프 한 바퀴 더 감았어",
+   "line2": "언니 리본 매듭, 오늘 종일 예뻤어요",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "down",
@@ -82,17 +73,17 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨가 고개 끄덕여 준 순간, 저장했어",
-   "line2": "저도요, 내일 또 그 눈빛 보고 싶어요",
+   "line1": "경훈씨 오늘 밤엔 꿈도 편하셨으면 좋겠어",
+   "line2": "내일 첫 미소는 제가 제일 먼저 볼래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
-   "pose2": "love"
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "내일 아침 차 결승전, 전 유자차예요",
-   "line2": "난 생강꿀차, 경훈씨 목은 내가 지킨다",
+   "line1": "내일 결재판에 귀여운 포스트잇 붙일래요",
+   "line2": "난 경훈씨 이름 새긴 펜 준비했거든?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -100,12 +91,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "월요일 무사히 끝, 오늘도 수고했어",
-   "line2": "언니 덕분에 하루가 짧았어요, 굿나잇",
+   "line1": "너 아까 경훈씨랑 엘리베이터 둘이 탔지?",
+   "line2": "딱 세 층이었어요, 언니 귀 빨개졌다~",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "잘 자란 말, 왜 밤에 들으면 더 설레죠?",
+   "line2": "목소리 낮아지는 그 순간이 반칙이지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "highfive"
+   "pose1": "charm",
+   "pose2": "love"
   }
  ]
 }
