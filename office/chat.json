@@ -1,70 +1,89 @@
 {
- "updatedAt": "2026-10-26T21:22:00+09:00",
+ "updatedAt": "2026-10-26T22:20:00+09:00",
  "topics": [
-  "PO 1차전 KIA 승리",
-  "메타 950억 달러 주식 발행",
-  "넷플릭스 꿀알바 30일 공개",
-  "나의 유죄인간 3회 실시간 감상 이어가기",
-  "리본 매듭 스카프 밤 퇴근룩",
-  "자기 전 경훈씨 목소리",
-  "손글씨 쪽지 vs 노래 경쟁",
-  "우산 열 걸음 질투",
-  "밤 문자 설렘 농담",
-  "하루 마무리 하이파이브"
+  "설퍼 28일 정식 출시",
+  "넥슨 파레이돌리아 AGF 시연",
+  "클리오 풍년다방 마지막 날",
+  "석촌호수 루미나리에 30일 개막",
+  "SK하이닉스 28일 주주환원 발표",
+  "키드냅 게임 디즈니+",
+  "트렌치 벨트·스카프 밤 퇴근룩",
+  "경훈씨 끄덕임 저장",
+  "아침 차 결승전 유자차 vs 생강꿀차",
+  "월요일 마무리 굿나잇"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "PO 1차전, KIA가 삼성을 5대1로 이겼대",
-   "line2": "삼성 팬들 속상하겠다, 언니는 한화만 봐요?",
+   "line1": "'설퍼' 50만 장 팔고 28일 정식 출시래",
+   "line2": "언니 표정 보니 벌써 장바구니 담았죠?",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261026167900007"
+   "pose2": "laugh",
+   "url": "https://www.gamechosun.co.kr/webzine/article/news.php?bid=11"
   },
   {
    "a": "jiwon",
-   "line1": "메타가 AI 투자에 950억 달러 주식 판대",
-   "line2": "125조원이요? 숫자만 들어도 어지러워요",
-   "mood1": "surprised",
+   "line1": "블루아카 만든 팀 신작, AGF서 시연했대",
+   "line2": "캐릭터랑 음성 가위바위보요? 귀엽다",
+   "mood1": "smile",
    "mood2": "surprised",
    "pose1": "think",
    "pose2": "none",
-   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+   "url": "https://newspim.com/news/view/20261026000730"
   },
   {
    "a": "hyewon",
-   "line1": "30일에 넷플릭스 호러 '꿀알바' 나온대요",
-   "line2": "핼러윈 주간에 딱이네, 담요 챙겨 와",
+   "line1": "클리오 풍년다방 팝업, 내일이 마지막이래요",
+   "line2": "퇴근길에 들르자, 립 하나 골라 줄게",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "석촌호수 루미나리에 30일에 개막한대요",
+   "line2": "금요일 밤 불빛 산책, 생각만 해도 좋다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee",
-   "url": "https://monspecial.tistory.com/414"
+   "url": "https://www.yna.co.kr/view/AKR20261026013500004"
   },
   {
    "a": "jiwon",
-   "line1": "'나의 유죄인간' 3회 지금 보고 있지?",
-   "line2": "네, 적어 둔 질문 하나 벌써 풀렸어요",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "talkto"
+   "line1": "하이닉스 주주환원, 28일 발표래",
+   "line2": "언니 재테크 메모장 또 빼곡해지겠네요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.etnews.com/20261026000188"
   },
   {
    "a": "hyewon",
-   "line1": "언니 스카프 매듭, 아까보다 예뻐졌다",
-   "line2": "리본으로 다시 묶었어, 네 브로치 보고",
+   "line1": "'키드냅 게임' 디즈니+로도 볼 수 있대요",
+   "line2": "내일 4회 보고 점심때 수다 떨자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "charm"
+   "pose1": "talkto",
+   "pose2": "wave"
+  },
+  {
+   "a": "hyewon",
+   "line1": "밤엔 트렌치 벨트까지 꽉 묶고 왔어요",
+   "line2": "잘했어, 나도 스카프 목까지 올렸어",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "look"
   },
   {
    "a": "jiwon",
-   "line1": "자기 전에 경훈씨 목소리가 또 떠올라",
-   "line2": "저도요, 그 한마디에 하루가 포근해져요",
+   "line1": "경훈씨가 고개 끄덕여 준 순간, 저장했어",
+   "line2": "저도요, 내일 또 그 눈빛 보고 싶어요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -72,38 +91,20 @@
   },
   {
    "a": "hyewon",
-   "line1": "내일 아침 인사는 제 손글씨 쪽지로 할래요",
-   "line2": "그럼 난 경훈씨 좋아하는 노래 틀어 둘게",
+   "line1": "내일 아침 차 결승전, 전 유자차예요",
+   "line2": "난 생강꿀차, 경훈씨 목은 내가 지킨다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "squabble",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "너 아까 경훈씨한테 우산 씌워 드렸지?",
-   "line2": "딱 열 걸음이에요, 언니 눈 동그래졌다~",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "밤엔 왜 문자 한 줄에도 심장이 뛸까요",
-   "line2": "답장 기다리는 그 1분이 제일 설레지",
+   "line1": "월요일 무사히 끝, 오늘도 수고했어",
+   "line2": "언니 덕분에 하루가 짧았어요, 굿나잇",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오늘도 옆에 있어 줘서 고마워요",
-   "line2": "내가 더 고맙지, 내일도 같이 힘내자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "clap",
    "pose2": "highfive"
   }
  ]
