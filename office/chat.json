@@ -1,80 +1,81 @@
 {
- "updatedAt": "2026-10-26T10:12:00+09:00",
+ "updatedAt": "2026-10-26T11:25:00+09:00",
  "topics": [
-  "나의 유죄인간 3회",
-  "팬텀 블레이드 제로 29일 출시",
-  "울프 어몽 어스 리마스터",
-  "가을 캠핑 간편식 경쟁",
-  "초코 소금빵 vs 핸드드립 경쟁",
-  "트렌치 리본·크림 니트 정장룩",
-  "경훈씨 발소리",
-  "칭찬 질투",
-  "연애전쟁 설렘 농담",
-  "남한산성 단풍 사진",
-  "월요일 응원"
+  "2026 게임대상 후보 붉은사막",
+  "위메이드커넥트 오즈",
+  "넷플릭스 10주년 넷플잔치",
+  "가을 호지차 vs 대추생강차",
+  "삼척 나는 솔로캠퍼",
+  "베레모·트렌치 리본 점심룩",
+  "경훈씨 웃음",
+  "점심 옆자리 vs 메뉴판 경쟁",
+  "키보드 박자 응원",
+  "오전 수고 인사"
  ],
  "exchanges": [
   {
+   "a": "jiwon",
+   "line1": "올해 게임대상 본상 후보 12개 확정됐대",
+   "line2": "붉은사막 유력이래요, 언니 픽은요?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.seoulfn.com/news/articleView.html?idxno=640957"
+  },
+  {
+   "a": "jiwon",
+   "line1": "위메이드커넥트가 내년에 '오즈' 낸대",
+   "line2": "서브컬처 RPG요? 언니 또 뽑기 각이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261026057500017"
+  },
+  {
    "a": "hyewon",
-   "line1": "오늘 밤 '나의 유죄인간' 3회 같이 봐요",
-   "line2": "2회 시청률 4.7%였다며? 나 기대돼",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "팬텀 블레이드 제로가 29일에 나온대",
-   "line2": "언니 그 주 칼퇴 각이죠? 다 보여요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "laugh",
-   "url": "https://gamedropradar.com/releases/this-week"
-  },
-  {
-   "a": "jiwon",
-   "line1": "울프 어몽 어스 리마스터도 같은 날이래",
-   "line2": "언니 이번 주 지갑 비상이네요",
+   "line1": "넷플릭스 10주년 넷플잔치에 1만 명 왔대요",
+   "line2": "송혜교·공유까지? 가 볼걸 그랬다",
    "mood1": "surprised",
-   "mood2": "smile",
+   "mood2": "sad",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://gamedropradar.com/releases/this-week"
+   "pose2": "sulk",
+   "url": "https://www.slist.kr/news/articleView.html?idxno=776316"
   },
   {
-   "a": "jiwon",
-   "line1": "요즘 캠핑 간편식 경쟁이 장난 아니래",
-   "line2": "감바스 다음은 어묵탕 밀키트 가요?",
+   "a": "hyewon",
+   "line1": "올가을 카페들이 호지차에 꽂혔대요",
+   "line2": "구수한 라떼면 네 대추생강차 라이벌인데?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee",
-   "url": "https://dpg.danawa.com/news/view?boardSeq=60&listSeq=6068157"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 오후 간식은 초코 소금빵이 1등",
-   "line2": "흥, 내 핸드드립 한 잔이면 게임 끝",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 트렌치 벨트 리본으로 묶었네요",
-   "line2": "너도 크림 니트에 정장, 단정하다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
+   "url": "https://zdnet.co.kr/view/?no=20261025032830"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 발소리만 들려도 등이 펴져",
-   "line2": "저는 목소리 들으면 하루가 정돈돼요",
+   "line1": "삼척에서 '나는 솔로캠퍼' 모집한대",
+   "line2": "언니 감바스 들고 가면 인기 폭발이죠",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.newspim.com/news/view/20261026000251"
+  },
+  {
+   "a": "hyewon",
+   "line1": "점심 나갈 땐 베레모 다시 쓸 거예요",
+   "line2": "난 트렌치 리본 한 번 더 고쳐 묶었어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 웃으시면 사무실이 환해져",
+   "line2": "그 웃음 한 번이면 오후도 거뜬해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -82,39 +83,30 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니만 아까 경훈씨 칭찬 받았죠?",
-   "line2": "다음 보고는 네 차례야, 삐지지 마",
-   "mood1": "sad",
+   "line1": "경훈씨 점심 옆자리, 오늘은 제 차례예요",
+   "line2": "흥, 난 메뉴판부터 먼저 펼쳐 드릴 거야",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
+   "pose1": "squabble",
+   "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "'연애전쟁' 보다가 설렐까 봐 걱정",
-   "line2": "몸짱보다 다정한 눈빛이 더 위험해",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "단풍 사진은 커피 타임에 보여줄게요",
-   "line2": "좋아, 경훈씨도 같이 보시면 좋겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
-  },
-  {
-   "a": "jiwon",
-   "line1": "월요일도 우리 둘이면 든든하다",
-   "line2": "그럼요 언니, 오늘도 같이 힘내요",
+   "line1": "언니 키보드 소리 들으면 저도 힘나요",
+   "line2": "그럼 오후엔 둘이 박자 맞춰 달려 보자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
    "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오전 벌써 다 갔네, 오늘도 수고했어",
+   "line2": "언니랑 있으면 시간이 순삭이에요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "thumbs"
   }
  ]
 }
