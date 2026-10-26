@@ -1,71 +1,87 @@
 {
- "updatedAt": "2026-10-26T16:05:04+09:00",
+ "updatedAt": "2026-10-26T17:08:00+09:00",
  "topics": [
-  "마인크래프트 스위치2 출시",
-  "하리보 푸딩 고스트",
-  "아이브 전곡 공개 이어가기",
-  "코스닥 하락",
-  "소매 접은 니트·로우 포니테일 오후룩",
-  "경훈씨 메모 글씨",
-  "라 바닐 미스트 vs 그래프 색 경쟁",
-  "퇴근 와인 설렘 농담",
-  "캠핑 군고구마 이어가기",
-  "오후 파이팅",
-  "차 한 잔 휴식"
+  "디겜폭 티저·지스타 시연",
+  "나의 유죄인간 3회 숙면 프로젝트",
+  "파이널 테이블 1화 감상 이어가기",
+  "보앤미 초콜릿 소금빵",
+  "퇴근 전 트렌치 다시 걸친 오후룩",
+  "퇴근 배웅 경쟁",
+  "그래프 칭찬 질투",
+  "경훈씨 웃음 비타민",
+  "대추생강차 2라운드",
+  "퇴근 전 마지막 집중"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "마인크래프트, 내일 스위치2로 나온대",
-   "line2": "언니 주말 블록 쌓기 확정이네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://pogwire.com/releases/new-games-this-week"
-  },
-  {
-   "a": "hyewon",
-   "line1": "하리보 핼러윈 '푸딩 고스트' 나왔대요",
-   "line2": "유령 젤리? 경훈씨 책상에 몰래 둘까",
+   "line1": "웹젠 '디겜폭' 티저 떴어, 웹툰 원작이래",
+   "line2": "지스타에서 시연한대요? 언니 줄 서겠네",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "charm",
-   "url": "https://www.slist.kr/news/articleView.html?idxno=770199"
+   "pose2": "laugh",
+   "url": "https://www.newspim.com/news/view/20261026000725"
   },
   {
    "a": "hyewon",
-   "line1": "아이브 전곡 6시 공개, 두 시간 남았어요",
-   "line2": "퇴근길 첫 곡 약속, 잊지 마",
+   "line1": "오늘 밤 '나의 유죄인간' 3회 해요, 8시 50분!",
+   "line2": "숙면 프로젝트 편이라며? 나도 챙겨 볼래",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.mt.co.kr/entertainment/2026/10/26/2026102614277298829"
+  },
+  {
+   "a": "jiwon",
+   "line1": "파이널 테이블 1화, 산골 셰프 손맛 어땠어?",
+   "line2": "보는 내내 언니 캠핑 요리 생각났어요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "보앤미 초콜릿 소금빵, 내일 사 올까요?",
+   "line2": "소금빵에 가나슈? 그건 반칙급인데",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "talkto"
+  },
+  {
+   "a": "hyewon",
+   "line1": "퇴근 전에 트렌치 다시 걸쳤어요, 어때요?",
+   "line2": "귀걸이랑 같이 보니 아침보다 더 단정해",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "코스닥이 오늘 3% 넘게 빠졌대",
-   "line2": "이럴 땐 차분히요, 언니 계좌 괜찮죠?",
-   "mood1": "sad",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.ytn.co.kr/_ln/0102_202610261542001969"
-  },
-  {
-   "a": "jiwon",
-   "line1": "너 니트 소매 살짝 접었네, 산뜻하다",
-   "line2": "언니 로우 포니테일이랑 잘 어울려요",
+   "line1": "경훈씨 퇴근하실 때 내가 문 열어 드릴 거야",
+   "line2": "그럼 전 엘리베이터 먼저 잡아 둘래요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 아까 경훈씨가 언니 그래프만 칭찬했죠?",
+   "line2": "색 맞춘 보람이지~ 너 표지도 좋댔잖아",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "highfive"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 메모 글씨, 볼수록 정겹지 않아?",
-   "line2": "삐뚤한 동그라미까지 다 귀여워요",
+   "line1": "경훈씨 한 번 웃어 주시면 야근도 안 무서워",
+   "line2": "맞아요, 그 웃음이 제 비타민이에요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -73,48 +89,21 @@
   },
   {
    "a": "hyewon",
-   "line1": "내일 라 바닐 미스트 뿌리고 첫 보고 갈래요",
-   "line2": "그럼 난 보고서 그래프 색부터 맞출게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "think"
-  },
-  {
-   "a": "jiwon",
-   "line1": "퇴근 후 와인 한 잔, 누구랑 하면 좋을까",
-   "line2": "언니 눈빛이 벌써 경훈씨 쪽인데요?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "칼국수 다음 캠핑 메뉴는 군고구마야",
-   "line2": "호일 담당은 저요, 꿀맛 예약이에요",
+   "line1": "대추생강차 타 왔어요, 언니도 한 모금!",
+   "line2": "달달하고 따뜻하다, 오늘 2라운드 네 승",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "남은 시간도 같이 파이팅해요, 언니!",
-   "line2": "좋아, 끝나면 붕어빵 사 먹자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
+   "pose2": "clap"
   },
   {
    "a": "jiwon",
-   "line1": "잠깐 쉬면서 따뜻한 차 한 잔 할래?",
-   "line2": "좋아요, 언니가 고르면 다 맛있어요",
+   "line1": "퇴근까지 한 시간, 마지막 집중 가자",
+   "line2": "네, 끝나면 언니랑 맛있는 거 먹어요",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "cheer",
+   "pose2": "wave"
   }
  ]
 }
