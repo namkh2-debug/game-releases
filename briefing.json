@@ -1,219 +1,219 @@
 {
-  "date": "2026-10-26",
-  "updatedAt": "2026-10-26T16:04:17+09:00",
-  "region": "경기 광주",
-  "weather": {
-    "temp": 18.4,
-    "low": 13,
-    "high": 19,
-    "condition": "흐림, 7시께 약한 비 후 오후 늦게 갬",
-    "rainChance": "7시 60%, 낮 20~30%, 저녁 이후 0~20%",
-    "dust": "미세먼지 좋음, 초미세먼지 좋음",
-    "tip": "아침 13도·낮 19도라 가벼운 겉옷이 좋고, 이른 출근길엔 작은 우산을 챙기세요. 내일 아침 9도, 모레 아침 1도로 급격히 추워져요.",
-    "source": "네이버 날씨(기상청·웨더아이 제공, 06:22 기준). 최저·최고는 시간별 예보 기준"
+ "date": "2026-10-26",
+ "updatedAt": "2026-10-26T17:06:00+09:00",
+ "region": "경기 광주",
+ "weather": {
+  "temp": 17.4,
+  "low": 13,
+  "high": 19,
+  "condition": "흐림, 7시께 약한 비 후 오후 늦게 갬",
+  "rainChance": "7시 60%, 낮 20~30%, 저녁 이후 0~20%",
+  "dust": "미세먼지 좋음, 초미세먼지 좋음",
+  "tip": "아침 13도·낮 19도라 가벼운 겉옷이 좋고, 이른 출근길엔 작은 우산을 챙기세요. 내일 아침 9도, 모레 아침 1도로 급격히 추워져요.",
+  "source": "네이버 날씨(기상청·웨더아이 제공, 06:22 기준). 최저·최고는 시간별 예보 기준"
+ },
+ "breaking": [
+  {
+   "title": "코스피, 1%대 하락해 5,400선 마감...코스닥 3.26% ↓",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610261542001969",
+   "source": "YTN"
   },
-  "breaking": [
-    {
-      "title": "코스피, 1%대 하락해 5,400선 마감...코스닥 3.26% ↓",
-      "url": "https://www.ytn.co.kr/_ln/0102_202610261542001969",
-      "source": "YTN"
-    },
-    {
-      "title": "경찰, 역삼동 방화범 신상공개 검토…피해자 \"불내기 전 씩 웃어\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026062351004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "'尹정부 관저이전 의혹' 김오진 前국토차관에 징역 5년 구형",
-      "url": "https://www.yna.co.kr/view/AKR20261026113700004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "'아시아 외교 중시' 후쿠다 야스오 전 日총리 별세",
-      "url": "https://www.chosun.com/international/international_general/2026/10/26/HE4TSZTEMNRWIYJVGQ2TQYZZGI/",
-      "source": "조선일보"
-    }
-  ],
-  "news": [
-    {
-      "title": "김정은 ‘전례 없는’ 방중…시진핑 대신 서열 4위·차 타고 당일치기",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1284087.html",
-      "source": "한겨레",
-      "summary": "김정은 위원장이 전용차로 단둥을 당일치기 방문해 시진핑 대신 中 서열 4위를 만났다."
-    },
-    {
-      "title": "선관위 특검, 28일 올림픽공원 보관 투표지 247만장 임의검증",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8694951",
-      "source": "KBS 뉴스",
-      "summary": "선관위 특검이 28일 올림픽공원에 보관된 지방선거 투표지 247만 장을 임의 검증한다."
-    },
-    {
-      "title": "오세훈 2심 무죄에 정치 격랑…장동혁·한동훈은 뜨뜻미지근",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283974.html",
-      "source": "한겨레",
-      "summary": "오세훈 시장 항소심 무죄 이후 보수 진영 주도권 경쟁이 달아오르고 있다."
-    },
-    {
-      "title": "중수청장 \"한동훈 딸 진상규명 필요…일부 암장처럼 보이는 부분도\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026085000004",
-      "source": "연합뉴스",
-      "summary": "김지용 중수청장이 국감에서 한동훈 의원 딸 허위 스펙 수사 무마 의혹에 진상규명이 필요하다고 답했다."
-    },
-    {
-      "title": "강신철 \"전작권 전환연도 결정하도록 한미 당국간 긴밀히 협의\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026072500504",
-      "source": "연합뉴스",
-      "summary": "국방장관이 완전운용능력 검증을 마치고 전작권 전환 연도를 정하도록 한미가 협의 중이라고 밝혔다."
-    },
-    {
-      "title": "미 매체 “미군, 중간선거 뒤 이란 공습안 보고”···트럼프 승인 대기",
-      "url": "https://www.khan.co.kr/article/202610252241001",
-      "source": "경향신문",
-      "summary": "미군이 중간선거 뒤 이란 공격 재개안을 국방장관에게 보고했고 트럼프 결정만 남았다는 보도."
-    },
-    {
-      "title": "트럼프發 중동전쟁 재점화 우려에…유가 117달러 돌파",
-      "url": "https://www.hankyung.com/article/2026102535241",
-      "source": "한국경제",
-      "summary": "중동전쟁 재점화 우려로 브렌트유가 117달러를 넘어 6개월 만에 최고치를 찍었다."
-    },
-    {
-      "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
-      "url": "https://www.yna.co.kr/view/AKR20261025048500009",
-      "source": "연합뉴스",
-      "summary": "골드만삭스가 코스피 목표치를 9천으로 낮췄지만 여전히 60% 이상 상승 여력이 있다고 봤다."
-    },
-    {
-      "title": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈",
-      "url": "https://www.hani.co.kr/arti/economy/marketing/1284039.html",
-      "source": "한겨레",
-      "summary": "삼성전자·SK하이닉스가 이번 주 3분기 실적을 발표하며 합산 영업익 180조원대가 예상된다."
-    },
-    {
-      "title": "한은 \"반도체 호황·AI 확산에 청년 일자리 질 나빠진다\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026078600002",
-      "source": "연합뉴스",
-      "summary": "한국은행이 반도체 중심 성장과 AI 확산, 경직적 노동시장 탓에 청년 고용의 질이 악화하고 있다고 진단했다."
-    },
-    {
-      "title": "WSJ \"한화오션, 트럼프 美조선업 부흥의 핵심 파트너\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026075154eyH",
-      "source": "연합뉴스TV",
-      "summary": "WSJ가 트럼프 행정부의 미 조선업 부흥 핵심 파트너로 한화오션을 집중 조명했다."
-    },
-    {
-      "title": "[이태원참사 4주기] 더딘 책임자 처벌, 끝나지 않은 조사…진상규명 어디까지 왔나",
-      "url": "https://www.khan.co.kr/article/202610260600071",
-      "source": "경향신문",
-      "summary": "참사 4주기를 앞두고 책임자 처벌과 진상조사가 어디까지 진행됐는지 짚었다."
-    },
-    {
-      "title": "이진수 법무장관 대행 \"스토킹 범죄 현행법 공백…법개정 필요\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026084000004",
-      "source": "연합뉴스",
-      "summary": "폭행·협박이 없어도 스토킹 가해자에게 잠정조치를 할 수 있도록 법 개정이 필요하다고 밝혔다."
-    },
-    {
-      "title": "외국인·귀화·이민 '이주배경인구' 5.4%…2030은 10명 중 1명",
-      "url": "https://www.yna.co.kr/view/AKR20261026078900002",
-      "source": "연합뉴스",
-      "summary": "지난해 이주배경인구가 10만명 가까이 늘어 전체 인구의 5.4%, 20·30대의 10%를 차지했다."
-    },
-    {
-      "title": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력",
-      "url": "https://www.ytn.co.kr/_ln/0103_202610252316427049",
-      "source": "YTN",
-      "summary": "경찰이 역삼 연쇄 방화 피의자의 살해 고의를 밝히려 이번 주 프로파일러를 투입한다."
-    },
-    {
-      "title": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의",
-      "url": "https://www.khan.co.kr/article/202610260816001",
-      "source": "경향신문",
-      "summary": "제30호 태풍 참피가 온대저기압으로 약화됐지만 제주엔 강풍주의보와 높은 물결이 이어진다."
-    },
-    {
-      "title": "靑, 가상자산 과세 ‘추가유예’ 가닥...청년여론 의식한듯",
-      "url": "https://www.chosun.com/politics/politics_general/2026/10/25/2QXPWZKTEZEOJNILK4N3CKQNTM/",
-      "source": "조선일보",
-      "summary": "청와대가 내년 1월 시행 예정인 가상자산 과세를 2년 더 미루는 방안을 검토 중이다."
-    },
-    {
-      "title": "中 20기 5중전회 개막, 중앙위원 45명 퇴출 전망",
-      "url": "https://www.newspim.com/news/view/20261026000035",
-      "source": "뉴스핌",
-      "summary": "중국 공산당 20기 5중전회가 개막했으며 중앙위원 45명이 물러날 것으로 전망된다."
-    },
-    {
-      "title": "[단독] 수도관서 에틸벤젠 등 ‘유독 물질’ 검출…용출량 기준 없어",
-      "url": "https://www.hani.co.kr/arti/society/environment/1284071.html",
-      "source": "한겨레",
-      "summary": "수도관·밸브 용출시험에서 톨루엔·에틸벤젠 등이 검출됐지만 관련 기준이 없다."
-    },
-    {
-      "title": "\"생성형 AI로 병원·대학 해킹\"…경찰, 해킹 협박 일당 검거",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8695122",
-      "source": "KBS 뉴스",
-      "summary": "생성형 AI를 악용해 병원·학원·대학 등에 침입, 개인정보 820만여 건을 빼내고 돈을 요구한 일당이 붙잡혔다."
-    },
-    {
-      "title": "롯데 계열 ‘기프티엘’ 해킹 피해…이름·번호·환불 계좌 등",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8694543",
-      "source": "KBS 뉴스",
-      "summary": "롯데 계열 모바일 상품권 서비스 기프티엘이 해킹돼 이름·번호·환불 계좌 등이 유출됐다."
-    },
-    {
-      "title": "대홍기획 \"스푼 고객 1만8천여명 개인정보 유출…금전 피해 미확인\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610261019221Gs",
-      "source": "연합뉴스TV",
-      "summary": "대홍기획은 해킹으로 자회사 스푼 고객 1만8천여 명의 이름·번호·환불 계좌가 유출됐다고 밝혔다."
-    },
-    {
-      "title": "경기 양평나들목서 승합차·14톤 화물차 충돌…2명 숨져",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8694674",
-      "source": "KBS 뉴스",
-      "summary": "26일 새벽 양평나들목 인근에서 승합차와 14톤 화물차가 충돌해 2명이 숨졌다."
-    },
-    {
-      "title": "‘제로 음료’에 “혈당 상승 억제” 표시 금지…식약처 기준 개정",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8694972",
-      "source": "KBS 뉴스",
-      "summary": "내년부터 감미료로 당을 낮춘 식품에 혈당 상승 억제 기능 표시를 할 수 없게 된다."
-    },
-    {
-      "title": "셀트리온, 美 대형 의료기업 잡았다…옴리클로·앱토즈마 단독 공급",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441051",
-      "source": "연합인포맥스",
-      "summary": "셀트리온이 미국 대형 의료기업에 옴리클로·앱토즈마 단독 공급 계약을 맺었다."
-    },
-    {
-      "title": "테슬라, 옵티머스 양산 돌입⋯주 2만대 목표·내년 말 외부 공급",
-      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601467",
-      "source": "엠투데이",
-      "summary": "테슬라가 프리몬트 공장에서 휴머노이드 로봇 옵티머스 양산에 들어갔다."
-    },
-    {
-      "title": "룰라, 브라질 대선 승리 ‘4선 성공’…보우소나루에 역전승",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1284117.html",
-      "source": "한겨레",
-      "summary": "브라질 대선 결선에서 룰라 대통령이 1차 열세를 뒤집고 통산 네 번째 임기를 확보했다."
-    },
-    {
-      "title": "잠수교, 내일부터 차량 통행 중단…개통 50년 만에 ‘보행전용교’로",
-      "url": "https://www.hani.co.kr/arti/area/area_general/1284038.html",
-      "source": "한겨레",
-      "summary": "26일 0시부터 잠수교 차량 통행이 금지되고 보행전용교 공사가 시작된다."
-    },
-    {
-      "title": "‘가을비 변수’ 삼성 대 KIA PO 1차전 오늘 개최",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8694895",
-      "source": "KBS 뉴스",
-      "summary": "태풍으로 순연된 삼성과 KIA의 플레이오프 1차전이 오늘 저녁 열린다."
-    },
-    {
-      "title": "안세영, 프랑스오픈 3연패·50연승···흔들렸지만, 이변은 없었다",
-      "url": "https://www.khan.co.kr/article/202610252210005",
-      "source": "경향신문",
-      "summary": "안세영이 신두를 꺾고 프랑스오픈 3연패와 개인 최다 50연승을 달성했다."
-    }
-  ]
+  {
+   "title": "경찰, 역삼동 방화범 신상공개 검토…피해자 \"불내기 전 씩 웃어\"",
+   "url": "https://www.yna.co.kr/view/AKR20261026062351004",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "'尹정부 관저이전 의혹' 김오진 前국토차관에 징역 5년 구형",
+   "url": "https://www.yna.co.kr/view/AKR20261026113700004",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "'아시아 외교 중시' 후쿠다 야스오 전 日총리 별세",
+   "url": "https://www.chosun.com/international/international_general/2026/10/26/HE4TSZTEMNRWIYJVGQ2TQYZZGI/",
+   "source": "조선일보"
+  }
+ ],
+ "news": [
+  {
+   "title": "김정은 ‘전례 없는’ 방중…시진핑 대신 서열 4위·차 타고 당일치기",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284087.html",
+   "source": "한겨레",
+   "summary": "김정은 위원장이 전용차로 단둥을 당일치기 방문해 시진핑 대신 中 서열 4위를 만났다."
+  },
+  {
+   "title": "선관위 특검, 28일 올림픽공원 보관 투표지 247만장 임의검증",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694951",
+   "source": "KBS 뉴스",
+   "summary": "선관위 특검이 28일 올림픽공원에 보관된 지방선거 투표지 247만 장을 임의 검증한다."
+  },
+  {
+   "title": "오세훈 2심 무죄에 정치 격랑…장동혁·한동훈은 뜨뜻미지근",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1283974.html",
+   "source": "한겨레",
+   "summary": "오세훈 시장 항소심 무죄 이후 보수 진영 주도권 경쟁이 달아오르고 있다."
+  },
+  {
+   "title": "중수청장 \"한동훈 딸 진상규명 필요…일부 암장처럼 보이는 부분도\"",
+   "url": "https://www.yna.co.kr/view/AKR20261026085000004",
+   "source": "연합뉴스",
+   "summary": "김지용 중수청장이 국감에서 한동훈 의원 딸 허위 스펙 수사 무마 의혹에 진상규명이 필요하다고 답했다."
+  },
+  {
+   "title": "강신철 \"전작권 전환연도 결정하도록 한미 당국간 긴밀히 협의\"",
+   "url": "https://www.yna.co.kr/view/AKR20261026072500504",
+   "source": "연합뉴스",
+   "summary": "국방장관이 완전운용능력 검증을 마치고 전작권 전환 연도를 정하도록 한미가 협의 중이라고 밝혔다."
+  },
+  {
+   "title": "미 매체 “미군, 중간선거 뒤 이란 공습안 보고”···트럼프 승인 대기",
+   "url": "https://www.khan.co.kr/article/202610252241001",
+   "source": "경향신문",
+   "summary": "미군이 중간선거 뒤 이란 공격 재개안을 국방장관에게 보고했고 트럼프 결정만 남았다는 보도."
+  },
+  {
+   "title": "트럼프發 중동전쟁 재점화 우려에…유가 117달러 돌파",
+   "url": "https://www.hankyung.com/article/2026102535241",
+   "source": "한국경제",
+   "summary": "중동전쟁 재점화 우려로 브렌트유가 117달러를 넘어 6개월 만에 최고치를 찍었다."
+  },
+  {
+   "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
+   "url": "https://www.yna.co.kr/view/AKR20261025048500009",
+   "source": "연합뉴스",
+   "summary": "골드만삭스가 코스피 목표치를 9천으로 낮췄지만 여전히 60% 이상 상승 여력이 있다고 봤다."
+  },
+  {
+   "title": "삼전닉스 3분기 영업익 180조원대 전망…‘추가 주주환원’에 쏠린 눈",
+   "url": "https://www.hani.co.kr/arti/economy/marketing/1284039.html",
+   "source": "한겨레",
+   "summary": "삼성전자·SK하이닉스가 이번 주 3분기 실적을 발표하며 합산 영업익 180조원대가 예상된다."
+  },
+  {
+   "title": "한은 \"반도체 호황·AI 확산에 청년 일자리 질 나빠진다\"",
+   "url": "https://www.yna.co.kr/view/AKR20261026078600002",
+   "source": "연합뉴스",
+   "summary": "한국은행이 반도체 중심 성장과 AI 확산, 경직적 노동시장 탓에 청년 고용의 질이 악화하고 있다고 진단했다."
+  },
+  {
+   "title": "WSJ \"한화오션, 트럼프 美조선업 부흥의 핵심 파트너\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026075154eyH",
+   "source": "연합뉴스TV",
+   "summary": "WSJ가 트럼프 행정부의 미 조선업 부흥 핵심 파트너로 한화오션을 집중 조명했다."
+  },
+  {
+   "title": "[이태원참사 4주기] 더딘 책임자 처벌, 끝나지 않은 조사…진상규명 어디까지 왔나",
+   "url": "https://www.khan.co.kr/article/202610260600071",
+   "source": "경향신문",
+   "summary": "참사 4주기를 앞두고 책임자 처벌과 진상조사가 어디까지 진행됐는지 짚었다."
+  },
+  {
+   "title": "이진수 법무장관 대행 \"스토킹 범죄 현행법 공백…법개정 필요\"",
+   "url": "https://www.yna.co.kr/view/AKR20261026084000004",
+   "source": "연합뉴스",
+   "summary": "폭행·협박이 없어도 스토킹 가해자에게 잠정조치를 할 수 있도록 법 개정이 필요하다고 밝혔다."
+  },
+  {
+   "title": "외국인·귀화·이민 '이주배경인구' 5.4%…2030은 10명 중 1명",
+   "url": "https://www.yna.co.kr/view/AKR20261026078900002",
+   "source": "연합뉴스",
+   "summary": "지난해 이주배경인구가 10만명 가까이 늘어 전체 인구의 5.4%, 20·30대의 10%를 차지했다."
+  },
+  {
+   "title": "'역삼 연쇄 방화' 프로파일러 투입...'살해 고의' 입증 주력",
+   "url": "https://www.ytn.co.kr/_ln/0103_202610252316427049",
+   "source": "YTN",
+   "summary": "경찰이 역삼 연쇄 방화 피의자의 살해 고의를 밝히려 이번 주 프로파일러를 투입한다."
+  },
+  {
+   "title": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의",
+   "url": "https://www.khan.co.kr/article/202610260816001",
+   "source": "경향신문",
+   "summary": "제30호 태풍 참피가 온대저기압으로 약화됐지만 제주엔 강풍주의보와 높은 물결이 이어진다."
+  },
+  {
+   "title": "靑, 가상자산 과세 ‘추가유예’ 가닥...청년여론 의식한듯",
+   "url": "https://www.chosun.com/politics/politics_general/2026/10/25/2QXPWZKTEZEOJNILK4N3CKQNTM/",
+   "source": "조선일보",
+   "summary": "청와대가 내년 1월 시행 예정인 가상자산 과세를 2년 더 미루는 방안을 검토 중이다."
+  },
+  {
+   "title": "中 20기 5중전회 개막, 중앙위원 45명 퇴출 전망",
+   "url": "https://www.newspim.com/news/view/20261026000035",
+   "source": "뉴스핌",
+   "summary": "중국 공산당 20기 5중전회가 개막했으며 중앙위원 45명이 물러날 것으로 전망된다."
+  },
+  {
+   "title": "[단독] 수도관서 에틸벤젠 등 ‘유독 물질’ 검출…용출량 기준 없어",
+   "url": "https://www.hani.co.kr/arti/society/environment/1284071.html",
+   "source": "한겨레",
+   "summary": "수도관·밸브 용출시험에서 톨루엔·에틸벤젠 등이 검출됐지만 관련 기준이 없다."
+  },
+  {
+   "title": "\"생성형 AI로 병원·대학 해킹\"…경찰, 해킹 협박 일당 검거",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695122",
+   "source": "KBS 뉴스",
+   "summary": "생성형 AI를 악용해 병원·학원·대학 등에 침입, 개인정보 820만여 건을 빼내고 돈을 요구한 일당이 붙잡혔다."
+  },
+  {
+   "title": "롯데 계열 ‘기프티엘’ 해킹 피해…이름·번호·환불 계좌 등",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694543",
+   "source": "KBS 뉴스",
+   "summary": "롯데 계열 모바일 상품권 서비스 기프티엘이 해킹돼 이름·번호·환불 계좌 등이 유출됐다."
+  },
+  {
+   "title": "대홍기획 \"스푼 고객 1만8천여명 개인정보 유출…금전 피해 미확인\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610261019221Gs",
+   "source": "연합뉴스TV",
+   "summary": "대홍기획은 해킹으로 자회사 스푼 고객 1만8천여 명의 이름·번호·환불 계좌가 유출됐다고 밝혔다."
+  },
+  {
+   "title": "경기 양평나들목서 승합차·14톤 화물차 충돌…2명 숨져",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694674",
+   "source": "KBS 뉴스",
+   "summary": "26일 새벽 양평나들목 인근에서 승합차와 14톤 화물차가 충돌해 2명이 숨졌다."
+  },
+  {
+   "title": "‘제로 음료’에 “혈당 상승 억제” 표시 금지…식약처 기준 개정",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694972",
+   "source": "KBS 뉴스",
+   "summary": "내년부터 감미료로 당을 낮춘 식품에 혈당 상승 억제 기능 표시를 할 수 없게 된다."
+  },
+  {
+   "title": "셀트리온, 美 대형 의료기업 잡았다…옴리클로·앱토즈마 단독 공급",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441051",
+   "source": "연합인포맥스",
+   "summary": "셀트리온이 미국 대형 의료기업에 옴리클로·앱토즈마 단독 공급 계약을 맺었다."
+  },
+  {
+   "title": "테슬라, 옵티머스 양산 돌입⋯주 2만대 목표·내년 말 외부 공급",
+   "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601467",
+   "source": "엠투데이",
+   "summary": "테슬라가 프리몬트 공장에서 휴머노이드 로봇 옵티머스 양산에 들어갔다."
+  },
+  {
+   "title": "룰라, 브라질 대선 승리 ‘4선 성공’…보우소나루에 역전승",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1284117.html",
+   "source": "한겨레",
+   "summary": "브라질 대선 결선에서 룰라 대통령이 1차 열세를 뒤집고 통산 네 번째 임기를 확보했다."
+  },
+  {
+   "title": "잠수교, 내일부터 차량 통행 중단…개통 50년 만에 ‘보행전용교’로",
+   "url": "https://www.hani.co.kr/arti/area/area_general/1284038.html",
+   "source": "한겨레",
+   "summary": "26일 0시부터 잠수교 차량 통행이 금지되고 보행전용교 공사가 시작된다."
+  },
+  {
+   "title": "‘가을비 변수’ 삼성 대 KIA PO 1차전 오늘 개최",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8694895",
+   "source": "KBS 뉴스",
+   "summary": "태풍으로 순연된 삼성과 KIA의 플레이오프 1차전이 오늘 저녁 열린다."
+  },
+  {
+   "title": "안세영, 프랑스오픈 3연패·50연승···흔들렸지만, 이변은 없었다",
+   "url": "https://www.khan.co.kr/article/202610252210005",
+   "source": "경향신문",
+   "summary": "안세영이 신두를 꺾고 프랑스오픈 3연패와 개인 최다 50연승을 달성했다."
+  }
+ ]
 }
