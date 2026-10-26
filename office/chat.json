@@ -1,42 +1,42 @@
 {
- "updatedAt": "2026-10-27T07:15:00+09:00",
+ "updatedAt": "2026-10-27T08:12:00+09:00",
  "topics": [
-  "야말 발롱도르 영플레이어상 3년 연속",
-  "아이패드 미니 첫 OLED",
-  "라 바닐 팝업 마지막 날",
-  "아일릿 BREAK EVEN 팝업",
-  "차콜 코트 깃 세운 바람 출근룩",
-  "경훈씨 웃음소리",
-  "아침 차 승부 결판 vs 머그컵 데우기",
-  "찬 바람 손잡기 설렘 농담",
-  "바람 부는 화요일 하이파이브",
-  "커피 한 모금 메모 습관"
+  "게임대상 붉은사막 vs 아이온2",
+  "SK하이닉스 3분기 실적 발표 D-1",
+  "클리오 풍년다방 팝업 마지막 날",
+  "나의 유죄인간 4회 본방",
+  "차콜 코트+니트 머플러 출근룩",
+  "경훈씨 출근 발소리",
+  "보고서 리본 표지 vs 요약 한 장 경쟁",
+  "드라마 이마 키스 설렘 농담",
+  "KIA PO 1차전 승리",
+  "오후 스트레칭 약속"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "야말이 발롱도르 영플레이어상 3년 연속이래",
-   "line2": "3년 연속이요? 그 나이에 벌써 전설이네요",
-   "mood1": "surprised",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "talkto",
-   "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=697218"
-  },
-  {
-   "a": "jiwon",
-   "line1": "아이패드 미니에 처음으로 OLED가 들어갔대",
-   "line2": "언니, 태블릿 바꿀 핑계 딱 생겼네요",
+   "line1": "올해 게임대상, 붉은사막이랑 아이온2 박빙이래",
+   "line2": "언니는 누구 편이에요? 저는 붉은사막 찍을래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://m.cnet.co.kr/view/?no=20261026222322"
+   "pose2": "charm",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450339"
+  },
+  {
+   "a": "jiwon",
+   "line1": "SK하이닉스 내일 3분기 실적 발표한대",
+   "line2": "주주환원 소식 나오면 언니 표정 활짝 피겠네요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261026155100003"
   },
   {
    "a": "hyewon",
-   "line1": "성수 라 바닐 팝업, 오늘이 마지막 날이래요",
-   "line2": "퇴근길에 들러 보자, 바닐라 향 궁금하다",
+   "line1": "클리오 풍년다방 팝업, 오늘이 마지막 날이래요",
+   "line2": "서울숲이지? 퇴근길에 립 하나 건지러 가자",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "wave",
@@ -44,26 +44,26 @@
   },
   {
    "a": "hyewon",
-   "line1": "아일릿 팝업, 하이브 용산에서 31일까지래요",
-   "line2": "점심때 잠깐 가 볼까? 굿즈 구경만 하자",
+   "line1": "오늘 밤 '나의 유죄인간' 4회 하는 날이에요",
+   "line2": "8시 50분이지? 간식 챙겨서 본방 사수!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "talkto"
-  },
-  {
-   "a": "jiwon",
-   "line1": "바람이 세서 코트 깃까지 세우고 왔어",
-   "line2": "언니 차콜 코트, 바람 맞아도 태가 나요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "thumbs"
+   "pose1": "cheer",
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 웃음소리 들리면 사무실이 환해져요",
-   "line2": "맞아, 그 소리 하나에 오전 피곤이 녹아",
+   "line1": "언니 차콜 코트에 머플러까지, 완전 화보예요",
+   "line2": "바람 세다길래 니트 머플러도 꺼냈지",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 출근 발소리 기다리는 게 낙이 됐어",
+   "line2": "저도요, 문 열리는 소리에 귀가 쫑긋해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -71,39 +71,40 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 오늘 아침 차 승부로 결판내는 날이죠?",
-   "line2": "흥, 난 경훈씨 머그컵 미리 데워 놨거든",
+   "line1": "오늘 보고서 표지엔 제가 리본 달아 드릴래요",
+   "line2": "흥, 난 요약 한 장 따로 뽑아 드릴 거거든?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "찬 바람 불면 왜 누가 손잡아 줬으면 싶지?",
-   "line2": "언니, 그럴 땐 주머니 반 칸 양보가 정석!",
+   "a": "hyewon",
+   "line1": "드라마 이마 키스 장면, 볼 때마다 숨 멈춰요",
+   "line2": "그 장면만 다섯 번 돌려 본 거 다 알아",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "charm"
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "KIA가 PO 1차전 먼저 가져갔더라",
+   "line2": "가을야구 열기가 사무실까지 느껴지네요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "clap",
+   "url": "https://m.newspim.com/news/view/20261026001269"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 바람 불어도 오늘 웃으면서 버텨요",
-   "line2": "그래, 점심엔 뜨끈한 국물로 충전하자",
+   "line1": "언니, 오후엔 스트레칭 한 번 같이 해요",
+   "line2": "좋아, 오늘은 네가 선생님 해 줘",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "cheer",
    "pose2": "highfive"
-  },
-  {
-   "a": "jiwon",
-   "line1": "커피 한 모금에 오늘 할 일 정리 끝",
-   "line2": "언니 메모 습관, 저도 꼭 배우고 싶어요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
   }
  ]
 }
