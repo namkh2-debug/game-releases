@@ -1,9 +1,9 @@
 {
   "date": "2026-10-26",
-  "updatedAt": "2026-10-26T18:20:00+09:00",
+  "updatedAt": "2026-10-26T19:08:24+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 16.0,
+    "temp": 15.0,
     "low": 13,
     "high": 19,
     "condition": "흐림, 7시께 약한 비 후 오후 늦게 갬",
@@ -14,23 +14,8 @@
   },
   "breaking": [
     {
-      "title": "'아시아 외교 중시' 후쿠다 야스오 전 日총리 별세",
-      "url": "https://www.chosun.com/international/international_general/2026/10/26/HE4TSZTEMNRWIYJVGQ2TQYZZGI/",
-      "source": "조선일보"
-    },
-    {
-      "title": "코스피, 1%대 하락해 5,400선 마감...코스닥 3.26% ↓",
-      "url": "https://www.ytn.co.kr/_ln/0102_202610261542001969",
-      "source": "YTN"
-    },
-    {
-      "title": "경찰, 역삼동 방화범 신상공개 검토…피해자 \"불내기 전 씩 웃어\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026062351004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "'尹정부 관저이전 의혹' 김오진 前국토차관에 징역 5년 구형",
-      "url": "https://www.yna.co.kr/view/AKR20261026113700004",
+      "title": "KB국민은행 \"해킹 정보유출 2천91명 추가 확인\"",
+      "url": "https://www.yna.co.kr/view/AKR20261026156600002",
       "source": "연합뉴스"
     }
   ],
@@ -72,12 +57,6 @@
       "summary": "이재명 대통령이 농어민과의 대화에서 CPTPP 가입 추진 의지를 밝히며 농어촌 공익직불금 증액도 시사했다."
     },
     {
-      "title": "靑, 김혜경 여사 골프 보도에 \"허위사실 유포 행위\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261026175441DD4",
-      "source": "연합뉴스TV",
-      "summary": "역삼동 화재 당일 골프 의혹 제기에 청와대가 허위사실이라고 반박했고, 법사위에서는 여야가 맞고발로 대치했다."
-    },
-    {
       "title": "미 매체 “미군, 중간선거 뒤 이란 공습안 보고”···트럼프 승인 대기",
       "url": "https://www.khan.co.kr/article/202610252241001",
       "source": "경향신문",
@@ -100,6 +79,18 @@
       "url": "https://www.hani.co.kr/arti/economy/marketing/1284039.html",
       "source": "한겨레",
       "summary": "삼성전자·SK하이닉스가 이번 주 3분기 실적을 발표하며 합산 영업익 180조원대가 예상된다."
+    },
+    {
+      "title": "미래에셋생명서도 해킹 유출 확인돼…보험사 중 첫 침해사고",
+      "url": "https://www.yna.co.kr/view/AKR20261026127600002",
+      "source": "연합뉴스",
+      "summary": "미래에셋생명 청약시스템·홈페이지 일부가 뚫려 고객 신용정보가 유출됐다. 보험권 첫 해킹 유출 신고다."
+    },
+    {
+      "title": "SK하이닉스 \"16조 특별배당 확정된 바 없어…28일 발표\"",
+      "url": "https://www.etnews.com/20261026000188",
+      "source": "전자신문",
+      "summary": "SK하이닉스가 추가 주주환원 방안을 28일 3분기 실적 발표 때 공개한다고 공시했다."
     },
     {
       "title": "WSJ \"한화오션, 트럼프 美조선업 부흥의 핵심 파트너\"",
@@ -132,6 +123,18 @@
       "summary": "3분기 중소기업 수출이 334억달러로 역대 최고를 기록했으며 K뷰티가 성장을 이끌었다."
     },
     {
+      "title": "한은 \"반도체 호황·AI 확산에 청년 일자리 질 나빠진다\"",
+      "url": "https://www.yna.co.kr/view/AKR20261026078600002",
+      "source": "연합뉴스",
+      "summary": "한국은행은 반도체 중심 성장과 AI 확산으로 청년층이 임시·일용직으로 밀려난다고 진단했다."
+    },
+    {
+      "title": "홈플러스 6개 점포, 전기료 체납으로 한전서 '10월 단전 예고'",
+      "url": "https://www.yna.co.kr/view/AKR20261026083352030",
+      "source": "연합뉴스",
+      "summary": "홈플러스 포천송우·킨텍스 등 6개 점포가 전기요금 미납으로 27~30일 단전 예고를 받았다."
+    },
+    {
       "title": "300만원대 접는 아이폰 \"6시간 만에 화면이 '쩍'\"",
       "url": "https://www.chosun.com/economy/tech_it/2026/10/26/GL23C3ERVBDPHEIUMJWBYQP2JA/",
       "source": "조선일보",
@@ -150,22 +153,10 @@
       "summary": "경찰이 역삼 연쇄 방화 피의자의 살해 고의를 밝히려 이번 주 프로파일러를 투입한다."
     },
     {
-      "title": "태풍 ‘참피’ 온대저기압으로 약화…제주 강풍·풍랑 주의",
-      "url": "https://www.khan.co.kr/article/202610260816001",
-      "source": "경향신문",
-      "summary": "제30호 태풍 참피가 온대저기압으로 약화됐지만 제주엔 강풍주의보와 높은 물결이 이어진다."
-    },
-    {
       "title": "靑, 가상자산 과세 ‘추가유예’ 가닥...청년여론 의식한듯",
       "url": "https://www.chosun.com/politics/politics_general/2026/10/25/2QXPWZKTEZEOJNILK4N3CKQNTM/",
       "source": "조선일보",
       "summary": "청와대가 내년 1월 시행 예정인 가상자산 과세를 2년 더 미루는 방안을 검토 중이다."
-    },
-    {
-      "title": "中 20기 5중전회 개막, 중앙위원 45명 퇴출 전망",
-      "url": "https://www.newspim.com/news/view/20261026000035",
-      "source": "뉴스핌",
-      "summary": "중국 공산당 20기 5중전회가 개막했으며 중앙위원 45명이 물러날 것으로 전망된다."
     },
     {
       "title": "[단독] 수도관서 에틸벤젠 등 ‘유독 물질’ 검출…용출량 기준 없어",
@@ -208,12 +199,6 @@
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8694895",
       "source": "KBS 뉴스",
       "summary": "태풍으로 순연된 삼성과 KIA의 플레이오프 1차전이 오늘 저녁 열린다."
-    },
-    {
-      "title": "안세영, 프랑스오픈 3연패·50연승···흔들렸지만, 이변은 없었다",
-      "url": "https://www.khan.co.kr/article/202610252210005",
-      "source": "경향신문",
-      "summary": "안세영이 신두를 꺾고 프랑스오픈 3연패와 개인 최다 50연승을 달성했다."
     }
   ]
 }
