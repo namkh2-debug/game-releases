@@ -1,9 +1,9 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27T15:05:00+09:00",
+ "updatedAt": "2026-10-27T16:08:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 13.7,
+  "temp": 12.5,
   "low": 9,
   "high": 16,
   "condition": "맑음",
@@ -14,28 +14,18 @@
  },
  "breaking": [
   {
-   "title": "잠실 개표소 시위서 경찰에 침 뱉은 40대 여성 징역 10개월",
-   "url": "https://www.yna.co.kr/view/AKR20261027120300004",
-   "source": "연합뉴스"
+   "title": "앤트로픽 훈풍에 반등...코스피, 3.09% 오른 5,638선 마감",
+   "url": "https://www.ytn.co.kr/_ln/0102_202610271544157298",
+   "source": "YTN"
   },
   {
-   "title": "합참 “철원 ‘민간인 GOP 철책 훼손’ 부대 경계작전 실태 조사”",
-   "url": "https://www.kado.net/news/articleView.html?idxno=2080708",
-   "source": "강원도민일보"
+   "title": "與, 가상자산 과세 유예 여부에 \"의견 더 수렴해 결정\"",
+   "url": "https://www.yna.co.kr/view/AKR20261027130200001",
+   "source": "연합뉴스"
   },
   {
    "title": "한화오션, 3분기 영업익 4857억원…전년대비 68% 증가",
    "url": "https://www.edaily.co.kr/News/Read?newsId=04014726645617184&mediaCodeNo=257",
-   "source": "이데일리"
-  },
-  {
-   "title": "법무부, ‘수원지검 집단퇴정’ 김현우 ‘불문경고’…서현욱 ‘혐의없음’",
-   "url": "https://www.donga.com/news/Society/article/all/20261027/134916615/1",
-   "source": "동아일보"
-  },
-  {
-   "title": "HD현대일렉트릭, 3분기 영업익 2845억원…전년比 15.1% ↑",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03949126645617184&mediaCodeNo=257",
    "source": "이데일리"
   }
  ],
@@ -45,12 +35,6 @@
    "url": "https://imnews.imbc.com/news/2026/econo/article/6860944_36932.html",
    "source": "MBC 뉴스",
    "summary": "반도체 수출 호조 속에 정부소비·설비투자가 늘며 3분기 성장률 1.0%를 기록했다."
-  },
-  {
-   "title": "코스피 4%대 급등…매수 사이드카 발동",
-   "url": "https://www.donga.com/news/amp/all/20261027/134915308/2",
-   "source": "동아일보",
-   "summary": "코스피가 장중 4%대 급등하며 유가증권시장에 매수 사이드카가 발동됐다."
   },
   {
    "title": "\"미군, 트럼프 명령 나흘내 대규모 이란 재공격 준비\"",
@@ -69,12 +53,6 @@
    "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284281.html",
    "source": "한겨레",
    "summary": "이재명 대통령이 농어민을 만나 CPTPP 가입은 피할 수 없다며 수출 부담금 도입을 제안했다."
-  },
-  {
-   "title": "민주당 “가상자산 과세, 신속한 당정협의로 입장 정리…오늘 정부 전달”",
-   "url": "https://www.khan.co.kr/article/202610271040011",
-   "source": "경향신문",
-   "summary": "민주당이 오늘 의원총회에서 가상자산 과세 입장을 정해 정부에 전달한다."
   },
   {
    "title": "선관위특검, 올림픽공원 핸드볼경기장 압수수색…선거 서류·CCTV 확보",
