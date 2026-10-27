@@ -1,0 +1,1802 @@
+{
+ "version": 1,
+ "updatedAt": "2026-10-27T21:51:42+09:00",
+ "from": "2026-10-27",
+ "to": "2027-01-31",
+ "platformKeys": {
+  "steam": "스팀(PC)",
+  "switch": "닌텐도",
+  "ps": "플스",
+  "etc": "그외(Xbox 등)"
+ },
+ "note": "날짜는 한국 기준 우선, 없으면 북미/일본 기준. 가격·한국어는 확인된 것만.",
+ "holidays": {
+  "2026-10-03": "개천절",
+  "2026-10-05": "대체공휴일",
+  "2026-10-09": "한글날",
+  "2026-12-25": "성탄절",
+  "2027-01-01": "신정",
+  "2027-02-06": "설날 연휴",
+  "2027-02-07": "설날",
+  "2027-02-08": "설날 연휴",
+  "2027-02-09": "대체공휴일"
+ },
+ "games": [
+  {
+   "date": "2026-10-27",
+   "title": "리마더드: 붉은 수녀의 유산",
+   "en": "Remothered: Red Nun's Legacy",
+   "short": "리마더드",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "서바이벌 호러",
+   "price": "PS5 ₩34,800",
+   "korean": "한국어 자막",
+   "note": "3부작 최종장 · 스위치2·Xbox 동시",
+   "url": "https://store.playstation.com/ko-kr/product/EP6867-PPSA39425_00-0100440774012590",
+   "major": true
+  },
+  {
+   "date": "2026-10-27",
+   "title": "더 세앙스 오브 블레이크 매너",
+   "en": "The Séance of Blake Manor",
+   "short": "블레이크매너",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "초자연 추리 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판 출시 (PC는 기존 출시)",
+   "url": "https://store.playstation.com/en-gb/concept/10018028",
+   "major": false
+  },
+  {
+   "date": "2026-10-27",
+   "title": "빌리지 인 더 셰이드",
+   "en": "Village in the Shade",
+   "short": "빌리지셰이드",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "농장·생활 시뮬",
+   "price": "북미 $49.99",
+   "korean": "PC판 한국어",
+   "note": "콘솔 서구판은 한국어 미지원",
+   "url": "https://www.nisamerica.com/games/village-in-the-shade",
+   "major": false
+  },
+  {
+   "date": "2026-10-27",
+   "title": "버추 앤 어 슬레지해머",
+   "en": "Virtue and a Sledgehammer",
+   "short": "버추&해머",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "내러티브 어드벤처",
+   "price": "북미 $14.99",
+   "korean": "미확인",
+   "note": "Deconstructeam · Devolver",
+   "url": "https://store.steampowered.com/app/3743260/Virtue_and_a_Sledgehammer/",
+   "major": false
+  },
+  {
+   "date": "2026-10-27",
+   "title": "파밍 시뮬레이터 25: 빈스 & 알파카스",
+   "en": "Farming Simulator 25: Beans & Alpacas Edition",
+   "short": "파밍시뮬25",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "농장 시뮬 합본",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "본편+확장 합본",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-27",
+   "title": "라이프 이즈 어 던전",
+   "en": "Life Is a Dungeon: Lean into It.",
+   "short": "라이프던전",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "던전 로그라이트 RPG",
+   "price": "일본 ¥1,592",
+   "korean": "미확인",
+   "note": "",
+   "url": "https://gamebiz.jp/news/431899",
+   "major": false
+  },
+  {
+   "date": "2026-10-28",
+   "title": "마인크래프트 스위치 2 에디션",
+   "en": "Minecraft",
+   "short": "마인크래프트",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "샌드박스",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "한국 패키지 기준 (북미 10/27)",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2026-10-28",
+   "title": "설퍼 정식 출시",
+   "en": "SULFUR",
+   "short": "SULFUR",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "FPS 로그라이트",
+   "price": "",
+   "korean": "미확인",
+   "note": "앞서 해보기 종료 · 콘솔 동시",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "팬텀 블레이드 제로",
+   "en": "Phantom Blade Zero",
+   "short": "팬텀블레이드",
+   "platforms": [
+    "steam",
+    "ps"
+   ],
+   "genre": "액션 RPG",
+   "price": "₩69,800 (디럭스 ₩79,800)",
+   "korean": "한국어 자막",
+   "note": "PS5는 오전 11시 오픈",
+   "url": "https://www.playstation.com/ko-kr/games/phantom-blade-zero/",
+   "major": true
+  },
+  {
+   "date": "2026-10-29",
+   "title": "아노말리스",
+   "en": "ANOMALITH",
+   "short": "아노말리스",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "서바이벌 슈터",
+   "price": "PS5 ₩66,700",
+   "korean": "한국어 지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "귀멸의 칼날 히노카미 혈풍담 2 (스위치2)",
+   "en": "Demon Slayer: The Hinokami Chronicles 2",
+   "short": "귀멸의칼날2",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "스위치 2판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "슈타인즈 게이트 RE:BOOT",
+   "en": "STEINS;GATE RE:BOOT",
+   "short": "슈타게RE",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "리메이크",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "테러블 리저즈",
+   "en": "Terrible Lizards",
+   "short": "테러블리저즈",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "서바이벌 호러",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "메트로 리덕스",
+   "en": "Metro Redux",
+   "short": "메트로리덕스",
+   "platforms": [
+    "ps",
+    "etc"
+   ],
+   "genre": "FPS 합본",
+   "price": "",
+   "korean": "미확인",
+   "note": "PS5·Xbox 신규 플랫폼",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "울프 어몽 어스 리마스터드",
+   "en": "The Wolf Among Us Remastered",
+   "short": "울프어몽어스",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치판은 연기(날짜 미정)",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "티타늄 코트",
+   "en": "Titanium Court",
+   "short": "티타늄코트",
+   "platforms": [
+    "ps",
+    "switch"
+   ],
+   "genre": "퍼즐·디펜스 로그라이트",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "헌팅 시뮬레이터 3",
+   "en": "Hunting Simulator 3",
+   "short": "헌팅시뮬3",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "사냥 시뮬",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-29",
+   "title": "호코 스페이시스",
+   "en": "Hokko Spaces",
+   "short": "호코",
+   "platforms": [
+    "steam",
+    "switch"
+   ],
+   "genre": "샌드박스",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-30",
+   "title": "붉은사막 DLC: 미지의 여정",
+   "en": "Crimson Desert DLC",
+   "short": "붉은사막DLC",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "오픈월드 액션 DLC",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "펄어비스 확장 콘텐츠",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2026-10-30",
+   "title": "퀸즈 도메인",
+   "en": "Queen's Domain",
+   "short": "퀸즈도메인",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-30",
+   "title": "캣 인 더 햇: 비 오는 날 대소동",
+   "en": "The Cat in the Hat: Rainy Day Mayhem",
+   "short": "캣인더햇",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "파티",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-10-30",
+   "title": "엑소시스무스",
+   "en": "Exorcismus",
+   "short": "엑소시스무스",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "호러",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-02",
+   "title": "그래브하운즈",
+   "en": "Gravehounds",
+   "short": "그래브하운즈",
+   "platforms": [
+    "etc"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "Xbox 게임 프리뷰",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "고질라 멜리 리마스터드",
+   "en": "Godzilla: Destroy All Monsters Melee Remastered",
+   "short": "고질라멜리",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "대전 격투",
+   "price": "$29.99",
+   "korean": "한국어 미지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "제로 퍼레이드: 디렉터스 컷",
+   "en": "ZERO PARADES",
+   "short": "제로퍼레이드",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판 (ZA/UM)",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "디비전 2 DLC",
+   "en": "The Division 2 DLC",
+   "short": "디비전2DLC",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "슈터 DLC",
+   "price": "₩23,000",
+   "korean": "한국어 지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "더 슬로맨서",
+   "en": "The Slormancer",
+   "short": "슬로맨서",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "핵앤슬래시 RPG",
+   "price": "PS5 ₩34,800",
+   "korean": "한국어 지원",
+   "note": "PS5판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "핏 오브 고블린",
+   "en": "Pit of Goblin",
+   "short": "핏오브고블린",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "PC 앞서해보기 종료",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-04",
+   "title": "보이드/브레이커 정식",
+   "en": "Void/Breaker",
+   "short": "보이드브레이커",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "FPS",
+   "price": "",
+   "korean": "미확인",
+   "note": "앞서 해보기 종료",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-04",
+   "title": "라이트이어 프론티어 정식",
+   "en": "Lightyear Frontier",
+   "short": "라이트이어",
+   "platforms": [
+    "steam",
+    "etc"
+   ],
+   "genre": "농장·샌드박스",
+   "price": "",
+   "korean": "미확인",
+   "note": "앞서 해보기 종료",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-04",
+   "title": "헐 럽처",
+   "en": "Hull Rupture",
+   "short": "헐럽처",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "타워디펜스 로그라이트",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-04",
+   "title": "테오스: 시티즈 오브 미스",
+   "en": "Theos: Cities Of Myth",
+   "short": "테오스",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "도시 건설",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "젤다의 전설 시간의 오카리나",
+   "en": "The Legend of Zelda: Ocarina of Time",
+   "short": "젤다오카리나",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "오픈월드 액션",
+   "price": "다운로드 ₩79,800 · 패키지 ₩88,000",
+   "korean": "한국어판",
+   "note": "스위치 2 리메이크",
+   "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
+   "major": true
+  },
+  {
+   "date": "2026-11-05",
+   "title": "가디언즈 오브 갤럭시 (스위치2)",
+   "en": "Marvel's Guardians of the Galaxy",
+   "short": "가오갤",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "₩44,820",
+   "korean": "미확인",
+   "note": "스위치 2판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "크라임라이트",
+   "en": "CRYMELIGHT",
+   "short": "크라임라이트",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "액션",
+   "price": "₩29,600",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "웨어 더 시즈 폴",
+   "en": "Where the Seeds Fall",
+   "short": "시즈폴",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "액션 플랫포머",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "케이팝 라이징",
+   "en": "K-POP Rising: Dream to Shine",
+   "short": "케이팝라이징",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "리듬·육성",
+   "price": "₩34,800",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "킹덤 오브 나이트",
+   "en": "Kingdom of Night",
+   "short": "킹덤오브나이트",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "액션 RPG",
+   "price": "₩22,800",
+   "korean": "한국어 미지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "페어웨이",
+   "en": "Faraway",
+   "short": "페어웨이",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "아케이드",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "이스케이프 아카데미 2",
+   "en": "Escape Academy 2: Back 2 School",
+   "short": "이스케이프2",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "퍼즐 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-05",
+   "title": "에어프레임 울트라",
+   "en": "Airframe Ultra",
+   "short": "에어프레임",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "컴뱃 레이싱",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-06",
+   "title": "스텔라 블레이드 컴플리트 (스위치2)",
+   "en": "Stellar Blade Complete Edition",
+   "short": "스텔라블레이드",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "₩69,800",
+   "korean": "한국어 지원",
+   "note": "한국 11/6 (북미 11/5) · 실물판",
+   "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
+   "major": true
+  },
+  {
+   "date": "2026-11-09",
+   "title": "호지",
+   "en": "Hozy",
+   "short": "호지",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "힐링 퍼즐",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-10",
+   "title": "풋볼 매니저 27",
+   "en": "Football Manager 27",
+   "short": "FM27",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "축구 경영",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2026-11-10",
+   "title": "워해머 서바이버즈",
+   "en": "Warhammer Survivors",
+   "short": "워해머서바이버",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "로그라이트 슈팅",
+   "price": "PS5 ₩10,800",
+   "korean": "한국어 지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-10",
+   "title": "호프 인 더 시티",
+   "en": "Hope in the City",
+   "short": "호프인더시티",
+   "platforms": [
+    "steam",
+    "etc"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-10",
+   "title": "슈렉 2 리마스터드",
+   "en": "Shrek 2 Remastered",
+   "short": "슈렉2",
+   "platforms": [
+    "etc"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "플랫폼 미확인",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-10",
+   "title": "힐손",
+   "en": "Hillthorn",
+   "short": "힐손",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-12",
+   "title": "메타포: 리판타지오 (스위치2)",
+   "en": "Metaphor: ReFantazio",
+   "short": "메타포",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "판타지 RPG",
+   "price": "₩32,000",
+   "korean": "한국어 지원",
+   "note": "스위치 2판",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": true
+  },
+  {
+   "date": "2026-11-12",
+   "title": "피크민 4 스위치2 에디션",
+   "en": "Pikmin 4: Nintendo Switch 2 Edition",
+   "short": "피크민4",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "전략 액션",
+   "price": "₩74,800",
+   "korean": "한국어 지원",
+   "note": "+ 누구나 도전! 계획력 테스트",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": true
+  },
+  {
+   "date": "2026-11-12",
+   "title": "다 함께 즐기자! 프리니 보드 배틀",
+   "en": "Prinny Party: Going Overboard!",
+   "short": "프리니보드",
+   "platforms": [
+    "ps",
+    "switch"
+   ],
+   "genre": "보드 파티",
+   "price": "₩66,700",
+   "korean": "한국어 자막",
+   "note": "북미 11/11",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-12",
+   "title": "소닉 피코 파크",
+   "en": "Sonic Pico Park",
+   "short": "소닉피코",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "협동 퍼즐",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-12",
+   "title": "무민: 한여름의 소동",
+   "en": "Moomin: Midsummer Madness",
+   "short": "무민",
+   "platforms": [
+    "steam",
+    "switch"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-12",
+   "title": "바비 리와인드",
+   "en": "Barbie Rewind",
+   "short": "바비리와인드",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "합본",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-12",
+   "title": "해럴드 핼리벗",
+   "en": "Harold Halibut",
+   "short": "해럴드",
+   "platforms": [
+    "ps",
+    "switch"
+   ],
+   "genre": "내러티브 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-13",
+   "title": "데렐릭트",
+   "en": "DERELIKT",
+   "short": "데렐릭트",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "FPS",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-13",
+   "title": "문라이터 2 (스위치2)",
+   "en": "Moonlighter 2: The Endless Vault",
+   "short": "문라이터2",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "액션 RPG·경영",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치 2판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-15",
+   "title": "레이븐스워치 (스위치2)",
+   "en": "Ravenswatch",
+   "short": "레이븐스워치",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "로그라이크 액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치 2판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-17",
+   "title": "레인저스 패스",
+   "en": "Ranger's Path",
+   "short": "레인저스패스",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "어드벤처",
+   "price": "PS5 ₩27,800",
+   "korean": "한국어 미지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-19",
+   "title": "GTA 6",
+   "en": "Grand Theft Auto VI",
+   "short": "GTA 6",
+   "platforms": [
+    "ps",
+    "etc"
+   ],
+   "genre": "오픈월드 액션",
+   "price": "₩89,800 (얼티밋 ₩112,800)",
+   "korean": "한국어판",
+   "note": "0시 오픈 · 11/12부터 미리 받기 · PC 미정",
+   "url": "https://store.playstation.com/ko-kr/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+   "major": true
+  },
+  {
+   "date": "2026-11-19",
+   "title": "볼비즈 어드벤처: 리슬라임드",
+   "en": "Volvy's Adventure: Reslimed",
+   "short": "볼비즈",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "플랫포머",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-19",
+   "title": "아이작의 번제 리펜턴스+ (스위치2)",
+   "en": "The Binding of Isaac: Repentance+",
+   "short": "아이작",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "로그라이크",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치 2판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-19",
+   "title": "스미코구라시 온천",
+   "en": "Sumikko Gurashi",
+   "short": "스미코구라시",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "캐주얼",
+   "price": "₩53,800",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-19",
+   "title": "리버리 인 더 문라이트",
+   "en": "Reverie in the Moonlight",
+   "short": "리버리",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "어드벤처",
+   "price": "₩12,800",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-24",
+   "title": "고딕 3 클래식",
+   "en": "Gothic 3 Classic",
+   "short": "고딕3",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-26",
+   "title": "어펄스",
+   "en": "Appulse",
+   "short": "어펄스",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "핀볼 로그라이트",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-30",
+   "title": "던 오브 워 IV (커맨더 에디션 선행)",
+   "en": "Warhammer 40,000: Dawn of War IV",
+   "short": "던오브워4",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "RTS",
+   "price": "",
+   "korean": "미확인",
+   "note": "커맨더 에디션만 3일 먼저 · 본편 12/3",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-01",
+   "title": "헬라: 쥐와 마법",
+   "en": "Hela: Of Mice & Magic",
+   "short": "헬라",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "오픈월드 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-02",
+   "title": "더 본리스",
+   "en": "The Bornless",
+   "short": "본리스",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "슈터 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "드래곤 퀘스트 몬스터즈 4",
+   "en": "Dragon Quest Monsters: The Withered World",
+   "short": "드퀘몬4",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "몬스터 육성 RPG",
+   "price": "PS5 ₩69,800",
+   "korean": "한국어 지원",
+   "note": "부제: 메마른 나라의 비앙카와 플로라 · 마스터즈판 선행 플레이",
+   "url": "https://www.nintendo.com/kr/schedule",
+   "major": true
+  },
+  {
+   "date": "2026-12-03",
+   "title": "제노블레이드 3 스위치2 에디션",
+   "en": "Xenoblade Chronicles 3: Nintendo Switch 2 Edition",
+   "short": "제노블3",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "RPG",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": true
+  },
+  {
+   "date": "2026-12-03",
+   "title": "레이맨 레전드 리톨드",
+   "en": "Rayman Legends Retold",
+   "short": "레이맨레전드",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "플랫포머",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2026-12-03",
+   "title": "엣지 오브 메모리즈",
+   "en": "Edge of Memories",
+   "short": "엣지메모리즈",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "판타지 JRPG",
+   "price": "PS5 디럭스 패키지 ₩49,800",
+   "korean": "한국어 지원",
+   "note": "11/5에서 연기",
+   "url": "https://game.donga.com/124800/",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "레이맨 오리진 인핸스드",
+   "en": "Rayman Origins: Enhanced Edition",
+   "short": "레이맨오리진",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "플랫포머",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "던 오브 워 IV",
+   "en": "Warhammer 40,000: Dawn of War IV",
+   "short": "던오브워4",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "RTS",
+   "price": "",
+   "korean": "미확인",
+   "note": "본편 출시",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "에테르나 루시스",
+   "en": "Aeterna Lucis",
+   "short": "에테르나",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "메트로배니아",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "덤프스터 갱",
+   "en": "Dumpster Gang",
+   "short": "덤프스터갱",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "샌드박스",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "폴 업",
+   "en": "Fall Up",
+   "short": "폴업",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "플랫포머",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-04",
+   "title": "몬스터 헌터 와일즈 (스위치2)",
+   "en": "Monster Hunter Wilds",
+   "short": "몬헌와일즈",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "헌팅 액션",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "스위치 2판",
+   "url": "https://www.nintendo.com/kr/schedule",
+   "major": true
+  },
+  {
+   "date": "2026-12-04",
+   "title": "액츠 오브 블러드",
+   "en": "Acts of Blood",
+   "short": "액츠오브블러드",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-07",
+   "title": "스트롱홀드 4",
+   "en": "Stronghold 4",
+   "short": "스트롱홀드4",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "RTS",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-08",
+   "title": "앤세스터스: 휴먼카인드 오디세이",
+   "en": "Ancestors: The Humankind Odyssey",
+   "short": "앤세스터스",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "서바이벌",
+   "price": "",
+   "korean": "미확인",
+   "note": "신규 플랫폼",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-08",
+   "title": "건즈 오브 에스카톤",
+   "en": "Guns of Eschaton",
+   "short": "에스카톤",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "슈터",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-10",
+   "title": "진격의 거인 3",
+   "en": "Attack on Titan 3",
+   "short": "진격의거인3",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "액션",
+   "price": "PS5 ₩79,800",
+   "korean": "한국어판",
+   "note": "디지털 디럭스 ₩107,000 (선행)",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2026-12-10",
+   "title": "레이튼 교수와 증기의 신세계",
+   "en": "Professor Layton and the New World of Steam",
+   "short": "레이튼",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "퍼즐 어드벤처",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "스위치·스위치2·PS5·스팀",
+   "url": "https://www.layton.jp/jouki/",
+   "major": true
+  },
+  {
+   "date": "2026-12-10",
+   "title": "스테이지 투어",
+   "en": "Stage Tour",
+   "short": "스테이지투어",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "리듬",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-10",
+   "title": "할로우 나이트: 실크송 (스위치2 에디션)",
+   "en": "Hollow Knight: Silksong",
+   "short": "실크송",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "메트로배니아",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치2 에디션 (일본 패키지 기준)",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-10",
+   "title": "문라이터 2 패키지판",
+   "en": "Moonlighter 2: The Endless Vault",
+   "short": "문라이터2",
+   "platforms": [
+    "ps",
+    "switch"
+   ],
+   "genre": "액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "PS5·스위치2 패키지 (일본 기준)",
+   "url": "https://prtimes.jp/main/html/rd/p/000007624.000005397.html",
+   "major": false
+  },
+  {
+   "date": "2026-12-11",
+   "title": "패스 오브 엑자일 2 정식",
+   "en": "Path of Exile 2",
+   "short": "POE2",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "액션 RPG",
+   "price": "무료",
+   "korean": "한국어 지원",
+   "note": "앞서 해보기 종료 (한국 12/12일 수 있음)",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2026-12-17",
+   "title": "커피 토크 도쿄",
+   "en": "Coffee Talk Tokyo",
+   "short": "커피토크",
+   "platforms": [
+    "ps",
+    "switch"
+   ],
+   "genre": "힐링 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "일본 기준",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-17",
+   "title": "타이즈 오브 투모로우",
+   "en": "Tides of Tomorrow",
+   "short": "타이즈",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "일본 패키지 기준",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-07",
+   "title": "아르마투스",
+   "en": "Armatus",
+   "short": "아르마투스",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "슈터 로그라이트",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-07",
+   "title": "브로큰로어: 어센드",
+   "en": "BrokenLore: ASCEND",
+   "short": "브로큰로어",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "서바이벌 호러",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-14",
+   "title": "단간론파 2x2",
+   "en": "Danganronpa 2x2",
+   "short": "단간론파",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "추리 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-14",
+   "title": "테라니그마 (리메이크)",
+   "en": "Terranigma",
+   "short": "테라니그마",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-15",
+   "title": "스트레인저 댄 헤븐",
+   "en": "Stranger Than Heaven",
+   "short": "스트레인저",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "RGG 스튜디오",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-15",
+   "title": "아난타",
+   "en": "Ananta",
+   "short": "아난타",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "오픈월드 RPG",
+   "price": "무료(예상)",
+   "korean": "미확인",
+   "note": "모바일 동시",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-15",
+   "title": "탱크랫",
+   "en": "TankRat",
+   "short": "탱크랫",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-19",
+   "title": "타이탄 퀘스트 2 정식",
+   "en": "Titan Quest II",
+   "short": "타이탄퀘2",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "앞서 해보기 종료",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-20",
+   "title": "유주얼 준",
+   "en": "Usual June",
+   "short": "유주얼준",
+   "platforms": [
+    "steam",
+    "etc"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-21",
+   "title": "애리조나 선샤인 (리메이크)",
+   "en": "Arizona Sunshine",
+   "short": "애리조나",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "슈터",
+   "price": "",
+   "korean": "미확인",
+   "note": "3인칭 리메이크",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-21",
+   "title": "렐루",
+   "en": "Lelu",
+   "short": "렐루",
+   "platforms": [
+    "steam",
+    "switch",
+    "etc"
+   ],
+   "genre": "메트로배니아",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-21",
+   "title": "방랑검 콘솔판",
+   "en": "Wandering Sword",
+   "short": "방랑검",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "무협 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "콘솔판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-26",
+   "title": "포르자 호라이즌 6 (PS5)",
+   "en": "Forza Horizon 6",
+   "short": "포르자6",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "레이싱",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "PS5판",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-26",
+   "title": "빌리온: 코드",
+   "en": "Villion: Code",
+   "short": "빌리온",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-28",
+   "title": "메트로이드 래버너스",
+   "en": "Metroid Ravenous",
+   "short": "메트로이드",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "메트로배니아",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "스위치 2",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": true
+  },
+  {
+   "date": "2027-01-28",
+   "title": "언틸 던 2",
+   "en": "Until Dawn 2",
+   "short": "언틸던2",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "서바이벌 호러",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-28",
+   "title": "트로피코 7",
+   "en": "Tropico 7",
+   "short": "트로피코7",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "경영 시뮬",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-28",
+   "title": "페이트/엑스트라 레코드",
+   "en": "Fate/EXTRA Record",
+   "short": "페이트EXTRA",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  }
+ ]
+}
