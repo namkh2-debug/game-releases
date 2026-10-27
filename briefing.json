@@ -1,9 +1,9 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27T16:08:00+09:00",
+ "updatedAt": "2026-10-27T17:12:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 12.5,
+  "temp": 10.8,
   "low": 9,
   "high": 16,
   "condition": "맑음",
@@ -14,19 +14,29 @@
  },
  "breaking": [
   {
+   "title": "구룡마을 화재로 양재대로 대모지하차도 옆 전면통제",
+   "url": "https://www.yna.co.kr/view/AKR20261027152600004",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "원안위, 고리 3·4호기 계속운전 허가",
+   "url": "https://www.sedaily.com/article/20106717",
+   "source": "서울경제"
+  },
+  {
    "title": "앤트로픽 훈풍에 반등...코스피, 3.09% 오른 5,638선 마감",
    "url": "https://www.ytn.co.kr/_ln/0102_202610271544157298",
    "source": "YTN"
   },
   {
-   "title": "與, 가상자산 과세 유예 여부에 \"의견 더 수렴해 결정\"",
-   "url": "https://www.yna.co.kr/view/AKR20261027130200001",
+   "title": "김건희 추가 구속영장 심문 45분 만에 종료",
+   "url": "https://www.yna.co.kr/view/AKR20261027137000004",
    "source": "연합뉴스"
   },
   {
-   "title": "한화오션, 3분기 영업익 4857억원…전년대비 68% 증가",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=04014726645617184&mediaCodeNo=257",
-   "source": "이데일리"
+   "title": "與, 가상자산 과세 유예 여부에 \"의견 더 수렴해 결정\"",
+   "url": "https://www.yna.co.kr/view/AKR20261027130200001",
+   "source": "연합뉴스"
   }
  ],
  "news": [
@@ -53,6 +63,12 @@
    "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284281.html",
    "source": "한겨레",
    "summary": "이재명 대통령이 농어민을 만나 CPTPP 가입은 피할 수 없다며 수출 부담금 도입을 제안했다."
+  },
+  {
+   "title": "민주 '조희대 국정조사' 추진…의총서 결론",
+   "url": "https://www.yonhapnewstv.co.kr/news/MYH2026102715433538I",
+   "source": "연합뉴스TV",
+   "summary": "민주당이 의원총회에서 조희대 대법원장 의혹 국정조사를 추진하기로 하고 내달 5일 본회의 처리를 목표로 했어요."
   },
   {
    "title": "선관위특검, 올림픽공원 핸드볼경기장 압수수색…선거 서류·CCTV 확보",
@@ -83,6 +99,12 @@
    "url": "https://www.yna.co.kr/view/AKR20261026174252072",
    "source": "연합뉴스",
    "summary": "클로드 개발사 앤트로픽이 미 SEC에 증권신고서를 내고 티커 'ANT'로 다음 달 나스닥 상장을 추진한다."
+  },
+  {
+   "title": "한화오션, 3분기 영업익 4857억원…전년대비 68% 증가",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=04014726645617184&mediaCodeNo=257",
+   "source": "이데일리",
+   "summary": "한화오션의 3분기 영업이익이 4,857억원으로 1년 전보다 68% 늘었어요."
   },
   {
    "title": "KB증권 \"'삼전닉스', 총 120조 추가 주주환원 기대…저평가 해소 계기\"",
@@ -137,12 +159,6 @@
    "url": "https://n.news.naver.com/mnews/article/001/0016401837",
    "source": "연합뉴스",
    "summary": "손흥민을 향해 '니하오'라고 외치는 관중 영상이 공개돼 인종차별 논란이 일고 있다."
-  },
-  {
-   "title": "31일 구속 만료 김건희…대법, 오늘 추가 구속영장 심문",
-   "url": "https://www.yna.co.kr/view/AKR20261026161100004",
-   "source": "연합뉴스",
-   "summary": "대법원이 오늘 오후 2시 30분 김건희 여사 계속 구속 여부를 가를 심문을 연다."
   },
   {
    "title": "여야, 외통위 등 종합감사…'김정은 전격 방중' 등 쟁점",
