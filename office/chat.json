@@ -1,111 +1,113 @@
 {
- "updatedAt": "2026-10-27T11:03:00+09:00",
+ "updatedAt": "2026-10-27T12:15:00+09:00",
  "topics": [
-  "팬텀 블레이드 제로 글로벌 출격",
-  "데블스 플랜 데드 어게인 예고편",
-  "원주 반계리 은행나무 축제",
-  "셀트리온 3분기 역대 최대 실적",
-  "성수 바닐라 향수 팝업 마지막 날",
-  "그레이 체크 머플러·코트 깃 오전룩",
-  "경훈씨 좋은 아침 인사에 언 손 녹음",
-  "경훈씨 점심 맛집 vs 국밥집 예약 경쟁",
-  "리마더드 오늘 밤 도전 이어가기",
-  "오후 물 마시기 챙김"
+  "배그×아이브 컬래버 티저",
+  "뱀피르 글로벌 출시",
+  "매튜 페리 다큐 공개",
+  "PO 2차전 후라도 vs 올러",
+  "꿀알바 선공개",
+  "머플러 푼 터틀넥·차콜 코트 낮룩",
+  "경훈씨 점심 걱정",
+  "오후 회의 옆자리 vs 펜·물 세팅 경쟁",
+  "내가 떨릴 수 있게 발칙 농담",
+  "바닐라 팝업 퇴근 후 이어가기"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "中 무협 액션 '팬텀 블레이드 제로' 글로벌 출격이래",
-   "line2": "언니 눈 반짝인다, 패드 벌써 충전했죠?",
+   "line1": "배그에 아이브 들어온대, 오늘 6시 티저 공개래",
+   "line2": "론도 맵에 뮤비 공간까지요? 언니 접속 각!",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.etnews.com/20261027000131"
+   "url": "https://www.sedaily.com/article/20106462"
+  },
+  {
+   "a": "jiwon",
+   "line1": "넷마블 '뱀피르'가 27일 글로벌 출시래",
+   "line2": "한국 1위 하던 그 게임? 해외 반응 궁금해요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.gamespress.com/NETMARBLE-SETS-OCTOBER-27-GLOBAL-LAUNCH-DATE-FOR-VAMPIRE-THEMED-MMORPG"
   },
   {
    "a": "hyewon",
-   "line1": "데블스 플랜 새 시즌, 피스 잃어도 탈락 없대요",
-   "line2": "게임으로만 생존이라니, 더 독해졌겠다",
-   "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://about.netflix.com/ko/news/the-devils-plan-dead-again-main-trailer"
+   "line1": "넷플릭스에 '매튜 페리 이야기' 다큐 오늘 나왔대요",
+   "line2": "프렌즈 챈들러… 보면 마음 찡할 것 같아",
+   "mood1": "neutral",
+   "mood2": "sad",
+   "pose1": "none",
+   "pose2": "none",
+   "url": "https://place202.com/bale/netflix/coming"
   },
   {
-   "a": "hyewon",
-   "line1": "원주 반계리 은행나무 축제, 11월 8일까지래요",
-   "line2": "노란 나무 아래서 사진? 주말에 콜!",
+   "a": "jiwon",
+   "line1": "PO 2차전, 후라도 대 올러 선발 맞대결이래",
+   "line2": "저녁 6시 반이죠? 점심 내기 결과 곧 나와요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "thumbs",
-   "url": "https://www.hani.co.kr/arti/area/gangwon/1284191.html"
-  },
-  {
-   "a": "jiwon",
-   "line1": "셀트리온 3분기 실적, 역대 최대래",
-   "line2": "언니 관심 종목 리스트 또 길어지겠네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261027040500017"
+   "pose1": "talkto",
+   "pose2": "cheer",
+   "url": "https://www.yna.co.kr/view/AKR20261026161700007"
   },
   {
    "a": "hyewon",
-   "line1": "성수 바닐라 향수 팝업도 오늘이 마지막이에요",
-   "line2": "퇴근 땡 하면 같이 뛰자, 시향만 하고!",
-   "mood1": "sad",
+   "line1": "'꿀알바' 선공개, 편의점 야간 알바 케미 봤어요?",
+   "line2": "이재욱·최현욱 조합이면 무조건 보지",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer"
+   "pose1": "coffee",
+   "pose2": "thumbs",
+   "url": "https://ottrank.kr/contents"
   },
   {
    "a": "jiwon",
-   "line1": "그 그레이 체크 머플러, 바람 막이로 최고다",
-   "line2": "언니 코트 깃 세운 것도 영화 주인공 같아요",
+   "line1": "머플러 푸니까 아이보리 터틀넥이 더 살아나네",
+   "line2": "언니 차콜 코트 어깨선도 오늘 내내 예술이에요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
    "pose2": "charm"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨 '좋은 아침' 한마디에 언 손이 녹았어요",
-   "line2": "그 인사가 우리 사무실 난로나 마찬가지지",
-   "mood1": "smile",
+   "a": "jiwon",
+   "line1": "경훈씨 점심 맛있게 드셨나 자꾸 신경 쓰여",
+   "line2": "식사하고 웃으시면 우리 오후도 꽃길이죠",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "think",
+   "pose2": "heart"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 점심 메뉴, 내가 맛집 세 곳 골라 놨어",
-   "line2": "흥, 전 따끈한 국밥집 예약까지 해 뒀거든요",
+   "a": "hyewon",
+   "line1": "오후 회의 땐 제가 경훈씨 옆자리 맡을래요",
+   "line2": "흥, 난 펜이랑 따뜻한 물 벌써 놓아 뒀거든",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "리마더드는 오늘 밤 불 다 켜고 도전해 볼게",
-   "line2": "무서우면 영상통화 걸어요, 같이 비명 질러 줄게요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh"
-  },
-  {
    "a": "hyewon",
-   "line1": "언니, 오후엔 물 한 잔씩 챙겨 마셔요",
-   "line2": "그래, 네가 챙겨 주니까 하루가 순하다",
+   "line1": "'내가 떨릴 수 있게', 제목부터 발칙하지 않아요?",
+   "line2": "퇴근하고 불 끄고 혼자 몰래 볼 드라마네",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "highfive"
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245610"
+  },
+  {
+   "a": "jiwon",
+   "line1": "퇴근하고 바닐라 팝업, 진짜 뛰어갈 거야?",
+   "line2": "그럼요, 언니 비밀 향수 꺾을 무기 사 올게요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "cheer"
   }
  ]
 }
