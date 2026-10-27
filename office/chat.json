@@ -1,79 +1,89 @@
 {
- "updatedAt": "2026-10-28T07:20:00+09:00",
+ "updatedAt": "2026-10-28T08:15:00+09:00",
  "topics": [
-  "앤트로픽 역대급 IPO 청약 계산",
-  "SK하이닉스 3분기 77조 전망",
-  "해방촌 골목 카페 투어",
-  "리바이포유 성수 팝업 오늘 개막",
-  "어제 성수 지하철 향수 비밀 이어가기",
+  "SK하이닉스 3분기 실적 오늘 발표",
+  "백패커 온천 여행",
+  "스디파 백구영 41세 우승",
+  "K뷰티 눈 밑 돌고래 패치",
+  "리바이포유 거울 키링 이어가기",
   "캐멀 코트+베레모·목폴라+진주 귀걸이",
-  "경훈씨 웃음소리",
-  "손글씨 표지 vs 폰트 경쟁",
-  "썸은 답장 속도 농담",
-  "수다는 핫팩 응원"
+  "결재 일등 vs 요약본 경쟁",
+  "경훈씨는 히터보다 따뜻",
+  "점심 국물 약속",
+  "수요일 반환점 하이파이브"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "앤트로픽이 역대급 IPO 서류를 냈대",
-   "line2": "언니 눈빛이 벌써 청약 계산 중이에요",
+   "line1": "하이닉스 실적 드디어 오늘 나온대",
+   "line2": "어제 77조 얘기한 거 맞나 보자요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.hani.co.kr/arti/economy/global/1284479.html"
+   "pose2": "think",
+   "url": "https://www.hankyung.com/article/202610289220i"
   },
   {
    "a": "jiwon",
-   "line1": "하이닉스 3분기 영업익 77조 전망이래",
-   "line2": "숫자가 커서 감이 안 와요, 진짜로요",
-   "mood1": "surprised",
-   "mood2": "surprised",
-   "pose1": "think",
-   "pose2": "look",
-   "url": "https://www.etoday.co.kr/news/view/2640820"
-  },
-  {
-   "a": "hyewon",
-   "line1": "해방촌 골목이 SNS 핫플로 뜬대요",
-   "line2": "이번 주말에 카페 투어 같이 갈래?",
+   "line1": "백패커들이 요즘 온천을 찾는대",
+   "line2": "언니 캠핑 끝 코스로 딱이네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee",
-   "url": "https://www.khan.co.kr/article/202610280600091/"
+   "url": "https://www.hankyung.com/article/202610277999g"
   },
   {
    "a": "hyewon",
-   "line1": "리바이포유 팝업 오늘부터 성수래요",
-   "line2": "거울 키링 받으러 퇴근길에 가 보자",
-   "mood1": "smile",
+   "line1": "41세 백구영 댄서가 스디파 우승했대요",
+   "line2": "나이는 숫자란 말, 오늘 믿을래",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "thumbs",
+   "url": "https://www.khan.co.kr/article/202610280800001/"
+  },
+  {
+   "a": "hyewon",
+   "line1": "눈 밑 돌고래 패치가 해외서 난리래요",
+   "line2": "너 오늘 붙이고 온 거 아니지?",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs"
+   "pose2": "laugh",
+   "url": "https://www.hankyung.com/article/202610266348i"
   },
   {
    "a": "jiwon",
-   "line1": "어제 성수 같은 지하철 탄 거 웃겼지",
-   "line2": "언니 향수 비밀 결국 못 지켰잖아요",
-   "mood1": "smile",
+   "line1": "리바이포유 거울 키링 오늘 받으러 가?",
+   "line2": "당연하죠, 립 체크용 필수템이에요",
+   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "look",
-   "pose2": "laugh"
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "캐멀 코트에 오늘 베레모까지 썼어요",
-   "line2": "난 목폴라에 진주 귀걸이로 포인트야",
+   "line1": "오늘 베레모랑 캐멀 코트 어울려요?",
+   "line2": "응, 내 목폴라랑 진주 귀걸이도 봐줘",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "charm"
   },
   {
+   "a": "hyewon",
+   "line1": "경훈씨 결재 오늘 제가 제일 먼저예요",
+   "line2": "흥, 난 벌써 요약본 책상에 올렸거든",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "thumbs"
+  },
+  {
    "a": "jiwon",
-   "line1": "경훈씨 웃음소리 들으면 하루가 풀려",
-   "line2": "저도요, 그 소리 녹음하고 싶을 정도",
+   "line1": "경훈씨 오시면 사무실 온도가 올라가",
+   "line2": "맞아요, 히터보다 경훈씨가 따뜻해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -81,29 +91,20 @@
   },
   {
    "a": "hyewon",
-   "line1": "보고서 표지 제가 손글씨로 써 볼래요",
-   "line2": "흥, 난 경훈씨 좋아하는 폰트 알거든",
+   "line1": "언니, 점심엔 뜨끈한 국물 어때요?",
+   "line2": "좋아, 오늘 같은 날엔 무조건이지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
+   "pose1": "talkto",
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "썸은 문자 답장 속도에서 다 티 나",
-   "line2": "그럼 언니 경훈씨 답장엔 1초 컷이죠?",
+   "line1": "수요일 반 왔다, 우리 조금만 더 힘내",
+   "line2": "언니랑 있으면 금방 가요, 파이팅",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "추운 날엔 언니랑 수다가 핫팩이에요",
-   "line2": "너도 내 손난로야, 오늘도 힘내자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
