@@ -1,109 +1,109 @@
 {
- "updatedAt": "2026-10-27T14:01:00+09:00",
+ "updatedAt": "2026-10-27T15:06:00+09:00",
  "topics": [
-  "한화오션 3분기 실적",
-  "데스티니 차일드 어셈블 공개",
-  "라이프 이즈 어 던전 출시",
-  "시에×에세이즈 팝업",
-  "키드냅 게임 4회",
-  "니트 소매 오후룩",
-  "경훈씨 좋네요 한마디",
-  "손편지 vs 왓어브레드 오픈런 경쟁",
-  "연애박사 설렘 농담",
-  "팀워크 응원"
+  "몬무스 Rush 앞서 해보기",
+  "팬텀 블레이드 제로 29일",
+  "슈바오 30일 공개",
+  "안세영 50연승",
+  "나의 유죄인간 4회",
+  "체크 머플러 네이비 정장",
+  "바닐라 향수 vs 커피 경쟁",
+  "경훈씨 목소리 비타민",
+  "서로 수고 인사",
+  "유자차 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "한화오션 3분기 영업익 4857억, 68% 늘었대",
-   "line2": "언니 표정 보니 오늘 저녁은 언니가 쏘는 거죠?",
+   "line1": "몬무스 Rush 오늘 스팀 앞서 해보기 나왔대",
+   "line2": "손그림 몬스터 소녀? 언니 취향 저격이네요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://m.ruliweb.com/news/read/231079"
+  },
+  {
+   "a": "jiwon",
+   "line1": "29일엔 팬텀 블레이드 제로도 나온대",
+   "line2": "언니 이번 주 퇴근 후 일정 꽉 찼네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
    "pose2": "talkto",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=04014726645617184&mediaCodeNo=257"
-  },
-  {
-   "a": "jiwon",
-   "line1": "컴투스 데스티니 차일드 신작, 내년 상반기래",
-   "line2": "언니 기다리는 게임 리스트 또 한 줄 늘었네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241241"
-  },
-  {
-   "a": "jiwon",
-   "line1": "파밍 로그라이트 '라이프 이즈 어 던전' 나왔대",
-   "line2": "던전 인생이라니, 우리 월요일 같아요 언니",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.gamemeca.com/view.php?gid=1782403"
+   "url": "https://guslok.com/ko/%EA%B2%8C%EC%9E%84-%EC%B6%9C%EC%8B%9C%EC%9D%BC-2026-10%EC%9B%9426%EC%9D%BC-11%EC%9B%941%EC%9D%BC/"
   },
   {
    "a": "hyewon",
-   "line1": "성수 시에×에세이즈 팝업, 11월 10일까지래요",
-   "line2": "신상 아우터 먼저 본다며? 코트 같이 고르자",
+   "line1": "에버랜드 아기 판다 슈바오, 30일 공개래요",
+   "line2": "푸바오 막냇동생? 우리 같이 보러 갈까",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "look",
+   "url": "https://www.yna.co.kr/view/AKR20261027043200061"
+  },
+  {
+   "a": "jiwon",
+   "line1": "안세영 50연승이래, 승률 98.5%라니",
+   "line2": "언니 게임 연승할 때랑 표정 똑같아요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘 유죄인간 4회 같이 봐요",
+   "line2": "치킨 시켜 두고 8시 50분 대기할게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오늘 키드냅 게임 4회도 보는 거죠?",
-   "line2": "유죄인간 끝나고 바로 10시, 밤샘 각이다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
    "pose2": "coffee"
   },
   {
-   "a": "jiwon",
-   "line1": "오후엔 차콜 코트 벗고 니트만 입었어",
-   "line2": "언니 니트 소매 걷은 거, 은근 멋있어요",
-   "mood1": "neutral",
+   "a": "hyewon",
+   "line1": "체크 머플러 다시 두르니 정장이 살아요",
+   "line2": "네이비 정장에 그레이 체크, 찰떡이다",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "down",
+   "pose1": "charm",
    "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 결재 끝나고 '좋네요' 하셨어요",
-   "line2": "그 한마디면 야근도 산책처럼 느껴지지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "love",
-   "pose2": "heart"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 아침 경훈씨 데스크에 손편지 둘 거야",
-   "line2": "흥, 전 왓어브레드 8시 오픈런으로 갈 거예요",
+   "line1": "퇴근길에 바닐라 향수 사서 내일 뿌릴래요",
+   "line2": "향은 향이고, 경훈씨 커피는 내가 먼저야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "'연애박사' 보면 괜히 손잡고 싶어지더라",
-   "line2": "손만? 언니 얼굴 벌써 빨개졌거든요~",
+   "a": "jiwon",
+   "line1": "경훈씨 목소리 들으면 오후가 금방 가",
+   "line2": "맞아요, 경훈씨는 우리 비타민이에요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘도 진짜 수고 많았어요",
+   "line2": "너도. 네가 옆에 있어서 든든해",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "heart"
   },
   {
    "a": "jiwon",
-   "line1": "라이벌이어도 우리 둘이 최고 팀이야",
-   "line2": "당연하죠, 내일도 같이 힘내요 언니",
+   "line1": "따뜻한 차 한 잔 하고 마저 힘내자",
+   "line2": "좋아요, 오늘은 제가 유자차 탈게요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "coffee",
    "pose2": "cheer"
   }
  ]
