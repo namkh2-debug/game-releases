@@ -1,72 +1,62 @@
 {
- "updatedAt": "2026-10-27T12:15:00+09:00",
+ "updatedAt": "2026-10-27T13:08:00+09:00",
  "topics": [
-  "배그×아이브 컬래버 티저",
-  "뱀피르 글로벌 출시",
-  "매튜 페리 다큐 공개",
-  "PO 2차전 후라도 vs 올러",
-  "꿀알바 선공개",
-  "머플러 푼 터틀넥·차콜 코트 낮룩",
-  "경훈씨 점심 걱정",
-  "오후 회의 옆자리 vs 펜·물 세팅 경쟁",
-  "내가 떨릴 수 있게 발칙 농담",
-  "바닐라 팝업 퇴근 후 이어가기"
+  "마인크래프트 스위치2 출시",
+  "빌리지 인 더 셰이드 서양 출시",
+  "100일의 거짓말 화제성 1위",
+  "클리오 풍년다방 팝업 마지막 날",
+  "머플러·차콜 코트 오후룩",
+  "경훈씨 웃음소리",
+  "보고서 그래프 색 vs 글씨체 경쟁",
+  "고맙다는 말 질투",
+  "PO 2차전 후 유죄인간 4회 이어가기",
+  "오후 응원",
+  "유자차 휴식"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "배그에 아이브 들어온대, 오늘 6시 티저 공개래",
-   "line2": "론도 맵에 뮤비 공간까지요? 언니 접속 각!",
-   "mood1": "surprised",
+   "line1": "마인크래프트 스위치2판이 오늘 나왔대",
+   "line2": "언니 주말에 집 짓다가 또 밤새겠네요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "thumbs",
    "pose2": "laugh",
-   "url": "https://www.sedaily.com/article/20106462"
+   "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
   },
   {
    "a": "jiwon",
-   "line1": "넷마블 '뱀피르'가 27일 글로벌 출시래",
-   "line2": "한국 1위 하던 그 게임? 해외 반응 궁금해요",
+   "line1": "'빌리지 인 더 셰이드'도 오늘 서양 출시래",
+   "line2": "그늘진 마을이라니, 제목부터 으스스해요",
    "mood1": "smile",
    "mood2": "surprised",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.gamespress.com/NETMARBLE-SETS-OCTOBER-27-GLOBAL-LAUNCH-DATE-FOR-VAMPIRE-THEMED-MMORPG"
-  },
-  {
-   "a": "hyewon",
-   "line1": "넷플릭스에 '매튜 페리 이야기' 다큐 오늘 나왔대요",
-   "line2": "프렌즈 챈들러… 보면 마음 찡할 것 같아",
-   "mood1": "neutral",
-   "mood2": "sad",
-   "pose1": "none",
-   "pose2": "none",
-   "url": "https://place202.com/bale/netflix/coming"
-  },
-  {
-   "a": "jiwon",
-   "line1": "PO 2차전, 후라도 대 올러 선발 맞대결이래",
-   "line2": "저녁 6시 반이죠? 점심 내기 결과 곧 나와요",
-   "mood1": "smile",
-   "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.yna.co.kr/view/AKR20261026161700007"
+   "pose2": "think",
+   "url": "https://www.rpgsite.net/news/21082-village-in-the-shade-release-date-english-switch-2-key-card-physical-limited-edition-ps5"
   },
   {
    "a": "hyewon",
-   "line1": "'꿀알바' 선공개, 편의점 야간 알바 케미 봤어요?",
-   "line2": "이재욱·최현욱 조합이면 무조건 보지",
+   "line1": "'100일의 거짓말'이 화제성 1위 했대요",
+   "line2": "나도 보는 중인데, 다음 회는 같이 보자",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "talkto",
    "pose2": "thumbs",
-   "url": "https://ottrank.kr/contents"
+   "url": "https://www.ize.co.kr/news/articleView.html?idxno=81990"
+  },
+  {
+   "a": "hyewon",
+   "line1": "클리오 풍년다방 팝업도 오늘이 마지막이래요",
+   "line2": "바닐라 팝업이랑 묶어서 퇴근길 투어 가자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "think"
   },
   {
    "a": "jiwon",
-   "line1": "머플러 푸니까 아이보리 터틀넥이 더 살아나네",
-   "line2": "언니 차콜 코트 어깨선도 오늘 내내 예술이에요",
+   "line1": "머플러 다시 두르니까 너 오늘 화보 같다",
+   "line2": "언니 차콜 코트 깃 세운 게 더 화보예요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
@@ -74,40 +64,57 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 점심 맛있게 드셨나 자꾸 신경 쓰여",
-   "line2": "식사하고 웃으시면 우리 오후도 꽃길이죠",
-   "mood1": "neutral",
+   "line1": "경훈씨 웃음소리 들리면 오후가 가벼워져",
+   "line2": "그 웃음, 녹음해서 알람으로 쓰고 싶어요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "오후 회의 땐 제가 경훈씨 옆자리 맡을래요",
-   "line2": "흥, 난 펜이랑 따뜻한 물 벌써 놓아 뒀거든",
+   "line1": "오후 보고서 그래프 색, 경훈씨 취향으로 맞췄어요",
+   "line2": "흥, 난 경훈씨 좋아하시는 글씨체로 바꿨거든",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "'내가 떨릴 수 있게', 제목부터 발칙하지 않아요?",
-   "line2": "퇴근하고 불 끄고 혼자 몰래 볼 드라마네",
-   "mood1": "smile",
+   "a": "jiwon",
+   "line1": "아까 경훈씨가 너한테만 고맙다고 두 번 하셨지?",
+   "line2": "언니도 복도에서 칭찬 받는 거 다 봤거든요",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245610"
+   "pose1": "sulk",
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "퇴근하고 바닐라 팝업, 진짜 뛰어갈 거야?",
-   "line2": "그럼요, 언니 비밀 향수 꺾을 무기 사 올게요",
-   "mood1": "neutral",
+   "line1": "야구 끝나면 유죄인간 4회 다시보기 하자",
+   "line2": "좋아요, 점심 내기 진 사람 커피 잊지 마요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
+   "pose1": "talkto",
    "pose2": "cheer"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오후도 우리 둘이면 거뜬해요",
+   "line2": "그럼, 너랑 일하면 시간이 금방 가",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "따뜻한 차 한 잔씩 하고 다시 달리자",
+   "line2": "제가 유자차로 타 올게요, 언니",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
