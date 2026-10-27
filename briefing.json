@@ -1,9 +1,9 @@
 {
  "date": "2026-10-27",
- "updatedAt": "2026-10-27T08:10:00+09:00",
+ "updatedAt": "2026-10-27T09:15:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 8.8,
+  "temp": 10.4,
   "low": 9,
   "high": 16,
   "condition": "맑음",
@@ -14,29 +14,29 @@
  },
  "breaking": [
   {
+   "title": "삼성전자·SK하이닉스 4% 상승 출발",
+   "url": "https://www.newsis.com/view/NISX20261027_0003842224",
+   "source": "뉴시스"
+  },
+  {
+   "title": "코스닥, 15.88포인트(2.18%) 오른 743.09 개장",
+   "url": "https://www.newsis.com/view/NISX20261027_0003842219",
+   "source": "뉴시스"
+  },
+  {
+   "title": "코스피, 189.18포인트(3.46%) 오른 5658.65 개장",
+   "url": "https://www.newsis.com/view/NISX20261027_0003842217",
+   "source": "뉴시스"
+  },
+  {
+   "title": "내일 올림픽공원 투표용지 검증에 경찰 48개 기동대 투입",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401868",
+   "source": "연합뉴스"
+  },
+  {
    "title": "반도체 호황에…3분기 한국 경제 1.0% 성장",
    "url": "https://www.newsis.com/view/NISX20261027_0003842044",
    "source": "뉴시스"
-  },
-  {
-   "title": "요르단군 시리아 남부 여러 곳 공습, 5명 사망 --시리아 통신",
-   "url": "https://www.newsis.com/view/NISX20261027_0003841993",
-   "source": "뉴시스"
-  },
-  {
-   "title": "\"영부인 골프 때 앞뒤 팀 태릉CC 정상 이용…'황제 골프' 아니었다\"",
-   "url": "https://m.pressian.com/m/pages/articles/2026102706111908003",
-   "source": "프레시안"
-  },
-  {
-   "title": "국제유가, 이란·사우디 회동에 하락⋯WTI 1.46%↓",
-   "url": "https://www.etoday.co.kr/news/view/2640283",
-   "source": "이투데이"
-  },
-  {
-   "title": "뉴욕증시, 앤트로픽 IPO 기대에 AI주 반등…나스닥 0.8%↑",
-   "url": "https://www.news1.kr/world/international-economy/6332585",
-   "source": "뉴스1"
   }
  ],
  "news": [
@@ -57,6 +57,42 @@
    "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284281.html",
    "source": "한겨레",
    "summary": "이재명 대통령이 농어민을 만나 CPTPP 가입은 피할 수 없다며 수출 부담금 도입을 제안했다."
+  },
+  {
+   "title": "앤트로픽, 나스닥 IPO 신청…AI투자 우려 속 역대 최대 도전",
+   "url": "https://www.yna.co.kr/view/AKR20261026174252072",
+   "source": "연합뉴스",
+   "summary": "클로드 개발사 앤트로픽이 미 SEC에 증권신고서를 내고 티커 'ANT'로 다음 달 나스닥 상장을 추진한다."
+  },
+  {
+   "title": "KB증권 \"'삼전닉스', 총 120조 추가 주주환원 기대…저평가 해소 계기\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401884",
+   "source": "연합뉴스",
+   "summary": "KB증권은 삼성전자 80조·SK하이닉스 40조 규모의 추가 주주환원이 주가 재평가 계기가 될 수 있다고 봤다."
+  },
+  {
+   "title": "靑, '金여사 골프' 주진우 인용 보도에 \"허위사실 유포 행위\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016400356",
+   "source": "연합뉴스",
+   "summary": "김혜경 여사 '황제 골프' 의혹 제기에 청와대가 허위사실이라며 반박했고 여야 고발전으로 번졌다."
+  },
+  {
+   "title": "고리 3·4호기, 오늘 수명 연장 갈림길…내년 재가동하나",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401759",
+   "source": "연합뉴스",
+   "summary": "고리원전 3·4호기의 계속운전(수명 연장) 여부가 오늘 판가름 난다."
+  },
+  {
+   "title": "룰라 당선에 브라질 증시 17%↓…코로나 후 첫 서킷브레이커",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401738",
+   "source": "연합뉴스",
+   "summary": "룰라 대통령의 4선 확정 뒤 브라질 증시가 17% 급락해 코로나 이후 처음 서킷브레이커가 발동됐다."
+  },
+  {
+   "title": "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401837",
+   "source": "연합뉴스",
+   "summary": "손흥민을 향해 '니하오'라고 외치는 관중 영상이 공개돼 인종차별 논란이 일고 있다."
   },
   {
    "title": "31일 구속 만료 김건희…대법, 오늘 추가 구속영장 심문",
@@ -131,12 +167,6 @@
    "summary": "미래에셋생명이 해킹으로 고객 개인정보가 유출됐다고 밝혀 금감원이 현장검사에 나선다."
   },
   {
-   "title": "KB국민은행 \"해킹 정보유출 2천91명 추가 확인\"…총 2천210명 급증",
-   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441168",
-   "source": "연합인포맥스",
-   "summary": "KB국민은행 해킹 정보유출 피해가 2천91명 추가 확인돼 총 2천210명으로 늘었다."
-  },
-  {
    "title": "日 투자그룹, JYP 지분 50% 인수 추진 발표…JYP “사실무근”",
    "url": "https://www.kyeonggi.com/article/20261027580001",
    "source": "경기일보",
@@ -179,12 +209,6 @@
    "summary": "5·18을 다룬 드라마 '닥터X'에 방영 중단 청원이 나오며 창작 자유 논란이 일고 있다."
   },
   {
-   "title": "정부, 가상자산 과세 네 번째 연기 검토…2029년 시행 거론",
-   "url": "https://www.tokenpost.kr/news/breaking/427428",
-   "source": "토큰포스트",
-   "summary": "정부가 가상자산 양도차익 과세를 네 번째로 미루는 방안을 검토 중이며 2029년이 거론된다."
-  },
-  {
    "title": "[PO 포커스] 돌아온 삼성 구자욱은 침묵, KIA 김도영은 펄펄",
    "url": "https://m.newspim.com/news/view/20261026001269",
    "source": "뉴스핌",
@@ -195,24 +219,6 @@
    "url": "https://www.hani.co.kr/arti/economy/startup/1284145.html",
    "source": "한겨레",
    "summary": "화장품과 반도체 덕에 3분기 중소기업 수출이 334억달러로 역대 3분기 최고를 기록했다."
-  },
-  {
-   "title": "‘노벨상 뒤끝’ 트럼프, 노르웨이에 “쓰레기 같은 나라” 막말",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695846",
-   "source": "KBS 뉴스",
-   "summary": "노벨평화상을 받지 못한 트럼프 대통령이 노르웨이를 향해 막말을 쏟아냈다."
-  },
-  {
-   "title": "[단독] 사람처럼 ‘열 손가락’ 삼성 로봇…휴머노이드 ‘손 기술’ 경쟁",
-   "url": "https://www.hani.co.kr/arti/economy/marketing/1284276.html",
-   "source": "한겨레",
-   "summary": "삼성이 사람처럼 열 손가락을 가진 휴머노이드 로봇 손 기술 경쟁에 나섰다."
-  },
-  {
-   "title": "애플, 시리즈 최초 OLED 품은 8세대 '아이패드 미니' 공개",
-   "url": "https://m.cnet.co.kr/view/?no=20261026222322",
-   "source": "CNET Korea",
-   "summary": "애플이 시리즈 최초로 OLED를 탑재한 8세대 아이패드 미니를 공개했다."
   }
  ]
 }
