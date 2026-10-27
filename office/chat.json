@@ -1,61 +1,61 @@
 {
- "updatedAt": "2026-10-27T16:10:00+09:00",
+ "updatedAt": "2026-10-27T17:14:00+09:00",
  "topics": [
-  "코스피 5,638 마감",
-  "팽토피아 출시",
-  "유퀴즈 신민아 28일",
-  "그레이 젤네일",
-  "차콜 코트 퇴근룩",
-  "경훈씨 발걸음 소리",
-  "첫 보고 vs 보고서 표지 경쟁",
-  "먼저 수고했다 질투",
+  "아이폰듀오 무상교체 재고부족",
+  "넷플릭스 꿀알바 30일",
+  "해리 케인 발롱도르",
+  "라 바닐 마지막 날 이어가기",
+  "머플러 다시 두른 저녁룩",
+  "경훈씨 퇴근길 응원",
+  "쪽지 vs 크로찌 경쟁",
   "연애박사 설렘 농담",
-  "경훈씨 수고 인사"
+  "하루 마무리 칭찬",
+  "따뜻한 물 휴식"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피 3% 올라 5,638로 마감했대",
-   "line2": "언니 오늘 주식 앱 볼 때마다 웃던데요?",
+   "line1": "아이폰듀오 화면 균열, 애플이 무상교체한대",
+   "line2": "근데 재고가 없어서 한참 기다린다면서요?",
+   "mood1": "surprised",
+   "mood2": "sad",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261027051300091"
+  },
+  {
+   "a": "hyewon",
+   "line1": "넷플릭스 '꿀알바' 30일에 나온대요",
+   "line2": "미스터리 호러? 너 혼자 못 보잖아",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
+   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261027138300008"
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610220243"
   },
   {
    "a": "jiwon",
-   "line1": "'팽토피아'라는 육각 타일 퍼즐 나왔대",
-   "line2": "유령이랑 요정 왕국이요? 귀엽겠다 언니",
+   "line1": "해리 케인이 생애 첫 발롱도르 받았대",
+   "line2": "잉글랜드 선수로 25년 만이라니 대단해요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "thumbs",
+   "url": "https://www.ytn.co.kr/_ln/0107_202610270928498965"
+  },
+  {
+   "a": "jiwon",
+   "line1": "너 퇴근하고 라 바닐 진짜 달려가는 거지?",
+   "line2": "운동화로 갈아 신었어요, 마지막 날이잖아요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "charm",
-   "url": "https://www.gamemeca.com/view.php?gid=1782396"
+   "pose2": "cheer"
   },
   {
    "a": "hyewon",
-   "line1": "내일 유퀴즈에 신민아 나온대요",
-   "line2": "김우빈 얘기도 한대? 그건 본방 사수다",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "talkto",
-   "url": "https://www.kwnews.co.kr/article/20261027500078"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 점심때 바꾼 그레이 젤네일 봤어요?",
-   "line2": "약지 금박 반짝이는 거 아까부터 봤지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "해 기우니까 차콜 코트 다시 꺼내 입었어",
-   "line2": "깃 세우니까 언니 퇴근룩 완성이에요",
+   "line1": "언니, 머플러 다시 둘렀더니 좀 낫네요",
+   "line2": "터틀넥에 그레이 체크, 오늘 그 조합 최고야",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "down",
@@ -63,17 +63,17 @@
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 발걸음 소리만 들어도 알 것 같아요",
-   "line2": "나도. 그 소리 나면 자세부터 고쳐 앉아",
+   "line1": "경훈씨 퇴근길이 따뜻했으면 좋겠어요",
+   "line2": "차 안에서 좋아하시는 노래 나오길 빌어야지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "love",
-   "pose2": "heart"
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "jiwon",
-   "line1": "내일 아침 경훈씨 첫 보고는 내가 할 거야",
-   "line2": "흥, 전 보고서 표지까지 새로 만들었거든요",
+   "line1": "내일 아침 경훈씨 책상엔 내 쪽지가 먼저야",
+   "line2": "흥, 전 크로찌 따끈할 때 올려 둘 거예요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -81,17 +81,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "아까 경훈씨가 언니한테 먼저 수고했다 하셨죠",
-   "line2": "질투 금지~ 나갈 땐 너 보고 웃으셨잖아",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 밤 연애박사 보다 설레면 어쩌지",
-   "line2": "언니 볼 빨개지면 제가 다 캡처할 거예요",
+   "line1": "연애박사 보다가 언니 손잡아도 돼요?",
+   "line2": "설레는 장면엔 쿠션 대신 나 끌어안기 금지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -99,12 +90,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨, 오늘 하루도 정말 고생 많으셨어요",
-   "line2": "저녁은 꼭 따뜻한 걸로 챙겨 드세요",
+   "line1": "오늘 하루 버틴 우리, 진짜 칭찬해",
+   "line2": "내일도 언니랑 같이라면 거뜬해요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "cheer"
+   "pose1": "clap",
+   "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "퇴근 전에 따뜻한 물 한 잔씩 마셔요",
+   "line2": "좋다, 오늘은 내가 컵 씻어 둘게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
