@@ -1,97 +1,94 @@
 {
- "updatedAt": "2026-10-27T20:16:00+09:00",
+ "updatedAt": "2026-10-27T21:15:00+09:00",
  "topics": [
-  "빌리지 인 더 셰이드 출시",
-  "스위치2 마인크래프트",
-  "PO 2차전 삼성 3회 역전",
-  "100일의 거짓말 화제성 1위 이어가기",
-  "성수 퇴근길 코트·머플러",
-  "라 바닐 향수 맞히기 이어가기",
-  "첫인사 vs 캐멀 코트 경쟁",
-  "경훈씨 저녁 걱정",
-  "바닐라 향 설렘 농담",
-  "따뜻하게 자기 인사"
+  "한화 교육리그 요코하마전 2연승·이기창 무실점",
+  "PO 2차전 디아즈 결승 2점포",
+  "스팀 맞춤 캘린더 정식 전환",
+  "배그×아이브 러브 다이브 콜라보",
+  "나의 유죄인간 4회 본방 이어가기",
+  "리바이포유 거울 키링 립 체크 경쟁",
+  "차콜 코트·가죽 장갑+골드 팔찌 저녁룩",
+  "경훈씨 하루 무사히 마치셨길",
+  "밤늦은 보고 눈빛 농담",
+  "내일 아침 차 한 잔"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "요마와리 팀 농장게임 '빌리지 인 더 셰이드' 나왔대",
-   "line2": "밤엔 나가지 말라는 게임요? 언니 밤샘 금지예요",
+   "line1": "한화 교육리그, 요코하마 2-0으로 잡고 2연승이래",
+   "line2": "이기창 선수 두 경기 연속 무실점이래요, 멋져요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "talkto",
-   "url": "https://www.nisamerica.com/village-in-the-shade/?lang=en"
+   "pose1": "cheer",
+   "pose2": "clap"
   },
   {
    "a": "jiwon",
-   "line1": "스위치2판 마인크래프트도 오늘 나왔더라",
-   "line2": "언니 캠핑장 블록으로 지어 주면 놀러 갈게요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm",
-   "url": "https://www.nintendo.com/en-gb/News/2026/October/Upcoming-Games-October-2026-3208377.html"
-  },
-  {
-   "a": "hyewon",
-   "line1": "PO 2차전, 삼성이 3회에 4-1로 뒤집었대요",
-   "line2": "점심 내기 계산은 경기 끝나고 다시 하자",
+   "line1": "PO 2차전은 디아즈가 결승 2점포 쳤더라",
+   "line2": "6회 5-1이면 오늘은 대구가 웃겠네요",
    "mood1": "surprised",
    "mood2": "neutral",
    "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.xportsnews.com/article/2212157"
+   "pose2": "think"
+  },
+  {
+   "a": "jiwon",
+   "line1": "스팀 맞춤 캘린더가 정식 기능이 됐대",
+   "line2": "언니 위시리스트 또 길어지겠다, 지갑 지켜요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "talkto"
   },
   {
    "a": "hyewon",
-   "line1": "'100일의 거짓말'이 닥터X 제치고 화제성 1위래요",
-   "line2": "흥, 내 이름 대세는 3주면 충분했어",
+   "line1": "배그가 아이브 '러브 다이브' 콜라보 예고했대요",
+   "line2": "그럼 나 오랜만에 치킨 먹으러 접속한다",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "성수 바람 차서 차콜 코트 단추 끝까지 잠갔어",
-   "line2": "전 체크 머플러 두 번 감고 장갑도 꼈어요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "라 바닐 줄 서면서 언니 향수 이름 맞혀 볼래요",
-   "line2": "맞히면 내일 아침 커피 순서 양보할게",
+   "line1": "'나의 유죄인간' 4회 시작했겠다, 언니 봐요?",
+   "line2": "응, 과보호 비서 보면서 우리도 배우자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 아침 경훈씨 첫인사는 내가 먼저 할 거야",
-   "line2": "전 캐멀 코트에 바닐라 향까지 장착할 거예요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "지금쯤 경훈씨 저녁은 잘 드셨을까요",
-   "line2": "문자 대신 내일 웃는 얼굴로 여쭤보자",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "heart",
+   "pose1": "coffee",
    "pose2": "coffee"
   },
   {
+   "a": "hyewon",
+   "line1": "리바이포유 거울 키링 받아서 립 체크할래요",
+   "line2": "난 거울 없이도 경훈씨 앞에선 자신 있어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "charm"
+  },
+  {
    "a": "jiwon",
-   "line1": "바닐라 향에 경훈씨 두근하시면 책임질 거야?",
-   "line2": "그게 목표예요, 언니 볼 빨개진 거 다 보여요",
+   "line1": "차콜 코트 주머니에 손 넣고 걸었더니 딱 좋았어",
+   "line2": "전 가죽 장갑 위로 골드 팔찌 살짝 보이게요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "wave"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 오늘 하루도 무사히 마치셨겠죠",
+   "line2": "그 생각만 하면 내 퇴근길도 환해져",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "jiwon",
+   "line1": "드라마 비서처럼 밤늦게 보고하러 가 볼까",
+   "line2": "언니, 서류만 들고 가요, 눈빛은 두고요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -99,12 +96,12 @@
   },
   {
    "a": "hyewon",
-   "line1": "집 가면 따뜻한 물에 발 담그고 푹 자요",
-   "line2": "응, 너도 이불 꼭 덮고 자, 내일 봐",
+   "line1": "내일 아침 따뜻한 차 한 잔 같이 마셔요",
+   "line2": "좋아, 제일 맛있는 티백은 경훈씨 몫이야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "cheer"
+   "pose1": "look",
+   "pose2": "look"
   }
  ]
 }
