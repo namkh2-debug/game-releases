@@ -1,110 +1,110 @@
 {
- "updatedAt": "2026-10-27T17:14:00+09:00",
+ "updatedAt": "2026-10-27T18:07:00+09:00",
  "topics": [
-  "아이폰듀오 무상교체 재고부족",
-  "넷플릭스 꿀알바 30일",
-  "해리 케인 발롱도르",
-  "라 바닐 마지막 날 이어가기",
-  "머플러 다시 두른 저녁룩",
-  "경훈씨 퇴근길 응원",
-  "쪽지 vs 크로찌 경쟁",
-  "연애박사 설렘 농담",
-  "하루 마무리 칭찬",
-  "따뜻한 물 휴식"
+  "데스티니 차일드 어셈블 공개",
+  "로맨싱 사가3 리메이크 2월 출시",
+  "PO 2차전 점심 내기 이어가기",
+  "닥터X 김지원 대세 질투",
+  "유죄인간 4회 선공개 제목",
+  "리바이포유 거울 키링 경쟁",
+  "장갑·체크 머플러 저녁룩",
+  "경훈씨 내일 아침 걱정",
+  "손발 맞은 하루 하이파이브",
+  "저녁 국물 약속"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "아이폰듀오 화면 균열, 애플이 무상교체한대",
-   "line2": "근데 재고가 없어서 한참 기다린다면서요?",
+   "line1": "데스티니 차일드가 방치형으로 돌아온대",
+   "line2": "언니 그거 10주년이죠? 내년 상반기래요",
    "mood1": "surprised",
-   "mood2": "sad",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261027141400017"
+  },
+  {
+   "a": "jiwon",
+   "line1": "로맨싱 사가3 리메이크, 내년 2월 16일 출시래",
+   "line2": "언니 설 연휴 끝나자마자 밤새우겠네요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "laugh",
+   "url": "http://www.gameinn.co.kr/news/articleView.html?idxno=14436"
+  },
+  {
+   "a": "hyewon",
+   "line1": "PO 2차전 6시 반 시작이에요, 점심 내기 기억해요?",
+   "line2": "당연하지, 후라도 vs 올러 결과 보고 계산하자",
+   "mood1": "smile",
+   "mood2": "smile",
    "pose1": "talkto",
    "pose2": "think",
-   "url": "https://www.yna.co.kr/view/AKR20261027051300091"
+   "url": "https://www.yna.co.kr/view/AKR20261026161700007"
   },
   {
    "a": "hyewon",
-   "line1": "넷플릭스 '꿀알바' 30일에 나온대요",
-   "line2": "미스터리 호러? 너 혼자 못 보잖아",
-   "mood1": "smile",
+   "line1": "언니 '닥터X 김지원 대세'에 하루 종일 으쓱했죠?",
+   "line2": "이름이 같은 걸 어떡해, 대세는 나야 나",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610220243"
+   "pose1": "sulk",
+   "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "해리 케인이 생애 첫 발롱도르 받았대",
-   "line2": "잉글랜드 선수로 25년 만이라니 대단해요",
+   "a": "hyewon",
+   "line1": "유죄인간 4회 선공개 제목이 '재희는 참지 않지'래요",
+   "line2": "오늘 8시 50분이지? 퇴근하자마자 틀어야지",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "thumbs",
-   "url": "https://www.ytn.co.kr/_ln/0107_202610270928498965"
-  },
-  {
-   "a": "jiwon",
-   "line1": "너 퇴근하고 라 바닐 진짜 달려가는 거지?",
-   "line2": "운동화로 갈아 신었어요, 마지막 날이잖아요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "cheer"
+   "pose1": "coffee",
+   "pose2": "coffee"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 머플러 다시 둘렀더니 좀 낫네요",
-   "line2": "터틀넥에 그레이 체크, 오늘 그 조합 최고야",
+   "line1": "내일 리바이포유 팝업에서 거울 키링 받아 올 거예요",
+   "line2": "립 체크해서 경훈씨 앞에 서려고? 나도 갈래",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "장갑까지 끼니까 네이비 정장이 겨울 느낌 난다",
+   "line2": "언니 차콜 장갑이랑 체크 머플러 찰떡이에요",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "down",
    "pose2": "thumbs"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨 퇴근길이 따뜻했으면 좋겠어요",
-   "line2": "차 안에서 좋아하시는 노래 나오길 빌어야지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
    "a": "jiwon",
-   "line1": "내일 아침 경훈씨 책상엔 내 쪽지가 먼저야",
-   "line2": "흥, 전 크로찌 따끈할 때 올려 둘 거예요",
+   "line1": "경훈씨 내일 아침 목 따뜻하게 하고 오시겠지?",
+   "line2": "제가 따뜻한 차 들고 문 앞에서 기다릴래요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
+   "pose1": "think",
+   "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "연애박사 보다가 언니 손잡아도 돼요?",
-   "line2": "설레는 장면엔 쿠션 대신 나 끌어안기 금지",
+   "line1": "언니, 오늘도 손발 척척 맞았죠?",
+   "line2": "그럼, 우리 둘이면 무서울 게 없지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 하루 버틴 우리, 진짜 칭찬해",
-   "line2": "내일도 언니랑 같이라면 거뜬해요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "clap",
+   "pose1": "look",
    "pose2": "highfive"
   },
   {
-   "a": "hyewon",
-   "line1": "퇴근 전에 따뜻한 물 한 잔씩 마셔요",
-   "line2": "좋다, 오늘은 내가 컵 씻어 둘게",
+   "a": "jiwon",
+   "line1": "저녁엔 따뜻한 국물 하나 먹고 들어가자",
+   "line2": "좋아요, 오늘은 제가 맛집 찾아 둘게요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "talkto",
+   "pose2": "wave"
   }
  ]
 }
