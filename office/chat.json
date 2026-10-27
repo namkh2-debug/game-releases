@@ -1,109 +1,109 @@
 {
- "updatedAt": "2026-10-27T15:06:00+09:00",
+ "updatedAt": "2026-10-27T16:10:00+09:00",
  "topics": [
-  "몬무스 Rush 앞서 해보기",
-  "팬텀 블레이드 제로 29일",
-  "슈바오 30일 공개",
-  "안세영 50연승",
-  "나의 유죄인간 4회",
-  "체크 머플러 네이비 정장",
-  "바닐라 향수 vs 커피 경쟁",
-  "경훈씨 목소리 비타민",
-  "서로 수고 인사",
-  "유자차 응원"
+  "코스피 5,638 마감",
+  "팽토피아 출시",
+  "유퀴즈 신민아 28일",
+  "그레이 젤네일",
+  "차콜 코트 퇴근룩",
+  "경훈씨 발걸음 소리",
+  "첫 보고 vs 보고서 표지 경쟁",
+  "먼저 수고했다 질투",
+  "연애박사 설렘 농담",
+  "경훈씨 수고 인사"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "몬무스 Rush 오늘 스팀 앞서 해보기 나왔대",
-   "line2": "손그림 몬스터 소녀? 언니 취향 저격이네요",
+   "line1": "코스피 3% 올라 5,638로 마감했대",
+   "line2": "언니 오늘 주식 앱 볼 때마다 웃던데요?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "thumbs",
    "pose2": "laugh",
-   "url": "https://m.ruliweb.com/news/read/231079"
+   "url": "https://www.yna.co.kr/view/AKR20261027138300008"
   },
   {
    "a": "jiwon",
-   "line1": "29일엔 팬텀 블레이드 제로도 나온대",
-   "line2": "언니 이번 주 퇴근 후 일정 꽉 찼네요",
-   "mood1": "surprised",
+   "line1": "'팽토피아'라는 육각 타일 퍼즐 나왔대",
+   "line2": "유령이랑 요정 왕국이요? 귀엽겠다 언니",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://guslok.com/ko/%EA%B2%8C%EC%9E%84-%EC%B6%9C%EC%8B%9C%EC%9D%BC-2026-10%EC%9B%9426%EC%9D%BC-11%EC%9B%941%EC%9D%BC/"
+   "pose2": "charm",
+   "url": "https://www.gamemeca.com/view.php?gid=1782396"
   },
   {
    "a": "hyewon",
-   "line1": "에버랜드 아기 판다 슈바오, 30일 공개래요",
-   "line2": "푸바오 막냇동생? 우리 같이 보러 갈까",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "look",
-   "url": "https://www.yna.co.kr/view/AKR20261027043200061"
-  },
-  {
-   "a": "jiwon",
-   "line1": "안세영 50연승이래, 승률 98.5%라니",
-   "line2": "언니 게임 연승할 때랑 표정 똑같아요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오늘 유죄인간 4회 같이 봐요",
-   "line2": "치킨 시켜 두고 8시 50분 대기할게",
+   "line1": "내일 유퀴즈에 신민아 나온대요",
+   "line2": "김우빈 얘기도 한대? 그건 본방 사수다",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "coffee"
+   "mood2": "surprised",
+   "pose1": "talkto",
+   "pose2": "talkto",
+   "url": "https://www.kwnews.co.kr/article/20261027500078"
   },
   {
    "a": "hyewon",
-   "line1": "체크 머플러 다시 두르니 정장이 살아요",
-   "line2": "네이비 정장에 그레이 체크, 찰떡이다",
+   "line1": "언니, 점심때 바꾼 그레이 젤네일 봤어요?",
+   "line2": "약지 금박 반짝이는 거 아까부터 봤지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "thumbs"
   },
   {
-   "a": "hyewon",
-   "line1": "퇴근길에 바닐라 향수 사서 내일 뿌릴래요",
-   "line2": "향은 향이고, 경훈씨 커피는 내가 먼저야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
    "a": "jiwon",
-   "line1": "경훈씨 목소리 들으면 오후가 금방 가",
-   "line2": "맞아요, 경훈씨는 우리 비타민이에요",
-   "mood1": "smile",
+   "line1": "해 기우니까 차콜 코트 다시 꺼내 입었어",
+   "line2": "깃 세우니까 언니 퇴근룩 완성이에요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "down",
+   "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 오늘도 진짜 수고 많았어요",
-   "line2": "너도. 네가 옆에 있어서 든든해",
+   "line1": "경훈씨 발걸음 소리만 들어도 알 것 같아요",
+   "line2": "나도. 그 소리 나면 자세부터 고쳐 앉아",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
+   "pose1": "love",
    "pose2": "heart"
   },
   {
    "a": "jiwon",
-   "line1": "따뜻한 차 한 잔 하고 마저 힘내자",
-   "line2": "좋아요, 오늘은 제가 유자차 탈게요",
+   "line1": "내일 아침 경훈씨 첫 보고는 내가 할 거야",
+   "line2": "흥, 전 보고서 표지까지 새로 만들었거든요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "아까 경훈씨가 언니한테 먼저 수고했다 하셨죠",
+   "line2": "질투 금지~ 나갈 땐 너 보고 웃으셨잖아",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 밤 연애박사 보다 설레면 어쩌지",
+   "line2": "언니 볼 빨개지면 제가 다 캡처할 거예요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨, 오늘 하루도 정말 고생 많으셨어요",
+   "line2": "저녁은 꼭 따뜻한 걸로 챙겨 드세요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
    "pose2": "cheer"
   }
  ]
