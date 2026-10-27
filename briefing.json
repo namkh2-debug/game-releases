@@ -1,224 +1,224 @@
 {
-  "date": "2026-10-27",
-  "updatedAt": "2026-10-27T13:05:00+09:00",
-  "region": "경기 광주",
-  "weather": {
-    "temp": 14.4,
-    "low": 9,
-    "high": 16,
-    "condition": "맑음",
-    "rainChance": "오전 0%, 오후 0%",
-    "dust": "미세먼지 좋음, 초미세먼지 좋음",
-    "tip": "아침 9도·낮 16도로 일교차가 커요. 가벼운 니트나 자켓을 챙기시고 우산은 필요 없어요. 내일 아침은 1도까지 떨어지니 두꺼운 외투를 꺼내 두세요.",
-    "source": "네이버 날씨(기상청·웨더아이 제공, 06:30 업데이트)"
+ "date": "2026-10-27",
+ "updatedAt": "2026-10-27T14:01:00+09:00",
+ "region": "경기 광주",
+ "weather": {
+  "temp": 14.5,
+  "low": 9,
+  "high": 16,
+  "condition": "맑음",
+  "rainChance": "오전 0%, 오후 0%",
+  "dust": "미세먼지 좋음, 초미세먼지 좋음",
+  "tip": "아침 9도·낮 16도로 일교차가 커요. 가벼운 니트나 자켓을 챙기시고 우산은 필요 없어요. 내일 아침은 1도까지 떨어지니 두꺼운 외투를 꺼내 두세요.",
+  "source": "네이버 날씨(기상청·웨더아이 제공, 06:30 업데이트)"
+ },
+ "breaking": [
+  {
+   "title": "합참 “철원 ‘민간인 GOP 철책 훼손’ 부대 경계작전 실태 조사”",
+   "url": "https://www.kado.net/news/articleView.html?idxno=2080708",
+   "source": "강원도민일보"
   },
-  "breaking": [
-    {
-      "title": "주진우 \"金여사, 대구 붕괴사고 당일 골프 예약\"...추가 의혹 제기",
-      "url": "https://www.kyeonggi.com/article/20261027580135",
-      "source": "경기일보"
-    },
-    {
-      "title": "의사 평균소득 年 4억 돌파… 변호사보다 3.8배 더 번다",
-      "url": "https://www.seoul.co.kr/news/economy/2026/10/27/20261027500096",
-      "source": "서울신문"
-    },
-    {
-      "title": "\"시끄럽다\" 도서관서 떠든 초등생 2명에게 흉기 위협한 20대",
-      "url": "https://www.munhwa.com/article/11626636",
-      "source": "문화일보"
-    },
-    {
-      "title": "강원·충청·영남·호남 '한파주의보' 발표",
-      "url": "https://www.yna.co.kr/view/MYH20261027007700038",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "李대통령 \"중수청장 국무회의 참석, 비정상의 정상화\"",
-      "url": "https://www.chosun.com/politics/blue_house/2026/10/27/HCGYL6TAE5CUPCYZLORRNK7E6Q/",
-      "source": "조선일보"
-    }
-  ],
-  "news": [
-    {
-      "title": "한국은행, 3분기 GDP 1% 성장‥정부소비·설비투자 증가 영향",
-      "url": "https://imnews.imbc.com/news/2026/econo/article/6860944_36932.html",
-      "source": "MBC 뉴스",
-      "summary": "반도체 수출 호조 속에 정부소비·설비투자가 늘며 3분기 성장률 1.0%를 기록했다."
-    },
-    {
-      "title": "코스피 4%대 급등…매수 사이드카 발동",
-      "url": "https://www.donga.com/news/amp/all/20261027/134915308/2",
-      "source": "동아일보",
-      "summary": "코스피가 장중 4%대 급등하며 유가증권시장에 매수 사이드카가 발동됐다."
-    },
-    {
-      "title": "\"미군, 트럼프 명령 나흘내 대규모 이란 재공격 준비\"",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026225612Kdl",
-      "source": "연합뉴스TV",
-      "summary": "CNN은 미군이 트럼프 대통령 명령 시 96시간 안에 이란을 다시 대규모로 공격할 준비가 됐다고 보도했다."
-    },
-    {
-      "title": "美 중간선거 D-7 ‘가계부 표심’이 승부 가른다",
-      "url": "https://www.donga.com/news/Inter/article/all/20261027/134913311/2",
-      "source": "동아일보",
-      "summary": "미국 중간선거를 일주일 앞두고 물가 등 생활비 문제가 표심의 핵심 변수로 꼽힌다."
-    },
-    {
-      "title": "이 대통령 “CPTPP 가입, 피할 수 없어”…수출 부담금 도입 제안",
-      "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284281.html",
-      "source": "한겨레",
-      "summary": "이재명 대통령이 농어민을 만나 CPTPP 가입은 피할 수 없다며 수출 부담금 도입을 제안했다."
-    },
-    {
-      "title": "민주당 “가상자산 과세, 신속한 당정협의로 입장 정리…오늘 정부 전달”",
-      "url": "https://www.khan.co.kr/article/202610271040011",
-      "source": "경향신문",
-      "summary": "민주당이 오늘 의원총회에서 가상자산 과세 입장을 정해 정부에 전달한다."
-    },
-    {
-      "title": "선관위특검, 올림픽공원 핸드볼경기장 압수수색…선거 서류·CCTV 확보",
-      "url": "https://www.donga.com/news/Politics/article/all/20261027/134915445/2",
-      "source": "동아일보",
-      "summary": "선관위 특검이 올림픽공원 핸드볼경기장을 압수수색해 선거 관련 서류와 CCTV를 확보했다."
-    },
-    {
-      "title": "이태원 참사 4주기 앞두고…이 대통령 “국가 부재로 억울한 죽음 반복 안 돼”",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8696122",
-      "source": "KBS 뉴스",
-      "summary": "이 대통령이 이태원 참사 4주기를 앞두고 국가의 책임을 강조했다."
-    },
-    {
-      "title": "대법, '채상병 순직' 임성근 전 사단장 징역 3년 확정",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8696130",
-      "source": "KBS 뉴스",
-      "summary": "사고 3년 3개월 만에 책임자 형이 확정됐어요."
-    },
-    {
-      "title": "앤트로픽, 나스닥 IPO 신청…AI투자 우려 속 역대 최대 도전",
-      "url": "https://www.yna.co.kr/view/AKR20261026174252072",
-      "source": "연합뉴스",
-      "summary": "클로드 개발사 앤트로픽이 미 SEC에 증권신고서를 내고 티커 'ANT'로 다음 달 나스닥 상장을 추진한다."
-    },
-    {
-      "title": "KB증권 \"'삼전닉스', 총 120조 추가 주주환원 기대…저평가 해소 계기\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016401884",
-      "source": "연합뉴스",
-      "summary": "KB증권은 삼성전자 80조·SK하이닉스 40조 규모의 추가 주주환원이 주가 재평가 계기가 될 수 있다고 봤다."
-    },
-    {
-      "title": "오픈AI “수학·컴퓨터과학·물리학 수십년 난제 3개 풀었다”",
-      "url": "https://www.hani.co.kr/arti/international/america/1284301.html",
-      "source": "한겨레",
-      "summary": "오픈AI가 자체 AI 모델로 수십년간 풀리지 않던 난제들의 새 증명을 얻었다고 발표했다."
-    },
-    {
-      "title": "셀트리온, 3분기 매출·영업이익 역대 최대",
-      "url": "https://www.yna.co.kr/view/AKR20261027040500017",
-      "source": "연합뉴스",
-      "summary": "셀트리온이 3분기 매출과 영업이익 모두 분기 기준 역대 최대를 기록했다."
-    },
-    {
-      "title": "‘화면에 균열’ 주장 잇따라…애플, ‘아이폰듀오’ 무상교체",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8696114",
-      "source": "KBS 뉴스",
-      "summary": "애플이 첫 폴더블폰 아이폰 듀오의 화면 결함을 인정하고 무상 교체하기로 했다."
-    },
-    {
-      "title": "방미통위, 구글·애플 과징금 637억원 가닥…시정조치 범위 이견",
-      "url": "https://www.yna.co.kr/view/AKR20261027028600017",
-      "source": "연합뉴스",
-      "summary": "앱마켓 결제 정책 위반으로 구글 429억·애플 208억원 부과가 유력해요."
-    },
-    {
-      "title": "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
-      "url": "https://n.news.naver.com/mnews/article/001/0016401837",
-      "source": "연합뉴스",
-      "summary": "손흥민을 향해 '니하오'라고 외치는 관중 영상이 공개돼 인종차별 논란이 일고 있다."
-    },
-    {
-      "title": "31일 구속 만료 김건희…대법, 오늘 추가 구속영장 심문",
-      "url": "https://www.yna.co.kr/view/AKR20261026161100004",
-      "source": "연합뉴스",
-      "summary": "대법원이 오늘 오후 2시 30분 김건희 여사 계속 구속 여부를 가를 심문을 연다."
-    },
-    {
-      "title": "여야, 외통위 등 종합감사…'김정은 전격 방중' 등 쟁점",
-      "url": "https://www.yna.co.kr/view/AKR20261026137800001",
-      "source": "연합뉴스",
-      "summary": "외통위·복지위·기후노동위가 오늘 종합감사로 국정감사를 마무리한다."
-    },
-    {
-      "title": "SK하이닉스 내일 3분기 실적공개…주주환원 카드 나오나",
-      "url": "https://www.yna.co.kr/view/AKR20261026155100003",
-      "source": "연합뉴스",
-      "summary": "영업이익 76조원대 전망 속 추가 주주환원 방안에 관심이 쏠린다."
-    },
-    {
-      "title": "북 ‘지뢰폭발’ 맞대응 안보리 의장 서한…이사국들 회람",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8695835",
-      "source": "KBS 뉴스",
-      "summary": "북한이 DMZ 지뢰 폭발을 '한국 자작극'이라 주장한 서한에 맞서 정부가 안보리에 서한을 보냈다."
-    },
-    {
-      "title": "트럼프 지지 업은 네타냐후, 27일 총선서 전 군 참모총장 상대로 연임 모색",
-      "url": "https://www.voakorea.com/a/israel-election-preview-102626/8215304.html",
-      "source": "VOA 한국어 홈페이지",
-      "summary": "이스라엘이 27일 총선을 치르며 네타냐후 총리가 전 군 참모총장을 상대로 연임을 노린다."
-    },
-    {
-      "title": "해리 케인, 생애 첫 발롱도르...잉글랜드 선수로는 25년만에 수상",
-      "url": "https://www.ytn.co.kr/_ln/0107_202610270928498965",
-      "source": "YTN",
-      "summary": "바이에른 뮌헨의 해리 케인이 야말·음바페를 제치고 2026 발롱도르를 받았다."
-    },
-    {
-      "title": "IAEA 원자력 장관회의 국내 첫 개최…60개국 모여 원전 안전·SMR 논의",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8696091",
-      "source": "KBS 뉴스",
-      "summary": "IAEA 원자력 장관회의가 국내에서 처음 열려 60개국이 원전 안전과 SMR을 논의한다."
-    },
-    {
-      "title": "공무원연금 수령나이 65세까지 상향 합헌…4대4로 '팽팽'",
-      "url": "https://www.yna.co.kr/view/AKR20261026169000004",
-      "source": "연합뉴스",
-      "summary": "헌재가 공무원연금 수령 나이 단계적 상향 조항을 4대4 의견으로 합헌 결정했다."
-    },
-    {
-      "title": "월급 받고 열흘 지나면 '텅장'…직장인 평균 월급 22% 남아",
-      "url": "https://www.yna.co.kr/view/AKR20261026150000002",
-      "source": "연합뉴스",
-      "summary": "NH농협은행 분석 결과 월급 받은 지 열흘 뒤 평균 22%만 통장에 남았다."
-    },
-    {
-      "title": "홈플러스 상당수 점포, 전기요금 못 내 단전 예고 받아",
-      "url": "https://m.ytn.co.kr/news_view.php?key=202610261732352625&s_mcd=0102",
-      "source": "YTN",
-      "summary": "홈플러스 상당수 점포가 전기요금을 내지 못해 한전으로부터 단전 예고를 받았다."
-    },
-    {
-      "title": "미래에셋생명, 보험사 첫 개인정보유출…금감원 현장검사 예정(종합)",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441158",
-      "source": "연합인포맥스",
-      "summary": "미래에셋생명이 해킹으로 고객 개인정보가 유출됐다고 밝혀 금감원이 현장검사에 나선다."
-    },
-    {
-      "title": "日 투자그룹, JYP 지분 50% 인수 추진 발표…JYP “사실무근”",
-      "url": "https://www.kyeonggi.com/article/20261027580001",
-      "source": "경기일보",
-      "summary": "일본 투자그룹이 JYP 지분 50% 인수 추진을 발표했지만 JYP는 사실무근이라고 밝혔다."
-    },
-    {
-      "title": "홍지선 장관, 12·29 참사 유가족에 사과‥국토부 직원도 징계 착수",
-      "url": "https://imnews.imbc.com/news/2026/econo/article/6860819_36932.html",
-      "source": "MBC 뉴스",
-      "summary": "홍지선 국토부 장관이 12·29 참사 유가족에게 사과하고 관련 직원 징계에 착수했다."
-    },
-    {
-      "title": "“1년 전 스토킹 신고했지만 살해”…경찰 전수 조사에서도 빠졌다",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695605",
-      "source": "KBS 뉴스",
-      "summary": "대전에서 전 여자친구를 살해한 40대가 1년 전 스토킹 신고를 당했지만 경찰 전수조사에서도 빠졌다."
-    }
-  ]
+  {
+   "title": "한화오션, 3분기 영업익 4857억원…전년대비 68% 증가",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=04014726645617184&mediaCodeNo=257",
+   "source": "이데일리"
+  },
+  {
+   "title": "법무부, ‘수원지검 집단퇴정’ 김현우 ‘불문경고’…서현욱 ‘혐의없음’",
+   "url": "https://www.donga.com/news/Society/article/all/20261027/134916615/1",
+   "source": "동아일보"
+  },
+  {
+   "title": "HD현대일렉트릭, 3분기 영업익 2845억원…전년比 15.1% ↑",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03949126645617184&mediaCodeNo=257",
+   "source": "이데일리"
+  },
+  {
+   "title": "주진우 \"金여사, 대구 붕괴사고 당일 골프 예약\"...추가 의혹 제기",
+   "url": "https://www.kyeonggi.com/article/20261027580135",
+   "source": "경기일보"
+  }
+ ],
+ "news": [
+  {
+   "title": "한국은행, 3분기 GDP 1% 성장‥정부소비·설비투자 증가 영향",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6860944_36932.html",
+   "source": "MBC 뉴스",
+   "summary": "반도체 수출 호조 속에 정부소비·설비투자가 늘며 3분기 성장률 1.0%를 기록했다."
+  },
+  {
+   "title": "코스피 4%대 급등…매수 사이드카 발동",
+   "url": "https://www.donga.com/news/amp/all/20261027/134915308/2",
+   "source": "동아일보",
+   "summary": "코스피가 장중 4%대 급등하며 유가증권시장에 매수 사이드카가 발동됐다."
+  },
+  {
+   "title": "\"미군, 트럼프 명령 나흘내 대규모 이란 재공격 준비\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261026225612Kdl",
+   "source": "연합뉴스TV",
+   "summary": "CNN은 미군이 트럼프 대통령 명령 시 96시간 안에 이란을 다시 대규모로 공격할 준비가 됐다고 보도했다."
+  },
+  {
+   "title": "美 중간선거 D-7 ‘가계부 표심’이 승부 가른다",
+   "url": "https://www.donga.com/news/Inter/article/all/20261027/134913311/2",
+   "source": "동아일보",
+   "summary": "미국 중간선거를 일주일 앞두고 물가 등 생활비 문제가 표심의 핵심 변수로 꼽힌다."
+  },
+  {
+   "title": "이 대통령 “CPTPP 가입, 피할 수 없어”…수출 부담금 도입 제안",
+   "url": "https://www.hani.co.kr/arti/politics/bluehouse/1284281.html",
+   "source": "한겨레",
+   "summary": "이재명 대통령이 농어민을 만나 CPTPP 가입은 피할 수 없다며 수출 부담금 도입을 제안했다."
+  },
+  {
+   "title": "민주당 “가상자산 과세, 신속한 당정협의로 입장 정리…오늘 정부 전달”",
+   "url": "https://www.khan.co.kr/article/202610271040011",
+   "source": "경향신문",
+   "summary": "민주당이 오늘 의원총회에서 가상자산 과세 입장을 정해 정부에 전달한다."
+  },
+  {
+   "title": "선관위특검, 올림픽공원 핸드볼경기장 압수수색…선거 서류·CCTV 확보",
+   "url": "https://www.donga.com/news/Politics/article/all/20261027/134915445/2",
+   "source": "동아일보",
+   "summary": "선관위 특검이 올림픽공원 핸드볼경기장을 압수수색해 선거 관련 서류와 CCTV를 확보했다."
+  },
+  {
+   "title": "이태원 참사 4주기 앞두고…이 대통령 “국가 부재로 억울한 죽음 반복 안 돼”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8696122",
+   "source": "KBS 뉴스",
+   "summary": "이 대통령이 이태원 참사 4주기를 앞두고 국가의 책임을 강조했다."
+  },
+  {
+   "title": "대법, '채상병 순직' 임성근 전 사단장 징역 3년 확정",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8696130",
+   "source": "KBS 뉴스",
+   "summary": "사고 3년 3개월 만에 책임자 형이 확정됐어요."
+  },
+  {
+   "title": "앤트로픽, 나스닥 IPO 신청…AI투자 우려 속 역대 최대 도전",
+   "url": "https://www.yna.co.kr/view/AKR20261026174252072",
+   "source": "연합뉴스",
+   "summary": "클로드 개발사 앤트로픽이 미 SEC에 증권신고서를 내고 티커 'ANT'로 다음 달 나스닥 상장을 추진한다."
+  },
+  {
+   "title": "KB증권 \"'삼전닉스', 총 120조 추가 주주환원 기대…저평가 해소 계기\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401884",
+   "source": "연합뉴스",
+   "summary": "KB증권은 삼성전자 80조·SK하이닉스 40조 규모의 추가 주주환원이 주가 재평가 계기가 될 수 있다고 봤다."
+  },
+  {
+   "title": "오픈AI “수학·컴퓨터과학·물리학 수십년 난제 3개 풀었다”",
+   "url": "https://www.hani.co.kr/arti/international/america/1284301.html",
+   "source": "한겨레",
+   "summary": "오픈AI가 자체 AI 모델로 수십년간 풀리지 않던 난제들의 새 증명을 얻었다고 발표했다."
+  },
+  {
+   "title": "셀트리온, 3분기 매출·영업이익 역대 최대",
+   "url": "https://www.yna.co.kr/view/AKR20261027040500017",
+   "source": "연합뉴스",
+   "summary": "셀트리온이 3분기 매출과 영업이익 모두 분기 기준 역대 최대를 기록했다."
+  },
+  {
+   "title": "‘화면에 균열’ 주장 잇따라…애플, ‘아이폰듀오’ 무상교체",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8696114",
+   "source": "KBS 뉴스",
+   "summary": "애플이 첫 폴더블폰 아이폰 듀오의 화면 결함을 인정하고 무상 교체하기로 했다."
+  },
+  {
+   "title": "방미통위, 구글·애플 과징금 637억원 가닥…시정조치 범위 이견",
+   "url": "https://www.yna.co.kr/view/AKR20261027028600017",
+   "source": "연합뉴스",
+   "summary": "앱마켓 결제 정책 위반으로 구글 429억·애플 208억원 부과가 유력해요."
+  },
+  {
+   "title": "손흥민에게 \"니하오\" 외치는 관중 영상 공개…인종차별 논란",
+   "url": "https://n.news.naver.com/mnews/article/001/0016401837",
+   "source": "연합뉴스",
+   "summary": "손흥민을 향해 '니하오'라고 외치는 관중 영상이 공개돼 인종차별 논란이 일고 있다."
+  },
+  {
+   "title": "31일 구속 만료 김건희…대법, 오늘 추가 구속영장 심문",
+   "url": "https://www.yna.co.kr/view/AKR20261026161100004",
+   "source": "연합뉴스",
+   "summary": "대법원이 오늘 오후 2시 30분 김건희 여사 계속 구속 여부를 가를 심문을 연다."
+  },
+  {
+   "title": "여야, 외통위 등 종합감사…'김정은 전격 방중' 등 쟁점",
+   "url": "https://www.yna.co.kr/view/AKR20261026137800001",
+   "source": "연합뉴스",
+   "summary": "외통위·복지위·기후노동위가 오늘 종합감사로 국정감사를 마무리한다."
+  },
+  {
+   "title": "SK하이닉스 내일 3분기 실적공개…주주환원 카드 나오나",
+   "url": "https://www.yna.co.kr/view/AKR20261026155100003",
+   "source": "연합뉴스",
+   "summary": "영업이익 76조원대 전망 속 추가 주주환원 방안에 관심이 쏠린다."
+  },
+  {
+   "title": "북 ‘지뢰폭발’ 맞대응 안보리 의장 서한…이사국들 회람",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8695835",
+   "source": "KBS 뉴스",
+   "summary": "북한이 DMZ 지뢰 폭발을 '한국 자작극'이라 주장한 서한에 맞서 정부가 안보리에 서한을 보냈다."
+  },
+  {
+   "title": "트럼프 지지 업은 네타냐후, 27일 총선서 전 군 참모총장 상대로 연임 모색",
+   "url": "https://www.voakorea.com/a/israel-election-preview-102626/8215304.html",
+   "source": "VOA 한국어 홈페이지",
+   "summary": "이스라엘이 27일 총선을 치르며 네타냐후 총리가 전 군 참모총장을 상대로 연임을 노린다."
+  },
+  {
+   "title": "해리 케인, 생애 첫 발롱도르...잉글랜드 선수로는 25년만에 수상",
+   "url": "https://www.ytn.co.kr/_ln/0107_202610270928498965",
+   "source": "YTN",
+   "summary": "바이에른 뮌헨의 해리 케인이 야말·음바페를 제치고 2026 발롱도르를 받았다."
+  },
+  {
+   "title": "IAEA 원자력 장관회의 국내 첫 개최…60개국 모여 원전 안전·SMR 논의",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8696091",
+   "source": "KBS 뉴스",
+   "summary": "IAEA 원자력 장관회의가 국내에서 처음 열려 60개국이 원전 안전과 SMR을 논의한다."
+  },
+  {
+   "title": "공무원연금 수령나이 65세까지 상향 합헌…4대4로 '팽팽'",
+   "url": "https://www.yna.co.kr/view/AKR20261026169000004",
+   "source": "연합뉴스",
+   "summary": "헌재가 공무원연금 수령 나이 단계적 상향 조항을 4대4 의견으로 합헌 결정했다."
+  },
+  {
+   "title": "월급 받고 열흘 지나면 '텅장'…직장인 평균 월급 22% 남아",
+   "url": "https://www.yna.co.kr/view/AKR20261026150000002",
+   "source": "연합뉴스",
+   "summary": "NH농협은행 분석 결과 월급 받은 지 열흘 뒤 평균 22%만 통장에 남았다."
+  },
+  {
+   "title": "홈플러스 상당수 점포, 전기요금 못 내 단전 예고 받아",
+   "url": "https://m.ytn.co.kr/news_view.php?key=202610261732352625&s_mcd=0102",
+   "source": "YTN",
+   "summary": "홈플러스 상당수 점포가 전기요금을 내지 못해 한전으로부터 단전 예고를 받았다."
+  },
+  {
+   "title": "미래에셋생명, 보험사 첫 개인정보유출…금감원 현장검사 예정(종합)",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441158",
+   "source": "연합인포맥스",
+   "summary": "미래에셋생명이 해킹으로 고객 개인정보가 유출됐다고 밝혀 금감원이 현장검사에 나선다."
+  },
+  {
+   "title": "日 투자그룹, JYP 지분 50% 인수 추진 발표…JYP “사실무근”",
+   "url": "https://www.kyeonggi.com/article/20261027580001",
+   "source": "경기일보",
+   "summary": "일본 투자그룹이 JYP 지분 50% 인수 추진을 발표했지만 JYP는 사실무근이라고 밝혔다."
+  },
+  {
+   "title": "홍지선 장관, 12·29 참사 유가족에 사과‥국토부 직원도 징계 착수",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6860819_36932.html",
+   "source": "MBC 뉴스",
+   "summary": "홍지선 국토부 장관이 12·29 참사 유가족에게 사과하고 관련 직원 징계에 착수했다."
+  },
+  {
+   "title": "“1년 전 스토킹 신고했지만 살해”…경찰 전수 조사에서도 빠졌다",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695605",
+   "source": "KBS 뉴스",
+   "summary": "대전에서 전 여자친구를 살해한 40대가 1년 전 스토킹 신고를 당했지만 경찰 전수조사에서도 빠졌다."
+  }
+ ]
 }
