@@ -1,130 +1,111 @@
 {
- "updatedAt": "2026-10-28T18:09:20+09:00",
+ "updatedAt": "2026-10-28T19:06:59+09:00",
  "topics": [
-  "구글·애플 인앱결제 과징금에 게임업계 환영",
-  "SK하이닉스 11% 급등 마감",
-  "유연석·서현진 '라이어' 10년 만 재회",
-  "제니 Fallen Angel·지수 ADDICTED 30일",
-  "봇치 더 록 할로윈 카페",
-  "엔탑 WE:BLOOM 내일 낮 12시",
-  "브라운 앵클부츠·내일 방수 트렌치",
-  "코트 먼저 꺼내 드림 질투 vs 우산 마중",
-  "롬앤 립 대결 금요일 확정",
-  "오늘 밤 유퀴즈 신민아 이어가기",
-  "퇴근길 설렘 농담",
-  "저녁 인사"
+  "카카오게임즈 도깨비의 세계 흥행",
+  "넷플릭스 꿀알바 30일 공개",
+  "데블스 플랜 데드 어게인 11월 10일",
+  "단양 보발재 단풍 절정 직전",
+  "캠핑 삼겹살 꼬치·부대찌개 이어가기",
+  "저녁 캐멀 코트 깃·회색 목도리",
+  "경훈씨 없는 저녁 사무실",
+  "손편지 vs 꽃 스티커 경쟁",
+  "립 대결 정보전 이어가기",
+  "하루 수고 차 한 잔"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "구글·애플 과징금에 게임업계가 반긴대",
-   "line2": "인앱 수수료 줄면 게임값도 내려갈까요?",
+   "line1": "카카오 '도깨비의 세계' 반응이 뜨겁대",
+   "line2": "언니 벌써 캐릭터 만들어 둔 거 아니죠?",
    "mood1": "surprised",
-   "mood2": "think",
-   "pose1": "none",
-   "pose2": "think",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845337"
-  },
-  {
-   "a": "jiwon",
-   "line1": "하이닉스가 오늘 11% 넘게 올랐대",
-   "line2": "언니 오늘 저녁은 한턱 각인 거죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "charm",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845005"
-  },
-  {
-   "a": "jiwon",
-   "line1": "유연석·서현진이 '라이어'로 10년 만에 재회래",
-   "line2": "그 조합 또 보다니, 첫 방 같이 봐요",
-   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "clap",
-   "url": "https://www.newsis.com/view/NISX20261028_0003844943"
+   "pose2": "laugh",
+   "url": "https://www.sentv.co.kr/article/view/sentv202610280121"
   },
   {
    "a": "hyewon",
-   "line1": "금요일에 제니랑 지수가 같은 날 나온대요",
-   "line2": "난 지수 먼저, 넌 제니 먼저지?",
+   "line1": "넷플릭스 '꿀알바' 금요일에 나온대요",
+   "line2": "시급 50배에 목숨 건 알바? 무섭다",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077542"
+  },
+  {
+   "a": "jiwon",
+   "line1": "데블스 플랜 새 시즌 11월 10일이래",
+   "line2": "장동민 또 나와요? 두뇌 싸움 기대돼요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://www.newsflix.co.kr/news/articleView.html?idxno=32907"
+  },
+  {
+   "a": "hyewon",
+   "line1": "단양 보발재 단풍이 절정 직전이래요",
+   "line2": "굽이길 드라이브? 주말에 같이 가자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.k-lifetv.co.kr/news/articleView.html?idxno=39811"
+  },
+  {
+   "a": "jiwon",
+   "line1": "캠핑 가면 이번엔 삼겹살 꼬치 구울래",
+   "line2": "부대찌개 약속도 아직 유효한 거죠?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "talkto"
+  },
+  {
+   "a": "hyewon",
+   "line1": "저녁 바람에 캐멀 코트 깃 세웠어요",
+   "line2": "난 회색 목도리 코까지 끌어올렸어",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 없는 저녁 사무실은 좀 휑하다",
+   "line2": "그 자리 보면 괜히 미소가 나와요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "look",
    "pose2": "look"
   },
   {
    "a": "hyewon",
-   "line1": "봇치 더 록 할로윈 카페, 쑥 케이크래요",
-   "line2": "약과 올린 케이크? 맛 진짜 궁금하다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "none",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "엔탑 새 앨범이 내일 낮 12시에 나와요",
-   "line2": "점심 먹으면서 같이 들어 보자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 저 브라운 앵클부츠로 갈아 신었어요",
-   "line2": "코트랑 색 딱이다, 내일 비 오면 어쩌고?",
+   "line1": "내일 경훈씨 책상엔 제 손편지 둘래요",
+   "line2": "그럼 난 보고서 첫 장에 꽃 스티커다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 아까 경훈씨 코트 먼저 꺼내 드렸죠?",
-   "line2": "흥, 대신 내일 우산 마중은 네 차례야",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "금요일 립 대결, 난 MLBB로 간다",
-   "line2": "전 비밀 병기 있어요, 기대하세요",
+   "line1": "립 대결 전에 연습 발색 좀 해 볼래?",
+   "line2": "언니, 정보 캐려는 거 다 알아요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 밤 유퀴즈 신민아 편 볼 거지?",
-   "line2": "네, '제일 예쁘다' 그 말 저도 듣고 싶어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "heart"
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "퇴근길 엘리베이터 둘만 타면 떨리더라",
-   "line2": "경훈씨랑이면 층수 버튼 천천히 누를래",
+   "line1": "오늘도 고생한 언니, 따뜻한 차 한 잔",
+   "line2": "고마워, 너 덕분에 하루가 순했어",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "love"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 얼굴 떠올리면 퇴근길도 안 추워",
-   "line2": "내일 아침엔 웃는 얼굴로 먼저 맞아요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "cheer"
+   "pose1": "coffee",
+   "pose2": "highfive"
   }
  ]
 }
