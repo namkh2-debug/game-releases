@@ -1,9 +1,9 @@
 {
   "date": "2026-10-28",
-  "updatedAt": "2026-10-28T12:10:00+09:00",
+  "updatedAt": "2026-10-28T13:15:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 8.6,
+    "temp": 9.8,
     "low": 1,
     "high": 14,
     "condition": "맑음",
@@ -14,6 +14,21 @@
   },
   "breaking": [
     {
+      "title": "흉기 든 50대女, 괴성 지르며 초등학교 인근 행인 위협… 현행범 체포",
+      "url": "https://m.seoul.co.kr/news/society/accident/2026/10/28/20261028500169",
+      "source": "서울신문"
+    },
+    {
+      "title": "삼성전기, 3분기 영업익 6909억원…전년比 165.5%↑",
+      "url": "https://www.newsis.com/view/NISX20261028_0003844574",
+      "source": "뉴시스"
+    },
+    {
+      "title": "선관위 특검, '투표지 부족' 현장 검증 시작...'촬영 제한' 문제로 지연",
+      "url": "https://www.ytn.co.kr/_ln/0103_202610281156034970",
+      "source": "YTN"
+    },
+    {
       "title": "조희대 탄핵반대 50.3%…吳 무죄공감 45.5%-KSOI",
       "url": "https://www.munhwa.com/article/11626905",
       "source": "문화일보"
@@ -22,30 +37,9 @@
       "title": "“관심 끌려고” 인터넷서 위안부 피해자 비하한 20대 남성 검거…처벌 규정 시행 첫 사례",
       "url": "https://m.seoul.co.kr/news/society/2026/10/28/20261028500145",
       "source": "서울신문"
-    },
-    {
-      "title": "李대통령, “짜장면 좋다면 짬뽕 폄훼?” 농지조사 장관 책임 전가 보도 반박",
-      "url": "https://www.mk.co.kr/news/business/12188234",
-      "source": "매일경제"
-    },
-    {
-      "title": "코스피, 장중 6000선 회복…10거래일 만에 탈환",
-      "url": "https://www.hankyung.com/article/2026102802456",
-      "source": "한국경제"
-    },
-    {
-      "title": "해킹 사고, 전 금융권 확산…빗썸·미래에셋운용·대신증권까지",
-      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008159",
-      "source": "국제신문"
     }
   ],
   "news": [
-    {
-      "title": "선관위특검, '올공' 진입…147일 만에 투표 용지 검증 나서",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1284508.html",
-      "source": "한겨레",
-      "summary": "선관위 특검이 올림픽공원 경기장에 들어가 보관된 투표용지 공개검증을 시작했다."
-    },
     {
       "title": "강남 구룡마을 화재 13시간 만에 진화…77가구ㆍ107명 피해",
       "url": "https://www.etoday.co.kr/news/view/2640920",
@@ -57,6 +51,24 @@
       "url": "https://www.khan.co.kr/article/202610280838001/",
       "source": "경향신문",
       "summary": "SK하이닉스가 3분기 영업이익 83조3338억 원을 내고 분기 매출이 처음으로 100조 원을 넘었다."
+    },
+    {
+      "title": "코스피, 장중 6000선 회복…10거래일 만에 탈환",
+      "url": "https://www.hankyung.com/article/2026102802456",
+      "source": "한국경제",
+      "summary": "매수 사이드카까지 걸리며 급등한 코스피가 10거래일 만에 장중 6000선을 되찾았다."
+    },
+    {
+      "title": "해킹 사고, 전 금융권 확산…빗썸·미래에셋운용·대신증권까지",
+      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008159",
+      "source": "국제신문",
+      "summary": "가상자산거래소와 자산운용사, 증권사까지 해킹 피해가 잇따르며 금융권 전반으로 번지고 있다."
+    },
+    {
+      "title": "李대통령, “짜장면 좋다면 짬뽕 폄훼?” 농지조사 장관 책임 전가 보도 반박",
+      "url": "https://www.mk.co.kr/news/business/12188234",
+      "source": "매일경제",
+      "summary": "이재명 대통령이 농지조사 책임을 장관에게 떠넘겼다는 보도를 직접 반박했다."
     },
     {
       "title": "SK하이닉스, 분기배당 2만원…올해 주주환원 100조원 공식화",
@@ -149,12 +161,6 @@
       "summary": "미국이 우크라이나 종전 협상에서 러시아의 석유시장 복귀를 협상 카드로 내놨다."
     },
     {
-      "title": "프랑스 정부, 주말 대규모 시위 막으려 SNS 차단까지 추진",
-      "url": "https://www.khan.co.kr/article/202610280753001/",
-      "source": "경향신문",
-      "summary": "프랑스 정부가 주말 대규모 시위를 막기 위해 SNS 차단까지 검토하고 있다."
-    },
-    {
       "title": "뉴욕증시, AI 투자 기대에 이틀째 상승···나스닥 1.18%↑",
       "url": "https://www.khan.co.kr/article/202610280714001/",
       "source": "경향신문",
@@ -209,10 +215,10 @@
       "summary": "블랙핑크 지수가 30일 신곡 '어딕티드'를 발표한다."
     },
     {
-      "title": "대장암 발생률, 20년 만에 전 연령대서 동시에 올랐다",
-      "url": "https://www.imaeil.com/page/view/2026102810180585332",
-      "source": "매일신문",
-      "summary": "젊은 층뿐 아니라 거의 모든 연령대에서 대장암 발생률이 함께 오른 것으로 나타났다."
+      "title": "신안 앞바다서 24t급 어선 좌초…선원 11명 전원 구조",
+      "url": "https://www.yna.co.kr/view/AKR20261028101600054",
+      "source": "연합뉴스",
+      "summary": "전남 신안 마진도 인근에서 어선이 암초에 걸려 좌초됐지만 해경이 선원 11명을 모두 구조했다."
     }
   ]
 }
