@@ -1,224 +1,219 @@
 {
- "date": "2026-10-28",
- "updatedAt": "2026-10-28T14:05:00+09:00",
- "region": "경기 광주",
- "weather": {
-  "temp": 10.7,
-  "low": 1,
-  "high": 14,
-  "condition": "맑음",
-  "rainChance": "오전 0%, 오후 0%",
-  "dust": "미세먼지 좋음, 초미세먼지 좋음",
-  "tip": "아침 1~2도로 초겨울처럼 추워요. 두꺼운 외투를 입으시고, 낮 14도까지 올라 일교차가 크니 겹쳐 입으세요. 오늘은 우산이 필요 없지만 내일(29일) 오후엔 비 소식(강수확률 60%)이 있어요.",
-  "source": "네이버 날씨(기상청 발표·웨더아이 제공)"
- },
- "breaking": [
-  {
-   "title": "수도권제1순환고속도로 노오지분기점 부근 화재 발생",
-   "url": "https://www.etoday.co.kr/news/view/2641147",
-   "source": "이투데이"
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T15:15:00+09:00",
+  "region": "경기 광주",
+  "weather": {
+    "temp": 11.1,
+    "low": 1,
+    "high": 14,
+    "condition": "맑음",
+    "rainChance": "오전 0%, 오후 0%",
+    "dust": "미세먼지 좋음, 초미세먼지 좋음",
+    "tip": "아침 1~2도로 초겨울처럼 추워요. 두꺼운 외투를 입으시고, 낮 14도까지 올라 일교차가 크니 겹쳐 입으세요. 오늘은 우산이 필요 없지만 내일(29일) 오후엔 비 소식(강수확률 60%)이 있어요.",
+    "source": "네이버 날씨(기상청 발표·웨더아이 제공)"
   },
-  {
-   "title": "“달러 곳간 꽉 찼다” 외화예금 역대 최대",
-   "url": "https://magazine.hankyung.com/business/article/202610280580b",
-   "source": "한경매거진"
-  },
-  {
-   "title": "HD한국조선해양, 3Q 영업익 1조4472억 전년比 37.3%↑",
-   "url": "https://www.newsis.com/view/NISX20261028_0003844636",
-   "source": "뉴시스"
-  },
-  {
-   "title": "HD현대중공업, 3분기 매출 5조7536억 30.2%↑…영업익 8992억 61.3%↑",
-   "url": "https://www.newsis.com/view/NISX20261028_0003844629",
-   "source": "뉴시스"
-  },
-  {
-   "title": "특검-국힘 참관단, 투표지 현장검증 녹화방송 형태 촬영 합의",
-   "url": "https://www.hankyung.com/article/2026102803927",
-   "source": "한국경제"
-  }
- ],
- "news": [
-  {
-   "title": "강남 구룡마을 화재 13시간 만에 진화…77가구ㆍ107명 피해",
-   "url": "https://www.etoday.co.kr/news/view/2640920",
-   "source": "이투데이",
-   "summary": "서울 강남 구룡마을 판자촌 화재가 약 13시간 만에 꺼졌고 77가구, 107명이 피해를 입었다."
-  },
-  {
-   "title": "SK하이닉스 3분기 영업이익 83조3338억원…분기 매출 첫 100조원 돌파",
-   "url": "https://www.khan.co.kr/article/202610280838001/",
-   "source": "경향신문",
-   "summary": "SK하이닉스가 3분기 영업이익 83조3338억 원을 내고 분기 매출이 처음으로 100조 원을 넘었다."
-  },
-  {
-   "title": "코스피, 장중 6000선 회복…10거래일 만에 탈환",
-   "url": "https://www.hankyung.com/article/2026102802456",
-   "source": "한국경제",
-   "summary": "매수 사이드카까지 걸리며 급등한 코스피가 10거래일 만에 장중 6000선을 되찾았다."
-  },
-  {
-   "title": "해킹 사고, 전 금융권 확산…빗썸·미래에셋운용·대신증권까지",
-   "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008159",
-   "source": "국제신문",
-   "summary": "가상자산거래소와 자산운용사, 증권사까지 해킹 피해가 잇따르며 금융권 전반으로 번지고 있다."
-  },
-  {
-   "title": "李대통령, “짜장면 좋다면 짬뽕 폄훼?” 농지조사 장관 책임 전가 보도 반박",
-   "url": "https://www.mk.co.kr/news/business/12188234",
-   "source": "매일경제",
-   "summary": "이재명 대통령이 농지조사 책임을 장관에게 떠넘겼다는 보도를 직접 반박했다."
-  },
-  {
-   "title": "SK하이닉스, 분기배당 2만원…올해 주주환원 100조원 공식화",
-   "url": "https://www.hani.co.kr/arti/economy/marketing/1284507.html",
-   "source": "한겨레",
-   "summary": "현금배당 30조원 이상과 자사주 취득·소각 60조원 이상 등 약 100조원 주주환원을 내놨다."
-  },
-  {
-   "title": "코트와 패딩 챙겨야…하루 새 10도 뚝, 전국 곳곳 아침 영하권",
-   "url": "https://www.hani.co.kr/arti/society/environment/1284504.html",
-   "source": "한겨레",
-   "summary": "하루 새 기온이 10도가량 떨어지며 전국 곳곳이 아침 영하권 추위를 보였다."
-  },
-  {
-   "title": "미 정부 당국자 \"한·미는 조건 기반 전작권 이양에 합의한 것\"",
-   "url": "https://www.khan.co.kr/article/202610280845001/",
-   "source": "경향신문",
-   "summary": "미 정부 당국자가 한미가 조건에 기반한 전시작전권 이양에 합의했다고 밝혔다."
-  },
-  {
-   "title": "여, 조희대 탄핵 즉각추진 역풍 우려 \"확실한 근거부터 찾자\"",
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284483.html",
-   "source": "한겨레",
-   "summary": "여당 안에서 조희대 대법원장 탄핵을 바로 추진하면 역풍이 우려된다며 근거부터 찾자는 목소리가 나왔다."
-  },
-  {
-   "title": "김건희 추가 구속영장 발부... 대법 \"증거인멸·도망 염려\"",
-   "url": "https://www.chosun.com/national/court_law/2026/10/27/LHPZ3ECDAJBFXAUHTT5IYCTMSQ/",
-   "source": "조선일보",
-   "summary": "대법원이 김건희 씨에 대해 추가 구속영장을 발부해 구속기간이 12월 31일까지 늘었다."
-  },
-  {
-   "title": "한미안보협의회의, 28년 만에 해 넘긴다…미 국방부 \"상호 합의\"",
-   "url": "https://www.hani.co.kr/arti/international/america/1284512.html",
-   "source": "한겨레",
-   "summary": "올해 한미안보협의회의(SCM)가 28년 만에 연내에 열리지 않고 내년으로 넘어간다."
-  },
-  {
-   "title": "정부, 민간 주요정보통신기반시설 170여개 취약점 점검 착수",
-   "url": "https://www.khan.co.kr/article/202610280831011/",
-   "source": "경향신문",
-   "summary": "정부가 민간 주요정보통신기반시설 170여 곳의 보안 취약점 점검에 들어갔다."
-  },
-  {
-   "title": "국내 거주 외국인 266만 명 ‘역대 최대’…유학생 증가세",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8697445",
-   "source": "KBS 뉴스",
-   "summary": "행정안전부 집계로 한국에 사는 외국인 주민이 266만여 명으로 역대 최대를 기록했다."
-  },
-  {
-   "title": "서울대병원 노사, 임단협 잠정 합의…\"파업 철회로 진료 차질 없어\"",
-   "url": "https://www.etoday.co.kr/news/view/2640907",
-   "source": "이투데이",
-   "summary": "서울대병원 노사가 임단협에 잠정 합의해 예고됐던 파업이 철회되고 진료는 정상 운영된다."
-  },
-  {
-   "title": "고리 3·4호기 '계속 운전' 허가…각각 2034년·2035년까지",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817986",
-   "source": "SBS",
-   "summary": "원안위가 고리 3·4호기 계속운전을 허가해 각각 2034년, 2035년까지 가동할 수 있게 됐다."
-  },
-  {
-   "title": "당정, '가상자산 과세 유예' 결론 못내…\"과세 형평성, 체계 정비 필요 등 의견\"",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8697209",
-   "source": "KBS 뉴스",
-   "summary": "정부와 여당이 가상자산 과세 유예를 논의했지만 추가 점검 사항만 확인하고 결론을 미뤘다."
-  },
-  {
-   "title": "정은경, 임신중지약 '미프진' 도입에 \"안전한 사용 체계 준비하겠다\"",
-   "url": "https://www.hani.co.kr/arti/society/rights/1284489.html",
-   "source": "한겨레",
-   "summary": "정은경 장관이 임신중지약 미프진 도입과 관련해 안전한 사용 체계를 준비하겠다고 밝혔다."
-  },
-  {
-   "title": "이란, '호르무즈 원유 수송' 한국 장금상선에 경고…억류·몰수 가능성",
-   "url": "https://www.hani.co.kr/arti/international/arabafrica/1284484.html",
-   "source": "한겨레",
-   "summary": "이란이 호르무즈 해협 원유 수송과 관련해 한국 해운사 장금상선에 경고하며 억류 가능성을 내비쳤다."
-  },
-  {
-   "title": "네타냐후 진영 과반 붕괴 전망…이스라엘 총선, 승자 없는 접전",
-   "url": "https://www.hani.co.kr/arti/international/arabafrica/1284499.html",
-   "source": "한겨레",
-   "summary": "이스라엘 총선 출구조사에서 네타냐후 진영의 과반이 무너질 것으로 보이는 가운데 접전이 이어진다."
-  },
-  {
-   "title": "\"정직한 선거라면 수용\"…조건 단 트럼프, 중간선거 패배 땐 불복 시사",
-   "url": "https://www.hani.co.kr/arti/international/america/1284503.html",
-   "source": "한겨레",
-   "summary": "트럼프 대통령이 중간선거 결과 수용에 조건을 달며 패배 시 불복 가능성을 내비쳤다."
-  },
-  {
-   "title": "美, 러시아 석유시장 복귀 카드 제시…우크라 종전 협상",
-   "url": "https://www.hankyung.com/article/202610289424i",
-   "source": "한국경제",
-   "summary": "미국이 우크라이나 종전 협상에서 러시아의 석유시장 복귀를 협상 카드로 내놨다."
-  },
-  {
-   "title": "뉴욕증시, AI 투자 기대에 이틀째 상승···나스닥 1.18%↑",
-   "url": "https://www.khan.co.kr/article/202610280714001/",
-   "source": "경향신문",
-   "summary": "AI 투자 기대감에 뉴욕증시가 이틀 연속 올랐고 나스닥은 1.18% 상승했다."
-  },
-  {
-   "title": "블룸버그 \"솔리다임, 미국에 60조 원 낸드공장 추진\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818114",
-   "source": "SBS",
-   "summary": "SK하이닉스 자회사 솔리다임이 미국에 60조 원 규모 낸드 공장을 추진한다고 블룸버그가 전했다."
-  },
-  {
-   "title": "[단독] 사람처럼 '열 손가락' 삼성 로봇…휴머노이드 '손 기술' 경쟁",
-   "url": "https://www.hani.co.kr/arti/economy/marketing/1284276.html",
-   "source": "한겨레",
-   "summary": "삼성전자가 개발 중인 휴머노이드 로봇에 양손 열 개의 손가락을 단 것으로 확인됐다."
-  },
-  {
-   "title": "삼성전자 ‘게임 최적’ 광고에 부당광고 과징금 2백억…삼성 \"법적 대응\"",
-   "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610281105120773",
-   "source": "YTN 사이언스",
-   "summary": "5년 전 스마트폰을 고사양 게임에 최적이라 광고했지만 화면 끊김이 있었다며 과징금이 부과됐다."
-  },
-  {
-   "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
-   "source": "AI타임스",
-   "summary": "명령에 따라 가상 세계를 실시간으로 바꾸고 인물 움직임·대화까지 만드는 차세대 월드 모델이다."
-  },
-  {
-   "title": "출시 사흘 만에 결함 인정…\"금 가는 아이폰 무상 교체\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818084",
-   "source": "SBS",
-   "summary": "애플이 출시 사흘 만에 화면 균열 결함을 인정하고 무상 교체에 나섰다."
-  },
-  {
-   "title": "'최고령 해결사' 최형우가 깨운 사자 군단…삼성, KIA 꺾고 PO 원점",
-   "url": "https://www.hani.co.kr/arti/sports/baseball/1284487.html",
-   "source": "한겨레",
-   "summary": "최형우의 활약으로 삼성이 KIA를 꺾고 플레이오프 전적을 1승 1패로 맞췄다."
-  },
-  {
-   "title": "블랙핑크 지수, 30일 신곡 '어딕티드' 공개",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817960",
-   "source": "SBS",
-   "summary": "블랙핑크 지수가 30일 신곡 '어딕티드'를 발표한다."
-  },
-  {
-   "title": "신안 앞바다서 24t급 어선 좌초…선원 11명 전원 구조",
-   "url": "https://www.yna.co.kr/view/AKR20261028101600054",
-   "source": "연합뉴스",
-   "summary": "전남 신안 마진도 인근에서 어선이 암초에 걸려 좌초됐지만 해경이 선원 11명을 모두 구조했다."
-  }
- ]
+  "breaking": [
+    {
+      "title": "정부, 엘리엇 ISDS 패소 확정…1530억원 지급",
+      "url": "https://www.newsis.com/view/NISX20261028_0003844762",
+      "source": "뉴시스"
+    },
+    {
+      "title": "수도권제1순환고속도로 노오지분기점 부근 화재 발생",
+      "url": "https://www.etoday.co.kr/news/view/2641147",
+      "source": "이투데이"
+    },
+    {
+      "title": "HD한국조선해양, 3Q 영업익 1조4472억 전년比 37.3%↑",
+      "url": "https://www.newsis.com/view/NISX20261028_0003844636",
+      "source": "뉴시스"
+    },
+    {
+      "title": "HD현대중공업, 3분기 매출 5조7536억 30.2%↑…영업익 8992억 61.3%↑",
+      "url": "https://www.newsis.com/view/NISX20261028_0003844629",
+      "source": "뉴시스"
+    }
+  ],
+  "news": [
+    {
+      "title": "강남 구룡마을 화재 13시간 만에 진화…77가구ㆍ107명 피해",
+      "url": "https://www.etoday.co.kr/news/view/2640920",
+      "source": "이투데이",
+      "summary": "서울 강남 구룡마을 판자촌 화재가 약 13시간 만에 꺼졌고 77가구, 107명이 피해를 입었다."
+    },
+    {
+      "title": "SK하이닉스 3분기 영업이익 83조3338억원…분기 매출 첫 100조원 돌파",
+      "url": "https://www.khan.co.kr/article/202610280838001/",
+      "source": "경향신문",
+      "summary": "SK하이닉스가 3분기 영업이익 83조3338억 원을 내고 분기 매출이 처음으로 100조 원을 넘었다."
+    },
+    {
+      "title": "코스피, 장중 6000선 회복…10거래일 만에 탈환",
+      "url": "https://www.hankyung.com/article/2026102802456",
+      "source": "한국경제",
+      "summary": "매수 사이드카까지 걸리며 급등한 코스피가 10거래일 만에 장중 6000선을 되찾았다."
+    },
+    {
+      "title": "해킹 사고, 전 금융권 확산…빗썸·미래에셋운용·대신증권까지",
+      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008159",
+      "source": "국제신문",
+      "summary": "가상자산거래소와 자산운용사, 증권사까지 해킹 피해가 잇따르며 금융권 전반으로 번지고 있다."
+    },
+    {
+      "title": "李대통령, “짜장면 좋다면 짬뽕 폄훼?” 농지조사 장관 책임 전가 보도 반박",
+      "url": "https://www.mk.co.kr/news/business/12188234",
+      "source": "매일경제",
+      "summary": "이재명 대통령이 농지조사 책임을 장관에게 떠넘겼다는 보도를 직접 반박했다."
+    },
+    {
+      "title": "SK하이닉스, 분기배당 2만원…올해 주주환원 100조원 공식화",
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1284507.html",
+      "source": "한겨레",
+      "summary": "현금배당 30조원 이상과 자사주 취득·소각 60조원 이상 등 약 100조원 주주환원을 내놨다."
+    },
+    {
+      "title": "코트와 패딩 챙겨야…하루 새 10도 뚝, 전국 곳곳 아침 영하권",
+      "url": "https://www.hani.co.kr/arti/society/environment/1284504.html",
+      "source": "한겨레",
+      "summary": "하루 새 기온이 10도가량 떨어지며 전국 곳곳이 아침 영하권 추위를 보였다."
+    },
+    {
+      "title": "미 정부 당국자 \"한·미는 조건 기반 전작권 이양에 합의한 것\"",
+      "url": "https://www.khan.co.kr/article/202610280845001/",
+      "source": "경향신문",
+      "summary": "미 정부 당국자가 한미가 조건에 기반한 전시작전권 이양에 합의했다고 밝혔다."
+    },
+    {
+      "title": "여, 조희대 탄핵 즉각추진 역풍 우려 \"확실한 근거부터 찾자\"",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1284483.html",
+      "source": "한겨레",
+      "summary": "여당 안에서 조희대 대법원장 탄핵을 바로 추진하면 역풍이 우려된다며 근거부터 찾자는 목소리가 나왔다."
+    },
+    {
+      "title": "김건희 추가 구속영장 발부... 대법 \"증거인멸·도망 염려\"",
+      "url": "https://www.chosun.com/national/court_law/2026/10/27/LHPZ3ECDAJBFXAUHTT5IYCTMSQ/",
+      "source": "조선일보",
+      "summary": "대법원이 김건희 씨에 대해 추가 구속영장을 발부해 구속기간이 12월 31일까지 늘었다."
+    },
+    {
+      "title": "한미안보협의회의, 28년 만에 해 넘긴다…미 국방부 \"상호 합의\"",
+      "url": "https://www.hani.co.kr/arti/international/america/1284512.html",
+      "source": "한겨레",
+      "summary": "올해 한미안보협의회의(SCM)가 28년 만에 연내에 열리지 않고 내년으로 넘어간다."
+    },
+    {
+      "title": "정부, 민간 주요정보통신기반시설 170여개 취약점 점검 착수",
+      "url": "https://www.khan.co.kr/article/202610280831011/",
+      "source": "경향신문",
+      "summary": "정부가 민간 주요정보통신기반시설 170여 곳의 보안 취약점 점검에 들어갔다."
+    },
+    {
+      "title": "국내 거주 외국인 266만 명 ‘역대 최대’…유학생 증가세",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8697445",
+      "source": "KBS 뉴스",
+      "summary": "행정안전부 집계로 한국에 사는 외국인 주민이 266만여 명으로 역대 최대를 기록했다."
+    },
+    {
+      "title": "서울대병원 노사, 임단협 잠정 합의…\"파업 철회로 진료 차질 없어\"",
+      "url": "https://www.etoday.co.kr/news/view/2640907",
+      "source": "이투데이",
+      "summary": "서울대병원 노사가 임단협에 잠정 합의해 예고됐던 파업이 철회되고 진료는 정상 운영된다."
+    },
+    {
+      "title": "고리 3·4호기 '계속 운전' 허가…각각 2034년·2035년까지",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817986",
+      "source": "SBS",
+      "summary": "원안위가 고리 3·4호기 계속운전을 허가해 각각 2034년, 2035년까지 가동할 수 있게 됐다."
+    },
+    {
+      "title": "당정, '가상자산 과세 유예' 결론 못내…\"과세 형평성, 체계 정비 필요 등 의견\"",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8697209",
+      "source": "KBS 뉴스",
+      "summary": "정부와 여당이 가상자산 과세 유예를 논의했지만 추가 점검 사항만 확인하고 결론을 미뤘다."
+    },
+    {
+      "title": "정은경, 임신중지약 '미프진' 도입에 \"안전한 사용 체계 준비하겠다\"",
+      "url": "https://www.hani.co.kr/arti/society/rights/1284489.html",
+      "source": "한겨레",
+      "summary": "정은경 장관이 임신중지약 미프진 도입과 관련해 안전한 사용 체계를 준비하겠다고 밝혔다."
+    },
+    {
+      "title": "이란, '호르무즈 원유 수송' 한국 장금상선에 경고…억류·몰수 가능성",
+      "url": "https://www.hani.co.kr/arti/international/arabafrica/1284484.html",
+      "source": "한겨레",
+      "summary": "이란이 호르무즈 해협 원유 수송과 관련해 한국 해운사 장금상선에 경고하며 억류 가능성을 내비쳤다."
+    },
+    {
+      "title": "네타냐후 진영 과반 붕괴 전망…이스라엘 총선, 승자 없는 접전",
+      "url": "https://www.hani.co.kr/arti/international/arabafrica/1284499.html",
+      "source": "한겨레",
+      "summary": "이스라엘 총선 출구조사에서 네타냐후 진영의 과반이 무너질 것으로 보이는 가운데 접전이 이어진다."
+    },
+    {
+      "title": "\"정직한 선거라면 수용\"…조건 단 트럼프, 중간선거 패배 땐 불복 시사",
+      "url": "https://www.hani.co.kr/arti/international/america/1284503.html",
+      "source": "한겨레",
+      "summary": "트럼프 대통령이 중간선거 결과 수용에 조건을 달며 패배 시 불복 가능성을 내비쳤다."
+    },
+    {
+      "title": "美, 러시아 석유시장 복귀 카드 제시…우크라 종전 협상",
+      "url": "https://www.hankyung.com/article/202610289424i",
+      "source": "한국경제",
+      "summary": "미국이 우크라이나 종전 협상에서 러시아의 석유시장 복귀를 협상 카드로 내놨다."
+    },
+    {
+      "title": "뉴욕증시, AI 투자 기대에 이틀째 상승···나스닥 1.18%↑",
+      "url": "https://www.khan.co.kr/article/202610280714001/",
+      "source": "경향신문",
+      "summary": "AI 투자 기대감에 뉴욕증시가 이틀 연속 올랐고 나스닥은 1.18% 상승했다."
+    },
+    {
+      "title": "블룸버그 \"솔리다임, 미국에 60조 원 낸드공장 추진\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818114",
+      "source": "SBS",
+      "summary": "SK하이닉스 자회사 솔리다임이 미국에 60조 원 규모 낸드 공장을 추진한다고 블룸버그가 전했다."
+    },
+    {
+      "title": "[단독] 사람처럼 '열 손가락' 삼성 로봇…휴머노이드 '손 기술' 경쟁",
+      "url": "https://www.hani.co.kr/arti/economy/marketing/1284276.html",
+      "source": "한겨레",
+      "summary": "삼성전자가 개발 중인 휴머노이드 로봇에 양손 열 개의 손가락을 단 것으로 확인됐다."
+    },
+    {
+      "title": "삼성전자 ‘게임 최적’ 광고에 부당광고 과징금 2백억…삼성 \"법적 대응\"",
+      "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202610281105120773",
+      "source": "YTN 사이언스",
+      "summary": "5년 전 스마트폰을 고사양 게임에 최적이라 광고했지만 화면 끊김이 있었다며 과징금이 부과됐다."
+    },
+    {
+      "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+      "source": "AI타임스",
+      "summary": "명령에 따라 가상 세계를 실시간으로 바꾸고 인물 움직임·대화까지 만드는 차세대 월드 모델이다."
+    },
+    {
+      "title": "출시 사흘 만에 결함 인정…\"금 가는 아이폰 무상 교체\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818084",
+      "source": "SBS",
+      "summary": "애플이 출시 사흘 만에 화면 균열 결함을 인정하고 무상 교체에 나섰다."
+    },
+    {
+      "title": "'최고령 해결사' 최형우가 깨운 사자 군단…삼성, KIA 꺾고 PO 원점",
+      "url": "https://www.hani.co.kr/arti/sports/baseball/1284487.html",
+      "source": "한겨레",
+      "summary": "최형우의 활약으로 삼성이 KIA를 꺾고 플레이오프 전적을 1승 1패로 맞췄다."
+    },
+    {
+      "title": "블랙핑크 지수, 30일 신곡 '어딕티드' 공개",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817960",
+      "source": "SBS",
+      "summary": "블랙핑크 지수가 30일 신곡 '어딕티드'를 발표한다."
+    },
+    {
+      "title": "신안 앞바다서 24t급 어선 좌초…선원 11명 전원 구조",
+      "url": "https://www.yna.co.kr/view/AKR20261028101600054",
+      "source": "연합뉴스",
+      "summary": "전남 신안 마진도 인근에서 어선이 암초에 걸려 좌초됐지만 해경이 선원 11명을 모두 구조했다."
+    }
+  ]
 }
