@@ -1,100 +1,121 @@
 {
- "updatedAt": "2026-10-28T16:12:00+09:00",
+ "updatedAt": "2026-10-28T17:12:00+09:00",
  "topics": [
-  "코스피 6000선 회복 마감",
-  "닌텐도 인디 월드 오늘 밤",
-  "몬스터 헌터 아웃랜더스 모바일 출시",
-  "재혼 황후 11월 4일 공개",
-  "골때녀 발라드림 위기",
-  "캐멀 코트 여밈·회색 목도리 한 바퀴 더",
-  "수고했어요 한마디 난로",
-  "자리 데우기 vs 아침 노래 경쟁",
-  "남은 한 시간 같이 달리기"
+  "팬텀 블레이드 제로 내일 오전 11시",
+  "울프 어몽 어스 리마스터 내일 출시",
+  "십오야 골든벨",
+  "뭔데뭔데 하하·허경환·주우재",
+  "토요일 할로윈 호박 쿠키",
+  "퇴근길 베레모·롱코트+검은 장갑",
+  "립 블라인드 판정 미뤄짐 이어가기",
+  "엘리베이터 버튼 vs 따뜻한 차 경쟁",
+  "경훈씨 퇴근 후 빈 사무실",
+  "사다리 조각 케이크 이어가기",
+  "하루 수고 인사"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피가 6000선 다시 넘기고 마감했대",
-   "line2": "언니, 차트 보며 콧노래 부르는 거 다 들려요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845001"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 밤 11시에 닌텐도 인디 월드 한대",
-   "line2": "15분짜리요? 언니 알람 벌써 맞췄죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm",
-   "url": "https://www.polygon.com/nintendo-indie-world-showcase-october-2026-announced/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "몬헌 아웃랜더스, 내일 폰으로 나온대",
-   "line2": "출퇴근 지하철에서 언니랑 같이 사냥해요",
+   "line1": "팬텀 블레이드 제로, 내일 오전 11시에 풀린대",
+   "line2": "언니 점심시간에 몰래 접속할 거죠?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
-   "pose2": "cheer",
+   "pose2": "talkto",
+   "url": "https://pogwire.com/releases/new-games-this-week"
+  },
+  {
+   "a": "jiwon",
+   "line1": "울프 어몽 어스 리마스터도 내일 나온대",
+   "line2": "동화 속 늑대 탐정 그거요? 분위기 좋겠다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "none",
+   "pose2": "think",
    "url": "https://pogwire.com/releases/new-games-this-week"
   },
   {
    "a": "hyewon",
-   "line1": "재혼 황후, 다음 주 수요일 4회 몰아 공개래요",
-   "line2": "디즈니+지? 수요일 밤엔 같이 정주행하자",
+   "line1": "십오야 골든벨, 유튜버 47명이 퀴즈 대결이래요",
+   "line2": "나영석 PD 거지? 문제 같이 맞혀 보자",
    "mood1": "surprised",
    "mood2": "smile",
+   "pose1": "none",
+   "pose2": "coffee",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610220148"
+  },
+  {
+   "a": "hyewon",
+   "line1": "금요일엔 하하·허경환·주우재 여행 예능 해요",
+   "line2": "유재석 없이 셋이? 케미 궁금하다",
+   "mood1": "smile",
+   "mood2": "surprised",
    "pose1": "talkto",
-   "pose2": "look"
+   "pose2": "think",
+   "url": "https://www.bntnews.co.kr/article/view/bnt202610220148"
   },
   {
    "a": "hyewon",
-   "line1": "오늘 밤 골때녀, 발라드림 선수가 셋이나 빠진대요",
-   "line2": "서기 선수 혼자 버티면 진짜 명장면이겠다",
-   "mood1": "sad",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "바람 차져서 캐멀 코트 다시 여몄어요",
-   "line2": "난 회색 목도리 한 바퀴 더 감았어",
-   "mood1": "neutral",
+   "line1": "언니, 이번 주 토요일이 할로윈이에요",
+   "line2": "그럼 금요일엔 호박 쿠키라도 돌릴까?",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "none"
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "퇴근길엔 베레모 다시 꾹 눌러썼어요",
+   "line2": "난 롱코트 위에 검은 장갑까지 꼈어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "wave"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 '수고했어요' 한마디면 난로 같아",
-   "line2": "그 말 들으려고 오후 내내 힘냈잖아요",
+   "line1": "립 블라인드 판정, 경훈씨가 아직 미루셔",
+   "line2": "분명 제 코랄 보고 웃으셨는데요?",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 경훈씨 엘리베이터 버튼은 제가 눌러요",
+   "line2": "그럼 난 책상 위에 따뜻한 차 먼저 둔다",
    "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 퇴근하시면 사무실이 텅 빈 것 같아",
+   "line2": "저도요, 내일 아침이 벌써 기다려져요",
+   "mood1": "sad",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일은 제가 경훈씨 자리 먼저 데워 둘래요",
-   "line2": "그럼 난 경훈씨 좋아하는 노래로 아침 열지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘도 네가 옆에 있어서 든든했어",
-   "line2": "언니도요, 남은 한 시간 같이 달려요",
+   "line1": "언니, 사다리 진 디저트 오늘 꼭이에요",
+   "line2": "알았어, 퇴근 전에 조각 케이크 간다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 하루도 정말 수고 많았어",
+   "line2": "언니도요, 내일도 같이 힘내요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "cheer"
   }
  ]
 }
