@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-10-27T22:05:34+09:00",
- "from": "2026-10-27",
+ "updatedAt": "2026-10-28T09:07:44+09:00",
+ "from": "2026-10-28",
  "to": "2027-01-31",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,105 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-10-27",
-   "title": "리마더드: 붉은 수녀의 유산",
-   "en": "Remothered: Red Nun's Legacy",
-   "short": "리마더드",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "서바이벌 호러",
-   "price": "PS5 ₩34,800",
-   "korean": "한국어 자막",
-   "note": "3부작 최종장 · 스위치2·Xbox 동시",
-   "url": "https://store.playstation.com/ko-kr/product/EP6867-PPSA39425_00-0100440774012590",
-   "major": true
-  },
-  {
-   "date": "2026-10-27",
-   "title": "더 세앙스 오브 블레이크 매너",
-   "en": "The Séance of Blake Manor",
-   "short": "블레이크매너",
-   "platforms": [
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "초자연 추리 어드벤처",
-   "price": "",
-   "korean": "미확인",
-   "note": "콘솔판 출시 (PC는 기존 출시)",
-   "url": "https://store.playstation.com/en-gb/concept/10018028",
-   "major": false
-  },
-  {
-   "date": "2026-10-27",
-   "title": "빌리지 인 더 셰이드",
-   "en": "Village in the Shade",
-   "short": "빌리지셰이드",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch"
-   ],
-   "genre": "농장·생활 시뮬",
-   "price": "북미 $49.99",
-   "korean": "PC판 한국어",
-   "note": "콘솔 서구판은 한국어 미지원",
-   "url": "https://www.nisamerica.com/games/village-in-the-shade",
-   "major": false
-  },
-  {
-   "date": "2026-10-27",
-   "title": "버추 앤 어 슬레지해머",
-   "en": "Virtue and a Sledgehammer",
-   "short": "버추&해머",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "내러티브 어드벤처",
-   "price": "북미 $14.99",
-   "korean": "미확인",
-   "note": "Deconstructeam · Devolver",
-   "url": "https://store.steampowered.com/app/3743260/Virtue_and_a_Sledgehammer/",
-   "major": false
-  },
-  {
-   "date": "2026-10-27",
-   "title": "파밍 시뮬레이터 25: 빈스 & 알파카스",
-   "en": "Farming Simulator 25: Beans & Alpacas Edition",
-   "short": "파밍시뮬25",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "농장 시뮬 합본",
-   "price": "",
-   "korean": "한국어 지원",
-   "note": "본편+확장 합본",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-27",
-   "title": "라이프 이즈 어 던전",
-   "en": "Life Is a Dungeon: Lean into It.",
-   "short": "라이프던전",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "던전 로그라이트 RPG",
-   "price": "일본 ¥1,592",
-   "korean": "미확인",
-   "note": "",
-   "url": "https://gamebiz.jp/news/431899",
-   "major": false
-  },
   {
    "date": "2026-10-28",
    "title": "마인크래프트 스위치 2 에디션",
