@@ -1,110 +1,111 @@
 {
- "updatedAt": "2026-10-28T11:04:00+09:00",
- "topics": [
-  "스파5 스팀판 온라인 일시 중단",
-  "밀워키 월드시리즈 3연승",
-  "테이 여전히 아름다운지 음원",
-  "BTS 아리랑 빌보드 31주",
-  "롱코트·캐멀 코트+베레모 점심 외출",
-  "경훈씨 결재 사인 글씨체",
-  "한 장 보고 vs 표지 색 경쟁",
-  "눈 마주치고 3초 썸(살짝 플러팅)",
-  "어묵탕 캠핑 날 잡기",
-  "점심 사다리 타기"
- ],
- "exchanges": [
-  {
-   "a": "jiwon",
-   "line1": "스파5 스팀판 온라인이 잠깐 멈췄대",
-   "line2": "보안 때문이래요? 언니 대전 약속 미뤄야겠네",
-   "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.inven.co.kr/webzine/news/?news=322625"
-  },
-  {
-   "a": "jiwon",
-   "line1": "밀워키가 월드시리즈 3연승이래, 1승 남았어",
-   "line2": "언니, 오늘 중계 몰래 켜 둘 거죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "laugh",
-   "url": "https://www.news2day.co.kr/article/20261028500121"
-  },
-  {
-   "a": "hyewon",
-   "line1": "테이 '여전히 아름다운지' 6시에 나온대요",
-   "line2": "퇴근길에 이어폰 한쪽씩 나눠 듣자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "BTS 아리랑, 빌보드 200 31주째 차트인이래요",
-   "line2": "와, 반년 넘게 버틴 거네, 대단하다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "none",
-   "pose2": "clap",
-   "url": "http://breaknews.com/1246288"
-  },
-  {
-   "a": "jiwon",
-   "line1": "점심 나갈 땐 롱코트 단추 꼭 잠가야겠어",
-   "line2": "저도 캐멀 코트에 베레모 꾹 눌러쓸래요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 결재 사인, 글씨체도 멋있지 않아요?",
-   "line2": "알지, 나 그거 몰래 따라 써 본 적 있어",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오후 보고는 내가 한 장으로 딱 정리할래",
-   "line2": "전 표지에 경훈씨 좋아하는 색 넣을 거예요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "썸은 눈 마주치고 3초 버티면 시작 같아요",
-   "line2": "경훈씨랑 3초? 난 1초도 못 버텨",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "어묵탕 캠핑, 다음 주말로 날 잡을까?",
-   "line2": "좋아요, 저 국자 들고 출동합니다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "cheer"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 점심 메뉴 사다리 타서 정해요",
-   "line2": "좋아, 지는 사람이 디저트 쏘기야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  }
- ]
+  "updatedAt": "2026-10-28T12:12:00+09:00",
+  "topics": [
+    "아키에이지 크로니클 얼리 액세스",
+    "데스티니 차일드: 어셈블",
+    "삼전닉스 급등",
+    "넷플릭스 거장항준",
+    "베레모·롱코트 은색 핀",
+    "경훈씨 목소리 오후 비타민",
+    "화분 물 vs 손글씨 메모 경쟁",
+    "사다리 디저트 이어가기",
+    "오후 응원",
+    "칭찬 스티커"
+  ],
+  "exchanges": [
+    {
+      "a": "jiwon",
+      "line1": "아키에이지 크로니클, 11월 4일 스팀 얼리 액세스래",
+      "line2": "언니 다음 주 퇴근 후 일정 벌써 찼네요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "laugh",
+      "url": "https://www.yna.co.kr/view/AKR20261028030400017"
+    },
+    {
+      "a": "jiwon",
+      "line1": "데스티니 차일드 차기작, 내년 상반기 글로벌 출시래",
+      "line2": "10주년이라니, 우리 대학생 때 하던 거잖아요",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "look",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=72767"
+    },
+    {
+      "a": "jiwon",
+      "line1": "삼전닉스가 오전에 8% 안팎 올랐대",
+      "line2": "언니 표정 보니 오늘 점심은 언니가 사겠네요",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "thumbs",
+      "pose2": "charm",
+      "url": "https://www.yna.co.kr/view/MYH20261028011100038"
+    },
+    {
+      "a": "hyewon",
+      "line1": "넷플 '거장항준'에서 장항준이 배우 오디션 본대요",
+      "line2": "송은이·김풍까지? 심사평 웃길 것 같아",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "coffee",
+      "url": "https://www.bntnews.co.kr/TV/article/view/bnt202610150247"
+    },
+    {
+      "a": "hyewon",
+      "line1": "점심 먹고 베레모를 살짝 비스듬히 고쳐 썼어요",
+      "line2": "잘 어울려, 난 롱코트 깃에 은색 핀 달았어",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "talkto"
+    },
+    {
+      "a": "hyewon",
+      "line1": "경훈씨 목소리 한 번 들으면 오후 졸음이 싹 가요",
+      "line2": "맞아, 그 목소리가 내 오후 비타민이야",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "heart",
+      "pose2": "love"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오후엔 내가 경훈씨 책상 화분에 물 줄 거야",
+      "line2": "그럼 전 모니터 옆에 손글씨 응원 메모 붙일래요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "squabble",
+      "pose2": "squabble"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 사다리 진 사람 디저트 아직이에요",
+      "line2": "알아, 퇴근 전에 조각 케이크로 쏠게",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘도 반은 지났어, 조금만 더 힘내자",
+      "line2": "언니가 옆에 있어서 오후도 든든해요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "cheer",
+      "pose2": "highfive"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 저 오늘 칭찬 스티커 하나만 주세요",
+      "line2": "보고서 깔끔했으니까 두 개 줄게",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "clap"
+    }
+  ]
 }
