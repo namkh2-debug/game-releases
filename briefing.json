@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T20:03:54+09:00",
+ "updatedAt": "2026-10-28T21:02:05+09:00",
  "region": "경기 광주",
  "weather": {
   "temp": 6,
@@ -14,24 +14,24 @@
  },
  "breaking": [
   {
-   "title": "\"펨코는 너 조롱하지 지지 안해\" 비판에 李대통령 \"좌든 우든 극단 경계해야\"",
-   "url": "https://www.imaeil.com/page/view/2026102818432578455",
-   "source": "매일신문"
+   "title": "스페인 열차 2대 충돌…한국인 탑승자 6명 경상 “추가 피해 파악중”",
+   "url": "https://www.munhwa.com/article/11627023",
+   "source": "문화일보"
   },
   {
-   "title": "스페인서 열차 2대 충돌 사고… 최소 10명 사망",
-   "url": "https://www.busan.com/view/busan/view.php?code=2026102818404106866",
-   "source": "부산일보"
+   "title": "국방부 \"한·미 국방장관, 전작권 적기 전환 긴밀히 협력키로\"",
+   "url": "https://www.hankyung.com/article/2026102816247",
+   "source": "한국경제"
   },
   {
-   "title": "경찰, '구로 미라' 유기 피의자 2명 구속영장 신청",
-   "url": "https://www.edaily.co.kr/news/read?newsid=05943366645617512&mediaCodeNo=257",
-   "source": "이데일리"
+   "title": "구글 429억원·애플 208억원 과징금…방미통위,시정명령 의결",
+   "url": "https://www.munhwa.com/article/11627016",
+   "source": "문화일보"
   },
   {
-   "title": "한미 국방장관 \"올해 12월 워싱턴서 회담…내년초 SCM 개최\"",
-   "url": "https://www.sedaily.com/article/20107416",
-   "source": "서울경제"
+   "title": "'구로구 주택가 시신 유기' 피의자 2명 구속영장 신청",
+   "url": "https://www.fnnews.com/news/202610281900388845",
+   "source": "파이낸셜뉴스"
   },
   {
    "title": "공소청 '탈북어민 강제북송' 정의용·서훈 무죄 부분에 상고 포기",
@@ -77,12 +77,6 @@
    "summary": "이재명 대통령이 농지조사 책임을 장관에게 떠넘겼다는 보도를 직접 반박했다."
   },
   {
-   "title": "구글·애플에 과징금 637억원…인앱결제 강제 첫 제재",
-   "url": "https://www.yna.co.kr/view/AKR20261028139252017",
-   "source": "연합뉴스",
-   "summary": "방미통위가 인앱결제 강제 금지법 도입 후 처음으로 구글 429억원, 애플 208억1천만원의 과징금을 부과했다."
-  },
-  {
    "title": "성평등장관 \"여성 징병제, 정책적 검토 필요하다 생각\"",
    "url": "https://www.yna.co.kr/view/AKR20261028105051530",
    "source": "연합뉴스",
@@ -93,6 +87,12 @@
    "url": "https://www.hani.co.kr/arti/economy/marketing/1284507.html",
    "source": "한겨레",
    "summary": "현금배당 30조원 이상과 자사주 취득·소각 60조원 이상 등 약 100조원 주주환원을 내놨다."
+  },
+  {
+   "title": "진성준 국방위원장, 美 비자 발급 거부…\"한미동맹 신뢰 훼손\"",
+   "url": "https://news.tf.co.kr/read/ptoday/2382114.htm",
+   "source": "더팩트",
+   "summary": "국회 국방위원장이 미국 비자 발급을 거부당해 내달 방미 일정에 차질이 생겼다."
   },
   {
    "title": "HD현대, 3분기 영업익 2조9197억…전년比 71.5% 급증",
@@ -123,6 +123,12 @@
    "url": "https://www.hani.co.kr/arti/society/environment/1284504.html",
    "source": "한겨레",
    "summary": "하루 새 기온이 10도가량 떨어지며 전국 곳곳이 아침 영하권 추위를 보였다."
+  },
+  {
+   "title": "8월에도 2만3700명 ‘아기 울음’… 7년 만에 가장 많았다",
+   "url": "https://www.segye.com/newsView/20261028517097?OutUrl=google",
+   "source": "세계일보",
+   "summary": "8월 출생아가 2019년 이후 가장 많아 출생아 증가세가 이어졌다."
   },
   {
    "title": "미 정부 당국자 \"한·미는 조건 기반 전작권 이양에 합의한 것\"",
@@ -189,6 +195,12 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818114",
    "source": "SBS",
    "summary": "SK하이닉스 자회사 솔리다임이 미국에 60조 원 규모 낸드 공장을 추진한다고 블룸버그가 전했다."
+  },
+  {
+   "title": "천문연, 암흑물질 새 가설 제시…\"표준 우주론 다시 쓸까\"",
+   "url": "https://zdnet.co.kr/view/?no=20261028195654",
+   "source": "지디넷코리아",
+   "summary": "한국천문연구원이 암흑물질에 미세한 압력이 있다는 새 가설로 우주 팽창의 단서를 제시했다."
   },
   {
    "title": "삼성전자 ‘게임 최적’ 광고에 부당광고 과징금 2백억…삼성 \"법적 대응\"",
