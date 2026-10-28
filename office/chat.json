@@ -1,69 +1,80 @@
 {
- "updatedAt": "2026-10-28T20:04:54+09:00",
+ "updatedAt": "2026-10-28T21:02:55+09:00",
  "topics": [
-  "코스피 6천 회복",
-  "시티즈 스카이라인 스위치2판 출시",
-  "제니·지수 30일 같은 날 신곡",
-  "저녁 브라운 앵클부츠 갈아신기",
-  "경훈씨 코트 먼저 꺼내 드린 질투",
-  "할로윈 간식·봇치 카페 케이크 경쟁",
-  "경훈씨 저녁 걱정",
-  "엔탑 WE:BLOOM 자기애",
-  "회의 목소리 설렘 농담",
-  "내일 첫 인사 다짐"
+  "라인게임즈 어메이징 슬롯 서바이버 11/13 스팀",
+  "해태 홈런볼 야구게임 세트",
+  "빼빼로데이 해외 확산·수제 빼빼로",
+  "세븐일레븐 헬로키티 굿즈",
+  "퇴근 후 부츠 벗고 수면양말",
+  "유퀴즈 신민아 편 시청 이어가기",
+  "립 대결 전날 수분팩 vs 커피 선공",
+  "경훈씨 하루 무사히 마치셨을까",
+  "주말 밀푀유나베",
+  "내일도 내 편 짝꿍"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피 오늘 6.6% 올라 6천 다시 넘었대",
-   "line2": "언니 얼굴 보니 계좌가 웃고 있네요",
-   "mood1": "surprised",
+   "line1": "라인게임즈 신작이 11월 13일 스팀에 나온대",
+   "line2": "슬롯 서바이버요? 언니 또 밤새겠네요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261028142451008"
+   "url": "https://www.ddaily.co.kr/page/view/2026102814310413276"
   },
   {
    "a": "jiwon",
-   "line1": "시티즈 스카이라인 스위치2판 오늘 나왔대",
-   "line2": "언니 도시 짓다 밤새우는 거 아니죠?",
+   "line1": "해태가 가을야구 맞춰 홈런볼 세트 냈대",
+   "line2": "경훈씨 야구 보실 때 간식으로 딱이에요",
    "mood1": "smile",
-   "mood2": "neutral",
-   "pose1": "talkto",
-   "pose2": "talkto",
-   "url": "https://guslok.com/ko/%EA%B2%8C%EC%9E%84-%EC%B6%9C%EC%8B%9C%EC%9D%BC-2026-10%EC%9B%9426%EC%9D%BC-11%EC%9B%941%EC%9D%BC/"
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "charm",
+   "url": "https://www.biztribune.co.kr/news/articleView.html?idxno=361396"
   },
   {
    "a": "hyewon",
-   "line1": "제니랑 지수가 금요일 같은 날 신곡 낸대요",
-   "line2": "난 지수 먼저! 퇴근길 플리 벌써 정했어",
+   "line1": "빼빼로데이를 해외에서도 챙긴대요",
+   "line2": "벌써? 11일엔 수제 빼빼로 만들어 볼까",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs"
+   "pose2": "think",
+   "url": "https://www.mk.co.kr/news/business/12188509"
   },
   {
    "a": "hyewon",
-   "line1": "퇴근 전에 브라운 앵클부츠로 갈아 신었어요",
-   "line2": "캐멀 코트랑 찰떡이다, 가을 그 자체네",
+   "line1": "세븐일레븐에 헬로키티 굿즈 나왔대요",
+   "line2": "너 그거 보면 지갑 열리는 거 다 알아",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
+   "pose2": "laugh",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189680"
   },
   {
    "a": "hyewon",
-   "line1": "언니 아까 경훈씨 코트 먼저 꺼내 드렸죠?",
-   "line2": "흥, 손이 조금 빨랐을 뿐이야",
-   "mood1": "sad",
+   "line1": "집 와서 앵클부츠 벗으니 살 것 같아요",
+   "line2": "난 롱코트 걸자마자 수면양말부터 신었어",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
+   "pose1": "coffee",
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "할로윈 간식은 내가 경훈씨께 먼저 드릴래",
-   "line2": "봇치 카페 케이크로 제가 선수 칠 거예요",
+   "line1": "유퀴즈 신민아 편 지금 보고 있지?",
+   "line2": "네, 보다가 괜히 볼이 빨개졌어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "립 대결 전날 밤엔 수분팩 하고 잘 거예요",
+   "line2": "그럼 난 경훈씨 취향 커피로 선공한다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -71,39 +82,30 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 저녁은 따뜻한 걸로 드셨을까",
-   "line2": "그 생각만 해도 마음이 몽글몽글해요",
+   "line1": "경훈씨 오늘 하루 무사히 마치셨겠지",
+   "line2": "꿈에서라도 수고하셨다고 말씀드릴래요",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
    "pose2": "heart"
   },
   {
-   "a": "hyewon",
-   "line1": "엔탑 새 앨범 주제가 '나를 사랑하기'래요",
-   "line2": "그거 완전 너 얘기네, 자기애 만렙",
+   "a": "jiwon",
+   "line1": "주말엔 집에서 밀푀유나베 해 먹을래",
+   "line2": "언니 요리 사진 꼭 보내 줘요, 침 고여요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "wave",
    "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "회의 때 경훈씨 목소리 낮아지면 심쿵해요",
-   "line2": "쉿, 그건 우리끼리만 아는 비밀이야",
+   "line1": "언니, 내일도 제 편 해 줄 거죠?",
+   "line2": "당연하지, 넌 내 최고의 짝꿍이야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 아침 첫 인사는 더 환하게 하자",
-   "line2": "좋아요, 웃는 연습 지금부터 할래요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
+   "pose1": "charm",
+   "pose2": "thumbs"
   }
  ]
 }
