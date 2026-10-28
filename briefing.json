@@ -1,9 +1,9 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T16:10:00+09:00",
+ "updatedAt": "2026-10-28T17:10:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 11.0,
+  "temp": 9.9,
   "low": 1,
   "high": 14,
   "condition": "맑음",
@@ -13,6 +13,11 @@
   "source": "네이버 날씨(기상청 발표·웨더아이 제공)"
  },
  "breaking": [
+  {
+   "title": "방미통위, 구글 429억원·애플 208억원 과징금…인앱결제 강제 제재",
+   "url": "https://www.newsis.com/view/NISX20261028_0003844782",
+   "source": "뉴시스"
+  },
   {
    "title": "삼성전자 9.12%, SK하이닉스 11.41% 급등 마감",
    "url": "https://www.newsis.com/view/NISX20261028_0003845005",
@@ -31,11 +36,6 @@
   {
    "title": "'尹체포 저지' 박종준 전 경호처장, 2심서 징역 3년으로 감형",
    "url": "https://www.newsis.com/view/NISX20261028_0003844890",
-   "source": "뉴시스"
-  },
-  {
-   "title": "HD현대, 3Q 영업익 2조9197억 전년比 71.5% 급증",
-   "url": "https://www.newsis.com/view/NISX20261028_0003844838",
    "source": "뉴시스"
   }
  ],
@@ -75,6 +75,24 @@
    "url": "https://www.hani.co.kr/arti/economy/marketing/1284507.html",
    "source": "한겨레",
    "summary": "현금배당 30조원 이상과 자사주 취득·소각 60조원 이상 등 약 100조원 주주환원을 내놨다."
+  },
+  {
+   "title": "HD현대, 3분기 영업익 2조9197억…전년比 71.5% 급증",
+   "url": "https://www.newsis.com/view/NISX20261028_0003844838",
+   "source": "뉴시스",
+   "summary": "HD현대가 조선 호황에 힘입어 3분기 영업이익이 1년 전보다 71.5% 늘었다."
+  },
+  {
+   "title": "정부, 엘리엇 ISDS 패소 확정…1530억원 지급",
+   "url": "https://www.newsis.com/view/NISX20261028_0003844762",
+   "source": "뉴시스",
+   "summary": "삼성물산 합병 관련 엘리엇과의 투자자-국가 분쟁에서 정부 패소가 확정돼 약 1530억원을 물어주게 됐다."
+  },
+  {
+   "title": "LG전자, 3분기 매출 23.8조·영업익 7819억…전년比 각각 8.9%·13.5%↑",
+   "url": "https://www.newsis.com/view/NISX20261028_0003844738",
+   "source": "뉴시스",
+   "summary": "LG전자 3분기 실적이 매출과 영업이익 모두 1년 전보다 늘었다."
   },
   {
    "title": "코트와 패딩 챙겨야…하루 새 10도 뚝, 전국 곳곳 아침 영하권",
@@ -201,24 +219,6 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818084",
    "source": "SBS",
    "summary": "애플이 출시 사흘 만에 화면 균열 결함을 인정하고 무상 교체에 나섰다."
-  },
-  {
-   "title": "'최고령 해결사' 최형우가 깨운 사자 군단…삼성, KIA 꺾고 PO 원점",
-   "url": "https://www.hani.co.kr/arti/sports/baseball/1284487.html",
-   "source": "한겨레",
-   "summary": "최형우의 활약으로 삼성이 KIA를 꺾고 플레이오프 전적을 1승 1패로 맞췄다."
-  },
-  {
-   "title": "블랙핑크 지수, 30일 신곡 '어딕티드' 공개",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817960",
-   "source": "SBS",
-   "summary": "블랙핑크 지수가 30일 신곡 '어딕티드'를 발표한다."
-  },
-  {
-   "title": "8월 출생아 2만4천명, 7년 만에 최대…연간 누적 20만명 육박",
-   "url": "https://www.yna.co.kr/view/AKR20261028085500002",
-   "source": "연합뉴스",
-   "summary": "8월 출생아가 2만3천703명으로 1년 전보다 13.0% 늘어 동월 기준 7년 만에 가장 많았다."
   }
  ]
 }
