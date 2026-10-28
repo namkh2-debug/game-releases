@@ -1,112 +1,117 @@
 {
- "updatedAt": "2026-10-28T09:12:00+09:00",
+ "updatedAt": "2026-10-28T10:20:00+09:00",
  "topics": [
-  "SK하이닉스 3분기 83조·77조 전망 이어가기",
-  "60조 추가 주주환원",
-  "애플 폴더블 화면 균열 무상 교체",
-  "지수 신곡 어딕티드",
-  "연애박사 자체 최고 시청률",
-  "유퀴즈 신민아",
-  "김연경2 원더독스 역전승",
-  "진주 귀걸이+롱코트·베레모+캐멀 코트",
-  "실적 요약 vs 그래프 경쟁",
-  "경훈씨 미소로 오전 버티기"
+  "코스피 매수 사이드카",
+  "마인크래프트 스위치2 에디션 국내 출시",
+  "왓어브레드 크로찌·모찌 치즈케이크 이어가기",
+  "더 리슨 이승기 천상연",
+  "캐멀 코트+베레모+바닐라 향 vs 블랙 롱코트+비밀 향수",
+  "통합 판정 가까이서(살짝 플러팅)",
+  "크로찌 먼저 드신 경훈씨 질투",
+  "경훈씨 얼굴로 하루 시작",
+  "캠핑 어묵탕",
+  "필라테스 후 물 한 잔"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "하이닉스 영업익 83조래, 예상보다 컸어",
-   "line2": "어제 77조 얘기했는데 훌쩍 넘었네요",
+   "line1": "코스피 4% 넘게 올라 사이드카 걸렸대",
+   "line2": "언니 오늘 계좌 앱 몇 번 열었어요?",
    "mood1": "surprised",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.khan.co.kr/article/202610280838001/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "주주환원도 60조 더 한대, 통 크다",
-   "line2": "언니 재테크 노트 또 펼치겠네요",
-   "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
    "pose2": "laugh",
-   "url": "https://www.hankyung.com/article/2026102894967"
+   "url": "https://www.yna.co.kr/view/AKR20261028061000008"
   },
   {
    "a": "jiwon",
-   "line1": "애플 첫 폴더블 화면에 금이 간대",
-   "line2": "출시 사흘 만에 무상 교체라니요",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "think",
-   "pose2": "none",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818084"
-  },
-  {
-   "a": "hyewon",
-   "line1": "지수가 30일에 신곡 '어딕티드' 낸대요",
-   "line2": "금요일 출근길 노래는 그걸로 하자",
+   "line1": "마크 스위치2 에디션 오늘 한국 나왔어",
+   "line2": "언니 주말 집짓기 또 밤새겠네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "thumbs",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817960"
+   "pose2": "laugh",
+   "url": ""
   },
   {
    "a": "hyewon",
-   "line1": "연애박사 시청률 자체 최고 찍었대요",
-   "line2": "추영우가 미국행 포기한 회차지?",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.etoday.co.kr/news/view/2640921"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오늘 밤 유퀴즈에 신민아 나온대요",
-   "line2": "김우빈 얘기 나오면 나 또 설렐 듯",
-   "mood1": "smile",
+   "line1": "왓어브레드 크로찌, 언니가 선수 쳤죠",
+   "line2": "대신 모찌 치즈케이크 사 줬잖아",
+   "mood1": "sulk",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "heart"
+   "pose1": "sulk",
+   "pose2": "love",
+   "url": ""
   },
   {
    "a": "hyewon",
-   "line1": "김연경2 원더독스 역전승 봤어요?",
-   "line2": "0-2에서 뒤집었다며, 소름 돋았어",
-   "mood1": "surprised",
-   "mood2": "surprised",
-   "pose1": "clap",
-   "pose2": "clap"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 진주 귀걸이, 롱코트랑 찰떡이에요",
-   "line2": "네 베레모도 캐멀 코트랑 딱이야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "실적 요약은 내가 경훈씨께 먼저 드릴래",
-   "line2": "전 그래프 예쁘게 그려서 갈 거예요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨가 웃어 주시면 일이 술술 풀려",
-   "line2": "저도요, 그 미소 하나로 오전 버텨요",
+   "line1": "오늘 밤 더 리슨에 이승기 천상연 불러요",
+   "line2": "10시 50분이지? 같이 알람 맞추자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
-   "pose2": "love"
+   "pose2": "talkto",
+   "url": ""
+  },
+  {
+   "a": "hyewon",
+   "line1": "캐멀 코트에 베레모, 바닐라 향까지예요",
+   "line2": "난 블랙 롱코트에 비밀 향수로 승부",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "faceoff",
+   "url": ""
+  },
+  {
+   "a": "jiwon",
+   "line1": "통합 판정은 경훈씨가 가까이서 하셔야지",
+   "line2": "언니, 너무 가까이 서는 건 반칙이에요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "squabble",
+   "url": ""
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨가 언니 크로찌부터 드시던데요",
+   "line2": "흥, 네 베이글은 오후 간식이래",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh",
+   "url": ""
+  },
+  {
+   "a": "jiwon",
+   "line1": "출근길 아무리 길어도 경훈씨 보면 끝",
+   "line2": "맞아요, 그 얼굴 하나로 하루 시작이죠",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "love",
+   "pose2": "heart",
+   "url": ""
+  },
+  {
+   "a": "jiwon",
+   "line1": "주말엔 캠핑 가서 어묵탕 끓이고 싶다",
+   "line2": "국자는 제가 맡을게요, 불은 언니가",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "highfive",
+   "url": ""
+  },
+  {
+   "a": "hyewon",
+   "line1": "필라테스 끝나고 마시는 물이 제일 달아",
+   "line2": "나도 같이 등록할까, 너랑 하면 할 듯",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "coffee",
+   "url": ""
   }
  ]
 }
