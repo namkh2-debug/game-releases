@@ -1,9 +1,9 @@
 {
  "date": "2026-10-28",
- "updatedAt": "2026-10-28T18:08:53+09:00",
+ "updatedAt": "2026-10-28T19:06:17+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 7.9,
+  "temp": 6.4,
   "low": 1,
   "high": 14,
   "condition": "맑음",
@@ -14,29 +14,29 @@
  },
  "breaking": [
   {
-   "title": "공소청, '탈북어민 북송' 2심 노영민 무죄에 상고…정의용 등은 포기",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845361",
-   "source": "뉴시스"
+   "title": "\"펨코는 너 조롱하지 지지 안해\" 비판에 李대통령 \"좌든 우든 극단 경계해야\"",
+   "url": "https://www.imaeil.com/page/view/2026102818432578455",
+   "source": "매일신문"
   },
   {
-   "title": "방미통위, 구글 429억원·애플 208억원 과징금…인앱결제 강제 제재",
-   "url": "https://www.newsis.com/view/NISX20261028_0003844782",
-   "source": "뉴시스"
+   "title": "스페인서 열차 2대 충돌 사고… 최소 10명 사망",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026102818404106866",
+   "source": "부산일보"
   },
   {
-   "title": "삼성전자 9.12%, SK하이닉스 11.41% 급등 마감",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845005",
-   "source": "뉴시스"
+   "title": "경찰, '구로 미라' 유기 피의자 2명 구속영장 신청",
+   "url": "https://www.edaily.co.kr/news/read?newsid=05943366645617512&mediaCodeNo=257",
+   "source": "이데일리"
   },
   {
-   "title": "코스피, 10거래일 만에 6000선 회복 마감…6.63%오른 6012.44",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845001",
-   "source": "뉴시스"
+   "title": "한미 국방장관 \"올해 12월 워싱턴서 회담…내년초 SCM 개최\"",
+   "url": "https://www.sedaily.com/article/20107416",
+   "source": "서울경제"
   },
   {
-   "title": "원·달러 환율, 14.0원 오른 1337.7원 마감",
-   "url": "https://www.newsis.com/view/NISX20261028_0003844995",
-   "source": "뉴시스"
+   "title": "공소청 '탈북어민 강제북송' 정의용·서훈 무죄 부분에 상고 포기",
+   "url": "https://www.donga.com/news/Politics/article/all/20261028/134927443/1",
+   "source": "동아일보"
   }
  ],
  "news": [
@@ -119,12 +119,6 @@
    "summary": "대법원이 김건희 씨에 대해 추가 구속영장을 발부해 구속기간이 12월 31일까지 늘었다."
   },
   {
-   "title": "한미안보협의회의, 28년 만에 해 넘긴다…미 국방부 \"상호 합의\"",
-   "url": "https://www.hani.co.kr/arti/international/america/1284512.html",
-   "source": "한겨레",
-   "summary": "올해 한미안보협의회의(SCM)가 28년 만에 연내에 열리지 않고 내년으로 넘어간다."
-  },
-  {
    "title": "'해킹' 롯데 기프티엘 \"내달 4일 정상화 목표…쿠폰 기간 30일 연장\"",
    "url": "https://www.newsis.com/view/NISX20261028_0003845381",
    "source": "뉴시스",
@@ -183,12 +177,6 @@
    "url": "https://www.hankyung.com/article/202610289424i",
    "source": "한국경제",
    "summary": "미국이 우크라이나 종전 협상에서 러시아의 석유시장 복귀를 협상 카드로 내놨다."
-  },
-  {
-   "title": "이 대통령 \"좌든 우든 극단적 진영주의 경계해야\"",
-   "url": "https://www.newsis.com/view/NISX20261028_0003845353",
-   "source": "뉴시스",
-   "summary": "이재명 대통령이 좌우를 막론한 극단적 진영주의를 경계해야 한다고 강조했다."
   },
   {
    "title": "블룸버그 \"솔리다임, 미국에 60조 원 낸드공장 추진\"",
