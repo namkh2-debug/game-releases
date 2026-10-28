@@ -1,9 +1,9 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T07:15:14+09:00",
+  "updatedAt": "2026-10-29T08:10:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 3,
+    "temp": 4,
     "low": 1,
     "high": 14,
     "condition": "맑음",
@@ -14,9 +14,24 @@
   },
   "breaking": [
     {
-      "title": "선관위, 올림픽공원 개표소서 투표함 반출 시작",
-      "url": "https://www.ytn.co.kr/_ln/0103_202610290627372460",
-      "source": "YTN"
+      "title": "'역삼 연쇄방화' 70대 구속 송치…살인미수 혐의 적용",
+      "url": "https://www.yna.co.kr/view/AKR20261029024500004",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "이상있는 투표지 국과수 등으로…무결점 투표지는 선관위 보관",
+      "url": "https://www.yna.co.kr/view/AKR20261029022700004",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "올림픽공원 핸드볼경기장 내 투표함 전부 반출 완료",
+      "url": "https://www.yna.co.kr/view/AKR20261029020900004",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "유엔총회, 수십년된 미 쿠바 제재에 중지 결의안 압도적 채택",
+      "url": "https://www.newsis.com/view/NISX20261029_0003845571",
+      "source": "뉴시스"
     }
   ],
   "news": [
@@ -25,6 +40,18 @@
       "url": "https://www.donga.com/news/Economy/article/all/20261029/134929425/1",
       "source": "동아일보",
       "summary": "오늘 확정실적·주주환원 계획 발표"
+    },
+    {
+      "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기",
+      "url": "https://www.yna.co.kr/view/AKR20261029002951071",
+      "source": "연합뉴스",
+      "summary": "연준이 기준금리를 동결했고 12월 FOMC에서 추가 인상 여부가 주목된다. 한미 금리차는 1.00%p 유지."
+    },
+    {
+      "title": "[뉴욕증시] 연준 금리 동결에 상승 지속…SK하닉, 13% 폭등",
+      "url": "https://busan.fnnews.com/news/202610290515438494",
+      "source": "파이낸셜뉴스",
+      "summary": "뉴욕 3대 지수가 소폭 올랐고 SK하이닉스 ADR은 사상 최대 실적 기대에 13% 넘게 급등했다."
     },
     {
       "title": "스페인 고속철 추돌 사망 68명…“앞 정차중 뒷열차에 운행 신호”",
