@@ -1,60 +1,51 @@
 {
-  "updatedAt": "2026-10-29T21:14:00+09:00",
+  "updatedAt": "2026-10-29T22:15:36+09:00",
   "topics": [
-    "넥슨 템빨 11/5 공개",
-    "상어 부캉이 사흘째 안 보여",
-    "지수 신곡 알람 이어가기",
-    "라이어 내기 이어가기",
-    "차콜 카디건·트렌치 하루 마무리룩",
-    "꿈에서도 결재 애정",
-    "귤 하트 경쟁",
-    "잘 자요 문자 썸 농담",
-    "옆에 있어 줘서 고마워 응원",
-    "따뜻한 물 한 잔 안부"
+    "아노말리스 PS5·스위치2 출시",
+    "넷플릭스 꿀알바 30일 공개",
+    "언더커버 셰프 첫방 이어가기",
+    "내일 립 대결 출근룩(버건디 니트 vs 아이보리 블라우스)",
+    "웃음소리 애정",
+    "커피 온도 vs 머그 경쟁",
+    "이름 먼저 불러 주신 질투",
+    "자기 전 스트레칭·필라테스",
+    "밤 호떡 유혹",
+    "한 팀 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "넥슨 '템빨' 11월 5일에 공개된대",
-      "line2": "언니 또 쇼케이스 알람 맞춰 두겠네요",
+      "line1": "'아노말리스' 오늘 PS5·스위치2로 나왔대",
+      "line2": "언니 이형 사냥 간다고 또 밤새죠?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
       "pose2": "laugh",
-      "url": "https://www.newspim.com/news/view/20261029000895"
+      "url": "https://m.ruliweb.com/news/read/231231"
     },
     {
       "a": "hyewon",
-      "line1": "상어 '부캉이'가 사흘째 안 보인대요",
-      "line2": "먼바다로 잘 갔길, 좀 서운하다",
+      "line1": "넷플릭스 '꿀알바' 내일 공개래요",
+      "line2": "시급 50배 호러? 난 무서워서 패스",
       "mood1": "surprised",
-      "mood2": "sad",
+      "mood2": "smile",
       "pose1": "think",
-      "pose2": "none",
-      "url": "https://www.yna.co.kr/view/AKR20261029178900051"
+      "pose2": "sulk",
+      "url": "https://www.yna.co.kr/view/AKR20261001058600005"
     },
     {
       "a": "jiwon",
-      "line1": "혜원아, 지수 신곡 알람 맞춰 놨어?",
-      "line2": "7시 59분부터 이어폰 끼고 대기요",
+      "line1": "언더커버 셰프 첫방, 끝까지 봤어?",
+      "line2": "붕어빵 먹느라 절반은 놓쳤어요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "charm"
+      "pose1": "coffee",
+      "pose2": "laugh"
     },
     {
       "a": "hyewon",
-      "line1": "내일 밤 '라이어' 내기, 아직 유효하죠?",
-      "line2": "진 사람이 팀홀튼 베이글 사기다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "hyewon",
-      "line1": "오늘 차콜 카디건, 비 오는 날 딱이었죠?",
-      "line2": "응, 트렌치랑 겹쳐 입으니 단정했어",
+      "line1": "언니, 내일 립 대결엔 버건디 니트 입을래요",
+      "line2": "난 아이보리 블라우스로 차분하게 간다",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -62,8 +53,8 @@
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 오늘 밤은 깊이 푹 주무셨으면",
-      "line2": "꿈에서라도 결재 받으러 가고 싶어요",
+      "line1": "경훈씨 웃음소리, 녹음해 두고 싶을 때 있어",
+      "line2": "저는 그 웃음 한 번에 야근도 버텨요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
@@ -71,39 +62,48 @@
     },
     {
       "a": "hyewon",
-      "line1": "내일 경훈씨 책상에 귤 하나 올려둘래요",
-      "line2": "난 껍질 까서 하트 모양으로 둘 건데?",
+      "line1": "내일 경훈씨 커피, 딱 좋은 온도로 드릴래요",
+      "line2": "흥, 난 좋아하시는 머그까지 데워 둘걸?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "squabble"
     },
     {
-      "a": "hyewon",
-      "line1": "썸은 '잘 자요' 문자 타이밍이 생명이래요",
-      "line2": "그래서 너 몇 시에 보낼지 고민 중이구나?",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "think",
-      "pose2": "look"
-    },
-    {
       "a": "jiwon",
-      "line1": "혜원아, 오늘도 옆에 있어 줘서 고마워",
-      "line2": "언니 웃음소리 들으면 저도 웃게 돼요",
-      "mood1": "smile",
+      "line1": "혜원아, 아까 경훈씨가 네 이름 먼저 부르셨지?",
+      "line2": "언니 서류 칭찬은 더 길었잖아요, 쌤쌤",
+      "mood1": "sad",
       "mood2": "smile",
-      "pose1": "talkto",
+      "pose1": "sulk",
       "pose2": "highfive"
     },
     {
       "a": "hyewon",
-      "line1": "늦었는데 따뜻한 물 한 잔 하고 자요",
-      "line2": "응, 너도 휴대폰 그만 보고 일찍 자",
+      "line1": "자기 전에 우리 스트레칭 5분만 해요",
+      "line2": "필라테스 배운 거 나도 좀 알려 줘",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
+      "pose1": "cheer",
       "pose2": "wave"
+    },
+    {
+      "a": "hyewon",
+      "line1": "밤엔 따끈한 호떡이 제일 당기지 않아요?",
+      "line2": "참아, 내일 립 대결 앞두고 붓는다",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 오늘 제 편 들어 줘서 고마웠어요",
+      "line2": "당연하지, 우리는 늘 한 팀이야",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "highfive"
     }
   ]
 }
