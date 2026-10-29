@@ -1,85 +1,96 @@
 {
- "updatedAt": "2026-10-29T13:08:00+09:00",
+ "updatedAt": "2026-10-29T14:12:00+09:00",
  "topics": [
-  "슈타인즈 게이트 RE:BOOT 출시",
-  "국산 첫 비만약 처방",
-  "신해철 은관문화훈장",
-  "V리그 31일 개막 직관",
-  "언더커버 셰프 첫방 이어가기",
-  "정장·스카프 출근룩",
-  "결재판 질투",
-  "발소리 애정",
-  "썸 답장 속도 농담",
-  "오후 응원"
+  "몬스터헌터 아웃랜더스 출시",
+  "엔탑 WE:BLOOM 이어가기",
+  "삼성전자 4,601원 배당",
+  "너 말고 다른 연애",
+  "할로윈 야시장 머리띠 vs 마녀 모자 경쟁",
+  "헤어핀·카디건 오후룩",
+  "칼국수 질투 이어가기",
+  "10월의 마지막 밤 노래 vs 메시지 경쟁",
+  "경훈씨 목소리 애정",
+  "우산 설렘 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "오늘 슈타인즈 게이트 RE:BOOT 나왔어",
-   "line2": "언니 또 밤새 세계선 넘나들겠네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "국산 첫 비만약 오늘부터 처방된대요",
-   "line2": "난 그래도 네 필라테스 의지가 더 멋져",
+   "line1": "몬헌 아웃랜더스 오늘 폰으로 나왔대",
+   "line2": "언니 점심시간에 사냥 한 판 하겠네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs"
+   "pose2": "laugh",
+   "url": "https://www.thisisgame.com/articles/431520"
   },
   {
-   "a": "jiwon",
-   "line1": "故신해철님이 은관문화훈장 받으신대",
-   "line2": "점심때 '그대에게' 같이 들어요, 언니",
-   "mood1": "neutral",
+   "a": "hyewon",
+   "line1": "언니, 엔탑 WE:BLOOM 나온 거 들었어요?",
+   "line2": "응, 비 오는 오후 BGM으로 딱이더라",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "charm",
    "pose2": "coffee"
   },
   {
-   "a": "hyewon",
-   "line1": "V리그가 31일에 개막한대요, 직관 가요?",
-   "line2": "좋지, 응원봉은 내가 두 개 챙길게",
-   "mood1": "smile",
+   "a": "jiwon",
+   "line1": "삼성전자 주당 4,601원 배당한대",
+   "line2": "언니 배당 받으면 디저트 쏘는 거죠?",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "highfive"
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "https://www.yna.co.kr/view/AKR20261029064851527"
   },
   {
    "a": "hyewon",
-   "line1": "언더커버 셰프 첫방, 오늘 밤 같이 봐요",
-   "line2": "어묵탕 끓이면서 보면 딱이겠다",
+   "line1": "'너 말고 다른 연애' 제목 설레지 않아요?",
+   "line2": "난 제목만 봐도 딴 연애는 패스야",
    "mood1": "smile",
-   "mood2": "smile",
+   "mood2": "neutral",
    "pose1": "look",
    "pose2": "look"
   },
   {
-   "a": "jiwon",
-   "line1": "네이비 정장에 베이지 트렌치, 단정하다",
-   "line2": "언니 스카프 덕에 저까지 화사해 보여요",
+   "a": "hyewon",
+   "line1": "할로윈 야시장에 박쥐 머리띠 하고 갈래요",
+   "line2": "그럼 난 마녀 모자로 사진 먼저 보낼게",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 경훈씨 결재판 몰래 먼저 챙겼죠?",
-   "line2": "흥, 경훈씨가 내 글씨체 좋아하시거든",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "squabble",
    "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 발소리만 들려도 자세가 바르게 돼",
-   "line2": "저는 심장이 먼저 똑바로 서요",
+   "line1": "혜원아, 별 헤어핀 반짝여서 예쁘다",
+   "line2": "언니 카디건도 정장이랑 찰떡이에요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 칼국수 메뉴 뺏긴 거 아직 서운해요",
+   "line2": "다음 비 오는 날은 네 수제비 콜이야",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "10월의 마지막 밤엔 노래 불러 드릴래",
+   "line2": "전 금요일에 메시지 1등으로 보낼래요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "faceoff",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 목소리 들리면 빗소리도 좋아져",
+   "line2": "저는 경훈씨 웃음에 오후 피곤이 녹아요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -87,21 +98,12 @@
   },
   {
    "a": "hyewon",
-   "line1": "썸은 문자 답장 속도로 알 수 있대요",
-   "line2": "그럼 경훈씨 답장 오면 나 1초 컷이야",
+   "line1": "우산 하나에 둘이 쓰면 설렌대요",
+   "line2": "어깨 젖는 쪽이 진심이라던데?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오후도 우리 둘이면 금방 지나갈 거야",
-   "line2": "네, 언니랑 경훈씨 있으면 무적이에요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "clap"
+   "pose2": "wave"
   }
  ]
 }
