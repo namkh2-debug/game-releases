@@ -1,78 +1,50 @@
 {
-  "updatedAt": "2026-10-29T23:12:00+09:00",
+  "updatedAt": "2026-10-30T06:22:00+09:00",
   "topics": [
-    "위대한 악녀 한국어판 12/3",
-    "암살자(들) 340만",
-    "뉴발란스 다운 팝업",
-    "기프티콘 유출 주의",
-    "차콜 카디건 출근룩",
-    "퇴근 후 조용한 사무실",
-    "립 대결 눈맞춤 경쟁",
-    "꿀알바 같이 보기",
-    "설레는 꿈 농담",
-    "굿나잇 응원"
+    "크림슨 데저트 첫 DLC",
+    "지수·제니 신곡 출근길",
+    "버건디 니트 vs 아이보리 블라우스 출근룩",
+    "블라인드 립 대결 쪽지 경쟁",
+    "주말 푹 쉬시길 애정",
+    "최불암 별세 추모",
+    "노브랜드 버거 성수 팝업",
+    "불금 향수 설렘 농담",
+    "출근길 핫팩 안부",
+    "웃는 얼굴 백 점 애교"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "'위대한 악녀' 한국어판 12월 3일 나온대",
-      "line2": "언니 악녀 연기 연습하는 거 아니죠?",
+      "line1": "크림슨 데저트 첫 DLC, 오늘 아침 7시에 풀린대",
+      "line2": "출근 전에 한 판? 지각하면 안 돼요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "laugh",
-      "url": "https://m.ruliweb.com/news/read/231234"
+      "pose2": "think",
+      "url": "https://pogwire.com/releases/new-games-this-week"
     },
     {
       "a": "hyewon",
-      "line1": "영화 '암살자(들)' 340만 넘었대요",
-      "line2": "주말에 팝콘 들고 보러 갈까?",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "coffee"
-    },
-    {
-      "a": "hyewon",
-      "line1": "성수 뉴발란스 다운 팝업 가 볼래요?",
-      "line2": "좋아, 화이트 숏다운 네가 입어 봐",
+      "line1": "언니, 지수 신곡 8시예요, 출근길에 같이 들어요",
+      "line2": "좋아, 제니 앨범도 오늘이니 둘 다 듣자",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "charm",
+      "pose1": "wave",
       "pose2": "thumbs"
     },
     {
-      "a": "jiwon",
-      "line1": "기프티콘 유출 문자 왔다는 사람 많더라",
-      "line2": "링크는 절대 누르지 말자, 언니",
-      "mood1": "surprised",
-      "mood2": "neutral",
-      "pose1": "think",
-      "pose2": "none",
-      "url": "https://www.yna.co.kr/view/AKR20261029203900017"
-    },
-    {
       "a": "hyewon",
-      "line1": "오늘 차콜 카디건, 하루 종일 포근했어요",
-      "line2": "네이비 정장이랑 잘 어울렸어",
+      "line1": "오늘 버건디 니트 입었어요, 립 대결 전투복!",
+      "line2": "난 아이보리 블라우스, 차분함으로 승부야",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
-      "pose2": "thumbs"
+      "pose2": "charm"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 퇴근하시면 사무실이 너무 조용해",
-      "line2": "맞아요, 발소리만 들려도 반가운데",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "heart"
-    },
-    {
-      "a": "hyewon",
-      "line1": "내일 립 대결, 경훈씨 눈 먼저 마주칠 거예요",
-      "line2": "난 첫마디로 웃게 해 드릴 건데?",
+      "line1": "블라인드 대결, 내 립을 경훈씨 손에 먼저 드릴래",
+      "line2": "전 립 옆에 작은 쪽지까지 붙여 둘 건데요?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -80,17 +52,36 @@
     },
     {
       "a": "jiwon",
-      "line1": "꿀알바 내일 공개래, 같이 볼 사람?",
-      "line2": "무서운 장면엔 언니 팔 꼭 잡을래요",
+      "line1": "경훈씨 이번 주 고생 많으셨지, 주말엔 푹 쉬셨으면",
+      "line2": "월요일엔 제가 제일 먼저 반겨 드릴래요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "look"
+      "pose1": "heart",
+      "pose2": "love"
     },
     {
       "a": "hyewon",
-      "line1": "설레는 사람 꿈꾸려면 베개 위치가 중요대요",
-      "line2": "그 꿈 주인공 누군지 다 보인다 얘",
+      "line1": "최불암 선생님 별세 소식에 마음이 먹먹해요",
+      "line2": "전원일기 보며 자라서 더 그렇네",
+      "mood1": "sad",
+      "mood2": "sad",
+      "pose1": "none",
+      "pose2": "none",
+      "url": "https://www.ytn.co.kr/_ln/0106_202610300423359498"
+    },
+    {
+      "a": "hyewon",
+      "line1": "노브랜드 버거 성수 팝업, 오늘부터래요",
+      "line2": "점심 가위바위보, 이번엔 안 진다",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "cheer"
+    },
+    {
+      "a": "jiwon",
+      "line1": "불금이라 그런가, 향수 좀 진하게 뿌렸어",
+      "line2": "언니, 그 향 누구 코앞에서 터뜨리려고요?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -98,12 +89,21 @@
     },
     {
       "a": "jiwon",
-      "line1": "오늘도 고생 많았어, 따뜻하게 자자",
-      "line2": "언니도요, 내일 또 힘내요",
+      "line1": "혜원아, 출근길 손 시렸지? 손 줘 봐",
+      "line2": "언니 손이 더 차요, 핫팩 나눠 드릴게",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "wave",
-      "pose2": "cheer"
+      "pose2": "look"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 오늘 제 웃는 얼굴 몇 점이에요?",
+      "line2": "백 점, 경훈씨도 그렇게 말씀하실걸",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs"
     }
   ]
 }
