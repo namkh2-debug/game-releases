@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-10-28T09:07:44+09:00",
- "from": "2026-10-28",
+ "updatedAt": "2026-10-29T09:07:54+09:00",
+ "from": "2026-10-29",
  "to": "2027-01-31",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,39 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-10-28",
-   "title": "마인크래프트 스위치 2 에디션",
-   "en": "Minecraft",
-   "short": "마인크래프트",
-   "platforms": [
-    "switch"
-   ],
-   "genre": "샌드박스",
-   "price": "",
-   "korean": "한국어 지원",
-   "note": "한국 패키지 기준 (북미 10/27)",
-   "url": "",
-   "major": true
-  },
-  {
-   "date": "2026-10-28",
-   "title": "설퍼 정식 출시",
-   "en": "SULFUR",
-   "short": "SULFUR",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "FPS 로그라이트",
-   "price": "",
-   "korean": "미확인",
-   "note": "앞서 해보기 종료 · 콘솔 동시",
-   "url": "",
-   "major": false
-  },
   {
    "date": "2026-10-29",
    "title": "팬텀 블레이드 제로",
@@ -1187,6 +1154,23 @@
    "major": false
   },
   {
+   "date": "2026-12-03",
+   "title": "크로노스: 라자루스",
+   "en": "Cronos: Lazarus",
+   "short": "크로노스DLC",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "서바이벌 호러 DLC",
+   "price": "$9.99",
+   "korean": "미확인",
+   "note": "크로노스: 더 뉴 던 확장 · 스위치2는 2027년 1분기",
+   "url": "https://en.bandainamcoent.eu/cronos/news/the-hunt-begins-cronos-lazarus-launches-december-3-pc-playstation-5-and-xbox-series-xs",
+   "major": false
+  },
+  {
    "date": "2026-12-04",
    "title": "몬스터 헌터 와일즈 (스위치2)",
    "en": "Monster Hunter Wilds",
@@ -1662,6 +1646,24 @@
    "korean": "미확인",
    "note": "",
    "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-01-28",
+   "title": "위치브룩",
+   "en": "Witchbrook",
+   "short": "위치브룩",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "마법학교 생활 시뮬",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치·스위치2·PS5·Xbox 동시 (10/27 발표)",
+   "url": "https://www.witchbrook.com/release-date/",
    "major": true
   },
   {
