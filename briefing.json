@@ -1,153 +1,224 @@
 {
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T08:10:00+09:00",
-  "region": "경기 광주",
-  "weather": {
-    "temp": 4,
-    "low": 1,
-    "high": 14,
-    "condition": "맑음",
-    "rainChance": "오전 0%, 오후 0%",
-    "dust": "미세먼지 좋음, 초미세먼지 좋음",
-    "tip": "아침 1~2도로 초겨울처럼 추워요. 두꺼운 외투를 입으시고, 낮 14도까지 올라 일교차가 크니 겹쳐 입으세요. 오늘은 우산이 필요 없지만 내일(29일) 오후엔 비 소식(강수확률 60%)이 있어요.",
-    "source": "네이버 날씨(기상청 발표·웨더아이 제공)"
+ "date": "2026-10-29",
+ "updatedAt": "2026-10-29T09:10:00+09:00",
+ "region": "경기 광주",
+ "weather": {
+  "temp": 5,
+  "low": 1,
+  "high": 14,
+  "condition": "맑음",
+  "rainChance": "오전 0%, 오후 0%",
+  "dust": "미세먼지 좋음, 초미세먼지 좋음",
+  "tip": "아침 1~2도로 초겨울처럼 추워요. 두꺼운 외투를 입으시고, 낮 14도까지 올라 일교차가 크니 겹쳐 입으세요. 오늘은 우산이 필요 없지만 내일(29일) 오후엔 비 소식(강수확률 60%)이 있어요.",
+  "source": "네이버 날씨(기상청 발표·웨더아이 제공)"
+ },
+ "breaking": [
+  {
+   "title": "퇴직연금 사외적립, 2030년까지 모든 사업장 '의무화'…당정 \"노동자 체불 위험 줄일 것\"",
+   "url": "https://economist.co.kr/article/view/ecn202610290001",
+   "source": "이코노미스트"
   },
-  "breaking": [
-    {
-      "title": "'역삼 연쇄방화' 70대 구속 송치…살인미수 혐의 적용",
-      "url": "https://www.yna.co.kr/view/AKR20261029024500004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "이상있는 투표지 국과수 등으로…무결점 투표지는 선관위 보관",
-      "url": "https://www.yna.co.kr/view/AKR20261029022700004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "올림픽공원 핸드볼경기장 내 투표함 전부 반출 완료",
-      "url": "https://www.yna.co.kr/view/AKR20261029020900004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "유엔총회, 수십년된 미 쿠바 제재에 중지 결의안 압도적 채택",
-      "url": "https://www.newsis.com/view/NISX20261029_0003845571",
-      "source": "뉴시스"
-    }
-  ],
-  "news": [
-    {
-      "title": "삼성전자, 3Q 성적표 오늘 공개…주주환원, SK하닉 ‘100조’ 뛰어넘나",
-      "url": "https://www.donga.com/news/Economy/article/all/20261029/134929425/1",
-      "source": "동아일보",
-      "summary": "오늘 확정실적·주주환원 계획 발표"
-    },
-    {
-      "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기",
-      "url": "https://www.yna.co.kr/view/AKR20261029002951071",
-      "source": "연합뉴스",
-      "summary": "연준이 기준금리를 동결했고 12월 FOMC에서 추가 인상 여부가 주목된다. 한미 금리차는 1.00%p 유지."
-    },
-    {
-      "title": "[뉴욕증시] 연준 금리 동결에 상승 지속…SK하닉, 13% 폭등",
-      "url": "https://busan.fnnews.com/news/202610290515438494",
-      "source": "파이낸셜뉴스",
-      "summary": "뉴욕 3대 지수가 소폭 올랐고 SK하이닉스 ADR은 사상 최대 실적 기대에 13% 넘게 급등했다."
-    },
-    {
-      "title": "스페인 고속철 추돌 사망 68명…“앞 정차중 뒷열차에 운행 신호”",
-      "url": "https://www.yna.co.kr/view/AKR20261029009100085",
-      "source": "연합뉴스",
-      "summary": "유럽 최악 열차 사고"
-    },
-    {
-      "title": "서울 광화문서 10·29 이태원참사 4주기 기억식",
-      "url": "https://www.yna.co.kr/view/MYH20261029002000038",
-      "source": "연합뉴스",
-      "summary": "오늘 오전 광화문광장에서 공식 추모식"
-    },
-    {
-      "title": "“SCM 내년 초로 연기”…민주당 진성준 비자 거부",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820084",
-      "source": "SBS",
-      "summary": "한미 SCM 28년 만에 해 넘겨"
-    },
-    {
-      "title": "‘외국인·다문화’ 잇단 발언 논란…청와대 진화",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820015",
-      "source": "SBS",
-      "summary": "야당 비판에 청와대가 진화 나서"
-    },
-    {
-      "title": "조희대 의혹 전부 조사?…‘사법권 침해’ 논란",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819907",
-      "source": "SBS",
-      "summary": "민주당, 12월 초 국정조사 추진"
-    },
-    {
-      "title": "“청년층 더 떠날라”…가상자산 과세 안할 듯",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819694",
-      "source": "SBS",
-      "summary": "당정, 과세 또 유예에 무게"
-    },
-    {
-      "title": "대신증권, 고객정보 3만8천여건 유출…긴급 대응조치 시행",
-      "url": "https://www.yna.co.kr/view/AKR20261028036900008",
-      "source": "연합뉴스",
-      "summary": "대표 사과, 피해 배상 약속"
-    },
-    {
-      "title": "구글·애플 637억 과징금…3년 걸린 결정",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819699",
-      "source": "SBS",
-      "summary": "인앱결제 강제에 과징금"
-    },
-    {
-      "title": "애플, 첫 터치스크린 적용한 맥북프로 공개",
-      "url": "https://www.dt.co.kr/article/12091958",
-      "source": "디지털타임스",
-      "summary": "국내 11월 6일 출시"
-    },
-    {
-      "title": "폭발 현장 달려가 가스통 밸브 잠근 시민…알고보니 배우(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261028149151065",
-      "source": "연합뉴스",
-      "summary": "인천 상가 사고 현장의 시민"
-    },
-    {
-      "title": "최형우, 홈런에 보살까지…삼성, PO 승부 원점으로",
-      "url": "https://www.yna.co.kr/view/MYH20261028000300038",
-      "source": "연합뉴스",
-      "summary": "삼성, KIA 꺾고 1승 1패"
-    },
-    {
-      "title": "[주말 단신] 팬텀 블레이드 제로, 출시 앞두고 긍정적 평가",
-      "url": "https://www.gameinsight.co.kr/news/articleView.html?idxno=36901",
-      "source": "게임인사이트",
-      "summary": "출시 전 리뷰 호평"
-    },
-    {
-      "title": "이 대통령, 민주당 중진 의원들과 만찬…“경륜·지혜, 국정 운영에 반영”",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819890",
-      "source": "SBS",
-      "summary": "5선 이상 중진들과 만찬"
-    },
-    {
-      "title": "이 대통령 “의무공개매수제, 우려와 현실적 고민 교차…균형점 찾아야”",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819551",
-      "source": "SBS",
-      "summary": "제도 도입 균형점 강조"
-    },
-    {
-      "title": "오세훈 무죄가 쏘아올린 야권 ‘잠룡’ 삼국지",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819444",
-      "source": "SBS",
-      "summary": "야권 대선 주자 구도 변화"
-    },
-    {
-      "title": "[오늘날씨] “패딩 꺼내세요” 일부 영하권, 기온 ‘뚝’…오후부터 중부 비",
-      "url": "https://www.mt.co.kr/society/2026/10/29/2026102817231457553",
-      "source": "머니투데이",
-      "summary": "아침 추위, 오후 중부 비"
-    }
-  ]
+  {
+   "title": "코스피, 0.08% 오른 6017.22 출발",
+   "url": "https://www.fnnews.com/news/202610290902059555",
+   "source": "파이낸셜뉴스"
+  },
+  {
+   "title": "코스닥, 3.50포인트(0.45%) 내린 767.78 개장",
+   "url": "https://www.newsis.com/view/NISX20261029_0003845831",
+   "source": "뉴시스"
+  },
+  {
+   "title": "삼성SDI, 3분기 영업익 4078억원 '흑자 전환'",
+   "url": "https://www.newsis.com/view/NISX20261029_0003845806",
+   "source": "뉴시스"
+  },
+  {
+   "title": "'역삼 연쇄방화' 70대 구속 송치…살인미수 혐의 적용",
+   "url": "https://www.yna.co.kr/view/AKR20261029024500004",
+   "source": "연합뉴스"
+  }
+ ],
+ "news": [
+  {
+   "title": "삼성전자, 3Q 성적표 오늘 공개…주주환원, SK하닉 ‘100조’ 뛰어넘나",
+   "url": "https://www.donga.com/news/Economy/article/all/20261029/134929425/1",
+   "source": "동아일보",
+   "summary": "오늘 확정실적·주주환원 계획 발표"
+  },
+  {
+   "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기",
+   "url": "https://www.yna.co.kr/view/AKR20261029002951071",
+   "source": "연합뉴스",
+   "summary": "연준이 기준금리를 동결했고 12월 FOMC에서 추가 인상 여부가 주목된다. 한미 금리차는 1.00%p 유지."
+  },
+  {
+   "title": "[뉴욕증시] 연준 금리 동결에 상승 지속…SK하닉, 13% 폭등",
+   "url": "https://busan.fnnews.com/news/202610290515438494",
+   "source": "파이낸셜뉴스",
+   "summary": "뉴욕 3대 지수가 소폭 올랐고 SK하이닉스 ADR은 사상 최대 실적 기대에 13% 넘게 급등했다."
+  },
+  {
+   "title": "스페인 고속철 추돌 사망 68명…“앞 정차중 뒷열차에 운행 신호”",
+   "url": "https://www.yna.co.kr/view/AKR20261029009100085",
+   "source": "연합뉴스",
+   "summary": "유럽 최악 열차 사고"
+  },
+  {
+   "title": "\"美, 중간선거 후 이란 재공격 준비 통보\"…국제유가 3% 가까이 급등",
+   "url": "https://www.fnnews.com/news/202610290451511228",
+   "source": "파이낸셜뉴스",
+   "summary": "미국이 중간선거 뒤 이란 공격 재개 가능성을 걸프국에 통보했다는 보도에 국제유가가 3% 가까이 올랐다."
+  },
+  {
+   "title": "알파벳, 대규모 AI 투자에 현금 소진 심화…시간외서 주가 10% 급락(종합)",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441734",
+   "source": "연합인포맥스",
+   "summary": "구글 모회사 알파벳이 3분기 매출 기대 미달과 AI 투자 현금 소진 우려로 시간외 주가가 10% 급락했다."
+  },
+  {
+   "title": "MS 분기 매출 124조 원으로 19% 급증...'애저' 48% 폭풍 성장 덕",
+   "url": "https://www.ytn.co.kr/_ln/0104_202610290746192594",
+   "source": "YTN",
+   "summary": "마이크로소프트의 7~9월 매출이 1년 전보다 19% 늘었고 클라우드 애저가 48% 성장했다."
+  },
+  {
+   "title": "‘내란 우두머리’ 윤석열 항소심…내일 특검 구형",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8697922",
+   "source": "KBS 뉴스",
+   "summary": "1심 무기징역을 받은 윤석열 전 대통령의 내란 우두머리 항소심에서 특검 구형이 예정돼 있다."
+  },
+  {
+   "title": "서울 광화문서 10·29 이태원참사 4주기 기억식",
+   "url": "https://www.yna.co.kr/view/MYH20261029002000038",
+   "source": "연합뉴스",
+   "summary": "오늘 오전 광화문광장에서 공식 추모식"
+  },
+  {
+   "title": "“SCM 내년 초로 연기”…민주당 진성준 비자 거부",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820084",
+   "source": "SBS",
+   "summary": "한미 SCM 28년 만에 해 넘겨"
+  },
+  {
+   "title": "‘외국인·다문화’ 잇단 발언 논란…청와대 진화",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820015",
+   "source": "SBS",
+   "summary": "야당 비판에 청와대가 진화 나서"
+  },
+  {
+   "title": "조희대 의혹 전부 조사?…‘사법권 침해’ 논란",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819907",
+   "source": "SBS",
+   "summary": "민주당, 12월 초 국정조사 추진"
+  },
+  {
+   "title": "“청년층 더 떠날라”…가상자산 과세 안할 듯",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819694",
+   "source": "SBS",
+   "summary": "당정, 과세 또 유예에 무게"
+  },
+  {
+   "title": "공정위, '라면 담합' 의혹‥농심·삼양·팔도·오뚜기 현장조사",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6861414_36932.html",
+   "source": "MBC 뉴스",
+   "summary": "공정거래위원회가 라면 가격 담합 의혹으로 농심·삼양·팔도·오뚜기를 현장조사했다."
+  },
+  {
+   "title": "이정재·정우성 투자 정보로 12.5억 부당이득…증선위, 관련자 고발",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441706",
+   "source": "연합인포맥스",
+   "summary": "이정재·정우성 참여 회사의 유상증자 정보를 미리 알고 12억여 원을 챙긴 관련자를 증선위가 고발했다."
+  },
+  {
+   "title": "젤렌스키 \"3자 회담, 다음 달 6~10일 내 열어야\"…크렘린은 신중",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261029035100Isd",
+   "source": "연합뉴스TV",
+   "summary": "젤렌스키 대통령이 미·러·우 3자 종전 회담을 다음 달 6~10일 열어야 한다고 했고 크렘린은 신중한 입장이다."
+  },
+  {
+   "title": "낙선 보우소나루, 출국 금지 위반하고 미국행…“내가 정당한 대통령”",
+   "url": "https://www.hani.co.kr/arti/international/international_general/1284725.html",
+   "source": "한겨레",
+   "summary": "브라질 대선에서 진 플라비우 보우소나루 상원의원이 출국 금지를 어기고 미국에 가 자신이 정당한 대통령이라고 주장했다."
+  },
+  {
+   "title": "대신증권, 고객정보 3만8천여건 유출…긴급 대응조치 시행",
+   "url": "https://www.yna.co.kr/view/AKR20261028036900008",
+   "source": "연합뉴스",
+   "summary": "대표 사과, 피해 배상 약속"
+  },
+  {
+   "title": "구글·애플 637억 과징금…3년 걸린 결정",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819699",
+   "source": "SBS",
+   "summary": "인앱결제 강제에 과징금"
+  },
+  {
+   "title": "애플, 첫 터치스크린 적용한 맥북프로 공개",
+   "url": "https://www.dt.co.kr/article/12091958",
+   "source": "디지털타임스",
+   "summary": "국내 11월 6일 출시"
+  },
+  {
+   "title": "폭발 현장 달려가 가스통 밸브 잠근 시민…알고보니 배우(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261028149151065",
+   "source": "연합뉴스",
+   "summary": "인천 상가 사고 현장의 시민"
+  },
+  {
+   "title": "최형우, 홈런에 보살까지…삼성, PO 승부 원점으로",
+   "url": "https://www.yna.co.kr/view/MYH20261028000300038",
+   "source": "연합뉴스",
+   "summary": "삼성, KIA 꺾고 1승 1패"
+  },
+  {
+   "title": "10월 기업 체감경기 5.1p↑…“제조업·비제조업 동반 개선”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8698131",
+   "source": "KBS 뉴스",
+   "summary": "한국은행 조사에서 10월 기업 체감경기가 5.1포인트 올라 제조업과 비제조업이 함께 개선됐다."
+  },
+  {
+   "title": "인천 강화 소 농장서 구제역 확인…올해 15번째 발생",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8698104",
+   "source": "KBS 뉴스",
+   "summary": "인천 강화군 소 농장에서 구제역이 확인돼 올해 15번째 발생으로 집계됐다."
+  },
+  {
+   "title": "PHP 공격으로 전세계 서버 25대 장악…한국도 공격 대상 포함",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610290807122ai",
+   "source": "연합뉴스TV",
+   "summary": "PHP 취약점을 노린 공격으로 미국 정부 관련 시스템 등 서버 25대의 관리자 권한이 탈취됐고 한국도 대상에 포함됐다."
+  },
+  {
+   "title": "‘총선 과반 실패’ 네타냐후의 운명, 아랍계 정당 손에 달렸다",
+   "url": "https://www.chosun.com/international/international_general/2026/10/29/RCKYHNOCPRCV7LNLXVT3CM3GA4/",
+   "source": "조선일보",
+   "summary": "이스라엘 총선에서 네타냐후 진영과 야권 모두 과반에 못 미쳐 아랍계 정당이 캐스팅보트를 쥐게 됐다."
+  },
+  {
+   "title": "[주말 단신] 팬텀 블레이드 제로, 출시 앞두고 긍정적 평가",
+   "url": "https://www.gameinsight.co.kr/news/articleView.html?idxno=36901",
+   "source": "게임인사이트",
+   "summary": "출시 전 리뷰 호평"
+  },
+  {
+   "title": "이 대통령, 민주당 중진 의원들과 만찬…“경륜·지혜, 국정 운영에 반영”",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819890",
+   "source": "SBS",
+   "summary": "5선 이상 중진들과 만찬"
+  },
+  {
+   "title": "이 대통령 “의무공개매수제, 우려와 현실적 고민 교차…균형점 찾아야”",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819551",
+   "source": "SBS",
+   "summary": "제도 도입 균형점 강조"
+  },
+  {
+   "title": "[오늘날씨] “패딩 꺼내세요” 일부 영하권, 기온 ‘뚝’…오후부터 중부 비",
+   "url": "https://www.mt.co.kr/society/2026/10/29/2026102817231457553",
+   "source": "머니투데이",
+   "summary": "아침 추위, 오후 중부 비"
+  }
+ ]
 }
