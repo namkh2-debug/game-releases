@@ -1,110 +1,109 @@
 {
- "updatedAt": "2026-10-29T17:14:00+09:00",
+ "updatedAt": "2026-10-29T18:04:29+09:00",
  "topics": [
-  "골드만삭스 티맵 인수 추진",
-  "빗썸 고객정보 유출",
-  "구글 딥마인드 지니 4",
-  "라이어 30일 첫방 내기",
-  "백수 이세돌 예능",
-  "퇴근 전 트렌치·스카프",
-  "하루 무사히 애정",
-  "퇴근길 우산 경쟁",
-  "메모 칭찬 vs 커피 질투",
-  "금요일 립 대결 응원"
+  "위치브룩 1월 28일 출시",
+  "건담 배틀오퍼레이션3 크로스플레이",
+  "애플 터치스크린 맥북프로",
+  "팀홀튼 성수점 11/3 오픈",
+  "언더커버 셰프 어묵탕·붕어빵 이어가기",
+  "비 오는 퇴근길 트렌치·스카프",
+  "숏패딩 vs 롱패딩 경쟁",
+  "빗소리 그리움 애정",
+  "작은 우산 팔짱 설렘 농담",
+  "하루 마무리 하이파이브 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "골드만삭스가 티맵을 인수하려 한대",
-   "line2": "언니 출퇴근 내비도 주인 바뀌겠네요",
+   "line1": "'위치브룩' 내년 1월 28일 나온대",
+   "line2": "마법 대학 생활이라니, 언니 또 밤새겠네요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261029060200017"
+  },
+  {
+   "a": "jiwon",
+   "line1": "건담 배틀오퍼3, PS5랑 PC 크로스플레이래",
+   "line2": "언니 기체 고르는 데만 한 시간 걸리죠?",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "squabble",
+   "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309795"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 애플이 터치되는 맥북프로 냈대요",
+   "line2": "화면에 손자국 남으면 내가 닦아 줄게",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "talkto",
-   "url": "https://www.hankyung.com/article/202610293603i"
+   "pose2": "thumbs",
+   "url": "https://www.dt.co.kr/article/12091958"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 빗썸 고객정보도 수백 건 샜대요",
-   "line2": "코인 하는 친구들 비번부터 바꾸라 해야지",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "none",
-   "pose2": "think",
-   "url": "https://www.yna.co.kr/view/AKR20261029169151002"
-  },
-  {
-   "a": "jiwon",
-   "line1": "구글이 가상세계 만드는 AI '지니 4' 냈대",
-   "line2": "말하는 대로 게임 맵이 생긴다니 신기해요",
-   "mood1": "surprised",
-   "mood2": "surprised",
-   "pose1": "think",
-   "pose2": "none"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일 밤 유연석·서현진 '라이어' 첫방이에요",
-   "line2": "누가 거짓말하는지 우리 내기 한 판 하자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610290140"
-  },
-  {
-   "a": "jiwon",
-   "line1": "이세돌 9단이 '백수 이세돌'로 예능 한대",
-   "line2": "배달 라이더 도전이라니 금요일에 봐요",
+   "line1": "팀홀튼 성수점 11월 3일에 정식 오픈래요",
+   "line2": "베이글 줄은 이번엔 같이 서자, 반칙 없이",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202610290140"
-  },
-  {
-   "a": "hyewon",
-   "line1": "퇴근 전에 트렌치 다시 입고 벨트 묶었어요",
-   "line2": "나도 스카프 풀어서 목에 한 번 더 감았어",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "down"
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오늘 하루 무사히 마치시길 빌었어",
-   "line2": "저는 내일 아침 첫인사를 미리 연습해요",
+   "line1": "언더커버 셰프 40분 남았다, 어묵탕 준비 끝",
+   "line2": "붕어빵 팥이랑 슈크림 반반 사 갈게요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "heart",
+   "pose1": "cheer",
    "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "퇴근길 우산은 이번엔 제가 씌워 드릴래요",
-   "line2": "흥, 난 차 문 앞까지 우산 들고 따라갈걸?",
-   "mood1": "smile",
+   "line1": "퇴근길 비 와서 트렌치 깃까지 세웠어요",
+   "line2": "난 스카프로 머리까지 감쌌어, 영화 같지?",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원아, 아까 경훈씨가 네 메모만 칭찬하셨지?",
-   "line2": "언니 커피는 두 잔째 드셨잖아요, 비겼죠",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
+   "pose1": "down",
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 오늘도 고생 많았어요",
-   "line2": "내일은 금요일이야, 립 대결 준비됐지?",
+   "line1": "뉴발란스 숏패딩 입고 경훈씨께 먼저 보일래요",
+   "line2": "흥, 난 롱패딩에 목도리 둘러 드릴 건데?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "charm",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "jiwon",
+   "line1": "빗소리 들으면 경훈씨 목소리가 그리워져",
+   "line2": "저는 내일 아침 첫 '안녕하세요' 기다려요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "비 오는 밤엔 팔짱이 저절로 낀대요",
+   "line2": "그럼 우산은 일부러 작은 거 사야겠다?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘도 하루 잘 버틴 우리, 칭찬해",
+   "line2": "언니랑 하이파이브하면 피곤이 반으로 줄어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "clap",
    "pose2": "highfive"
   }
  ]
