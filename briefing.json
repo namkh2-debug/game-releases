@@ -1,9 +1,9 @@
 {
   "date": "2026-10-29",
-  "updatedAt": "2026-10-29T20:07:04+09:00",
+  "updatedAt": "2026-10-29T21:12:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 7.6,
+    "temp": 7.3,
     "low": 1,
     "high": 14,
     "condition": "맑음",
@@ -14,19 +14,19 @@
   },
   "breaking": [
     {
-      "title": "李대통령 “독일과 ‘강화된 전략적 동반자 관계’ 수립”",
-      "url": "https://www.sedaily.com/article/20108033",
-      "source": "서울경제"
+      "title": "中, 5중전회서 '엄격한 당 관리' 결정 채택",
+      "url": "https://www.yna.co.kr/view/AKR20261029198000083",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "李대통령 \"한-독 '강화된 전략적동반자 관계' 수립\"",
+      "url": "https://www.news1.kr/politics/president/6336979",
+      "source": "뉴스1"
     },
     {
       "title": "국정원 \"김정은, 북미 대화 의중 전달하러 방중한 듯\"",
       "url": "https://www.ytn.co.kr/_ln/0101_202610291804290244",
       "source": "YTN"
-    },
-    {
-      "title": "국정원 \"北 대남방송 보도, 사실 아니다…주민 잘못 신고\"",
-      "url": "https://www.yna.co.kr/view/AKR20261029190800001",
-      "source": "연합뉴스"
     },
     {
       "title": "빗썸 \"고객 해킹 유출 규모 6444명…개인정보 노출은 844명\"",
@@ -105,6 +105,24 @@
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441734",
       "source": "연합인포맥스",
       "summary": "구글 모회사 알파벳이 3분기 매출 기대 미달과 AI 투자 현금 소진 우려로 시간외 주가가 10% 급락했다."
+    },
+    {
+      "title": "국회의원 비자 거부 속출에 SCM은 내년으로…한미관계 '난기류'",
+      "url": "https://www.yna.co.kr/view/AKR20261029163500504",
+      "source": "연합뉴스",
+      "summary": "국회의원 방미 비자 거부가 잇따르고 한미안보협의회가 내년으로 미뤄지며 한미관계 이상 신호 우려가 커졌다."
+    },
+    {
+      "title": "국정원 \"北, 김주애 '軍지도자 서사' 구축…4개월째 사정 작업\"",
+      "url": "https://www.yna.co.kr/view/AKR20261029147551001",
+      "source": "연합뉴스",
+      "summary": "국정원은 김주애가 후계자 내정 단계를 공고히 하며 군 지도자 이미지를 강화하고 있다고 국감에서 보고했다."
+    },
+    {
+      "title": "\"응급실 압수수색은 건국 이래 최초\"…의협, 경찰에 사과 요구",
+      "url": "https://www.yna.co.kr/view/AKR20261029157200530",
+      "source": "연합뉴스",
+      "summary": "의협은 아주대병원 소아응급센터 압수수색 이후 전문의 7명이 사직 의사를 밝혔다며 경찰 사과를 촉구했다."
     },
     {
       "title": "MS 분기 매출 124조 원으로 19% 급증...'애저' 48% 폭풍 성장 덕",
@@ -201,18 +219,6 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819699",
       "source": "SBS",
       "summary": "인앱결제 강제에 과징금"
-    },
-    {
-      "title": "애플, 첫 터치스크린 적용한 맥북프로 공개",
-      "url": "https://www.dt.co.kr/article/12091958",
-      "source": "디지털타임스",
-      "summary": "국내 11월 6일 출시"
-    },
-    {
-      "title": "한화에어로 3분기 영업익 4천520억원…물량인도 지연에 46%↓",
-      "url": "https://www.yna.co.kr/view/AKR20261029148951527",
-      "source": "연합뉴스",
-      "summary": "수출 물량 인도 지연으로 한화에어로스페이스 3분기 영업이익이 1년 전보다 46% 줄었다."
     }
   ]
 }
