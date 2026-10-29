@@ -1,110 +1,110 @@
 {
- "updatedAt": "2026-10-29T18:04:29+09:00",
+ "updatedAt": "2026-10-29T19:04:14+09:00",
  "topics": [
-  "위치브룩 1월 28일 출시",
-  "건담 배틀오퍼레이션3 크로스플레이",
-  "애플 터치스크린 맥북프로",
-  "팀홀튼 성수점 11/3 오픈",
-  "언더커버 셰프 어묵탕·붕어빵 이어가기",
-  "비 오는 퇴근길 트렌치·스카프",
-  "숏패딩 vs 롱패딩 경쟁",
-  "빗소리 그리움 애정",
-  "작은 우산 팔짱 설렘 농담",
-  "하루 마무리 하이파이브 응원"
+  "설악산 첫눈 겨울캠핑",
+  "나인 투 식스 11/25 첫방",
+  "노브랜드 버거 성수 팝업 내일 시작",
+  "경기 버스 최종 협상 출근길 걱정",
+  "카디건·로즈브라운 저녁 퇴근룩",
+  "노크 소리·결재 사인 설렘 애정",
+  "손편지 보고서 vs 표지 색 경쟁",
+  "엘리베이터 두 층 질투",
+  "하루 마무리 차 한 잔",
+  "주말에도 생각나는 경훈씨"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'위치브룩' 내년 1월 28일 나온대",
-   "line2": "마법 대학 생활이라니, 언니 또 밤새겠네요",
-   "mood1": "smile",
+   "line1": "설악산 대청봉에 오늘 첫눈 왔대",
+   "line2": "언니 벌써 겨울 캠핑 장비 꺼낼 눈빛인데요?",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261029060200017"
-  },
-  {
-   "a": "jiwon",
-   "line1": "건담 배틀오퍼3, PS5랑 PC 크로스플레이래",
-   "line2": "언니 기체 고르는 데만 한 시간 걸리죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "squabble",
-   "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309795"
+   "url": "https://www.yna.co.kr/view/AKR20261029106051062"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 애플이 터치되는 맥북프로 냈대요",
-   "line2": "화면에 손자국 남으면 내가 닦아 줄게",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.dt.co.kr/article/12091958"
-  },
-  {
-   "a": "hyewon",
-   "line1": "팀홀튼 성수점 11월 3일에 정식 오픈한대요",
-   "line2": "베이글 줄은 이번엔 같이 서자, 반칙 없이",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "jiwon",
-   "line1": "언더커버 셰프 40분 남았다, 어묵탕 준비 끝",
-   "line2": "붕어빵 팥이랑 슈크림 반반 사 갈게요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "wave"
-  },
-  {
-   "a": "hyewon",
-   "line1": "퇴근길 비 와서 트렌치 깃까지 세웠어요",
-   "line2": "난 스카프로 머리까지 감쌌어, 영화 같지?",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "뉴발란스 숏패딩 입고 경훈씨께 먼저 보일래요",
-   "line2": "흥, 난 롱패딩에 목도리 둘러 드릴 건데?",
+   "line1": "박민영 '나인 투 식스' 11월 25일 첫방이래요",
+   "line2": "오피스 로맨스? 우리 사무실 얘기 아니야?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "faceoff"
+   "pose2": "look",
+   "url": "https://www.mk.co.kr/news/broadcasting-service/12181690"
+  },
+  {
+   "a": "hyewon",
+   "line1": "노브랜드 버거 성수 팝업, 드디어 내일부터예요",
+   "line2": "가위바위보 연습했어, 버거는 내가 고른다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "빗소리 들으면 경훈씨 목소리가 그리워져",
-   "line2": "저는 내일 아침 첫 '안녕하세요' 기다려요",
+   "line1": "경기 버스, 오늘 밤 최종 협상 중이래",
+   "line2": "내일 아침 경훈씨 출근길이 제일 걱정이에요",
    "mood1": "neutral",
+   "mood2": "sad",
+   "pose1": "think",
+   "pose2": "none",
+   "url": "https://www.yna.co.kr/view/AKR20261029174200061"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 카디건 소매 걷으니까 퇴근 모드네요",
+   "line2": "너도 로즈 브라운 립, 저녁 조명에 딱이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 계신 방 노크 소리만 들어도 설레",
+   "line2": "저는 결재 사인 받을 때 심장이 콩콩해요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "비 오는 밤엔 팔짱이 저절로 낀대요",
-   "line2": "그럼 우산은 일부러 작은 거 사야겠다?",
+   "line1": "내일은 손편지 붙인 보고서로 승부할 거예요",
+   "line2": "그럼 난 표지에 경훈씨 좋아하는 색 쓸래",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
+   "pose1": "charm",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 아까 경훈씨랑 엘리베이터 둘만 탔죠?",
+   "line2": "두 층이었어, 질투하는 얼굴 귀엽다 얘",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
    "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "오늘도 하루 잘 버틴 우리, 칭찬해",
-   "line2": "언니랑 하이파이브하면 피곤이 반으로 줄어요",
+   "line1": "오늘도 수고했어, 따뜻한 차 한 잔 하자",
+   "line2": "언니가 타 주는 차가 제일 맛있어요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "highfive"
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "주말엔 뭐 하든 경훈씨 생각날 것 같아요",
+   "line2": "나도, 월요일 아침이 벌써 기다려지네",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "wave"
   }
  ]
 }
