@@ -1,9 +1,9 @@
 {
  "date": "2026-10-29",
- "updatedAt": "2026-10-29T11:10:00+09:00",
+ "updatedAt": "2026-10-29T12:15:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 8.5,
+  "temp": 10.1,
   "low": 1,
   "high": 14,
   "condition": "맑음",
@@ -14,43 +14,43 @@
  },
  "breaking": [
   {
-   "title": "국토장관 \"서울 신규택지 협의 중…용산공원, 미군기지 반환 입법 공론화 필요\"",
-   "url": "https://www.newsis.com/view/NISX20261029_0003846087",
-   "source": "뉴시스"
+   "title": "특검, '내란우두머리' 尹 항소심도 사형 구형…\"헌정질서 부정·전복하려 한 반역자\"",
+   "url": "https://www.newspim.com/news/view/20261029000722",
+   "source": "뉴스핌"
   },
   {
-   "title": "교육부 \"수능 시험장에 스마트안경 판단 전담 인력 배치\"",
-   "url": "https://www.newsis.com/view/NISX20261029_0003845943",
-   "source": "뉴시스"
+   "title": "조희대 대법원장 탄핵 ‘반대’ 45%·‘찬성’ 34% [NBS]",
+   "url": "https://www.mk.co.kr/article/12189698",
+   "source": "매일경제"
   },
   {
-   "title": "코스피, 반도체 강세에 1.4% 강세…6100선 터치",
-   "url": "https://www.newsis.com/view/NISX20261029_0003845994",
-   "source": "뉴시스"
+   "title": "미래에셋, 日 산코증권 인수…국내 최초 현지 증권사 M&A",
+   "url": "https://www.ikbc.co.kr/article/view/kbc202610290024",
+   "source": "KBC광주방송"
   },
   {
-   "title": "수도권 신규택지 6곳 지정…김포아라 등 7.67만호",
-   "url": "https://www.newsis.com/view/NISX20261029_0003845843",
-   "source": "뉴시스"
+   "title": "이 대통령 지지율 46%…민주당 36%·국힘 25% [NBS]",
+   "url": "https://www.mk.co.kr/news/politics/12189644",
+   "source": "매일경제"
   },
   {
-   "title": "삼성전자, 3분기 영업익 107조4000억원 '역대 최대'… 반도체서만 106조5000억원",
-   "url": "https://www.chosun.com/economy/tech_it/2026/10/29/HBTDIOJWGRSDCOBSMNSWGNLDGM/",
-   "source": "조선일보"
+   "title": "삼성전자 \"내년 HBM 공급협상 완료…완판속 추가 요청\"",
+   "url": "https://www.yna.co.kr/amp/view/AKR20261029088900003",
+   "source": "연합뉴스"
   }
  ],
  "news": [
-  {
-   "title": "윤석열 내란 우두머리 항소심 결심 시작...특검, 사형 구형 주목",
-   "url": "https://www.ytn.co.kr/_ln/0103_202610290940405557",
-   "source": "YTN",
-   "summary": "서울고법에서 윤 전 대통령 내란 우두머리 혐의 항소심 결심이 시작돼 특검 구형에 관심이 쏠린다."
-  },
   {
    "title": "경기도 \"버스 총파업 땐 전철·택시 집중 배차\"",
    "url": "https://www.yna.co.kr/view/AKR20261029072200060",
    "source": "연합뉴스",
    "summary": "오늘 오후 최종 조정이 결렬되면 30일 첫차부터 경기 29개 업체 버스가 멈출 수 있어 비상수송대책을 마련했다."
+  },
+  {
+   "title": "이 대통령, 이태원참사 추모식 참석…“국가 방임에 국민 희생 안 돼”",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1284766.html",
+   "source": "한겨레",
+   "summary": "이재명 대통령이 이태원참사 4주기 추모식에서 국가의 부재·방임으로 국민이 희생되는 일이 없게 하겠다고 말했다."
   },
   {
    "title": "美기준금리 3.75∼4.00% 동결…지난달 인상 뒤 숨고르기",
@@ -89,6 +89,12 @@
    "summary": "마이크로소프트의 7~9월 매출이 1년 전보다 19% 늘었고 클라우드 애저가 48% 성장했다."
   },
   {
+   "title": "WSJ “미국 부통령, 트럼프 지시로 이란 강경파에 협상 재개 서한”",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8698317",
+   "source": "KBS 뉴스",
+   "summary": "WSJ는 밴스 미 부통령이 트럼프 지시로 이란 강경파 안보 수장에게 협상 재개를 촉구하는 서한을 보냈다고 보도했다."
+  },
+  {
    "title": "한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬",
    "url": "https://www.hankyung.com/article/2026102924627",
    "source": "한국경제",
@@ -99,12 +105,6 @@
    "url": "https://www.hankyung.com/article/202610291879i",
    "source": "한국경제",
    "summary": "삼성전자가 역대 최대 실적과 함께 3분기 주당 4601원의 배당을 결정했다."
-  },
-  {
-   "title": "서울 광화문서 10·29 이태원참사 4주기 기억식",
-   "url": "https://www.yna.co.kr/view/MYH20261029002000038",
-   "source": "연합뉴스",
-   "summary": "오늘 오전 광화문광장에서 공식 추모식"
   },
   {
    "title": "소방청 \"인천 쿠팡 물류센터 화재 원인은 리튬배터리 열폭주\"",
@@ -125,6 +125,12 @@
    "summary": "야당 비판에 청와대가 진화 나서"
   },
   {
+   "title": "서울시, 주말 핼러윈 앞두고 내일부터 인파 관리…현장 상황실 가동",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8698416",
+   "source": "KBS 뉴스",
+   "summary": "서울시와 자치구가 핼러윈 주말 인파에 대비해 내일부터 현장 상황실을 가동하고 인파 관리에 나선다."
+  },
+  {
    "title": "조희대 의혹 전부 조사?…‘사법권 침해’ 논란",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819907",
    "source": "SBS",
@@ -141,6 +147,12 @@
    "url": "https://imnews.imbc.com/news/2026/econo/article/6861414_36932.html",
    "source": "MBC 뉴스",
    "summary": "공정거래위원회가 라면 가격 담합 의혹으로 농심·삼양·팔도·오뚜기를 현장조사했다."
+  },
+  {
+   "title": "2030년까지 전 사업장 퇴직금 사외적립 의무화",
+   "url": "https://www.khan.co.kr/article/202610291045001",
+   "source": "경향신문",
+   "summary": "2030년까지 모든 사업장에 퇴직급여 사외적립이 단계적으로 의무화되고 기금형 퇴직연금에 민간 금융사 참여가 허용된다."
   },
   {
    "title": "이정재·정우성 투자 정보로 12.5억 부당이득…증선위, 관련자 고발",
@@ -179,12 +191,6 @@
    "summary": "국내 11월 6일 출시"
   },
   {
-   "title": "폭발 현장 달려가 가스통 밸브 잠근 시민…알고보니 배우(종합)",
-   "url": "https://www.yna.co.kr/view/AKR20261028149151065",
-   "source": "연합뉴스",
-   "summary": "인천 상가 사고 현장의 시민"
-  },
-  {
    "title": "최형우, 홈런에 보살까지…삼성, PO 승부 원점으로",
    "url": "https://www.yna.co.kr/view/MYH20261028000300038",
    "source": "연합뉴스",
@@ -213,12 +219,6 @@
    "url": "https://www.chosun.com/international/international_general/2026/10/29/RCKYHNOCPRCV7LNLXVT3CM3GA4/",
    "source": "조선일보",
    "summary": "이스라엘 총선에서 네타냐후 진영과 야권 모두 과반에 못 미쳐 아랍계 정당이 캐스팅보트를 쥐게 됐다."
-  },
-  {
-   "title": "이 대통령, 민주당 중진 의원들과 만찬…“경륜·지혜, 국정 운영에 반영”",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819890",
-   "source": "SBS",
-   "summary": "5선 이상 중진들과 만찬"
   }
  ]
 }
