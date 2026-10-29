@@ -1,105 +1,107 @@
 {
-  "updatedAt": "2026-10-30T06:22:00+09:00",
+  "updatedAt": "2026-10-30T07:15:00+09:00",
   "topics": [
-    "크림슨 데저트 첫 DLC",
-    "지수·제니 신곡 출근길",
-    "버건디 니트 vs 아이보리 블라우스 출근룩",
-    "블라인드 립 대결 쪽지 경쟁",
-    "주말 푹 쉬시길 애정",
-    "최불암 별세 추모",
-    "노브랜드 버거 성수 팝업",
-    "불금 향수 설렘 농담",
-    "출근길 핫팩 안부",
-    "웃는 얼굴 백 점 애교"
+    "울프 어몽 어스 리마스터드 메타 86점",
+    "퇴직금 사외적립 의무화",
+    "뉴발란스 플라잉77 패딩 팝업",
+    "영화 호프 청룡 10개 부문 후보",
+    "아이보리 블라우스·카디건 출근룩",
+    "금요일 바닐라라떼 vs 수제 쿠키 경쟁",
+    "경훈씨 자리 쪽지 질투",
+    "경훈씨 계신 금요일 설렘",
+    "삼성 PO 3차전 승리, 점심 내기 이어가기",
+    "책상 꽃 애교"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "크림슨 데저트 첫 DLC, 오늘 아침 7시에 풀린대",
-      "line2": "출근 전에 한 판? 지각하면 안 돼요",
+      "line1": "울프 어몽 어스 리마스터드, 메타 86점이래",
+      "line2": "언니 주말은 벌써 게임으로 꽉 찼죠?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "think",
-      "url": "https://pogwire.com/releases/new-games-this-week"
+      "pose2": "laugh",
+      "url": "https://www.metacritic.com/news/major-new-and-upcoming-video-games-ps5-xbox-switch-pc/"
+    },
+    {
+      "a": "jiwon",
+      "line1": "퇴직금, 회사 밖에 쌓는 게 의무화된대",
+      "line2": "오, 우리 노후도 조금 든든해지겠네요",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "thumbs",
+      "url": "https://www.khan.co.kr/article/202610292153025/"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 지수 신곡 8시예요, 출근길에 같이 들어요",
-      "line2": "좋아, 제니 앨범도 오늘이니 둘 다 듣자",
+      "line1": "뉴발란스 플라잉77 팝업, 숏패딩 예쁘대요",
+      "line2": "넌 숏, 난 롱! 퇴근길에 같이 보자",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
+      "pose1": "talkto",
       "pose2": "thumbs"
     },
     {
       "a": "hyewon",
-      "line1": "오늘 버건디 니트 입었어요, 립 대결 전투복!",
-      "line2": "난 아이보리 블라우스, 차분함으로 승부야",
-      "mood1": "smile",
+      "line1": "영화 호프가 청룡 10개 부문 후보래요",
+      "line2": "아직 못 봤어, 주말에 팝콘 들고 볼래",
+      "mood1": "surprised",
       "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "charm"
+      "pose1": "talkto",
+      "pose2": "think",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819992"
     },
     {
       "a": "jiwon",
-      "line1": "블라인드 대결, 내 립을 경훈씨 손에 먼저 드릴래",
-      "line2": "전 립 옆에 작은 쪽지까지 붙여 둘 건데요?",
+      "line1": "아이보리 블라우스, 오후엔 카디건 걸칠래",
+      "line2": "언니 아이보리 진짜 잘 받아요, 우아해",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs"
+    },
+    {
+      "a": "hyewon",
+      "line1": "경훈씨 금요일 커피는 제가 바닐라라떼로!",
+      "line2": "난 쿠키 구워 왔거든? 손맛으로 승부야",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "squabble"
     },
     {
+      "a": "hyewon",
+      "line1": "언니 아까 경훈씨 자리에 쪽지 두고 왔죠?",
+      "line2": "흥, 업무 메모야. 하트는 쬐끔만 그렸어",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "charm"
+    },
+    {
       "a": "jiwon",
-      "line1": "경훈씨 이번 주 고생 많으셨지, 주말엔 푹 쉬셨으면",
-      "line2": "월요일엔 제가 제일 먼저 반겨 드릴래요",
+      "line1": "경훈씨 계신 금요일은 시간이 빨리 가",
+      "line2": "맞아요, 한마디만 해 주셔도 설레요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
       "pose2": "love"
     },
     {
-      "a": "hyewon",
-      "line1": "최불암 선생님 별세 소식에 마음이 먹먹해요",
-      "line2": "전원일기 보며 자라서 더 그렇네",
-      "mood1": "sad",
-      "mood2": "sad",
-      "pose1": "none",
-      "pose2": "none",
-      "url": "https://www.ytn.co.kr/_ln/0106_202610300423359498"
-    },
-    {
-      "a": "hyewon",
-      "line1": "노브랜드 버거 성수 팝업, 오늘부터래요",
-      "line2": "점심 가위바위보, 이번엔 안 진다",
-      "mood1": "smile",
+      "a": "jiwon",
+      "line1": "삼성이 PO 3차전 KIA를 6대4로 이겼대",
+      "line2": "언니, 이번엔 점심 내기 안 걸 거예요",
+      "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "cheer"
-    },
-    {
-      "a": "jiwon",
-      "line1": "불금이라 그런가, 향수 좀 진하게 뿌렸어",
-      "line2": "언니, 그 향 누구 코앞에서 터뜨리려고요?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "laugh"
-    },
-    {
-      "a": "jiwon",
-      "line1": "혜원아, 출근길 손 시렸지? 손 줘 봐",
-      "line2": "언니 손이 더 차요, 핫팩 나눠 드릴게",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "look"
+      "pose2": "laugh",
+      "url": "https://www.khan.co.kr/article/202610292235005/"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 오늘 제 웃는 얼굴 몇 점이에요?",
-      "line2": "백 점, 경훈씨도 그렇게 말씀하실걸",
+      "line1": "경훈씨 오시면 제 책상 꽃 보여 드릴래요",
+      "line2": "꽃보다 네 웃음이 예쁘다 하실걸",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
