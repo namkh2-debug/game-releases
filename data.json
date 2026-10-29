@@ -1,23 +1,35 @@
 {
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T09:13:40+09:00",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T09:03:02+09:00",
   "platforms": {
     "steam": [
-      {"title": "설퍼 (SULFUR)", "genre": "1인칭 로그라이트 슈터", "publisher": "Perfect Random / Perfect Random", "price": "미확인 (북미 $24.99 → $29.99로 인상)", "note": "앞서 해보기 종료, 1.0 정식 출시 · 한국어 지원(스토어 표기) · 예상 시각 북미 10/28 오후 3시(ET) = 한국 10/29 새벽 4시경(추정)"},
-      {"title": "겐나디 (Gennady)", "genre": "흑백 로그라이크 플랫포머", "publisher": "Feed 64 / Sobaka Studio (KIBORG)", "price": "미확인", "note": "한국어 지원 · 스팀·GOG · 체험판 배포 중"},
-      {"title": "엠버빌 (Emberville)", "genre": "미확인", "publisher": "미확인", "price": "미확인", "note": "스팀·GOG · 한국어 지원 미확인"}
+      {"title": "팬텀 블레이드 제로 (Phantom Blade Zero)", "genre": "쿵푸펑크 액션 RPG", "publisher": "S-GAME / S-GAME", "price": "₩69,800 (디럭스 ₩79,800)", "note": "한국어 인터페이스·자막 지원 · 한국 시간 오늘 오전 11시 출시 · 에픽 게임즈 스토어 동시 출시"},
+      {"title": "아노말리스 (ANOMALITH)", "genre": "이상현상 탐색 서바이벌 TPS", "publisher": "FuRyu / FuRyu", "price": "미확인 (일본 ¥8,580)", "note": "한국어 지원 미확인 · PS5·스위치 2 동시 출시"},
+      {"title": "테러블 리저즈 (Terrible Lizards)", "genre": "1인칭 호러 파쿠르", "publisher": "WDR Studios / Digital Pajamas, Behaviour Interactive", "price": "미확인 (북미 $24.99, 출시 할인 예정)", "note": "한국어 지원 미확인 · 예상 시각 한국 10/30 새벽 2시경(PS 스토어 기준 GMT 17시) · 체험판 배포 중"},
+      {"title": "울프 어몽 어스 리마스터드 (The Wolf Among Us Remastered)", "genre": "스토리 어드벤처", "publisher": "Telltale Games / Telltale Games, PM Studios", "price": "미확인 (북미 $24.99)", "note": "한국어 지원 미확인 · 11/12까지 신규 20%·원작 보유자 50% 할인 · 스위치판은 연기"},
+      {"title": "헌팅 시뮬레이터 3 (Hunting Simulator 3)", "genre": "사냥 시뮬레이션", "publisher": "Nacon Studio Ghent / Nacon", "price": "미확인 (북미 $49.99)", "note": "한국어 지원(공식 언어 목록)"},
+      {"title": "크록 2: 킹덤 오브 더 고보스 (Croc 2: Kingdom of the Gobbos)", "genre": "3D 플랫포머 리마스터", "publisher": "Argonaut Games / Argonaut Games", "price": "미확인", "note": "1999년작 리마스터 · 스팀·GOG · 한국어 지원 미확인"},
+      {"title": "호코 스페이시스 (Hokko Spaces)", "genre": "샌드박스", "publisher": "미확인", "price": "미확인", "note": "한국어 지원 미확인"}
     ],
     "playstation": [
-      {"title": "설퍼 (SULFUR)", "genre": "1인칭 로그라이트 슈터", "publisher": "Perfect Random / Perfect Random", "price": "미확인 (북미 약 $29.99 예상)", "note": "PS5·PS4 콘솔 첫 출시 · 한국어 지원(스토어 표기) · 한국 시간으로는 10/29 새벽일 가능성(추정)"},
-      {"title": "겐나디 (Gennady)", "genre": "흑백 로그라이크 플랫포머", "publisher": "Feed 64 / Sobaka Studio (KIBORG)", "price": "미확인", "note": "PS5·PS4 · 한국어 지원"},
-      {"title": "스노: 얼티밋 프리라이딩 (SNØ: Ultimate Freeriding)", "genre": "무한 다운힐 스키", "publisher": "Studio Gauntlet / AMATA Games", "price": "미확인 (북미 $13.99~)", "note": "PS5 · 한국어 미지원 · 2주간 20% 출시 할인(PS 스토어는 PS Plus 회원 전용) · 2025년 PC작 이식"}
+      {"title": "팬텀 블레이드 제로 (Phantom Blade Zero)", "genre": "쿵푸펑크 액션 RPG", "publisher": "S-GAME / S-GAME", "price": "₩69,800 (디럭스 ₩79,800)", "note": "PS5 · 한국어 자막 지원 · 한국 시간 오늘 오전 11시 · 디스크판은 2027년"},
+      {"title": "아노말리스 (ANOMALITH)", "genre": "이상현상 탐색 서바이벌 TPS", "publisher": "FuRyu / FuRyu", "price": "₩66,700", "note": "PS5 · 한국어 지원 미확인"},
+      {"title": "슈타인즈 게이트 RE:BOOT (STEINS;GATE RE:BOOT)", "genre": "비주얼 노벨 어드벤처", "publisher": "MAGES. / Spike Chunsoft", "price": "미확인", "note": "PS5 · 리메이크 · 공식 페이지 언어 목록에 한국어 없음(일·영·중) · 스팀판은 8/20 선출시"},
+      {"title": "테러블 리저즈 (Terrible Lizards)", "genre": "1인칭 호러 파쿠르", "publisher": "WDR Studios / Digital Pajamas, Behaviour Interactive", "price": "미확인 (북미 $24.99)", "note": "PS5 · 한국어 지원 미확인 · 한국 10/30 새벽 2시경 오픈"},
+      {"title": "울프 어몽 어스 리마스터드 (The Wolf Among Us Remastered)", "genre": "스토리 어드벤처", "publisher": "Telltale Games / Telltale Games, PM Studios", "price": "미확인 (북미 $24.99)", "note": "PS5 · 출시 할인은 PS Plus 필요 · PS4 디지털판 보유자도 원작 할인 대상"},
+      {"title": "마우스워싱 (Mouthwashing)", "genre": "심리 호러", "publisher": "Wrong Organ / CRITICAL REFLEX", "price": "미확인", "note": "PS5·PS4 콘솔 첫 출시 · 한국어 지원 미확인"},
+      {"title": "헌팅 시뮬레이터 3 (Hunting Simulator 3)", "genre": "사냥 시뮬레이션", "publisher": "Nacon Studio Ghent / Nacon", "price": "미확인 (유럽 €49.99)", "note": "PS5 · 한국어 지원 · 한국 시간 오늘 오후 6시 오픈(유럽 스토어 09:00 UTC 기준)"},
+      {"title": "크록 2: 킹덤 오브 더 고보스 (Croc 2: Kingdom of the Gobbos)", "genre": "3D 플랫포머 리마스터", "publisher": "Argonaut Games / Argonaut Games", "price": "미확인", "note": "PS5·PS4 · 한국어 지원 미확인"},
+      {"title": "메트로 리덕스 (Metro Redux)", "genre": "FPS 합본", "publisher": "4A Games / Deep Silver", "price": "보유자 무료 업데이트", "note": "PS5 차세대 업데이트(신작 아님) · 일본은 11월"},
+      {"title": "티타늄 코트 (Titanium Court)", "genre": "퍼즐·디펜스 로그라이트", "publisher": "미확인", "price": "미확인", "note": "PS5 콘솔판 · 출시일 공식 확인 부족"}
     ],
     "switch": [
-      {"title": "마인크래프트 (Minecraft)", "genre": "샌드박스", "publisher": "Mojang Studios / Microsoft", "price": "₩41,500 (패키지 키카드 정가)", "note": "스위치 2 전용판 · 한국어 지원 · 한국 패키지 오늘 출시(디지털은 어제) · 기존 스위치판 소유자 기간 한정 무료 업그레이드"},
-      {"title": "설퍼 (SULFUR)", "genre": "1인칭 로그라이트 슈터", "publisher": "Perfect Random / Perfect Random", "price": "미확인 (북미 $29.99, 11/5까지 20% 할인 $23.99)", "note": "스위치·스위치 2 · 한국어 지원(eShop 표기)"},
-      {"title": "겐나디 (Gennady)", "genre": "흑백 로그라이크 플랫포머", "publisher": "Feed 64 / Sobaka Studio (KIBORG)", "price": "미확인", "note": "스위치 · 한국어 지원"},
-      {"title": "시티즈: 스카이라인 - 익스팬디드 에디션 (Cities: Skylines – Expanded Edition)", "genre": "도시 건설 시뮬레이션", "publisher": "Colossal Order, Tantalus Media / Paradox Interactive", "price": "미확인 (북미 $49)", "note": "스위치 2 · DLC 10종 포함 · 기존 스위치판 소유자 70% 할인(2027/4/28까지) · 한국어 지원 미확인"},
-      {"title": "스노: 얼티밋 프리라이딩 (SNØ: Ultimate Freeriding)", "genre": "무한 다운힐 스키", "publisher": "Studio Gauntlet / AMATA Games", "price": "미확인 (북미 $13.99~)", "note": "스위치 2 · 한국어 미지원 · 2주간 20% 출시 할인"}
+      {"title": "귀멸의 칼날 히노카미 혈풍담 2 닌텐도 스위치 2 에디션 (Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 Nintendo Switch 2 Edition)", "genre": "대전 액션", "publisher": "CyberConnect2 / Aniplex (국내 세가퍼블리싱코리아)", "price": "미확인 (일본 ¥7,810)", "note": "스위치 2 · 한국어 자막 · 무한성편 제1장 캐릭터 패스 포함 · 기존 스위치판 업그레이드 패스 같은 날 출시"},
+      {"title": "아노말리스 (ANOMALITH)", "genre": "이상현상 탐색 서바이벌 TPS", "publisher": "FuRyu / FuRyu", "price": "미확인 (일본 ¥8,580)", "note": "스위치 2 · 한국어 지원 미확인"},
+      {"title": "슈타인즈 게이트 RE:BOOT (STEINS;GATE RE:BOOT)", "genre": "비주얼 노벨 어드벤처", "publisher": "MAGES. / Spike Chunsoft", "price": "미확인", "note": "스위치·스위치 2 · 공식 페이지 언어 목록에 한국어 없음"},
+      {"title": "마우스워싱 (Mouthwashing)", "genre": "심리 호러", "publisher": "Wrong Organ / CRITICAL REFLEX", "price": "미확인 (북미 $12.99)", "note": "스위치 · 한국어 지원 미확인"},
+      {"title": "크록 2: 킹덤 오브 더 고보스 (Croc 2: Kingdom of the Gobbos)", "genre": "3D 플랫포머 리마스터", "publisher": "Argonaut Games / Argonaut Games", "price": "미확인", "note": "스위치 · 한국어 지원 미확인"},
+      {"title": "티타늄 코트 (Titanium Court)", "genre": "퍼즐·디펜스 로그라이트", "publisher": "미확인", "price": "미확인", "note": "스위치·스위치 2 · 출시일 공식 확인 부족"}
     ]
   }
 }
