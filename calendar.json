@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-10-29T09:07:54+09:00",
- "from": "2026-10-29",
+ "updatedAt": "2026-10-30T09:06:42+09:00",
+ "from": "2026-10-30",
  "to": "2027-01-31",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,168 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-10-29",
-   "title": "팬텀 블레이드 제로",
-   "en": "Phantom Blade Zero",
-   "short": "팬텀블레이드",
-   "platforms": [
-    "steam",
-    "ps"
-   ],
-   "genre": "액션 RPG",
-   "price": "₩69,800 (디럭스 ₩79,800)",
-   "korean": "한국어 자막",
-   "note": "PS5는 오전 11시 오픈",
-   "url": "https://www.playstation.com/ko-kr/games/phantom-blade-zero/",
-   "major": true
-  },
-  {
-   "date": "2026-10-29",
-   "title": "아노말리스",
-   "en": "ANOMALITH",
-   "short": "아노말리스",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch"
-   ],
-   "genre": "서바이벌 슈터",
-   "price": "PS5 ₩66,700",
-   "korean": "한국어 지원",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "귀멸의 칼날 히노카미 혈풍담 2 (스위치2)",
-   "en": "Demon Slayer: The Hinokami Chronicles 2",
-   "short": "귀멸의칼날2",
-   "platforms": [
-    "switch"
-   ],
-   "genre": "액션",
-   "price": "",
-   "korean": "한국어 지원",
-   "note": "스위치 2판",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "슈타인즈 게이트 RE:BOOT",
-   "en": "STEINS;GATE RE:BOOT",
-   "short": "슈타게RE",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch"
-   ],
-   "genre": "어드벤처",
-   "price": "",
-   "korean": "미확인",
-   "note": "리메이크",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "테러블 리저즈",
-   "en": "Terrible Lizards",
-   "short": "테러블리저즈",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "서바이벌 호러",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "메트로 리덕스",
-   "en": "Metro Redux",
-   "short": "메트로리덕스",
-   "platforms": [
-    "ps",
-    "etc"
-   ],
-   "genre": "FPS 합본",
-   "price": "",
-   "korean": "미확인",
-   "note": "PS5·Xbox 신규 플랫폼",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "울프 어몽 어스 리마스터드",
-   "en": "The Wolf Among Us Remastered",
-   "short": "울프어몽어스",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "어드벤처",
-   "price": "",
-   "korean": "미확인",
-   "note": "스위치판은 연기(날짜 미정)",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "티타늄 코트",
-   "en": "Titanium Court",
-   "short": "티타늄코트",
-   "platforms": [
-    "ps",
-    "switch"
-   ],
-   "genre": "퍼즐·디펜스 로그라이트",
-   "price": "",
-   "korean": "미확인",
-   "note": "콘솔판",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "헌팅 시뮬레이터 3",
-   "en": "Hunting Simulator 3",
-   "short": "헌팅시뮬3",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "사냥 시뮬",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-29",
-   "title": "호코 스페이시스",
-   "en": "Hokko Spaces",
-   "short": "호코",
-   "platforms": [
-    "steam",
-    "switch"
-   ],
-   "genre": "샌드박스",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
   {
    "date": "2026-10-30",
    "title": "붉은사막 DLC: 미지의 여정",
@@ -1453,6 +1291,22 @@
    "major": true
   },
   {
+   "date": "2027-01-14",
+   "title": "13Z: 조디악 트라이얼",
+   "en": "13Z: The Zodiac Trials",
+   "short": "13Z",
+   "platforms": [
+    "ps",
+    "switch"
+   ],
+   "genre": "3D 액션 로그라이크",
+   "price": "",
+   "korean": "한국어 자막",
+   "note": "스위치2·PS5 · 최대 4인 협동",
+   "url": "https://www.cloudedleopardent.com/en/news/11291/",
+   "major": false
+  },
+  {
    "date": "2027-01-15",
    "title": "스트레인저 댄 헤븐",
    "en": "Stranger Than Heaven",
@@ -1546,10 +1400,10 @@
     "etc"
    ],
    "genre": "슈터",
-   "price": "",
+   "price": "$24.99",
    "korean": "미확인",
    "note": "3인칭 리메이크",
-   "url": "",
+   "url": "https://www.vertigo-games.com/arizona-sunshine-launches-january-21-2027/",
    "major": false
   },
   {
