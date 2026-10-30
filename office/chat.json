@@ -1,117 +1,110 @@
 {
-  "updatedAt": "2026-10-30T10:08:00+09:00",
-  "topics": [
-    "룩 아웃사이드 콘솔판 출시",
-    "닥터X 하얀 마피아의 시대",
-    "노브랜드 버거 성수 팝업 첫날",
-    "아이보리 블라우스·버건디 니트 칭찬",
-    "보고서 별 스티커 vs 손글씨 경쟁",
-    "경훈씨 책상 든든함",
-    "라이어 내기 불금 이어가기",
-    "설렘 눈피하기 농담",
-    "금요일 오전 버티기",
-    "할로윈 사탕 준비"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "룩 아웃사이드 콘솔판이 오늘 나왔대",
-      "line2": "언니 공포게임은 불 끄고 하지 마요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "talkto",
-      "url": "https://www.releases.com/calendar/games/2026-oct-30"
-    },
-    {
-      "a": "hyewon",
-      "line1": "닥터X 하얀 마피아의 시대 요즘 난리래요",
-      "line2": "주말에 정주행 각이다, 과자 챙겨",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "coffee",
-      "url": "https://ottrank.kr/"
-    },
-    {
-      "a": "jiwon",
-      "line1": "노브랜드 버거 성수 팝업 오늘 시작이지?",
-      "line2": "네! 경훈씨 버거는 제가 고를 거예요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "charm",
-      "url": ""
-    },
-    {
-      "a": "hyewon",
-      "line1": "아이보리 블라우스에 카디건, 언니 포근해 보여요",
-      "line2": "너도 버건디 니트 가을 그 자체야",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "thumbs",
-      "pose2": "look",
-      "url": ""
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 보고서엔 오늘 형광펜 대신 별 붙였어",
-      "line2": "전 결재판에 손글씨 응원 문구 넣었죠",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "squabble",
-      "url": ""
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 책상 보면 괜히 마음이 놓여요",
-      "line2": "맞아, 거기 계신 것만으로 하루가 든든해",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love",
-      "url": ""
-    },
-    {
-      "a": "jiwon",
-      "line1": "불금이라 오늘 밤 라이어 내기 진짜 한다",
-      "line2": "언니 표정 숨기는 거 제일 못하잖아요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "laugh",
-      "url": ""
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 설레는 사람 앞에선 눈부터 피하죠?",
-      "line2": "쉿, 그건 경훈씨한테도 비밀이다",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "charm",
-      "pose2": "look",
-      "url": ""
-    },
-    {
-      "a": "jiwon",
-      "line1": "금요일 오전만 버티면 반은 온 거야",
-      "line2": "언니 그 말 매주 해요, 근데 맞아요",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "highfive",
-      "url": ""
-    },
-    {
-      "a": "hyewon",
-      "line1": "내일 할로윈인데 사무실에 사탕 둘까요?",
-      "line2": "좋아, 경훈씨 자리엔 제일 큰 걸로",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs",
-      "url": ""
-    }
-  ]
+ "updatedAt": "2026-10-30T11:04:05+09:00",
+ "topics": [
+  "퀸즈 도메인 출시",
+  "코스피 매도 사이드카",
+  "팀홀튼 밴프 타운 성수 공개",
+  "블라인드 립 대결 오후 이어가기",
+  "경훈씨 판정 어필 경쟁",
+  "카디건·버건디 니트 칭찬",
+  "경훈씨 웃음소리 애정",
+  "할로윈 야시장 박쥐 날개",
+  "점심 메뉴 고민",
+  "향수 설렘 농담"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "오늘 퀸즈 도메인 나왔어, 검 타고 날아다닌대",
+   "line2": "언니 점심시간에 섬 탐험 가면 안 돼요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "talkto",
+   "url": "https://www.releases.com/calendar/games/2026-oct-30"
+  },
+  {
+   "a": "jiwon",
+   "line1": "코스피 사이드카 또 걸렸네, 계좌 닫았어",
+   "line2": "오늘은 앱 대신 제 얼굴 보세요, 언니",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "https://economist.co.kr/article/view/ecn202610300004"
+  },
+  {
+   "a": "hyewon",
+   "line1": "팀홀튼 밴프 타운 성수점 오늘 공개됐대요",
+   "line2": "캐나다 감성이라니, 단풍 라떼 있으려나",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.ajunews.com/amp/20261030074945424"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오후 블라인드 립 대결 잊지 마요",
+   "line2": "로즈 브라운? 난 MLBB로 끝낸다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 판정 때 난 눈 깜빡임으로 어필할래",
+   "line2": "전 립 바르고 살짝 미소만 지을 거예요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "카디건 소매 걷으니 언니 손목 예뻐 보여요",
+   "line2": "네 버건디 니트에 금귀걸이 딱이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 웃음소리 들리면 일이 술술 풀려",
+   "line2": "저도요, 그 소리가 제 비타민이에요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 할로윈 야시장, 커플 머리띠 많겠죠?",
+   "line2": "우린 경훈씨 양옆에서 박쥐 날개 하자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "점심 뭐 먹을지 고민하는 게 제일 큰 일이야",
+   "line2": "그럼 오늘은 언니가 고르고 제가 쏠게요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "cheer"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 오늘 왜 이렇게 향이 좋아요?",
+   "line2": "비밀, 너무 가까이 오면 반칙이야",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  }
+ ]
 }
