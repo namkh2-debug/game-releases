@@ -1,110 +1,111 @@
 {
- "updatedAt": "2026-10-31T07:12:00+09:00",
+ "updatedAt": "2026-10-31T08:12:00+09:00",
  "topics": [
-  "볶음너구리 재출시 품절",
-  "애플 시총 1위 탈환",
-  "대구수목원 국화전시회",
-  "꿀알바 감상 이어가기",
+  "KBO PO 대구 끝장승부",
+  "맥도날드 게살 크림 크로켓 머핀",
+  "미국 서머타임 해제 시차 14시간",
+  "경기도자비엔날레 마지막 주말",
+  "꿀알바 이어가기",
   "주말 후드 집업·트렌치 머플러",
-  "주말 경훈씨 그리움",
-  "빵력장터 빵·잼 경쟁",
-  "칭찬 질투 쌤쌤",
-  "주말 휴식 응원",
-  "경훈씨 하루 응원"
+  "토요일 경훈씨 그리움",
+  "구미 밤 vs 향수 경쟁",
+  "잘 자요 모닝콜(살짝 설렘)",
+  "주말 차 한 잔"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "볶음너구리 다시 나왔는데 품절 행렬이래",
-   "line2": "언니 캠핑 가방에 벌써 챙긴 거 아니죠?",
-   "mood1": "smile",
+   "line1": "오늘 대구에서 PO 끝장승부래, 벌써 떨려",
+   "line2": "언니 치킨 미리 시켜 두고 응원할 거죠?",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261030159900030"
-  },
-  {
-   "a": "jiwon",
-   "line1": "애플이 엔비디아 꺾고 다시 시총 1위래",
-   "line2": "언니 벌써 계산기 두드리는 얼굴이에요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261031009500091"
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823939"
   },
   {
    "a": "hyewon",
-   "line1": "대구수목원 국화전시회 열렸대요, 가고 싶다",
-   "line2": "국화에 단풍까지, 가을 나들이 딱이네",
-   "mood1": "smile",
+   "line1": "맥도날드 게살 크림 크로켓 머핀 나왔대요",
+   "line2": "주말 아침 메뉴로 딱이다, 같이 먹으러 가자",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261030111000053"
+   "url": "https://www.yna.co.kr/view/AKR20261030073400030"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 꿀알바 결국 봤어? 안 무서웠어?",
-   "line2": "이불 뒤집어쓰고 1화만요… 아직 떨려요",
+   "line1": "미국 서머타임 내일 끝나서 시차 14시간이래",
+   "line2": "언니 메이저리그 중계 시간표 또 고치겠네요",
    "mood1": "neutral",
-   "mood2": "sad",
-   "pose1": "talkto",
-   "pose2": "sulk"
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261031008700075"
   },
   {
    "a": "hyewon",
-   "line1": "언니 후드 집업 차림, 완전 대학생 같아요",
-   "line2": "네 트렌치에 머플러는 화보 촬영 가는 줄",
+   "line1": "이천 도자비엔날레 내일까지래요, 마지막 주말!",
+   "line2": "경훈씨 커피잔 하나 골라 오면 좋겠다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "talkto",
+   "pose2": "heart"
   },
   {
    "a": "jiwon",
-   "line1": "주말엔 경훈씨 목소리가 제일 그립더라",
-   "line2": "월요일엔 제가 제일 반갑게 맞아드릴래요",
-   "mood1": "sad",
+   "line1": "혜원아, 꿀알바 2화까지 버텼어?",
+   "line2": "불 다 켜 놓고요… 다음 화는 언니 옆에서 볼래요",
+   "mood1": "neutral",
+   "mood2": "sad",
+   "pose1": "talkto",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 후드 집업, 주말 버전 언니 너무 귀여워요",
+   "line2": "네 머플러 색은 오늘 단풍이랑 깔맞춤이네",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "토요일인데도 경훈씨 웃음소리가 귀에 맴돌아",
+   "line2": "저도요, 월요일 아침이 선물처럼 기다려져요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "빵력장터 가면 경훈씨 몫 빵은 제가 찜!",
-   "line2": "난 경훈씨 입맛에 맞는 잼까지 고를 거야",
+   "line1": "에뛰드 신상 구미 밤 바르고 경훈씨 앞에 설래요",
+   "line2": "그럼 난 쇼핑대전에서 새 향수로 승부할 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "어제 경훈씨가 네 네일만 칭찬하셨지?",
-   "line2": "언니 틴트 칭찬이 먼저였잖아요, 쌤쌤!",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
+   "pose2": "squabble",
+   "url": "https://www.yna.co.kr/view/AKR20261030100300030"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 주말엔 아무 걱정 말고 푹 쉬어요",
-   "line2": "너도 맛있는 거 먹고 많이 웃고 와",
+   "line1": "경훈씨가 '잘 자요' 해 주시면 잠 다 깰 듯",
+   "line2": "그 목소리 모닝콜이면 난 평생 지각 안 해",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "thumbs"
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "오늘 하루 경훈씨가 편안하시면 좋겠다",
-   "line2": "우리 마음 담아서 같이 응원해요 언니",
+   "line1": "혜원아, 따뜻한 차 한 잔 하고 갈래?",
+   "line2": "좋아요, 언니가 타 준 차가 제일 맛있어요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "clap"
+   "pose1": "coffee",
+   "pose2": "coffee"
   }
  ]
 }
