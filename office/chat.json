@@ -1,88 +1,22 @@
 {
- "updatedAt": "2026-10-30T11:04:05+09:00",
+ "updatedAt": "2026-10-30T12:05:27+09:00",
  "topics": [
-  "퀸즈 도메인 출시",
-  "코스피 매도 사이드카",
-  "팀홀튼 밴프 타운 성수 공개",
-  "블라인드 립 대결 오후 이어가기",
-  "경훈씨 판정 어필 경쟁",
-  "카디건·버건디 니트 칭찬",
-  "경훈씨 웃음소리 애정",
-  "할로윈 야시장 박쥐 날개",
-  "점심 메뉴 고민",
-  "향수 설렘 농담"
+  "붉은사막 DLC 미지의 여정 출시",
+  "와이스 한화 복귀 가능성",
+  "지수 ADDICTED 발매",
+  "스텔라 블레이드 스위치2 11/6",
+  "노브랜드 팝업 가위바위보 이어가기",
+  "버건디 니트·아이보리 블라우스 점심 외출룩",
+  "경훈씨 점심 걱정 애정",
+  "머그 데우기 vs 손편지 경쟁",
+  "니트 칭찬 귀여운 질투",
+  "불금 연락 밀당 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "오늘 퀸즈 도메인 나왔어, 검 타고 날아다닌대",
-   "line2": "언니 점심시간에 섬 탐험 가면 안 돼요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "talkto",
-   "url": "https://www.releases.com/calendar/games/2026-oct-30"
-  },
-  {
-   "a": "jiwon",
-   "line1": "코스피 사이드카 또 걸렸네, 계좌 닫았어",
-   "line2": "오늘은 앱 대신 제 얼굴 보세요, 언니",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm",
-   "url": "https://economist.co.kr/article/view/ecn202610300004"
-  },
-  {
-   "a": "hyewon",
-   "line1": "팀홀튼 밴프 타운 성수점 오늘 공개됐대요",
-   "line2": "캐나다 감성이라니, 단풍 라떼 있으려나",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.ajunews.com/amp/20261030074945424"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오후 블라인드 립 대결 잊지 마요",
-   "line2": "로즈 브라운? 난 MLBB로 끝낸다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 판정 때 난 눈 깜빡임으로 어필할래",
-   "line2": "전 립 바르고 살짝 미소만 지을 거예요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "카디건 소매 걷으니 언니 손목 예뻐 보여요",
-   "line2": "네 버건디 니트에 금귀걸이 딱이다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 웃음소리 들리면 일이 술술 풀려",
-   "line2": "저도요, 그 소리가 제 비타민이에요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일 할로윈 야시장, 커플 머리띠 많겠죠?",
-   "line2": "우린 경훈씨 양옆에서 박쥐 날개 하자",
+   "line1": "붉은사막 DLC '미지의 여정' 오늘 나왔대",
+   "line2": "언니 이번 주말은 캠핑 대신 모험이네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
@@ -90,21 +24,87 @@
   },
   {
    "a": "jiwon",
-   "line1": "점심 뭐 먹을지 고민하는 게 제일 큰 일이야",
-   "line2": "그럼 오늘은 언니가 고르고 제가 쏠게요",
-   "mood1": "neutral",
+   "line1": "휴스턴이 와이스 옵션 포기했대, 한화 복귀?",
+   "line2": "경훈씨 들으시면 엄청 반기실 것 같아요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "cheer"
+   "pose2": "thumbs",
+   "url": "https://www.imaeil.com/page/view/2026103009521225886"
   },
   {
    "a": "hyewon",
-   "line1": "언니 오늘 왜 이렇게 향이 좋아요?",
-   "line2": "비밀, 너무 가까이 오면 반칙이야",
-   "mood1": "surprised",
+   "line1": "지수 신곡 'ADDICTED' 오늘 나왔어요",
+   "line2": "점심 산책 BGM은 그걸로 정했다",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.mydaily.co.kr/page/view/2026103010024303784"
+  },
+  {
+   "a": "jiwon",
+   "line1": "스텔라 블레이드, 다음 주 금요일 스위치2로 나와",
+   "line2": "언니, 그 주말도 벌써 예약이네요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "laugh",
+   "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release"
+  },
+  {
+   "a": "hyewon",
+   "line1": "노브랜드 팝업 가위바위보, 결과 기억하죠?",
+   "line2": "알았어, 오늘 버거는 언니가 쏠게",
+   "mood1": "smile",
+   "mood2": "sad",
+   "pose1": "talkto",
+   "pose2": "sulk"
+  },
+  {
+   "a": "hyewon",
+   "line1": "점심 나갈 땐 버건디 니트에 트렌치 걸칠래요",
+   "line2": "난 아이보리 블라우스에 카디건 단추 잠글래",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 점심 맛있게 드셨나 자꾸 궁금해",
+   "line2": "언니도요? 저 벌써 시계 세 번 봤어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오후 커피는 경훈씨 머그 미리 데워 둘래요",
+   "line2": "난 컵받침 밑에 손편지 깔아 둘 건데?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 아까 경훈씨가 네 니트 칭찬하셨지?",
+   "line2": "언니 블라우스도 보셨어요, 진짜로요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "불금엔 연락 먼저 하는 쪽이 지는 거래요",
+   "line2": "경훈씨한테라면 난 기꺼이 질래",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "love"
   }
  ]
 }
