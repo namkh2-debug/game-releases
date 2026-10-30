@@ -1,9 +1,9 @@
 {
  "date": "2026-10-30",
- "updatedAt": "2026-10-30T11:03:17+09:00",
+ "updatedAt": "2026-10-30T12:04:13+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 14.3,
+  "temp": 16,
   "low": 5,
   "high": 19,
   "condition": "흐림, 아침 7~8시 약한 비 후 오전 늦게부터 맑음",
@@ -14,29 +14,29 @@
  },
  "breaking": [
   {
-   "title": "'햄버거 회동' 구삼회 등 내란 가담 군인 8명, 1심 무죄…법원 \"국헌문란 목적 인정 안돼\"",
-   "url": "https://www.khan.co.kr/article/202610301056001/",
-   "source": "경향신문"
+   "title": "靑 \"DMZ 지뢰폭발 사건에 분명한 원칙 갖고 필요조치 계속\"",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030114209zlX",
+   "source": "연합뉴스TV"
   },
   {
-   "title": "특검, 오세훈 정치자금법 2심 무죄에 상고",
-   "url": "https://www.joongang.co.kr/article/25474367",
-   "source": "중앙일보"
+   "title": "청와대 \"내년초 전작권 전환 실질 성과 기대…호르무즈 청해부대 강화 고심\"",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8699746",
+   "source": "KBS 뉴스"
   },
   {
-   "title": "코스피 4%대 급락에…'매도 사이드카' 또 발동",
+   "title": "특검, 오세훈 2심 무죄에 상고…\"일반 상식에 크게 어긋나\"",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026103010525857519",
+   "source": "부산일보"
+  },
+  {
+   "title": "'햄버거 회동' 참석 등 계엄가담 전현직 군인 8명 1심 '무죄'",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6861935_36918.html",
+   "source": "MBC 뉴스"
+  },
+  {
+   "title": "코스피 4%대 급락…11거래일만에 '매도 사이드카' 발동",
    "url": "https://economist.co.kr/article/view/ecn202610300004",
    "source": "이코노미스트"
-  },
-  {
-   "title": "'국힘 397억 반환' 달린 尹 선거법 2심 생중계 결정",
-   "url": "https://www.kmib.co.kr/article/20261030500144",
-   "source": "국민일보"
-  },
-  {
-   "title": "9월 생산 3.0%·소비 3.6%·투자 5.3%↑...석 달 만에 '트리플 증가'",
-   "url": "https://www.ytn.co.kr/_ln/0102_202610300800195400",
-   "source": "YTN"
   }
  ],
  "news": [
@@ -77,6 +77,18 @@
    "summary": "이태원 참사 4주기 기억식에 현직 대통령이 처음 참석했다."
   },
   {
+   "title": "이란 \"호르무즈서 유조선 4척 기뢰 충돌…제한구역 운항\"",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8699659",
+   "source": "KBS 뉴스",
+   "summary": "이란이 호르무즈 해협에서 유조선 4척이 기뢰에 부딪혔다며 제한구역 운항을 밝혔다."
+  },
+  {
+   "title": "한달 만에 외국인 '19조원 순매도' 돌변…올해 누적 213조 팔았다",
+   "url": "https://www.khan.co.kr/article/202610300957001/",
+   "source": "경향신문",
+   "summary": "외국인 투자자가 한 달 만에 순매도로 돌아서 19조원어치를 팔았다."
+  },
+  {
    "title": "李대통령 지지율 39%로 하락…민주·국힘 격차 5%P '최소'",
    "url": "https://www.mt.co.kr/politics/2026/10/30/2026103010520476551",
    "source": "머니투데이",
@@ -113,16 +125,22 @@
    "summary": "한수원과 대우건설 컨소시엄의 두코바니 원전 시공 협상이 결렬됐다."
   },
   {
+   "title": "\"안정 속 쇄신\"…SK그룹, 주요 CEO 유임·글로벌 사업 재편",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=229125",
+   "source": "청년일보",
+   "summary": "SK그룹이 주요 CEO를 유임하고 에너지·화학 수장을 바꾸는 사장단 인사를 냈다."
+  },
+  {
+   "title": "현대차그룹, 새만금 AI 데이터센터 내년 3월 착공…9조 투자 속도",
+   "url": "https://theviewers.co.kr/View.aspx?No=4290134",
+   "source": "뷰어스",
+   "summary": "현대차그룹이 새만금 현지 사무소를 열고 AI 데이터센터 건립에 본격 착수했다."
+  },
+  {
    "title": "퇴직금 못 떼먹는다…2030년까지 모든 사업장 '사외적립 의무화'",
    "url": "https://www.khan.co.kr/article/202610292153025/",
    "source": "경향신문",
    "summary": "퇴직금을 회사 밖에 적립하도록 하는 제도 개편이 추진된다."
-  },
-  {
-   "title": "신세계, '롯데백 센텀시티' 인수…\"부산 랜드마크 조성\"",
-   "url": "https://www.khan.co.kr/article/202610292026015/",
-   "source": "경향신문",
-   "summary": "신세계가 롯데백화점 센텀시티점을 사들여 '신세계 타운'을 만든다."
   },
   {
    "title": "\"미 중부사령관, 트럼프에 이란 공격 옵션 보고\"…이란공격 임박했나",
@@ -135,12 +153,6 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822181",
    "source": "SBS",
    "summary": "스페인 고속열차 추돌 참사 사망자가 74명으로 늘었다."
-  },
-  {
-   "title": "유럽중앙은행, 금리 동결···예금금리 연 2.50%",
-   "url": "https://www.khan.co.kr/article/202610292249001/",
-   "source": "경향신문",
-   "summary": "ECB가 예금금리를 2.5%로 동결했다."
   },
   {
    "title": "미 3분기 물가 상승률 3.6%···전망치 밑돌았지만 목표치 두 배 가까이",
@@ -179,22 +191,10 @@
    "summary": "미 국방부가 한미 국방회담 결과 발표문을 안 낸 이유를 설명했다."
   },
   {
-   "title": "투표지 247만 장 모두 반출…일부 추가 검증",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822264",
-   "source": "SBS",
-   "summary": "부정선거 주장 관련 투표지 247만 장이 반출돼 일부 추가 검증된다."
-  },
-  {
    "title": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지 털려",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821944",
    "source": "SBS",
    "summary": "빗썸 해킹으로 고객 계좌번호와 신분증 사본까지 유출됐다."
-  },
-  {
-   "title": "SK플래닛 기프티콘 이용자 개인정보 유출···피해 규모 집계 중",
-   "url": "https://www.khan.co.kr/article/202610292053001/",
-   "source": "경향신문",
-   "summary": "SK플래닛 기프티콘 이용자 정보가 유출돼 피해 규모를 집계 중이다."
   },
   {
    "title": "호랑이굴을 뒤집어놨다···삼성, PO 3차전 KIA에 6대 4승",
