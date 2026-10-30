@@ -1,71 +1,69 @@
 {
- "updatedAt": "2026-10-30T23:15:00+09:00",
+ "updatedAt": "2026-10-31T06:10:19+09:00",
  "topics": [
-  "붉은사막 DLC 미지의 여정",
-  "팬텀 블레이드 제로 메타 88",
-  "이관희 주방장 비유",
-  "PO 5차전 후라도 vs 올러",
-  "부산 할로윈 카페 눈알 치즈케이크",
-  "수면잠옷+가디건·화성행궁 트렌치",
-  "코디 대결 신경전",
-  "문자 하트 질투",
-  "자기 전 경훈씨 목소리 애정",
-  "금요일 밤 연애세포 농담",
-  "한 주 마무리 꿀잠 인사"
+  "한화디펜스USA 미 해군 상륙함 수주",
+  "10월의 마지막 밤 이어가기",
+  "빵력장터 토요일 출발 이어가기",
+  "버섯 크림 리소토 브런치",
+  "이천 도자비엔날레 마지막 주말",
+  "주말 후드 집업·행궁 트렌치",
+  "행궁 사진 대결 신경전",
+  "주말 아침 경훈씨 안부 애정",
+  "핼러윈 분장 설렘 농담",
+  "주말 응원 하이파이브"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "붉은사막 DLC 오늘 나왔대, 배 몰고 섬 탐험!",
-   "line2": "언니 주말에 선장님 되는 거예요?",
+   "line1": "한화가 미 해군 상륙함 첫 수주했대",
+   "line2": "언니 주식 앱부터 켜는 거 다 보여요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://m.ruliweb.com/news/read/230031"
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031050718a7H"
   },
   {
    "a": "hyewon",
-   "line1": "팬텀 블레이드 제로 메타 88점이래요",
-   "line2": "오, 그럼 장바구니에 슬쩍 넣어 둬야지",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "think",
-   "url": "https://www.metacritic.com/news/major-new-and-upcoming-video-games-ps5-xbox-switch-pc/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "삼성 농구 이관희가 주방장이 바뀐 거래",
-   "line2": "요리 좋아하는 언니가 딱 좋아할 비유네요",
+   "line1": "오늘이 진짜 10월의 마지막 밤이에요",
+   "line2": "잊혀진 계절 첫 소절은 내가 먼저다?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee"
   },
   {
-   "a": "hyewon",
-   "line1": "PO 5차전 일요일 2시, 후라도 대 올러래요",
-   "line2": "낮 경기니까 간식 싸 들고 같이 보자",
+   "a": "jiwon",
+   "line1": "혜원아, 빵력장터 출발했어? 줄 길대?",
+   "line2": "지금 가는 길, 경훈씨 빵부터 담을래요",
    "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "주말 브런치로 버섯 크림 리소토 해볼까",
+   "line2": "언니 요리 사진 오면 바로 침 고여요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "thumbs",
+   "url": "https://www.khan.co.kr/article/202610310600061/"
+  },
+  {
+   "a": "hyewon",
+   "line1": "이천 도자비엔날레 내일이 마지막이래요",
+   "line2": "경훈씨 커피잔 고르러 가자, 내가 쏠게",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "cheer"
   },
   {
-   "a": "hyewon",
-   "line1": "부산엔 눈알 치즈케이크 할로윈 카페도 있대요",
-   "line2": "귀여운데 무섭다, 사진만 보고 참을게",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look",
-   "url": "https://herehotple.com/post/%EB%B6%80%EC%82%B0-%ED%95%A0%EB%A1%9C%EC%9C%88-%EC%BB%A8%EC%85%89-%EC%B9%B4%ED%8E%98-9%EA%B3%B3"
-  },
-  {
    "a": "jiwon",
-   "line1": "수면잠옷에 니트 가디건까지 껴입었어",
-   "line2": "저는 내일 화성행궁 갈 트렌치 다려 놨어요",
+   "line1": "주말이라 후드 집업에 청바지 입었어",
+   "line2": "전 행궁 갈 트렌치에 머플러 둘렀죠",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "down",
@@ -73,8 +71,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "월요일 사진 대결, 경훈씨가 저 고르실걸요?",
-   "line2": "흥, 난 베레모 각도까지 연습 중이거든",
+   "line1": "행궁 사진은 경훈씨 취향 각도로 찍을래요",
+   "line2": "난 단풍 배경 독사진으로 승부 볼 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -82,39 +80,30 @@
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 아까 경훈씨 문자에 하트 먼저 눌렀지?",
-   "line2": "헤헤 손이 빨랐을 뿐이에요, 언니 미안!",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
-  },
-  {
-   "a": "hyewon",
-   "line1": "자기 전에 경훈씨 목소리 한 번 듣고 싶다",
-   "line2": "나도, 꿈에서라도 결재받으러 가야지",
+   "line1": "주말 아침엔 경훈씨 안부부터 궁금해",
+   "line2": "늦잠 푹 주무시고 웃으며 일어나시길",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "jiwon",
-   "line1": "금요일 밤엔 왜 괜히 연애세포가 깨어나지?",
-   "line2": "언니, 그 세포 경훈씨 이름표 달았죠?",
+   "a": "hyewon",
+   "line1": "핼러윈 분장, 경훈씨 앞에선 고양이요",
+   "line2": "그럼 난 경훈씨 마음 훔치는 괴도 할래",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "charm",
    "pose2": "laugh"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 한 주 고생 많았어요, 꿀잠 자요",
-   "line2": "너도, 내일 빵 사진 꼭 보내 줘",
+   "a": "jiwon",
+   "line1": "혜원아, 오늘도 좋은 일만 생길 거야",
+   "line2": "언니가 그렇게 말하면 진짜 그래요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "clap"
+   "pose1": "cheer",
+   "pose2": "highfive"
   }
  ]
 }
