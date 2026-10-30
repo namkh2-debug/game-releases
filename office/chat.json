@@ -1,110 +1,119 @@
 {
- "updatedAt": "2026-10-30T12:05:27+09:00",
+ "updatedAt": "2026-10-30T13:01:59+09:00",
  "topics": [
-  "붉은사막 DLC 미지의 여정 출시",
-  "와이스 한화 복귀 가능성",
-  "지수 ADDICTED 발매",
-  "스텔라 블레이드 스위치2 11/6",
-  "노브랜드 팝업 가위바위보 이어가기",
-  "버건디 니트·아이보리 블라우스 점심 외출룩",
-  "경훈씨 점심 걱정 애정",
-  "머그 데우기 vs 손편지 경쟁",
-  "니트 칭찬 귀여운 질투",
-  "불금 연락 밀당 농담"
+  "디비전2 DLC 11/3",
+  "라이트이어 프론티어 정식 11/4",
+  "제니 Fallen Angel 피지컬 EP 발매",
+  "녹십자·한미 기술수출",
+  "최불암 별세 추모",
+  "니트·블라우스 오후룩",
+  "립 대결 커피 하트 vs 시나몬 별 경쟁",
+  "경훈씨 목소리 애정",
+  "재혼 황후 11/4 공개",
+  "라이어 내기 윙크 벌칙 농담",
+  "금요일 오후 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "붉은사막 DLC '미지의 여정' 오늘 나왔대",
-   "line2": "언니 이번 주말은 캠핑 대신 모험이네요",
+   "line1": "디비전2 DLC 11월 3일, 2만3천 원이래",
+   "line2": "언니 퇴근 후 요원 모드 또 켜지겠네요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "thumbs",
+   "pose2": "talkto"
+  },
+  {
+   "a": "jiwon",
+   "line1": "라이트이어 프론티어 정식이 11월 4일이야",
+   "line2": "농장 게임이라니, 언니 캠핑 감성이네요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
    "pose2": "laugh"
   },
   {
+   "a": "hyewon",
+   "line1": "제니 Fallen Angel 실물 앨범 오늘 나와요",
+   "line2": "신곡 세 곡 더 들었대, 퇴근길에 듣자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "coffee",
+   "url": "https://www.indinews.co.kr/news/articleView.html?idxno=13157"
+  },
+  {
    "a": "jiwon",
-   "line1": "휴스턴이 와이스 옵션 포기했대, 한화 복귀?",
-   "line2": "경훈씨 들으시면 엄청 반기실 것 같아요",
+   "line1": "녹십자·한미, 6천억대 기술수출 했대",
+   "line2": "언니 또 제약주 차트 열었죠? 다 보여요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "thumbs",
-   "url": "https://www.imaeil.com/page/view/2026103009521225886"
+   "pose2": "look",
+   "url": "https://www.etnews.com/20261030000050"
   },
   {
    "a": "hyewon",
-   "line1": "지수 신곡 'ADDICTED' 오늘 나왔어요",
-   "line2": "점심 산책 BGM은 그걸로 정했다",
+   "line1": "최불암 선생님 별세 소식, 마음이 먹먹해요",
+   "line2": "전원일기 한 편 틀어 놓고 추억하자",
+   "mood1": "sad",
+   "mood2": "sad",
+   "pose1": "none",
+   "pose2": "none"
+  },
+  {
+   "a": "hyewon",
+   "line1": "햇살 좋아서 트렌치 벗고 니트만 입었어요",
+   "line2": "난 카디건 벗었더니 블라우스가 살아",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs",
-   "url": "https://www.mydaily.co.kr/page/view/2026103010024303784"
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "스텔라 블레이드, 다음 주 금요일 스위치2로 나와",
-   "line2": "언니, 그 주말도 벌써 예약이네요",
+   "line1": "이따 립 대결, 경훈씨 커피에 하트 그릴래",
+   "line2": "전 경훈씨 잔에 시나몬 별 뿌릴 거예요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "laugh",
-   "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release"
-  },
-  {
-   "a": "hyewon",
-   "line1": "노브랜드 팝업 가위바위보, 결과 기억하죠?",
-   "line2": "알았어, 오늘 버거는 언니가 쏠게",
-   "mood1": "smile",
-   "mood2": "sad",
-   "pose1": "talkto",
-   "pose2": "sulk"
-  },
-  {
-   "a": "hyewon",
-   "line1": "점심 나갈 땐 버건디 니트에 트렌치 걸칠래요",
-   "line2": "난 아이보리 블라우스에 카디건 단추 잠글래",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 점심 맛있게 드셨나 자꾸 궁금해",
-   "line2": "언니도요? 저 벌써 시계 세 번 봤어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오후 커피는 경훈씨 머그 미리 데워 둘래요",
-   "line2": "난 컵받침 밑에 손편지 깔아 둘 건데?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "혜원아, 아까 경훈씨가 네 니트 칭찬하셨지?",
-   "line2": "언니 블라우스도 보셨어요, 진짜로요",
-   "mood1": "sad",
+   "a": "hyewon",
+   "line1": "경훈씨 목소리 들리면 오후가 반짝해요",
+   "line2": "맞아, 그 한마디에 서류도 가벼워져",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "불금엔 연락 먼저 하는 쪽이 지는 거래요",
-   "line2": "경훈씨한테라면 난 기꺼이 질래",
+   "line1": "재혼 황후 다음 주 수요일 네 편 공개래요",
+   "line2": "그날 점심은 감상 토론회로 하자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "clap"
+  },
+  {
+   "a": "jiwon",
+   "line1": "라이어 내기 지면 무슨 벌칙 할래?",
+   "line2": "경훈씨한테 윙크 세 번이요, 언니 각오해",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "love"
+   "pose1": "laugh",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "금요일 오후엔 괜히 마음이 말랑해져요",
+   "line2": "우리 오늘도 끝까지 웃으면서 버티자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "highfive"
   }
  ]
 }
