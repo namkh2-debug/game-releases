@@ -1,105 +1,116 @@
 {
-  "updatedAt": "2026-10-30T09:15:00+09:00",
+  "updatedAt": "2026-10-30T10:08:00+09:00",
   "topics": [
-    "젤다 시간의 오카리나 스위치2 11/5",
-    "패트릭 스튜어트 별세 추모",
-    "엔비디아 네이버 3대 주주",
-    "버건디 니트 vs 아이보리 블라우스 립 대결",
-    "경훈씨 끄덕임 경쟁",
-    "라이어 내기 오늘 밤 이어가기",
-    "경훈씨 금요일 커피 애정",
-    "귤·미소 귀여운 질투",
-    "금요일 퇴근 시계"
+    "룩 아웃사이드 콘솔판 출시",
+    "닥터X 하얀 마피아의 시대",
+    "노브랜드 버거 성수 팝업 첫날",
+    "아이보리 블라우스·버건디 니트 칭찬",
+    "보고서 별 스티커 vs 손글씨 경쟁",
+    "경훈씨 책상 든든함",
+    "라이어 내기 불금 이어가기",
+    "설렘 눈피하기 농담",
+    "금요일 오전 버티기",
+    "할로윈 사탕 준비"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "젤다 시간의 오카리나, 11월 5일 스위치2로 나온대",
-      "line2": "언니 그거 하면 또 밤새는 거 아니에요?",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "thumbs",
-      "pose2": "look",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026"
-    },
-    {
-      "a": "hyewon",
-      "line1": "프로페서X 패트릭 스튜어트가 별세했대요",
-      "line2": "엑스맨 다시 보면서 조용히 추모하자",
-      "mood1": "sad",
-      "mood2": "sad",
-      "pose1": "none",
-      "pose2": "none",
-      "url": "https://www.yna.co.kr/view/AKR20261030010200075"
-    },
-    {
-      "a": "jiwon",
-      "line1": "엔비디아가 네이버 3대 주주가 된대",
-      "line2": "언니는 뉴스 보자마자 계좌부터 여네요",
+      "line1": "룩 아웃사이드 콘솔판이 오늘 나왔대",
+      "line2": "언니 공포게임은 불 끄고 하지 마요",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "think",
       "pose2": "talkto",
-      "url": "https://www.yna.co.kr/view/AKR20261030026400017"
+      "url": "https://www.releases.com/calendar/games/2026-oct-30"
     },
     {
       "a": "hyewon",
-      "line1": "오늘 오후 립 대결, 버건디 니트에 맞췄어요",
-      "line2": "난 아이보리 블라우스라 코랄로 승부야",
+      "line1": "닥터X 하얀 마피아의 시대 요즘 난리래요",
+      "line2": "주말에 정주행 각이다, 과자 챙겨",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "coffee",
+      "url": "https://ottrank.kr/"
+    },
+    {
+      "a": "jiwon",
+      "line1": "노브랜드 버거 성수 팝업 오늘 시작이지?",
+      "line2": "네! 경훈씨 버거는 제가 고를 거예요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "faceoff",
+      "pose1": "talkto",
+      "pose2": "charm",
+      "url": ""
+    },
+    {
+      "a": "hyewon",
+      "line1": "아이보리 블라우스에 카디건, 언니 포근해 보여요",
+      "line2": "너도 버건디 니트 가을 그 자체야",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "thumbs",
+      "pose2": "look",
       "url": ""
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨가 고개 끄덕이면 내가 이긴 거다?",
-      "line2": "끄덕임은 제 쪽 보고 하실 거거든요",
+      "line1": "경훈씨 보고서엔 오늘 형광펜 대신 별 붙였어",
+      "line2": "전 결재판에 손글씨 응원 문구 넣었죠",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "look",
+      "pose1": "charm",
       "pose2": "squabble",
       "url": ""
     },
     {
       "a": "hyewon",
-      "line1": "오늘 밤 라이어 내기, 잊은 거 아니죠?",
-      "line2": "당연하지, 지면 베이글은 내가 쏠게",
+      "line1": "경훈씨 책상 보면 괜히 마음이 놓여요",
+      "line2": "맞아, 거기 계신 것만으로 하루가 든든해",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "highfive",
+      "pose1": "heart",
+      "pose2": "love",
       "url": ""
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 금요일 오후는 좀 쉬엄쉬엄 하세요",
-      "line2": "커피는 제가 미리 연하게 타 둘게요",
+      "line1": "불금이라 오늘 밤 라이어 내기 진짜 한다",
+      "line2": "언니 표정 숨기는 거 제일 못하잖아요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "love",
-      "pose2": "coffee",
-      "url": ""
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 아까 경훈씨한테 웃어준 거 다 봤어요",
-      "line2": "너도 아침에 귤 까드린 거 내가 봤거든",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
+      "pose1": "cheer",
       "pose2": "laugh",
       "url": ""
     },
     {
+      "a": "hyewon",
+      "line1": "언니 설레는 사람 앞에선 눈부터 피하죠?",
+      "line2": "쉿, 그건 경훈씨한테도 비밀이다",
+      "mood1": "smile",
+      "mood2": "surprised",
+      "pose1": "charm",
+      "pose2": "look",
+      "url": ""
+    },
+    {
       "a": "jiwon",
-      "line1": "금요일엔 퇴근 시계가 두 배로 느리게 가",
-      "line2": "그래도 우리 같이 있으면 금방이에요",
+      "line1": "금요일 오전만 버티면 반은 온 거야",
+      "line2": "언니 그 말 매주 해요, 근데 맞아요",
       "mood1": "neutral",
       "mood2": "smile",
       "pose1": "think",
-      "pose2": "cheer",
+      "pose2": "highfive",
+      "url": ""
+    },
+    {
+      "a": "hyewon",
+      "line1": "내일 할로윈인데 사무실에 사탕 둘까요?",
+      "line2": "좋아, 경훈씨 자리엔 제일 큰 걸로",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs",
       "url": ""
     }
   ]
