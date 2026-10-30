@@ -1,9 +1,9 @@
 {
   "date": "2026-10-30",
-  "updatedAt": "2026-10-30T07:10:00+09:00",
+  "updatedAt": "2026-10-30T09:12:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 6.9,
+    "temp": 9.3,
     "low": 5,
     "high": 19,
     "condition": "흐림, 아침 7~8시 약한 비 후 오전 늦게부터 맑음",
@@ -14,9 +14,19 @@
   },
   "breaking": [
     {
-      "title": "'알파벳 쇼크'에 뉴욕증시, 하락 마감…나스닥 1.38%↓",
-      "url": "https://www.newsis.com/view/NISX20261030_0003847495",
-      "source": "뉴시스"
+      "title": "경기 광주 초월읍 가구공장 화재 발생",
+      "url": "https://www.etoday.co.kr/news/view/2642037",
+      "source": "이투데이"
+    },
+    {
+      "title": "9월 생산 3.0%·소비 3.6%·투자 5.3%↑...석 달 만에 '트리플 증가'",
+      "url": "https://www.ytn.co.kr/_ln/0102_202610300800195400",
+      "source": "YTN"
+    },
+    {
+      "title": "'알파벳 쇼크' 나스닥 폭격 … 韓, 또 '검은 금요일' 공포",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/30/2026103000007.html",
+      "source": "뉴데일리"
     }
   ],
   "news": [
@@ -55,6 +65,30 @@
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822244",
       "source": "SBS",
       "summary": "이태원 참사 4주기 기억식에 현직 대통령이 처음 참석했다."
+    },
+    {
+      "title": "엔비디아, 네이버에 1조4천억원 투자 내달 납입…3대 주주된다",
+      "url": "https://www.yna.co.kr/view/AKR20261030026400017",
+      "source": "연합뉴스",
+      "summary": "엔비디아가 내달 6일 납입을 마치면 네이버 지분 약 4.54%로 3대 주주에 오른다."
+    },
+    {
+      "title": "담배 465개 모든 제품서 발암물질…첨가물도 규제 검토",
+      "url": "https://www.yna.co.kr/view/MYH20261030003200038",
+      "source": "연합뉴스",
+      "summary": "정부가 국내 판매 담배 465개 제품의 유해성분 검사 결과를 처음 공개했다."
+    },
+    {
+      "title": "세계 최대 가상화폐 거래소 바이낸스 수십억달러 해킹 피해설",
+      "url": "https://www.yna.co.kr/view/AKR20261030022400009",
+      "source": "연합뉴스",
+      "summary": "바이낸스가 일부 출금을 멈춘 가운데 대규모 해킹 의혹에 비트코인이 하락했다."
+    },
+    {
+      "title": "'엑스맨' 프로페서X 하늘나라로…배우 패트릭 스튜어트 별세",
+      "url": "https://www.yna.co.kr/view/AKR20261030010200075",
+      "source": "연합뉴스",
+      "summary": "'스타트렉'·'엑스맨'으로 사랑받은 영국 배우 패트릭 스튜어트가 86세로 별세했다."
     },
     {
       "title": "27조 체코 원전 건설 '팀코리아' 갈라섰다",
@@ -117,12 +151,6 @@
       "summary": "예멘 후티 반군이 사우디 시설 6곳을 공격했다고 주장했다."
     },
     {
-      "title": "유럽 12개국 \"내년 초까지 비축유 4천260만 배럴 공동 방출\"",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822253",
-      "source": "SBS",
-      "summary": "유럽 12개국이 비축유를 공동 방출하기로 했다."
-    },
-    {
       "title": "김정은, 무인기 전시회 참석…600mm 방사포 등 위력시위",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822321",
       "source": "SBS",
@@ -171,18 +199,6 @@
       "summary": "축구대표팀 명단에 96라인이 모두 뽑혔고 주장은 손흥민이다."
     },
     {
-      "title": "한국 임금근로자 근속기간 OECD 최하위권…근로시간은 4위",
-      "url": "https://www.newsis.com/view/NISX20261029_0003846771",
-      "source": "뉴시스",
-      "summary": "한국 근로자 근속기간은 OECD 최하위권, 근로시간은 4위였다."
-    },
-    {
-      "title": "국민소득 5만 달러 바라보는 韓…세계 20위권 근접",
-      "url": "https://www.newsis.com/view/NISX20261030_0003847477",
-      "source": "뉴시스",
-      "summary": "한국 1인당 국민소득이 5만 달러에 다가서고 있다."
-    },
-    {
       "title": "올해 서울 아파트 입주 13년 만에 최저…분양가는 5년 새 두 배",
       "url": "https://www.newsis.com/view/NISX20261029_0003847108",
       "source": "뉴시스",
@@ -193,12 +209,6 @@
       "url": "https://www.khan.co.kr/article/202610300600031/",
       "source": "경향신문",
       "summary": "초고화소 망원경 카메라가 새 왜소행성 후보를 찾았다."
-    },
-    {
-      "title": "허공에 화면 띄우고 정답까지…AI 안경, 손석희가 직접 써봤더니",
-      "url": "https://www.newsis.com/view/NISX20261029_0003846758",
-      "source": "뉴시스",
-      "summary": "손석희 씨가 AI 안경을 직접 체험한 후기다."
     }
   ]
 }
