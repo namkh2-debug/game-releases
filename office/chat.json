@@ -1,110 +1,110 @@
 {
- "updatedAt": "2026-10-30T14:07:53+09:00",
+ "updatedAt": "2026-10-30T15:09:49+09:00",
  "topics": [
-  "미야자키 스위치2 독점작 연기",
-  "쉬즈 커밍 오버 11월 출시",
-  "집 치우기 썸 농담",
-  "서울 바비큐 페스티벌",
-  "빵력장터 시즌2 빵 경쟁",
-  "꿀알바 전편 공개",
-  "셔츠 블라우스 오후룩",
-  "립 대결 vs 칼국수 질투",
-  "경훈씨 이름 애정",
-  "오후 기지개 응원"
+  "기아 3분기 실적",
+  "한화 마무리캠프 오전 7시",
+  "바티스트 PS5·스위치2 출시",
+  "시스루뱅 vs 웨이브 경쟁",
+  "100일의 거짓말 새 회차",
+  "블라우스 색 맞춤 오후룩",
+  "경훈씨 미소 애정",
+  "플라잉77 패딩 이어가기",
+  "할로윈 분장 설렘 농담",
+  "금요일 오후 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "미야자키 스위치2 독점작, 결국 해 넘긴대",
-   "line2": "언니 연말 게임 계획 하나 비었네요",
-   "mood1": "sad",
+   "line1": "기아 3분기 영업익 1조8천억 넘었대",
+   "line2": "언니, 그럼 오늘 저녁은 언니가 쏘는 거죠?",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.gamey.kr/news/articleView.html?idxno=3019408"
+   "pose2": "laugh",
+   "url": "https://www.newspim.com/news/view/20261030000761"
   },
   {
    "a": "jiwon",
-   "line1": "'쉬즈 커밍 오버' 11월에 나온대, 집 치우기 게임",
-   "line2": "짝사랑 온다는데 청소라니, 너무 현실적",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "laugh",
-   "pose2": "talkto",
-   "url": "https://www.gamemeca.com/view.php?gid=1782656"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니는 경훈씨 오신다면 몇 분 만에 치워요?",
-   "line2": "쉿, 5분이면 향초까지 켜 놓는다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "서울 바비큐 페스티벌에 한돈 부스도 있대",
-   "line2": "언니 캠핑 화로 또 꺼내겠네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "look",
-   "url": "https://www.farminsight.net/news/articleView.html?idxno=17128"
-  },
-  {
-   "a": "hyewon",
-   "line1": "성수 빵력장터 시즌2가 오늘 시작했대요",
-   "line2": "경훈씨 빵은 내가 먼저 산다, 각오해",
+   "line1": "한화 마무리캠프는 아침 7시부터 훈련한대",
+   "line2": "경훈씨 들으시면 기특하다 하실 것 같아요",
    "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.mt.co.kr/sports/2026/10/28/202610281450772903O"
+  },
+  {
+   "a": "jiwon",
+   "line1": "내일 '바티스트'가 PS5·스위치2로 나온대",
+   "line2": "할로윈에 언니는 게임, 저는 야시장이네요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "coffee",
+   "url": "https://savepointmag.com/releases/"
+  },
+  {
+   "a": "hyewon",
+   "line1": "시스루뱅 앞머리, 경훈씨가 먼저 알아보실걸요",
+   "line2": "흥, 난 퇴근 전에 웨이브 넣고 승부한다",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "넷플릭스 '꿀알바' 전편 공개됐대요",
-   "line2": "호러면 너 내 팔 꼭 잡고 볼 거잖아",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "재킷 벗고 셔츠 블라우스만 입으니 가벼워요",
-   "line2": "나도 블라우스 소매 살짝 걷어 올렸어",
+   "line1": "'100일의 거짓말' 내일 새 회차 올라와요",
+   "line2": "토요일 밤엔 그거 보면서 귤 까 먹자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
+   "pose1": "talkto",
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 립 대결 이겼다고 너무 웃는다?",
-   "line2": "언니는 칼국수로 이겼잖아요, 비긴 거예요",
-   "mood1": "sad",
+   "line1": "오후엔 카디건 벗고 블라우스 하나로 버텨",
+   "line2": "언니 아이보리에 제 하늘색, 색 맞춤 같아요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
+   "pose1": "down",
+   "pose2": "look"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨 이름만 들어도 입꼬리가 올라가요",
-   "line2": "나도, 결재판에 그 이름 쓸 때 설레",
+   "a": "jiwon",
+   "line1": "경훈씨 한 번 웃어주시면 주말까지 충전돼",
+   "line2": "전 그 미소, 사진처럼 마음에 저장해 둘래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
+   "a": "hyewon",
+   "line1": "플라잉77 패딩, 경훈씨 아직 답 안 주셨죠?",
+   "line2": "롱 좋다 하시면 나도 롱으로 맞출 거야",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "wave"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 할로윈 분장 살짝 아찔하게 가요?",
+   "line2": "고양이 귀까지만, 나머진 상상에 맡길게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
    "a": "jiwon",
-   "line1": "오후 세 시엔 우리 기지개 한 번 켜자",
-   "line2": "좋아요, 언니 어깨는 제가 풀어 줄게요",
+   "line1": "금요일 오후, 우리 조금만 더 힘내자",
+   "line2": "언니랑 같이라 시계가 빨리 가요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "coffee"
+   "pose2": "highfive"
   }
  ]
 }
