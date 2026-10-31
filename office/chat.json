@@ -1,99 +1,41 @@
 {
- "updatedAt": "2026-10-31T13:12:00+09:00",
+ "updatedAt": "2026-10-31T14:12:00+09:00",
  "topics": [
-  "애플 시총 1위 탈환",
-  "티빙 유일무이 로맨스 11/9",
-  "닌텐도 인디 월드 신작 11종",
-  "손석구 푸른길 11/20",
-  "PO 5차전 응원 이어가기",
-  "후드 집업·호박색 비니 주말룩",
-  "경훈씨 문자 알림음 애정",
-  "월요일 엘리베이터 vs 마중 미소 경쟁",
-  "넥타이 설렘 농담",
-  "행궁 사진 대결 이어가기",
-  "주말 수다 우정"
+  "오픈AI 자금조달 100억달러 감축",
+  "비서진 다모 커플 자체 최고",
+  "카드캡터 사쿠라 카페 11/11",
+  "김재환 콘서트 여백",
+  "소금빵 반쪽 이어가기",
+  "브라운 숄더백·호박색 비니 주말룩",
+  "경훈씨 목소리 영양제 애정",
+  "월요일 출근길 음악 vs 의자 쿠션 경쟁",
+  "앤더슨씨 과일 팝업 내일까지",
+  "주말 저녁 국물 우정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "AI에 덜 쓴 애플이 시총 1위 탈환했대",
-   "line2": "언니 포트폴리오 표정이 오늘 맑음이네요",
+   "line1": "오픈AI가 자금조달 목표를 100억달러 줄였대",
+   "line2": "언니 AI 종목 차트 또 확대하는 소리 나요",
    "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.hani.co.kr/arti/economy/finance/1285125.html"
-  },
-  {
-   "a": "hyewon",
-   "line1": "티빙 '유일무이 로맨스' 11월 9일 공개래요",
-   "line2": "조이 나오는 거? 그거 설렘 각이다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs",
-   "url": "https://www.mk.co.kr/news/hot-issues/12191116"
-  },
-  {
-   "a": "jiwon",
-   "line1": "닌텐도 인디 월드에서 신작 11종 나왔대",
-   "line2": "언니 위시리스트 또 길어지는 소리 나요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61839"
-  },
-  {
-   "a": "hyewon",
-   "line1": "손석구 '푸른길'은 20일 넷플릭스래요",
-   "line2": "스릴러면 나 무서워서 네 팔 잡고 본다",
-   "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.mk.co.kr/news/hot-issues/12191116"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 내일 PO 5차전 누구 응원해요?",
-   "line2": "이기는 팀! 그리고 한국시리즈는 독수리 맘",
-   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "cheer"
-  },
-  {
-   "a": "jiwon",
-   "line1": "햇살 좋아서 후드 집업 지퍼 내렸어",
-   "line2": "비니는 그대로네요, 핼러윈 요정 같아요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "clap"
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261031025300009"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 문자 알림음만 상상해도 웃음 나요",
-   "line2": "나는 그 소리에 심장이 먼저 대답해",
-   "mood1": "smile",
+   "line1": "'비서진' 다모 커플 편이 자체 최고였대요",
+   "line2": "23년 만의 재회라니, 오늘 밤 정주행이다",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "jiwon",
-   "line1": "월요일 엘리베이터 버튼은 내가 먼저 누를래",
-   "line2": "그럼 전 문 앞에서 '오셨어요' 미소 담당!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "charm"
+   "pose1": "talkto",
+   "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 넥타이 매 드리는 상상 해 봤어요",
-   "line2": "너무 꽉 매면 숨 막히신다, 살살 해",
+   "line1": "사쿠라 카페가 11일부터 서울숲에 열린대요",
+   "line2": "너 별 지팡이 들고 출근할 기세다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -101,20 +43,66 @@
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오늘 행궁 사진은 몇 장 찍을 거야?",
-   "line2": "백 장이요! 그중 한 장이 언니 이길 거예요",
+   "line1": "김재환이 전역 후 첫 단독 콘서트 한대",
+   "line2": "'여백'이요? 언니 티켓팅 손 풀어 둬요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "cheer",
+   "url": "https://www.yna.co.kr/view/AKR20261031022200005"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 소금빵 반쪽은 잘 모셔 뒀어?",
+   "line2": "냉동실 VIP석이요, 월요일에 데울게요",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "faceoff"
+   "pose1": "coffee",
+   "pose2": "coffee"
   },
   {
    "a": "hyewon",
-   "line1": "언니랑 수다 떨면 주말이 금방 가요",
-   "line2": "그러니까, 우리 오래오래 이렇게 지내자",
+   "line1": "성수에서 브라운 미니 숄더백 샀어요",
+   "line2": "내 비니랑 네 가방, 오늘 가을 화보다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 웃는 얼굴 떠올리면 주말도 포근해",
+   "line2": "전 경훈씨 목소리가 제일 좋은 영양제예요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "월요일 경훈씨 출근길 음악은 제가 고를래요",
+   "line2": "그럼 난 경훈씨 의자 쿠션부터 바꿔 둘걸",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "앤더슨씨 과일 팝업이 내일까지래요",
+   "line2": "과일 디저트면 나 저녁에 바로 간다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘 저녁은 따끈한 거 먹어요",
+   "line2": "좋아, 한 주 고생한 우리 국물로 건배",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
    "pose2": "highfive"
   }
  ]
