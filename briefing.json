@@ -1,9 +1,9 @@
 {
   "date": "2026-10-31",
-  "updatedAt": "2026-10-31T10:10:00+09:00",
+  "updatedAt": "2026-10-31T11:15:00+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 11.6,
+    "temp": 12.8,
     "low": 8,
     "high": 16,
     "condition": "맑음, 오전 늦게 잠깐 구름 많다가 오후 맑음",
@@ -45,6 +45,18 @@
       "summary": "호르무즈 해협에서 이란이 정한 항로를 벗어났다는 유조선 2척에 불이 나 운항이 멈춰 이란군 공격이 추정된다."
     },
     {
+      "title": "한미일 외교장관 \"한반도 비핵화 노력 지속\"…北 긴장완화 촉구",
+      "url": "https://www.yna.co.kr/view/AKR20261031017251071",
+      "source": "연합뉴스",
+      "summary": "G20 외교장관회의 계기로 애틀랜타에서 한미일 외교장관회의를 열고 북한의 긴장 완화 동참을 촉구했다."
+    },
+    {
+      "title": "기초연금 수급 상위 1% 일반재산 평균 3.4억·근로소득 월220만원",
+      "url": "https://www.yna.co.kr/view/AKR20261030123000530",
+      "source": "연합뉴스",
+      "summary": "고액 자산가 수급 논란 속 실제 상위 1% 수급자의 평균 재산은 극단적 사례와 차이가 있다는 분석이 나왔다."
+    },
+    {
       "title": "청와대 \"호르무즈서 청해부대 작전 확대 검토\"",
       "url": "https://www.chosun.com/politics/politics_general/2026/10/31/JO34LJBSPFBUXDXJCFVFXRBY2Q/",
       "source": "조선일보",
@@ -79,18 +91,6 @@
       "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/31/TAMOZPSKXJFG5LKFDBTK3ISLJA/",
       "source": "조선일보",
       "summary": "북한이 무인항공기술 전시회를 열어 스텔스 드론 등 신형 무인기 30종을 공개했다."
-    },
-    {
-      "title": "피치, '재정건전화 난항' 프랑스 신용등급 전망 '부정적' 하향",
-      "url": "https://www.yna.co.kr/view/AKR20261031021300009",
-      "source": "연합뉴스",
-      "summary": "피치가 프랑스 등급을 A+로 유지하되 전망을 '안정적'에서 '부정적'으로 낮췄다."
-    },
-    {
-      "title": "北, 대북제재감시팀 비난 \"우리에겐 제재 안통해…전략적 실패\"",
-      "url": "https://www.yna.co.kr/view/AKR20261031010200504",
-      "source": "연합뉴스",
-      "summary": "북한이 다국적제재모니터링팀(MSMT)을 비난하며 제재가 통하지 않는다고 주장했다."
     },
     {
       "title": "'김건희 명품백' 김기현 무죄…배우자는 벌금형",
