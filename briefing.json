@@ -1,204 +1,204 @@
 {
- "date": "2026-10-31",
- "updatedAt": "2026-10-31T09:10:00+09:00",
- "region": "경기 광주",
- "weather": {
-  "temp": 10.1,
-  "low": 8,
-  "high": 16,
-  "condition": "맑음, 오전 늦게 잠깐 구름 많다가 오후 맑음",
-  "rainChance": "오전 0%, 오후 20%",
-  "dust": "미세먼지 보통, 초미세먼지 보통",
-  "tip": "아침 7도 안팎으로 쌀쌀하니 가벼운 니트에 겉옷을 챙기세요. 오늘은 비 소식이 없어 우산은 필요 없고, 낮엔 15~16도까지 올라요. 내일(일) 오후엔 비 확률 60%예요.",
-  "source": "네이버 날씨(기상청 발표), 06:38 KST 기준"
- },
- "breaking": [
-  {
-   "title": "뉴욕 증시, 기술주 실적 부진에 하락 마감…다우 1.09%↓ 나스닥 2.86%↓",
-   "url": "https://www.newsis.com/view/NISX20261031_0003849131",
-   "source": "뉴시스"
-  }
- ],
- "news": [
-  {
-   "title": "최불암 별세 온 국민 추모물결 문화훈장 추서",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823813",
-   "source": "SBS",
-   "summary": "정부가 고 최불암에게 최고 등급인 금관문화훈장을 추서했고 동료와 시민들의 추모가 이어지고 있다."
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-31T10:10:00+09:00",
+  "region": "경기 광주",
+  "weather": {
+    "temp": 11.6,
+    "low": 8,
+    "high": 16,
+    "condition": "맑음, 오전 늦게 잠깐 구름 많다가 오후 맑음",
+    "rainChance": "오전 0%, 오후 20%",
+    "dust": "미세먼지 보통, 초미세먼지 보통",
+    "tip": "아침 7도 안팎으로 쌀쌀하니 가벼운 니트에 겉옷을 챙기세요. 오늘은 비 소식이 없어 우산은 필요 없고, 낮엔 15~16도까지 올라요. 내일(일) 오후엔 비 확률 60%예요.",
+    "source": "네이버 날씨(기상청 발표), 06:38 KST 기준"
   },
-  {
-   "title": "바이낸스 8조원대 해킹, TRM랩스 \"북한 배후\"",
-   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031004119hkv",
-   "source": "연합뉴스TV",
-   "summary": "바이낸스가 약 63억 달러(8조 4천억원) 해킹 피해를 밝혔고, 분석업체 TRM랩스는 북한을 배후로 지목했다."
-  },
-  {
-   "title": "트럼프 \"이란 전쟁 곧 마무리될 것…핵무기 불가 보장 필요\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824022",
-   "source": "SBS",
-   "summary": "트럼프 대통령이 라디오 인터뷰에서 이란 전쟁이 곧 마무리될 것이라며 핵무기 불가 보장이 필요하다고 말했다."
-  },
-  {
-   "title": "이란, 호르무즈서 유조선 공격한 듯…\"2척 화재 후 운항 중단\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824023",
-   "source": "SBS",
-   "summary": "호르무즈 해협에서 이란이 정한 항로를 벗어났다는 유조선 2척에 불이 나 운항이 멈춰 이란군 공격이 추정된다."
-  },
-  {
-   "title": "청와대 \"호르무즈서 청해부대 작전 확대 검토\"",
-   "url": "https://www.chosun.com/politics/politics_general/2026/10/31/JO34LJBSPFBUXDXJCFVFXRBY2Q/",
-   "source": "조선일보",
-   "summary": "청와대가 한국 선박 보호를 위해 청해부대 작전 범위를 오만만까지 넓히는 방안을 검토하고 있다."
-  },
-  {
-   "title": "올해 두 배 뛴 인텔의 추락…30% 폭락해 '1982년 이후 최악'",
-   "url": "https://ir.newspim.com/news/view/20261031000009",
-   "source": "뉴스핌",
-   "summary": "인텔이 실적 전망 부진으로 하루 30% 가까이 폭락해 1982년 집계 이래 최악의 하루를 기록했다."
-  },
-  {
-   "title": "한화디펜스USA, 미 해군 '중형상륙함' 첫 수주",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031050718a7H",
-   "source": "연합뉴스TV",
-   "summary": "한화에어로스페이스 미국법인이 2억 6,900만 달러 규모의 미 해군 중형상륙함 건조 사업을 처음 따냈다."
-  },
-  {
-   "title": "이 대통령, 다문화가정 우대 \"소액·소량이라고 불공정해도 되는 건 아냐\"",
-   "url": "https://www.khan.co.kr/article/202610301906001/",
-   "source": "경향신문",
-   "summary": "이재명 대통령이 공공 산후조리원 다문화 가정 우대와 관련해 소액이라도 불공정해선 안 된다고 재차 밝혔다."
-  },
-  {
-   "title": "김정은의 '드론 협박'… 스텔스 무인기 등 30종 공개",
-   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/31/TAMOZPSKXJFG5LKFDBTK3ISLJA/",
-   "source": "조선일보",
-   "summary": "북한이 무인항공기술 전시회를 열어 스텔스 드론 등 신형 무인기 30종을 공개했다."
-  },
-  {
-   "title": "北, 대북제재감시팀 비난 \"우리에겐 제재 안통해…전략적 실패\"",
-   "url": "https://www.yna.co.kr/view/AKR20261031010200504",
-   "source": "연합뉴스",
-   "summary": "북한이 다국적제재모니터링팀(MSMT)을 비난하며 제재가 통하지 않는다고 주장했다."
-  },
-  {
-   "title": "'김건희 명품백' 김기현 무죄…배우자는 벌금형",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823823",
-   "source": "SBS",
-   "summary": "김건희 씨에게 명품 가방을 건넨 혐의를 받은 김기현 의원은 1심 무죄, 배우자는 벌금형을 받았다."
-  },
-  {
-   "title": "'역대 최대' 821조 예산 대치 정국 돌입…與 \"원안 사수\" 野 \"134조 삭감\"",
-   "url": "https://www.newsis.com/view/NISX20261030_0003848842",
-   "source": "뉴시스",
-   "summary": "국회가 821조원 규모 내년 예산안 심사에 착수했고 여당은 원안 사수, 야당은 대규모 삭감을 예고했다."
-  },
-  {
-   "title": "'조희대 국조' 대치…與 \"5대 의혹 조사\" vs 野 \"범국민적 저항\"",
-   "url": "https://www.newsis.com/view/NISX20261030_0003848882",
-   "source": "뉴시스",
-   "summary": "민주당이 조희대 대법원장 국정조사에 시동을 걸자 국민의힘은 장외 투쟁 등 강경 대응을 예고했다."
-  },
-  {
-   "title": "[단독] 한화시스템 ICT 직원 1700명 정보 유출",
-   "url": "https://www.hankyung.com/article/2026103070401",
-   "source": "한국경제",
-   "summary": "한화시스템 ICT 직원 1,700명의 정보가 유출됐고 전산 협력사를 통한 외부 해킹 가능성이 제기됐다."
-  },
-  {
-   "title": "서울 길음동 아파트 지하주차장 화재…142명 대피·6명 구조",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR202610310321427qM",
-   "source": "연합뉴스TV",
-   "summary": "성북구 길음동 아파트 지하주차장 쓰레기에서 불이 나 주민 142명이 대피하고 6명이 구조됐다."
-  },
-  {
-   "title": "가평 농막서 불…2명 사망·1명 부상",
-   "url": "https://www.yna.co.kr/view/AKR20261031008000060",
-   "source": "연합뉴스",
-   "summary": "경기 가평의 한 농막에서 불이 나 2명이 숨지고 1명이 다쳤다."
-  },
-  {
-   "title": "수도권제1순환고속도 귤현대교서 SUV 전복…운전자 사망",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031045313T5L",
-   "source": "연합뉴스TV",
-   "summary": "31일 새벽 수도권제1순환고속도로 귤현대교 구간에서 SUV가 방호벽을 들이받고 전복돼 30대 운전자가 숨졌다."
-  },
-  {
-   "title": "KIA, 7회 삼성 실책 틈타 3득점 뒤집기…대구서 PO 끝장승부",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823939",
-   "source": "SBS",
-   "summary": "KIA가 4차전을 4-2로 역전승하며 삼성과의 플레이오프를 대구 5차전 끝장승부로 몰고 갔다."
-  },
-  {
-   "title": "핼러윈 앞둔 '불금' 이태원엔 장갑차·경찰견까지…현장 안전관리 총력",
-   "url": "https://www.khan.co.kr/article/202610302011001/",
-   "source": "경향신문",
-   "summary": "핼러윈을 앞두고 경찰이 이태원 일대에 장갑차와 특공대, 폭발물감지견을 배치해 안전관리에 나섰다."
-  },
-  {
-   "title": "포스코 노사, 3차 파업 앞두고 임단협 잠정합의…기본급 2.6% 인상",
-   "url": "https://www.khan.co.kr/article/202610302024001/",
-   "source": "경향신문",
-   "summary": "포스코 노사가 11월 2일 3차 파업을 앞두고 기본급 2.6% 인상과 일시금 600만원에 잠정 합의했다."
-  },
-  {
-   "title": "제주항공 참사 유해 추정물 김포공항 보관소서도 발견…재수색 마무리",
-   "url": "https://www.khan.co.kr/article/202610302123001/",
-   "source": "경향신문",
-   "summary": "김포공항 기체 잔해 보관소 수색에서 제주항공 참사 희생자 유해 추정물 6점이 추가로 수습됐다."
-  },
-  {
-   "title": "美중간선거 사전투표 4800만명 돌파…역대 최다",
-   "url": "https://www.newsis.com/view/NISX20261031_0003849146",
-   "source": "뉴시스",
-   "summary": "선거를 사흘 앞둔 미국 중간선거의 사전투표자가 4800만명을 넘어 역대 최다를 기록했다."
-  },
-  {
-   "title": "러·우크라 국지휴전 나흘째 올레시키 고립 주민들 대피 시작",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823977",
-   "source": "SBS",
-   "summary": "러시아·우크라이나 국지휴전 나흘째, 올레시키에 고립됐던 주민들이 버스로 대피하기 시작했다."
-  },
-  {
-   "title": "AI 빅테크 실망스러운 실적에…애플, 또 엔비디아 꺾고 시총 1위",
-   "url": "https://www.yna.co.kr/view/AKR20261031009500091",
-   "source": "연합뉴스",
-   "summary": "AI 빅테크 실적 실망 속에 애플이 다시 엔비디아를 제치고 시가총액 1위에 올랐다."
-  },
-  {
-   "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
-   "url": "https://www.yna.co.kr/view/AKR20261031005200072",
-   "source": "연합뉴스",
-   "summary": "이란 확전 우려로 국제유가가 2%대 올라 브렌트유가 6개월 만에 최고치를 기록했다."
-  },
-  {
-   "title": "G마켓 \"일부 e쿠폰 핀번호 무단 사용 정황…KISA에 신고\"",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823870",
-   "source": "SBS",
-   "summary": "G마켓이 일부 e쿠폰 핀번호가 무단 사용된 정황을 발견해 접근 경로를 막고 KISA에 신고했다."
-  },
-  {
-   "title": "美, 우크라에 2.8조원 규모 패트리엇 미사일 500기 판매 승인",
-   "url": "https://www.yna.co.kr/view/AKR20261031006700071",
-   "source": "연합뉴스",
-   "summary": "미 국무부가 우크라이나에 패트리엇 미사일 500기 판매를 승인했다."
-  },
-  {
-   "title": "미국, 서머타임 내달 1일 해제…동부기준 韓과 시차 13→14시간",
-   "url": "https://www.yna.co.kr/view/AKR20261031008700075",
-   "source": "연합뉴스",
-   "summary": "미국 서머타임이 11월 1일 끝나 미 동부와 한국의 시차가 14시간으로 늘어난다."
-  },
-  {
-   "title": "프로배구 내일 개막…오드리 박을 주목하는 이유는?",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823833",
-   "source": "SBS",
-   "summary": "프로배구가 31일 23번째 시즌을 시작하며 여자배구 국제경쟁력과 오드리 박 선수가 주목받는다."
-  },
-  {
-   "title": "\"너무 작아서 신기해\"…아기 판다 슈바오 '아장아장' 첫 등장",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823821",
-   "source": "SBS",
-   "summary": "푸바오 동생 아기 판다 슈바오가 처음으로 관람객 앞에 모습을 드러냈다."
-  }
- ]
+  "breaking": [
+    {
+      "title": "김병기, 6개월 만에 경찰 출석…8차 피의자 조사",
+      "url": "https://www.newsis.com/view/NISX20261031_0003849197",
+      "source": "뉴시스"
+    }
+  ],
+  "news": [
+    {
+      "title": "최불암 별세 온 국민 추모물결 문화훈장 추서",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823813",
+      "source": "SBS",
+      "summary": "정부가 고 최불암에게 최고 등급인 금관문화훈장을 추서했고 동료와 시민들의 추모가 이어지고 있다."
+    },
+    {
+      "title": "바이낸스 8조원대 해킹, TRM랩스 \"북한 배후\"",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261031004119hkv",
+      "source": "연합뉴스TV",
+      "summary": "바이낸스가 약 63억 달러(8조 4천억원) 해킹 피해를 밝혔고, 분석업체 TRM랩스는 북한을 배후로 지목했다."
+    },
+    {
+      "title": "트럼프 \"이란 전쟁 곧 마무리될 것…핵무기 불가 보장 필요\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824022",
+      "source": "SBS",
+      "summary": "트럼프 대통령이 라디오 인터뷰에서 이란 전쟁이 곧 마무리될 것이라며 핵무기 불가 보장이 필요하다고 말했다."
+    },
+    {
+      "title": "이란, 호르무즈서 유조선 공격한 듯…\"2척 화재 후 운항 중단\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824023",
+      "source": "SBS",
+      "summary": "호르무즈 해협에서 이란이 정한 항로를 벗어났다는 유조선 2척에 불이 나 운항이 멈춰 이란군 공격이 추정된다."
+    },
+    {
+      "title": "청와대 \"호르무즈서 청해부대 작전 확대 검토\"",
+      "url": "https://www.chosun.com/politics/politics_general/2026/10/31/JO34LJBSPFBUXDXJCFVFXRBY2Q/",
+      "source": "조선일보",
+      "summary": "청와대가 한국 선박 보호를 위해 청해부대 작전 범위를 오만만까지 넓히는 방안을 검토하고 있다."
+    },
+    {
+      "title": "올해 두 배 뛴 인텔의 추락…30% 폭락해 '1982년 이후 최악'",
+      "url": "https://ir.newspim.com/news/view/20261031000009",
+      "source": "뉴스핌",
+      "summary": "인텔이 실적 전망 부진으로 하루 30% 가까이 폭락해 1982년 집계 이래 최악의 하루를 기록했다."
+    },
+    {
+      "title": "한화디펜스USA, 미 해군 '중형상륙함' 첫 수주",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261031050718a7H",
+      "source": "연합뉴스TV",
+      "summary": "한화에어로스페이스 미국법인이 2억 6,900만 달러 규모의 미 해군 중형상륙함 건조 사업을 처음 따냈다."
+    },
+    {
+      "title": "與국방위원장 진성준 美비자 결국 발급…내일 예정대로 美방문",
+      "url": "https://www.yna.co.kr/view/AKR20261031019800001",
+      "source": "연합뉴스",
+      "summary": "한때 발급이 거부됐던 관용 비자를 받아 국방위 태평양사령부 방문이 예정대로 진행된다."
+    },
+    {
+      "title": "이 대통령, 다문화가정 우대 \"소액·소량이라고 불공정해도 되는 건 아냐\"",
+      "url": "https://www.khan.co.kr/article/202610301906001/",
+      "source": "경향신문",
+      "summary": "이재명 대통령이 공공 산후조리원 다문화 가정 우대와 관련해 소액이라도 불공정해선 안 된다고 재차 밝혔다."
+    },
+    {
+      "title": "김정은의 '드론 협박'… 스텔스 무인기 등 30종 공개",
+      "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/31/TAMOZPSKXJFG5LKFDBTK3ISLJA/",
+      "source": "조선일보",
+      "summary": "북한이 무인항공기술 전시회를 열어 스텔스 드론 등 신형 무인기 30종을 공개했다."
+    },
+    {
+      "title": "피치, '재정건전화 난항' 프랑스 신용등급 전망 '부정적' 하향",
+      "url": "https://www.yna.co.kr/view/AKR20261031021300009",
+      "source": "연합뉴스",
+      "summary": "피치가 프랑스 등급을 A+로 유지하되 전망을 '안정적'에서 '부정적'으로 낮췄다."
+    },
+    {
+      "title": "北, 대북제재감시팀 비난 \"우리에겐 제재 안통해…전략적 실패\"",
+      "url": "https://www.yna.co.kr/view/AKR20261031010200504",
+      "source": "연합뉴스",
+      "summary": "북한이 다국적제재모니터링팀(MSMT)을 비난하며 제재가 통하지 않는다고 주장했다."
+    },
+    {
+      "title": "'김건희 명품백' 김기현 무죄…배우자는 벌금형",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823823",
+      "source": "SBS",
+      "summary": "김건희 씨에게 명품 가방을 건넨 혐의를 받은 김기현 의원은 1심 무죄, 배우자는 벌금형을 받았다."
+    },
+    {
+      "title": "'역대 최대' 821조 예산 대치 정국 돌입…與 \"원안 사수\" 野 \"134조 삭감\"",
+      "url": "https://www.newsis.com/view/NISX20261030_0003848842",
+      "source": "뉴시스",
+      "summary": "국회가 821조원 규모 내년 예산안 심사에 착수했고 여당은 원안 사수, 야당은 대규모 삭감을 예고했다."
+    },
+    {
+      "title": "'조희대 국조' 대치…與 \"5대 의혹 조사\" vs 野 \"범국민적 저항\"",
+      "url": "https://www.newsis.com/view/NISX20261030_0003848882",
+      "source": "뉴시스",
+      "summary": "민주당이 조희대 대법원장 국정조사에 시동을 걸자 국민의힘은 장외 투쟁 등 강경 대응을 예고했다."
+    },
+    {
+      "title": "[단독] 한화시스템 ICT 직원 1700명 정보 유출",
+      "url": "https://www.hankyung.com/article/2026103070401",
+      "source": "한국경제",
+      "summary": "한화시스템 ICT 직원 1,700명의 정보가 유출됐고 전산 협력사를 통한 외부 해킹 가능성이 제기됐다."
+    },
+    {
+      "title": "서울 길음동 아파트 지하주차장 화재…142명 대피·6명 구조",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR202610310321427qM",
+      "source": "연합뉴스TV",
+      "summary": "성북구 길음동 아파트 지하주차장 쓰레기에서 불이 나 주민 142명이 대피하고 6명이 구조됐다."
+    },
+    {
+      "title": "가평 농막서 불…2명 사망·1명 부상",
+      "url": "https://www.yna.co.kr/view/AKR20261031008000060",
+      "source": "연합뉴스",
+      "summary": "경기 가평의 한 농막에서 불이 나 2명이 숨지고 1명이 다쳤다."
+    },
+    {
+      "title": "인천 영흥도 해상서 낚시어선 화재…4명 연기 흡입해 병원이송",
+      "url": "https://www.yna.co.kr/view/AKR20261031020100065",
+      "source": "연합뉴스",
+      "summary": "오전 6시 51분께 9.77t 낚시어선에 불이 나 22명 전원 구조, 4명이 연기를 마셔 이송됐다."
+    },
+    {
+      "title": "KIA, 7회 삼성 실책 틈타 3득점 뒤집기…대구서 PO 끝장승부",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823939",
+      "source": "SBS",
+      "summary": "KIA가 4차전을 4-2로 역전승하며 삼성과의 플레이오프를 대구 5차전 끝장승부로 몰고 갔다."
+    },
+    {
+      "title": "핼러윈 앞둔 '불금' 이태원엔 장갑차·경찰견까지…현장 안전관리 총력",
+      "url": "https://www.khan.co.kr/article/202610302011001/",
+      "source": "경향신문",
+      "summary": "핼러윈을 앞두고 경찰이 이태원 일대에 장갑차와 특공대, 폭발물감지견을 배치해 안전관리에 나섰다."
+    },
+    {
+      "title": "포스코 노사, 3차 파업 앞두고 임단협 잠정합의…기본급 2.6% 인상",
+      "url": "https://www.khan.co.kr/article/202610302024001/",
+      "source": "경향신문",
+      "summary": "포스코 노사가 11월 2일 3차 파업을 앞두고 기본급 2.6% 인상과 일시금 600만원에 잠정 합의했다."
+    },
+    {
+      "title": "제주항공 참사 유해 추정물 김포공항 보관소서도 발견…재수색 마무리",
+      "url": "https://www.khan.co.kr/article/202610302123001/",
+      "source": "경향신문",
+      "summary": "김포공항 기체 잔해 보관소 수색에서 제주항공 참사 희생자 유해 추정물 6점이 추가로 수습됐다."
+    },
+    {
+      "title": "美중간선거 사전투표 4800만명 돌파…역대 최다",
+      "url": "https://www.newsis.com/view/NISX20261031_0003849146",
+      "source": "뉴시스",
+      "summary": "선거를 사흘 앞둔 미국 중간선거의 사전투표자가 4800만명을 넘어 역대 최다를 기록했다."
+    },
+    {
+      "title": "러·우크라 국지휴전 나흘째 올레시키 고립 주민들 대피 시작",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823977",
+      "source": "SBS",
+      "summary": "러시아·우크라이나 국지휴전 나흘째, 올레시키에 고립됐던 주민들이 버스로 대피하기 시작했다."
+    },
+    {
+      "title": "AI 빅테크 실망스러운 실적에…애플, 또 엔비디아 꺾고 시총 1위",
+      "url": "https://www.yna.co.kr/view/AKR20261031009500091",
+      "source": "연합뉴스",
+      "summary": "AI 빅테크 실적 실망 속에 애플이 다시 엔비디아를 제치고 시가총액 1위에 올랐다."
+    },
+    {
+      "title": "\"아래엔 푸른 구슬\"…구글 첫 우주데이터센터 AI 응답은 시 한편",
+      "url": "https://www.yna.co.kr/view/AKR20261031019500091",
+      "source": "연합뉴스",
+      "summary": "구글 '프로젝트 선캐처' 시제품 위성의 TPU가 궤도에서 첫 AI 응답(하이쿠)을 보냈다."
+    },
+    {
+      "title": "이란 확전 우려에 국제유가 2%대 급등…브렌트유 6개월만에 최고",
+      "url": "https://www.yna.co.kr/view/AKR20261031005200072",
+      "source": "연합뉴스",
+      "summary": "이란 확전 우려로 국제유가가 2%대 올라 브렌트유가 6개월 만에 최고치를 기록했다."
+    },
+    {
+      "title": "G마켓 \"일부 e쿠폰 핀번호 무단 사용 정황…KISA에 신고\"",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823870",
+      "source": "SBS",
+      "summary": "G마켓이 일부 e쿠폰 핀번호가 무단 사용된 정황을 발견해 접근 경로를 막고 KISA에 신고했다."
+    },
+    {
+      "title": "\"너무 작아서 신기해\"…아기 판다 슈바오 '아장아장' 첫 등장",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823821",
+      "source": "SBS",
+      "summary": "푸바오 동생 아기 판다 슈바오가 처음으로 관람객 앞에 모습을 드러냈다."
+    }
+  ]
 }
