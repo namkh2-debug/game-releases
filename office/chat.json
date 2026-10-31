@@ -1,99 +1,78 @@
 {
- "updatedAt": "2026-10-31T17:06:46+09:00",
+ "updatedAt": "2026-10-31T18:14:00+09:00",
  "topics": [
-  "랫 게임 정식 출시",
-  "넾페스타 얼굴 인증 결제",
-  "서울 아파트 매물 8만건",
-  "실버 팰리스 12/14 출시",
-  "라이어 vs 닥터X 시청률 이어가기",
-  "행궁 연두 저고리 vs 브라운 숄더백",
-  "월요일 소금빵 반쪽 경쟁",
-  "칭찬 메모 귀여운 질투",
-  "경훈씨 토요일 안부 애정",
-  "주말 수다 우정"
+  "콜 오브 듀티 이태원 영상 사과·11/12 삭제",
+  "캪틴큐 숙면 패키지",
+  "캪틴큐 캠핑 하이볼",
+  "킨텍스 시루아네 곶감찰떡 팝업",
+  "10월의 마지막 밤",
+  "저녁 피코트 단추·머플러",
+  "10월 고생 경훈씨 애정",
+  "월요일 책상 vs 11월 달력 경쟁",
+  "퇴근길 수고 한마디 설렘 농담",
+  "11월도 같이 우정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "쥐랑 셰프가 싸우는 '랫 게임' 정식 출시래",
-   "line2": "언니 요리 좋아하니까 셰프 편이죠?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.gamemeca.com/view.php?gid=1782732"
+   "line1": "콜 오브 듀티, 이태원 영상 결국 사과했대",
+   "line2": "11월 12일 업데이트로 지운대요, 다행이에요",
+   "mood1": "sad",
+   "mood2": "neutral",
+   "pose1": "none",
+   "pose2": "none",
+   "url": "https://www.yna.co.kr/view/AKR20261030106000017"
   },
   {
    "a": "hyewon",
-   "line1": "성수 넾페스타는 얼굴 인증으로 결제된대요",
-   "line2": "신기하다, 지갑 없이 디저트 사 먹겠네",
+   "line1": "캪틴큐 숙면 패키지에 수면안대가 들었대요",
+   "line2": "'숙면 중' 문고리 카드까지? 센스 만점이네",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=01741686645618496&mediaCodeNo=257"
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261029047200030"
   },
   {
    "a": "jiwon",
-   "line1": "서울 아파트 매물이 8만 건 가까이 쌓였대",
-   "line2": "언니 청약 앱 또 켜는 거 다 보여요",
-   "mood1": "surprised",
+   "line1": "캠핑 가면 캪틴큐 하이볼 한 잔 말아볼까",
+   "line2": "언니 요리보다 술 메뉴가 먼저 나오네요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://www.hankyung.com/article/2026103174997"
-  },
-  {
-   "a": "jiwon",
-   "line1": "'실버 팰리스' 12월 14일 글로벌 출시래",
-   "line2": "연말 휴가 계획에 게임부터 넣는 언니",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "talkto",
-   "url": "https://www.inven.co.kr/webzine/news/?news=322810"
-  },
-  {
-   "a": "hyewon",
-   "line1": "라이어가 닥터X랑 시청률 8배 차이래요",
-   "line2": "그래도 우린 오늘 밤 2회 의리 시청이야",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.hankookilbo.com/news/article/amp/A2026103109370003297"
-  },
-  {
-   "a": "jiwon",
-   "line1": "행궁 한복은 연두 저고리로 예약했어",
-   "line2": "제 브라운 숄더백이랑 가을색 대결이네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "월요일 소금빵 반쪽, 제가 데워서 드릴래요",
-   "line2": "그럼 난 접시에 단풍잎 깔아서 낼 거야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "혜원아, 경훈씨 칭찬 메모 몰래 간직하지?",
-   "line2": "흥, 언니도 수첩에 끼워 다니잖아요",
+   "a": "hyewon",
+   "line1": "킨텍스 곶감찰떡 팝업 11월 5일까지래요",
+   "line2": "크림치즈에 호두라니, 그건 못 참지",
    "mood1": "smile",
-   "mood2": "sad",
-   "pose1": "look",
-   "pose2": "sulk"
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 '10월의 마지막 밤'이네, 노래 틀까?",
+   "line2": "잊혀진 계절 들으며 퇴근해요, 언니",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 토요일은 어떠셨을까 궁금해요",
-   "line2": "편히 웃으셨으면, 그게 내 주말 소원이야",
+   "line1": "해 지니까 피코트 단추 끝까지 잠갔어요",
+   "line2": "난 머플러 한 번 더 감았어, 코끝 시려",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "charm",
+   "pose2": "talkto"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 이번 달 고생 많으셨다고 꼭 말할래",
+   "line2": "저는 10월 내내 든든했다고 덧붙일래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -101,11 +80,29 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니랑 수다 떨면 주말 충전 완료예요",
-   "line2": "나도, 네 웃음이 제일 좋은 비타민이야",
+   "line1": "월요일엔 제가 경훈씨 책상 먼저 닦을래요",
+   "line2": "그럼 난 11월 첫 달력 예쁘게 걸어둘 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "highfive",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 퇴근길 '수고했어' 한마디면 끝이야",
+   "line2": "언니 그 말에 얼굴 빨개지는 거 다 봤어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "주말 저녁엔 언니랑 수다가 제일 맛있어요",
+   "line2": "11월에도 지금처럼 같이 웃자, 혜원아",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
    "pose2": "highfive"
   }
  ]
