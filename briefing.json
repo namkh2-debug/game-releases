@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updatedAt": "2026-10-31T22:10:00+09:00",
+ "updatedAt": "2026-10-31T23:10:29+09:00",
  "region": "경기 광주",
  "weather": {
   "temp": 7.3,
@@ -14,9 +14,9 @@
  },
  "breaking": [
   {
-   "title": "경찰 \"천안 일본 여성 살해, 성범죄 여부도 수사\"",
-   "url": "https://www.ikbc.co.kr/article/view/kbc202610310044",
-   "source": "KBC광주방송"
+   "title": "日여성 살해 30대 남성…성범죄 목적 가능성도 수사",
+   "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261031.99099009226",
+   "source": "국제신문"
   },
   {
    "title": "1248회 로또 1등 15명, 각 19.3억씩…16·18·27·36·38·42",
@@ -27,6 +27,11 @@
    "title": "옛연인 찾아가 ‘이것’ 뿌리며 “불 지르겠다” 협박 20대 여성…구속영장 기각",
    "url": "https://www.munhwa.com/article/11627765",
    "source": "문화일보"
+  },
+  {
+   "title": "제주 서귀포시 수협 인근서 암모니아 가스 누출",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738488",
+   "source": "국제뉴스"
   },
   {
    "title": "진주서 60대 송전탑 전선 교체 중 20ｍ 아래로 추락, 사망",
@@ -40,6 +45,12 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823813",
    "source": "SBS",
    "summary": "정부가 고 최불암에게 최고 등급인 금관문화훈장을 추서했고 동료와 시민들의 추모가 이어지고 있다."
+  },
+  {
+   "title": "李대통령, 野 '순방' 비판에 \"링거 맞고 코피…그결과 성과차이\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016413446",
+   "source": "연합뉴스",
+   "summary": "이재명 대통령이 해외 순방 비판을 반박하자 국민의힘이 강하게 맞섰다."
   },
   {
    "title": "트럼프 \"이란 전쟁 곧 마무리될 것…핵무기 불가 보장 필요\"",
@@ -66,6 +77,12 @@
    "summary": "청와대가 한국 선박 보호를 위해 청해부대 작전 범위를 오만만까지 넓히는 방안을 검토하고 있다."
   },
   {
+   "title": "'핼러윈' 토요일밤 홍대 13만·이태원 3만명…질서 속 자유",
+   "url": "https://www.yna.co.kr/view/AKR20261031044651004",
+   "source": "연합뉴스",
+   "summary": "참사 후 첫 주말 핼러윈, 대규모 인파 속 일방통행·통제로 큰 혼란은 없었다."
+  },
+  {
    "title": "미, 바이낸스 해킹 공조수사 착수…북미대화 변수되나?",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8700563",
    "source": "KBS 뉴스",
@@ -76,6 +93,12 @@
    "url": "https://www.yna.co.kr/view/MYH20261031009700038",
    "source": "연합뉴스",
    "summary": "일요일 오전 경기 남부·충청부터 비가 시작돼 밤엔 전국으로 번지고 월요일 아침까지 이어진다."
+  },
+  {
+   "title": "해킹으로 8.4조 털린 바이낸스 전액 자체 자금으로 보상",
+   "url": "https://www.hankyung.com/article/2026103175357",
+   "source": "한국경제",
+   "summary": "바이낸스가 피해 전액 보상과 11월 2일 준비금 증명 공개를 약속했다."
   },
   {
    "title": "구속영장 반려 50일 만에 소환된 김병기 \"무혐의 입증할 것\"",
@@ -124,12 +147,6 @@
    "url": "https://www.dailysecu.com/news/articleView.html?idxno=209206",
    "source": "데일리시큐",
    "summary": "더존비즈온 백업서버 침해 여파로 공공기관까지 주민번호·계좌번호 유출 가능성을 공지하며 피해 범위 조사가 이어지고 있다."
-  },
-  {
-   "title": "“북한, 코인 17조원 훔쳤다”…북한은 어떻게 ‘세계 1위 코인 도둑’이 됐나",
-   "url": "https://www.hani.co.kr/arti/economy/finance/1285127.html",
-   "source": "한겨레",
-   "summary": "TRM랩스는 북한이 2017년 이후 약 128억달러의 가상자산을 탈취했고 올해만 74억달러라고 추정했다."
   },
   {
    "title": "현대차, 새만금 '기회의 땅'으로…투자 본격화",
@@ -192,12 +209,6 @@
    "summary": "외부 사망 요인을 보정하면 사람 간 수명 차이의 최대 55%를 유전이 설명한다는 연구가 나왔다."
   },
   {
-   "title": "[단독] 미라 상태로 버려진 피해자, 가해자 소유 ‘무허가 쪽방 거주자’였다",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1285108.html",
-   "source": "한겨레",
-   "summary": "구로구 주택가 미라 주검 사건, 피해자는 유기 혐의 건물주 소유 쪽방 거주자."
-  },
-  {
    "title": "KBO, 프로야구 한화 내야수 노시환 MLB에 포스팅 요청",
    "url": "https://news.kbs.co.kr/news/view.do?ncd=8700558",
    "source": "KBS 뉴스",
@@ -208,12 +219,6 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823939",
    "source": "SBS",
    "summary": "KIA가 4차전을 4-2로 역전승하며 삼성과의 플레이오프를 대구 5차전 끝장승부로 몰고 갔다."
-  },
-  {
-   "title": "바닥 위 국화와 부캉이 코스튬…핼러윈 앞둔 이태원 ‘차분함 속 활기’",
-   "url": "https://www.hani.co.kr/arti/society/society_general/1285104.html",
-   "source": "한겨레",
-   "summary": "핼러윈 앞둔 이태원, 추모 국화 속 '부캉이' 코스튬 시민들로 차분한 활기."
   }
  ]
 }
