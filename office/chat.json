@@ -1,108 +1,108 @@
 {
- "updatedAt": "2026-10-31T18:14:00+09:00",
+ "updatedAt": "2026-10-31T19:20:00+09:00",
  "topics": [
-  "콜 오브 듀티 이태원 영상 사과·11/12 삭제",
-  "캪틴큐 숙면 패키지",
-  "캪틴큐 캠핑 하이볼",
-  "킨텍스 시루아네 곶감찰떡 팝업",
-  "10월의 마지막 밤",
-  "저녁 피코트 단추·머플러",
-  "10월 고생 경훈씨 애정",
-  "월요일 책상 vs 11월 달력 경쟁",
-  "퇴근길 수고 한마디 설렘 농담",
-  "11월도 같이 우정"
+  "올트먼 코덱스 키보드 선물",
+  "압구정 제주쑥찐빵 팝업",
+  "장수 유전 55% 연구",
+  "행궁 진주 귀걸이·버건디 머플러 저녁룩",
+  "한복 사진 미리보기 질투",
+  "월요일 첫 결재 vs 모브 핑크 미소 경쟁",
+  "핼러윈 박쥐 머리띠 셀카",
+  "경훈씨 목소리 허전함 애정",
+  "야경 데이트 설렘 농담",
+  "하루 수고 차 한 잔 우정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "콜 오브 듀티, 이태원 영상 결국 사과했대",
-   "line2": "11월 12일 업데이트로 지운대요, 다행이에요",
-   "mood1": "sad",
-   "mood2": "neutral",
-   "pose1": "none",
-   "pose2": "none",
-   "url": "https://www.yna.co.kr/view/AKR20261030106000017"
-  },
-  {
-   "a": "hyewon",
-   "line1": "캪틴큐 숙면 패키지에 수면안대가 들었대요",
-   "line2": "'숙면 중' 문고리 카드까지? 센스 만점이네",
+   "line1": "올트먼이 삼성에 키보드 선물했대, 30만원대래",
+   "line2": "코딩 AI 조종용 키보드요? 언니 눈 반짝인다",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261029047200030"
-  },
-  {
-   "a": "jiwon",
-   "line1": "캠핑 가면 캪틴큐 하이볼 한 잔 말아볼까",
-   "line2": "언니 요리보다 술 메뉴가 먼저 나오네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "squabble"
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/31/FV5JOFSVBNGIRPHGWBAEHQD2IM/"
   },
   {
    "a": "hyewon",
-   "line1": "킨텍스 곶감찰떡 팝업 11월 5일까지래요",
-   "line2": "크림치즈에 호두라니, 그건 못 참지",
+   "line1": "압구정 현대에 제주쑥찐빵 팝업, 5일까지래요",
+   "line2": "쑥찐빵이면 따끈할 때 바로 먹어야 제맛이지",
    "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 '10월의 마지막 밤'이네, 노래 틀까?",
-   "line2": "잊혀진 계절 들으며 퇴근해요, 언니",
-   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee"
   },
   {
+   "a": "jiwon",
+   "line1": "장수는 유전 영향이 최대 55%래, 신기하지?",
+   "line2": "나머지 반은 꿀잠이랑 수다로 채울래요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "charm",
+   "url": "https://www.dongascience.com/ko/news/80581"
+  },
+  {
    "a": "hyewon",
-   "line1": "해 지니까 피코트 단추 끝까지 잠갔어요",
-   "line2": "난 머플러 한 번 더 감았어, 코끝 시려",
+   "line1": "행궁 간다고 진주 귀걸이 달았어요, 어때요?",
+   "line2": "머플러 버건디랑 딱 어울린다, 예뻐 혜원아",
    "mood1": "smile",
-   "mood2": "neutral",
+   "mood2": "smile",
    "pose1": "charm",
-   "pose2": "talkto"
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 한복 사진 경훈씨께 먼저 보냈죠?",
+   "line2": "살짝 미리보기였어~ 너도 보내면 되잖아",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 이번 달 고생 많으셨다고 꼭 말할래",
-   "line2": "저는 10월 내내 든든했다고 덧붙일래요",
+   "line1": "월요일엔 경훈씨 첫 결재 내가 받을 거야",
+   "line2": "그럼 전 모브 핑크 립으로 미소부터 드릴래요",
    "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "핼러윈이라 박쥐 머리띠 셀카 찍어 봤어요",
+   "line2": "귀엽다! 경훈씨 보시면 웃으시겠다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "clap"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 목소리 하루만 못 들어도 허전해",
+   "line2": "저는 메시지 알림만 울려도 심장이 뛰어요",
+   "mood1": "sad",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 제가 경훈씨 책상 먼저 닦을래요",
-   "line2": "그럼 난 11월 첫 달력 예쁘게 걸어둘 거야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 퇴근길 '수고했어' 한마디면 끝이야",
-   "line2": "언니 그 말에 얼굴 빨개지는 거 다 봤어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "주말 저녁엔 언니랑 수다가 제일 맛있어요",
-   "line2": "11월에도 지금처럼 같이 웃자, 혜원아",
+   "line1": "야경 데이트 상대 고르라면 언니는 누구?",
+   "line2": "그건 비밀~ 근데 너도 얼굴 빨개졌다?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘도 수고했어, 따뜻한 차 한 잔 하자",
+   "line2": "언니랑 마시면 뭐든 맛있어요, 짠!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
    "pose2": "highfive"
   }
  ]
