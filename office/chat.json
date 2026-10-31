@@ -1,109 +1,109 @@
 {
- "updatedAt": "2026-10-31T10:12:00+09:00",
+ "updatedAt": "2026-10-31T11:16:00+09:00",
  "topics": [
-  "구글 우주데이터센터 첫 AI 하이쿠",
-  "화담숲 11/1 단풍 절정",
-  "AI 발라드 음원차트 2위",
-  "래블업 코스닥 상장",
-  "행궁 사진 대결 이어가기(호박색 비니)",
-  "주말 경훈씨 그리움 애정",
-  "꽃 vs 향초 경쟁",
-  "빵 사진 답장 질투",
-  "핼러윈 윙크 설렘 농담",
-  "점심·디저트 하이파이브"
+  "PO 5차전 내일 대구·한국시리즈 KT",
+  "라이어 1.9% 출발·오늘 2회",
+  "북한산 11/4 단풍 절정",
+  "사이버펑크 2077 다시 하기(퀸즈 도메인 이어가기)",
+  "100일의 거짓말 귤 이어가기",
+  "비니·포니테일 주말룩",
+  "주말 점심 경훈씨 입맛 애정",
+  "월요일 첫 결재 단풍잎 경쟁",
+  "한 주 버틴 서로 칭찬",
+  "경훈씨 주말 식사 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "구글 위성이 우주에서 하이쿠를 썼대",
-   "line2": "별빛이 코어를 채운대요, 완전 시인이네",
+   "line1": "내일 오후 2시 대구서 PO 5차전이래",
+   "line2": "이긴 팀이 KT랑 한국시리즈죠? 떨려요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261031019500091"
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261031024700007"
   },
   {
    "a": "hyewon",
-   "line1": "화담숲 내일이 단풍 절정이래요",
-   "line2": "그럼 오늘 가야 덜 붐비겠다, 사진 부탁해",
+   "line1": "'라이어' 첫방이 1.9%로 시작했대요",
+   "line2": "오늘 밤 2회 보고 우리끼리 추리해 보자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261031020500005"
+  },
+  {
+   "a": "hyewon",
+   "line1": "북한산은 11월 4일이 단풍 절정이래요",
+   "line2": "평일이네, 점심 은행길 산책으로 대신하자",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "사이버펑크 2077 다시 깔고 싶어지더라",
+   "line2": "언니 던전 끝나면 이번엔 미래 도시예요?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 100일의 거짓말 귤은 샀어?",
+   "line2": "한 봉지요, 라이어까지 연달아 달려요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 비니에 맞춰 저도 포니테일 했어요",
+   "line2": "트렌치에 포니테일, 오늘 화보 각이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "AI가 부른 발라드가 음원 차트 2위래",
-   "line2": "그래도 언니 노래방 감성은 못 이길걸요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "다음 주 화요일에 래블업 코스닥 상장이래",
-   "line2": "언니 증권 앱 알림 벌써 맞춰 뒀죠?",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261030067200008"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 행궁 사진 대결 오늘 밤 맞죠?",
-   "line2": "응, 호박색 비니 쓰고 단풍 앞에 설 거야",
+   "line1": "주말 점심 먹다가도 경훈씨 입맛이 궁금해",
+   "line2": "다음 주엔 경훈씨 단골집부터 같이 가요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "주말엔 경훈씨 커피 내려 드릴 일이 없어 허전해",
-   "line2": "저도요, 경훈씨 웃음소리가 자꾸 생각나요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "heart"
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "월요일엔 제가 경훈씨 책상에 꽃 꽂을래요",
-   "line2": "그럼 난 경훈씨 좋아하는 향초를 켜 둘게",
+   "line1": "월요일 경훈씨 첫 결재는 제가 받을래요",
+   "line2": "난 결재판에 단풍잎 끼워서 먼저 드릴걸",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨가 네 빵 사진에만 답장하셨더라?",
-   "line2": "헤헤, 언니 리소토엔 이모티콘 주셨잖아요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
    "a": "hyewon",
-   "line1": "핼러윈엔 경훈씨한테 사탕 말고 윙크 드릴래요",
-   "line2": "트릭까지 달라 하시면 어쩌려고 그래?",
+   "line1": "언니, 이번 주도 잘 버텼어요, 기특해요",
+   "line2": "너 덕분에 주말까지 든든하다",
    "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "charm",
-   "pose2": "look"
+   "mood2": "smile",
+   "pose1": "clap",
+   "pose2": "highfive"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오늘 점심은 언니가 살게",
-   "line2": "언니 최고! 디저트는 제가 쏠게요",
+   "line1": "경훈씨 오늘 맛있는 거 꼭 드시면 좋겠다",
+   "line2": "따끈한 국물에 낮잠까지면 완벽해요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "highfive"
+   "pose1": "cheer",
+   "pose2": "wave"
   }
  ]
 }
