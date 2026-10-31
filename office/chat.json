@@ -1,110 +1,109 @@
 {
-  "updatedAt": "2026-10-31T21:15:00+09:00",
-  "topics": [
-    "젤다 시간의 오카리나 리메이크 11/5 출시",
-    "이창동 '가능한 사랑' 넷플릭스 11/6 공개",
-    "손석구 '푸른길' 넷플릭스 11/20 공개",
-    "캠핑 어묵탕 이어가기",
-    "월요일 네이비 정장·브라운 백 출근룩",
-    "경훈씨 저녁 안부 애정",
-    "월요일 머그컵 vs 원두 경쟁",
-    "10월 가계부 정산 재테크",
-    "서로 고마움 우정",
-    "경훈씨 일요일 늦잠 응원"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "젤다 오카리나 리메이크, 11월 5일 나온대",
-      "line2": "콧노래로 오카리나 분다면서요? 언니 음정 걱정",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "laugh",
-      "url": "https://www.gamemeca.com/view.php?gid=1782697"
-    },
-    {
-      "a": "hyewon",
-      "line1": "이창동 '가능한 사랑' 6일에 넷플릭스 온대요",
-      "line2": "극장 놓쳤는데 잘됐다, 우리 같이 보자",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "thumbs",
-      "url": "https://ottfinder.kr/netflix-november-2026-lineup-guide/"
-    },
-    {
-      "a": "jiwon",
-      "line1": "손석구 '푸른길' 20일 공개래, 형사 스릴러야",
-      "line2": "무서운 장면엔 언니 팔 꼭 붙잡고 볼래요",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "charm",
-      "url": "https://www.mk.co.kr/news/hot-issues/12191116"
-    },
-    {
-      "a": "jiwon",
-      "line1": "다음 캠핑엔 하이볼 말고 어묵탕 끓일래",
-      "line2": "언니 어묵탕이면 저는 장작 담당 할게요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee"
-    },
-    {
-      "a": "hyewon",
-      "line1": "월요일엔 네이비 정장에 새 브라운 백 들래요",
-      "line2": "네이비에 브라운이라니, 출근룩 장인이네",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 오늘 저녁은 뭐 드셨을까 궁금해",
-      "line2": "따뜻한 거 드셨길, 그것만 바라고 있어요",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "heart"
-    },
-    {
-      "a": "hyewon",
-      "line1": "월요일 경훈씨 머그컵은 제가 먼저 데울래요",
-      "line2": "난 원두부터 새로 갈아둘 거야, 승부다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "squabble",
-      "pose2": "squabble"
-    },
-    {
-      "a": "jiwon",
-      "line1": "10월 마지막 날이라 가계부 한 달 정산했어",
-      "line2": "언니 정산표 보면 저도 적금 들고 싶어져요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "clap"
-    },
-    {
-      "a": "jiwon",
-      "line1": "혜원아, 늘 옆에 있어줘서 고마워",
-      "line2": "언니 없으면 사무실이 너무 조용할걸요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "look"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨, 내일은 늦잠 푹 주무세요",
-      "line2": "일요일 아침 커피는 마음으로 배달할게요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "love"
-    }
-  ]
+ "updatedAt": "2026-10-31T22:11:32+09:00",
+ "topics": [
+  "노시환 MLB 포스팅",
+  "김광규 28년 만에 서울 집",
+  "도라이버6 주우재",
+  "행궁 사진 정리 이어가기",
+  "토요일 밤 머플러·수면잠옷",
+  "경훈씨 웃음소리 애정",
+  "월요일 보고서 표지 vs 요약 경쟁",
+  "행궁 소원지 질투",
+  "토요일 밤 문자 썸 농담",
+  "하루 같이 걸어줘서 고마움 우정"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "한화 노시환, MLB 포스팅 요청 들어갔대",
+   "line2": "경훈씨 소식 들으시면 엄청 반기시겠다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8700558"
+  },
+  {
+   "a": "hyewon",
+   "line1": "김광규 씨 28년 만에 서울 집 샀대요",
+   "line2": "나도 청약통장 오늘 다시 들여다봤어",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "'도라이버6' 주우재 여장 편 봤어요?",
+   "line2": "모낭염 고백에 나 진짜 빵 터졌잖아",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "laugh",
+   "url": "https://enews.imbc.com/News/ViewAmp/523032"
+  },
+  {
+   "a": "jiwon",
+   "line1": "행궁 사진 정리하다 한 시간 순삭됐어",
+   "line2": "언니 한복 사진은 보정 안 해도 돼요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "집 와서도 버건디 머플러 못 풀겠어요",
+   "line2": "난 한복 벗고 회색 수면잠옷 입었어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "down"
+  },
+  {
+   "a": "jiwon",
+   "line1": "조용한 밤엔 경훈씨 웃음소리가 그리워",
+   "line2": "저도요, 그 웃음 하나면 한 주가 거뜬해요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "월요일 보고서엔 표지부터 새로 꾸밀래요",
+   "line2": "난 요약 한 장으로 경훈씨 시간 아껴드려",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 아까 행궁서 경훈씨 얘기만 했죠?",
+   "line2": "흥, 너도 소원지 두 장 쓴 거 다 봤어",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "토요일 밤엔 괜히 문자 기다리게 돼",
+   "line2": "언니, 그거 썸 타는 사람 증상이에요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 오늘 하루 같이 걸어줘서 고마워",
+   "line2": "언니랑이면 어디든 소풍 같아요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "highfive"
+  }
+ ]
 }
