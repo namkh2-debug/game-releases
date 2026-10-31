@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-10-30T09:06:42+09:00",
- "from": "2026-10-30",
+ "updatedAt": "2026-10-31T09:04:46+09:00",
+ "from": "2026-10-31",
  "to": "2027-01-31",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,74 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-10-30",
-   "title": "붉은사막 DLC: 미지의 여정",
-   "en": "Crimson Desert DLC",
-   "short": "붉은사막DLC",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "오픈월드 액션 DLC",
-   "price": "",
-   "korean": "한국어 지원",
-   "note": "펄어비스 확장 콘텐츠",
-   "url": "",
-   "major": true
-  },
-  {
-   "date": "2026-10-30",
-   "title": "퀸즈 도메인",
-   "en": "Queen's Domain",
-   "short": "퀸즈도메인",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "액션 RPG",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-30",
-   "title": "캣 인 더 햇: 비 오는 날 대소동",
-   "en": "The Cat in the Hat: Rainy Day Mayhem",
-   "short": "캣인더햇",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "파티",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-10-30",
-   "title": "엑소시스무스",
-   "en": "Exorcismus",
-   "short": "엑소시스무스",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "호러",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
   {
    "date": "2026-11-02",
    "title": "그래브하운즈",
