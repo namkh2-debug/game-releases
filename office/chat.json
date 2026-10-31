@@ -1,111 +1,109 @@
 {
- "updatedAt": "2026-10-31T08:12:00+09:00",
+ "updatedAt": "2026-10-31T09:12:00+09:00",
  "topics": [
-  "KBO PO 대구 끝장승부",
-  "맥도날드 게살 크림 크로켓 머핀",
-  "미국 서머타임 해제 시차 14시간",
-  "경기도자비엔날레 마지막 주말",
-  "꿀알바 이어가기",
-  "주말 후드 집업·트렌치 머플러",
-  "토요일 경훈씨 그리움",
-  "구미 밤 vs 향수 경쟁",
-  "잘 자요 모닝콜(살짝 설렘)",
-  "주말 차 한 잔"
+  "퀸즈 도메인 발매",
+  "보령 은행마을 단풍축제",
+  "최민정 월드투어 2차 첫날",
+  "금값 30% 하락",
+  "버섯 크림 리소토 이어가기",
+  "100일의 거짓말 새 회차",
+  "후드 집업+호박색 비니·머플러",
+  "주말 경훈씨 안부 애정",
+  "손글씨 카드 vs 이름 머그 경쟁",
+  "느긋한 토요일 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "오늘 대구에서 PO 끝장승부래, 벌써 떨려",
-   "line2": "언니 치킨 미리 시켜 두고 응원할 거죠?",
+   "line1": "킹스필드 감성 '퀸즈 도메인' 오늘 발매래",
+   "line2": "언니 주말 내내 던전에서 안 나오겠네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823939"
+   "url": "https://www.famitsu.com/article/202610/92661"
   },
   {
    "a": "hyewon",
-   "line1": "맥도날드 게살 크림 크로켓 머핀 나왔대요",
-   "line2": "주말 아침 메뉴로 딱이다, 같이 먹으러 가자",
-   "mood1": "surprised",
+   "line1": "보령 은행마을 단풍축제 내일 개막이래요",
+   "line2": "3천 그루 은행나무길, 사진 맛집이겠다",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261030073400030"
+   "url": "https://www.yna.co.kr/view/AKR20261027053900063"
   },
   {
    "a": "jiwon",
-   "line1": "미국 서머타임 내일 끝나서 시차 14시간이래",
-   "line2": "언니 메이저리그 중계 시간표 또 고치겠네요",
-   "mood1": "neutral",
+   "line1": "최민정 선수 월드투어 첫날 전 종목 조 1위래",
+   "line2": "마지막 시즌인데도 여전히 에이스네요",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261031008700075"
-  },
-  {
-   "a": "hyewon",
-   "line1": "이천 도자비엔날레 내일까지래요, 마지막 주말!",
-   "line2": "경훈씨 커피잔 하나 골라 오면 좋겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "heart"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원아, 꿀알바 2화까지 버텼어?",
-   "line2": "불 다 켜 놓고요… 다음 화는 언니 옆에서 볼래요",
-   "mood1": "neutral",
-   "mood2": "sad",
-   "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 후드 집업, 주말 버전 언니 너무 귀여워요",
-   "line2": "네 머플러 색은 오늘 단풍이랑 깔맞춤이네",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
+   "pose1": "clap",
    "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "토요일인데도 경훈씨 웃음소리가 귀에 맴돌아",
-   "line2": "저도요, 월요일 아침이 선물처럼 기다려져요",
-   "mood1": "smile",
+   "line1": "금값이 고점보다 30% 넘게 빠졌대",
+   "line2": "언니 표정 보니 벌써 저가 매수 고민 중",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "hyewon",
-   "line1": "에뛰드 신상 구미 밤 바르고 경훈씨 앞에 설래요",
-   "line2": "그럼 난 쇼핑대전에서 새 향수로 승부할 거야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble",
-   "url": "https://www.yna.co.kr/view/AKR20261030100300030"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨가 '잘 자요' 해 주시면 잠 다 깰 듯",
-   "line2": "그 목소리 모닝콜이면 난 평생 지각 안 해",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "think",
    "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "혜원아, 따뜻한 차 한 잔 하고 갈래?",
-   "line2": "좋아요, 언니가 타 준 차가 제일 맛있어요",
+   "a": "hyewon",
+   "line1": "언니, 버섯 크림 리소토 결국 만들었어요?",
+   "line2": "응, 버섯 볶다가 반은 집어먹었지 뭐야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오늘 밤 '100일의 거짓말' 새 회차 해요",
+   "line2": "귤 까 놓고 같이 보자, 스포 금지야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee"
+   "pose2": "wave"
+  },
+  {
+   "a": "jiwon",
+   "line1": "후드 집업에 호박색 비니 하나 얹어 봤어",
+   "line2": "핼러윈 느낌 딱, 제 머플러랑도 어울려요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 주말 잘 보내시나 자꾸 휴대폰 봐요",
+   "line2": "나도, 좋은 일만 있으시길 몰래 빌었어",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "월요일엔 손글씨 카드로 경훈씨 맞이할래요",
+   "line2": "그럼 난 경훈씨 이름 넣은 머그를 준비하지",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 오늘 하루 천천히 쉬어 가자",
+   "line2": "네 언니, 느긋한 토요일 최고예요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "highfive"
   }
  ]
 }
