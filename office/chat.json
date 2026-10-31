@@ -1,108 +1,112 @@
 {
- "updatedAt": "2026-10-31T16:03:09+09:00",
+ "updatedAt": "2026-10-31T17:06:46+09:00",
  "topics": [
-  "보검 매직컬2 지수·엄지원·안은진 알바",
-  "설악·오대산 단풍 인파",
-  "대한항공 V리그 개막전 완승",
-  "김광규 서울 자가(놀면 뭐하니)",
-  "비트코인 약세·바이낸스 해킹",
-  "해질녘 피코트·행궁 한복 저녁룩",
-  "행궁 사진 노리개 vs 숄더백 경쟁",
-  "단풍길 경훈씨 애정",
-  "소매 걷은 경훈씨 설렘 농담",
-  "샤브샤브·라이어 2회 이어가기"
+  "랫 게임 정식 출시",
+  "넾페스타 얼굴 인증 결제",
+  "서울 아파트 매물 8만건",
+  "실버 팰리스 12/14 출시",
+  "라이어 vs 닥터X 시청률 이어가기",
+  "행궁 연두 저고리 vs 브라운 숄더백",
+  "월요일 소금빵 반쪽 경쟁",
+  "칭찬 메모 귀여운 질투",
+  "경훈씨 토요일 안부 애정",
+  "주말 수다 우정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "'보검 매직컬2'에 지수가 알바로 온대",
-   "line2": "엄지원·안은진까지요? 라인업 미쳤다",
+   "line1": "쥐랑 셰프가 싸우는 '랫 게임' 정식 출시래",
+   "line2": "언니 요리 좋아하니까 셰프 편이죠?",
    "mood1": "smile",
-   "mood2": "surprised",
+   "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "think"
+   "pose2": "laugh",
+   "url": "https://www.gamemeca.com/view.php?gid=1782732"
   },
   {
    "a": "hyewon",
-   "line1": "설악·오대산에 오늘 4만9천 명 몰렸대요",
-   "line2": "단풍 절정이라더니, 우린 행궁이면 충분해",
+   "line1": "성수 넾페스타는 얼굴 인증으로 결제된대요",
+   "line2": "신기하다, 지갑 없이 디저트 사 먹겠네",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "down"
+   "pose2": "think",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=01741686645618496&mediaCodeNo=257"
   },
   {
    "a": "jiwon",
-   "line1": "대한항공이 V리그 개막전 3대0 완승했대",
-   "line2": "언니 배구까지 챙겨요? 스포츠 만능이네",
+   "line1": "서울 아파트 매물이 8만 건 가까이 쌓였대",
+   "line2": "언니 청약 앱 또 켜는 거 다 보여요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh",
+   "url": "https://www.hankyung.com/article/2026103174997"
+  },
+  {
+   "a": "jiwon",
+   "line1": "'실버 팰리스' 12월 14일 글로벌 출시래",
+   "line2": "연말 휴가 계획에 게임부터 넣는 언니",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
-   "pose2": "laugh"
+   "pose2": "talkto",
+   "url": "https://www.inven.co.kr/webzine/news/?news=322810"
   },
   {
    "a": "hyewon",
-   "line1": "김광규 씨 서울 자가 마련에 28년 걸렸대요",
-   "line2": "놀면 뭐하니 보다가 나 청약 앱 켤 듯",
-   "mood1": "surprised",
-   "mood2": "think",
+   "line1": "라이어가 닥터X랑 시청률 8배 차이래요",
+   "line2": "그래도 우린 오늘 밤 2회 의리 시청이야",
+   "mood1": "sad",
+   "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "think"
+   "pose2": "cheer",
+   "url": "https://www.hankookilbo.com/news/article/amp/A2026103109370003297"
   },
   {
    "a": "jiwon",
-   "line1": "비트코인이 7만7천달러대로 밀렸더라",
-   "line2": "바이낸스 해킹 여파죠? 언니 코인은 무사해요?",
-   "mood1": "sad",
-   "mood2": "surprised",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261031034500009"
-  },
-  {
-   "a": "hyewon",
-   "line1": "해 기우니까 피코트 다시 여몄어요",
-   "line2": "난 행궁 가서 한복으로 갈아입을 거야",
+   "line1": "행궁 한복은 연두 저고리로 예약했어",
+   "line2": "제 브라운 숄더백이랑 가을색 대결이네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "wave"
+   "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "오늘 행궁 사진, 노리개로 포인트 줄 거야",
-   "line2": "전 브라운 숄더백에 모브 핑크 립이에요",
+   "a": "hyewon",
+   "line1": "월요일 소금빵 반쪽, 제가 데워서 드릴래요",
+   "line2": "그럼 난 접시에 단풍잎 깔아서 낼 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
+   "a": "jiwon",
+   "line1": "혜원아, 경훈씨 칭찬 메모 몰래 간직하지?",
+   "line2": "흥, 언니도 수첩에 끼워 다니잖아요",
+   "mood1": "smile",
+   "mood2": "sad",
+   "pose1": "look",
+   "pose2": "sulk"
+  },
+  {
    "a": "hyewon",
-   "line1": "단풍 보면 경훈씨랑 천천히 걷고 싶어져요",
-   "line2": "나도, 경훈씨 옆이면 은행잎도 꽃길이지",
+   "line1": "경훈씨 토요일은 어떠셨을까 궁금해요",
+   "line2": "편히 웃으셨으면, 그게 내 주말 소원이야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 소매 걷어붙인 날 기억나?",
-   "line2": "언니! 그날 저 보고서 오타 세 개 냈어요",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "charm",
-   "pose2": "laugh"
-  },
-  {
    "a": "hyewon",
-   "line1": "샤브샤브 먹고 라이어 2회 같이 봐요",
-   "line2": "좋아, 범인 맞히는 사람이 디저트 쏘기",
+   "line1": "언니랑 수다 떨면 주말 충전 완료예요",
+   "line2": "나도, 네 웃음이 제일 좋은 비타민이야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "highfive",
+   "pose2": "highfive"
   }
  ]
 }
