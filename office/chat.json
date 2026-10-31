@@ -1,109 +1,109 @@
 {
- "updatedAt": "2026-10-31T22:11:32+09:00",
+ "updatedAt": "2026-10-31T23:11:10+09:00",
  "topics": [
-  "노시환 MLB 포스팅",
-  "김광규 28년 만에 서울 집",
-  "도라이버6 주우재",
-  "행궁 사진 정리 이어가기",
+  "바이낸스 해킹 피해 전액 보상",
+  "시루아네 곶감찰떡 킨텍스 팝업",
+  "카드캡터 사쿠라 협업 카페",
+  "라이어 범인 내기 이어가기",
   "토요일 밤 머플러·수면잠옷",
-  "경훈씨 웃음소리 애정",
-  "월요일 보고서 표지 vs 요약 경쟁",
-  "행궁 소원지 질투",
-  "토요일 밤 문자 썸 농담",
-  "하루 같이 걸어줘서 고마움 우정"
+  "11월 앞둔 경훈씨 애정",
+  "11월 다이어리 vs 귤 경쟁",
+  "자정 문자 썸 농담",
+  "10월 마무리 우정",
+  "경훈씨 밤 인사"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "한화 노시환, MLB 포스팅 요청 들어갔대",
-   "line2": "경훈씨 소식 들으시면 엄청 반기시겠다",
+   "line1": "바이낸스가 해킹 피해 전액 보상한대",
+   "line2": "코인은 언니 적금보다 심장에 안 좋아요",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.hankyung.com/article/2026103175357"
+  },
+  {
+   "a": "hyewon",
+   "line1": "킨텍스 곶감찰떡, 11월 5일까지래요",
+   "line2": "크림치즈에 호두라니, 그건 못 참지",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "thumbs",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8700558"
+   "url": "https://www.sentv.co.kr/article/view/sentv202610300184"
   },
   {
    "a": "hyewon",
-   "line1": "김광규 씨 28년 만에 서울 집 샀대요",
-   "line2": "나도 청약통장 오늘 다시 들여다봤어",
-   "mood1": "surprised",
+   "line1": "서울숲에 카드캡터 사쿠라 카페 생긴대요",
+   "line2": "너 어릴 때 지팡이 들고 다녔지? 귀엽다",
+   "mood1": "smile",
+   "mood2": "laugh",
+   "pose1": "love",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "라이어 범인 내기, 다음 회차에 판가름이다",
+   "line2": "언니, 디저트 메뉴 미리 골라 둬요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think"
+   "pose1": "squabble",
+   "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "'도라이버6' 주우재 여장 편 봤어요?",
-   "line2": "모낭염 고백에 나 진짜 빵 터졌잖아",
+   "line1": "목도리 두르고 귤 까먹으며 하루 정리해요",
+   "line2": "난 수면잠옷에 무릎담요까지 완전 무장",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "laugh",
-   "url": "https://enews.imbc.com/News/ViewAmp/523032"
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "행궁 사진 정리하다 한 시간 순삭됐어",
-   "line2": "언니 한복 사진은 보정 안 해도 돼요",
+   "line1": "한 시간 뒤면 11월, 경훈씨 생각부터 나네",
+   "line2": "11월에도 경훈씨 곁이 제일 따뜻할 거예요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "11월 다이어리 첫 장은 경훈씨 일정 차지예요",
+   "line2": "난 경훈씨 좋아하실 귤 한 상자로 선수 칠래",
+   "mood1": "charm",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "thumbs"
   },
   {
-   "a": "hyewon",
-   "line1": "집 와서도 버건디 머플러 못 풀겠어요",
-   "line2": "난 한복 벗고 회색 수면잠옷 입었어",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "down"
-  },
-  {
    "a": "jiwon",
-   "line1": "조용한 밤엔 경훈씨 웃음소리가 그리워",
-   "line2": "저도요, 그 웃음 하나면 한 주가 거뜬해요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "heart"
-  },
-  {
-   "a": "hyewon",
-   "line1": "월요일 보고서엔 표지부터 새로 꾸밀래요",
-   "line2": "난 요약 한 장으로 경훈씨 시간 아껴드려",
+   "line1": "자정 땡 하면 누가 먼저 문자 올까 두근두근",
+   "line2": "언니, 그 설렘은 신데렐라 아니고 썸이에요",
    "mood1": "smile",
-   "mood2": "smile",
+   "mood2": "laugh",
    "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 아까 행궁서 경훈씨 얘기만 했죠?",
-   "line2": "흥, 너도 소원지 두 장 쓴 거 다 봤어",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "토요일 밤엔 괜히 문자 기다리게 돼",
-   "line2": "언니, 그거 썸 타는 사람 증상이에요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
    "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "혜원아, 오늘 하루 같이 걸어줘서 고마워",
-   "line2": "언니랑이면 어디든 소풍 같아요",
+   "a": "hyewon",
+   "line1": "언니랑 보낸 10월, 진짜 꽉 찼어요",
+   "line2": "네 덕분이야, 11월도 잘 부탁해 혜원아",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "look",
    "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨, 오늘 밤은 푹 쉬세요",
+   "line2": "좋은 꿈 꾸시고 내일도 편히 보내세요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "cheer"
   }
  ]
 }
