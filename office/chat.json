@@ -1,110 +1,110 @@
 {
-  "updatedAt": "2026-11-01T15:08:00+09:00",
+  "updatedAt": "2026-11-01T16:08:46+09:00",
   "topics": [
-    "던전&다이너스티 11/4 출시",
-    "사커워즈 11/18 출시·사전예약",
-    "후쿠요시카페 스위트파크 팝업(~11/9)",
-    "캠핑 어묵탕 이어가기",
-    "일요일 후드·수면양말 집콕룩",
-    "쉬는 날 경훈씨 기다림 애정",
-    "보고서 손글씨 vs 응원 도장 경쟁",
-    "우산 같이 쓰기 설렘 농담",
-    "소금빵 반반 작전 이어가기",
-    "일요일 서로 수고 우정"
+    "GTA 6 11/19 PS5 출시",
+    "10월 수출 첫 9천억달러",
+    "저PBR 151개사 명단 재테크",
+    "푸른길 11/20(닥터X 이어가기)",
+    "김아림 LPGA 메이뱅크 7위",
+    "일요일 오후 후드·털양말·가디건 집콕룩",
+    "경훈씨 '수고했어요' 애정",
+    "펜 vs 메모 그림 경쟁",
+    "화분 물 vs 무릎담요 귀여운 질투 이어가기",
+    "저녁 국 한 그릇 우정"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "4일에 던전&다이너스티라는 게임 나온대",
-      "line2": "길드 운영이요? 언니 사장님 놀이네요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "laugh",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309873"
-    },
-    {
-      "a": "hyewon",
-      "line1": "사커워즈는 18일 출시, 사전예약 중이래요",
-      "line2": "7대7 축구? 점심 내기 한판 하자",
+      "line1": "GTA 6가 19일에 PS5로 나온대",
+      "line2": "언니, 그날 연차 쓰려는 거 다 알아요",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "thumbs",
-      "url": "https://www.gamemeca.com/en/view.php?gid=1782742"
-    },
-    {
-      "a": "hyewon",
-      "line1": "스위트파크에 홋카이도 후쿠요시카페 왔대요",
-      "line2": "9일까지래? 라떼는 내가 쏠게",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "coffee",
-      "url": "https://tnnews.co.kr/archives/296518"
+      "pose2": "laugh",
+      "url": "https://www.playstation.com/ko-kr/games/grand-theft-auto-vi/"
     },
     {
       "a": "jiwon",
-      "line1": "캠핑 어묵탕 국물, 오늘 같은 날 딱인데",
-      "line2": "언니 국물 얘기에 저 배고파졌어요",
-      "mood1": "smile",
-      "mood2": "sad",
+      "line1": "우리 수출이 처음으로 9천억달러 넘었대",
+      "line2": "반도체 힘이래요, 괜히 뿌듯하네요",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "thumbs",
+      "pose2": "clap",
+      "url": "https://www.yna.co.kr/view/AKR20261101015300003"
+    },
+    {
+      "a": "jiwon",
+      "line1": "저PBR 기업 151곳 명단이 처음 나왔대",
+      "line2": "언니 관심 종목도 있는지 봐 봐요",
+      "mood1": "neutral",
+      "mood2": "neutral",
       "pose1": "think",
-      "pose2": "sulk"
+      "pose2": "talkto",
+      "url": "https://www.yna.co.kr/view/AKR20261031025200008"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 후드에 수면양말 그대로예요?",
-      "line2": "응, 오늘은 소파랑 한 몸이야",
+      "line1": "손석구 스릴러 '푸른길', 20일 공개래요",
+      "line2": "닥터X 끝나면 네 드라마로 갈아탈게",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "look",
+      "pose1": "charm",
       "pose2": "look"
     },
     {
       "a": "jiwon",
-      "line1": "경훈씨 쉬는 날엔 시계가 참 느리게 가",
-      "line2": "내일 아침 문 열리는 소리 기다려져요",
-      "mood1": "sad",
+      "line1": "김아림 선수 LPGA 메이뱅크 7위래",
+      "line2": "한국 선수 중 제일 잘했대요, 멋져요",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "think",
-      "pose2": "heart"
+      "pose1": "clap",
+      "pose2": "thumbs"
+    },
+    {
+      "a": "jiwon",
+      "line1": "후드 집업에 털 양말로 갈아 신었어",
+      "line2": "전 가디건 소매에 손 쏙 넣고 있어요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "coffee"
     },
     {
       "a": "hyewon",
-      "line1": "내일 경훈씨 보고서 첫 장은 제 손글씨예요",
-      "line2": "그럼 난 마지막 장에 응원 도장 찍을래",
+      "line1": "경훈씨 한마디면 월요일도 설레요",
+      "line2": "그 '수고했어요'가 내 비타민이야",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "heart",
+      "pose2": "love"
+    },
+    {
+      "a": "jiwon",
+      "line1": "내일 경훈씨 책상엔 내가 고른 펜 둘 거야",
+      "line2": "그럼 전 메모지에 귀여운 그림 그릴래요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "squabble"
     },
     {
-      "a": "jiwon",
-      "line1": "경훈씨가 우산 같이 쓰자 하면 어떡해?",
-      "line2": "한쪽 어깨 젖어도 모른 척할래요, 후후",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "charm"
-    },
-    {
       "a": "hyewon",
-      "line1": "소금빵 반반 작전, 저 진짜 기대돼요",
-      "line2": "내일 버터 향으로 아침 열어 보자",
-      "mood1": "smile",
+      "line1": "언니, 경훈씨 화분 몰래 물 줬다면서요?",
+      "line2": "들켰네, 대신 무릎담요는 네가 이겼잖아",
+      "mood1": "sad",
       "mood2": "smile",
-      "pose1": "cheer",
+      "pose1": "sulk",
       "pose2": "highfive"
     },
     {
       "a": "jiwon",
-      "line1": "혜원아, 오늘 하루도 수고 많았어",
-      "line2": "언니 덕분에 일요일이 포근했어요",
+      "line1": "혜원아, 저녁엔 따뜻한 국 끓여 먹어",
+      "line2": "네, 언니도 이불 속에서 푹 쉬어요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "wave",
-      "pose2": "love"
+      "pose2": "cheer"
     }
   ]
 }
