@@ -1,62 +1,70 @@
 {
-  "updatedAt": "2026-11-01T09:06:00+09:00",
+  "updatedAt": "2026-11-01T10:12:00+09:00",
   "topics": [
-    "경북사과 서울광장 홍보행사",
-    "신지아 그랑프리 쇼트 6위",
-    "애플 폴더블의 벽",
-    "김주형 멕시코 오픈 공동 9위",
-    "일요일 맨투맨·후드 집업·오트밀 가디건 집콕룩",
-    "쉬는 날에도 1순위 애정",
-    "핸드드립 vs 토끼 사과 경쟁",
-    "화성행궁 사진 대결 후기 이어가기",
-    "빗소리 팔베개 은근 농담",
-    "주말 우정·출근길 커피"
+    "올리브영N 성수 시티투어 핸드크림",
+    "활명수 탄산음료·박카스 젤리",
+    "세븐일레븐 요거트 모찌롤·마카롱",
+    "한화오션 수평발사장치 국산화",
+    "투어스 미니 2집 내일 발매",
+    "일요일 후드 집업·오트밀 가디건 집콕룩",
+    "경훈씨 점심 걱정 애정",
+    "꽃갈피 vs 레몬티 경쟁",
+    "캠핑 어묵탕 이어가기",
+    "일요일 서로 응원"
   ],
   "exchanges": [
     {
       "a": "hyewon",
-      "line1": "경북 사과 홍보행사가 2~4일 서울광장에서 한대요",
-      "line2": "점심 산책 겸 가서 한 봉지 사 올까?",
+      "line1": "언니, 올리브영N 성수 시티투어 7일까지래요",
+      "line2": "그럼 같이 가서 핸드크림 하나씩 고르자",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "coffee",
-      "url": "https://www.yna.co.kr/view/AKR20261101012500053"
+      "pose2": "coffee"
     },
     {
       "a": "jiwon",
-      "line1": "신지아 선수 쇼트 6위래, 점프 실수가 아쉽다",
-      "line2": "프리에서 꼭 만회했으면 좋겠어요, 응원해요",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "cheer",
-      "url": "https://www.yna.co.kr/view/AKR20261101011800007"
-    },
-    {
-      "a": "jiwon",
-      "line1": "애플도 폴더블은 어렵대, 화면 접기가 까다롭나 봐",
-      "line2": "언니 또 폰 바꿀 핑계 찾는 거죠?",
+      "line1": "활명수가 탄산음료로 나왔대, 신기하지?",
+      "line2": "박카스는 젤리래요, 야근 간식 당첨이다",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
       "pose2": "laugh",
-      "url": "https://www.yna.co.kr/view/AKR20261030135800017"
+      "url": "https://www.yna.co.kr/view/AKR20261030123900017"
     },
     {
       "a": "hyewon",
-      "line1": "김주형 선수 멕시코 오픈 3R 공동 9위래요",
-      "line2": "남은 라운드도 이 기세면 좋겠다",
+      "line1": "세븐일레븐에 요거트 모찌롤이 나왔대요",
+      "line2": "마카롱도 있다며? 오후 간식은 그걸로!",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "clap",
-      "url": "https://www.yna.co.kr/view/AKR20261101013200007"
+      "pose1": "charm",
+      "pose2": "thumbs",
+      "url": "https://www.yna.co.kr/view/AKR20261101011000030"
     },
     {
       "a": "jiwon",
-      "line1": "쌀쌀해서 맨투맨 위에 후드 집업 하나 더 걸쳤어",
-      "line2": "전 가디건 소매로 손 감추고 핫초코 중이에요",
+      "line1": "한화오션이 잠수함 발사장치 국산화했대",
+      "line2": "기술력 소식은 언제 들어도 든든하네요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "clap",
+      "url": "https://www.yna.co.kr/view/AKR20261101016500003"
+    },
+    {
+      "a": "hyewon",
+      "line1": "내일 투어스 미니 2집 나온대요, 설레요",
+      "line2": "출근길 플레이리스트는 네가 짜 줘",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "talkto"
+    },
+    {
+      "a": "jiwon",
+      "line1": "후드 집업 지퍼 끝까지 올렸더니 포근해",
+      "line2": "전 가디건에 털 슬리퍼, 완전 곰돌이예요",
       "mood1": "neutral",
       "mood2": "smile",
       "pose1": "down",
@@ -64,48 +72,39 @@
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨는 쉬는 날에도 제 마음속 1순위예요",
-      "line2": "나도, 오늘은 푹 쉬시라고 속으로 빌었어",
-      "mood1": "smile",
+      "line1": "경훈씨 점심은 잘 챙겨 드셨을까요",
+      "line2": "그 생각만 해도 마음이 몽글몽글해져",
+      "mood1": "neutral",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
+      "pose1": "think",
+      "pose2": "heart"
     },
     {
       "a": "jiwon",
-      "line1": "월요일 아침엔 내가 핸드드립 내려 드릴 거야",
-      "line2": "그럼 전 사과를 토끼 모양으로 깎아 드릴래요",
+      "line1": "월요일엔 결재 서류에 꽃갈피 꽂아 둘 거야",
+      "line2": "전 경훈씨 머그에 레몬티 우려 둘래요!",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "squabble"
     },
     {
-      "a": "hyewon",
-      "line1": "어제 화성행궁 사진, 언니 한복 진짜 예뻤어요",
-      "line2": "네 모브 핑크 립도 반칙급이었어, 무승부!",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "highfive"
-    },
-    {
       "a": "jiwon",
-      "line1": "빗소리 들으니 누가 팔베개 해 주면 좋겠다",
-      "line2": "언니, 그 자리 이미 찜한 사람 있죠?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "laugh"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 덕분에 주말도 심심할 틈이 없어요",
-      "line2": "내일 출근길엔 같이 커피 사 가자",
+      "line1": "캠핑 어묵탕 말이야, 다음 주말에 끓일까?",
+      "line2": "국물은 제가 맡을게요, 꼭 불러 줘요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "coffee",
       "pose2": "wave"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 오늘 하루도 우리 같이 힘내요",
+      "line2": "그래, 우리 둘이면 뭐든 거뜬하지",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "cheer",
+      "pose2": "highfive"
     }
   ]
 }
