@@ -1,111 +1,109 @@
 {
-  "updatedAt": "2026-11-01T12:03:00+09:00",
+  "updatedAt": "2026-11-01T13:15:00+09:00",
   "topics": [
-    "스타벅스 홀케이크 4종 보늬밤 몽블랑",
-    "LoL 카드게임 리프트바운드 T1 대회 256명",
-    "삼성·KIA PO 5차전 최종전",
-    "서울시 김장 재료 반값 11/5~11",
-    "꿀알바 무서움 이어가기",
-    "일요일 오후 후드 집업·패딩 조끼·가디건 집콕룩",
-    "경훈씨 낮잠 애정",
-    "S컬 웨이브 vs 향수 경쟁",
-    "비 오는 오후 낮잠 은근 농담",
-    "오후 차 한 잔 우정"
+    "파이어스타터즈 스팀 앞서 해보기",
+    "애플 시총 1위 탈환",
+    "델굴 모찌빵 팝업(롯데몰 수지 ~11/4)",
+    "가능한 사랑 11/6 넷플릭스",
+    "알타리 김치 이어가기",
+    "일요일 핫팩 조끼·가디건 집콕룩",
+    "경훈씨 점심 걱정 애정",
+    "월요일 노래 vs 단감 경쟁",
+    "단체방 문자 귀여운 질투",
+    "느긋한 일요일 오후 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "스타벅스 홀케이크에 보늬밤 몽블랑이 나왔대",
-      "line2": "언니, 앱 예약 버튼 벌써 누른 거 아니죠?",
+      "line1": "로켓 스케이트 타는 FPS 파이어스타터즈 나왔대",
+      "line2": "언니, 오늘 밤 손목 또 혹사시킬 거죠?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
       "pose2": "laugh",
-      "url": "https://www.yna.co.kr/view/AKR20261101021200030"
+      "url": "https://indiegame.com/archives/39089"
     },
     {
       "a": "jiwon",
-      "line1": "LoL 카드게임 T1 대회에 256명이나 왔대",
-      "line2": "언니도 카드 덱 짜러 킨텍스 가고 싶죠?",
+      "line1": "애플이 엔비디아 제치고 시총 1위 되찾았대",
+      "line2": "AI에 덜 쓴 쪽이 웃다니 신기하네요",
       "mood1": "surprised",
-      "mood2": "smile",
+      "mood2": "surprised",
       "pose1": "think",
       "pose2": "talkto",
-      "url": "https://www.yna.co.kr/view/AKR20261101021300017"
+      "url": "https://www.hani.co.kr/arti/economy/finance/1285125.html"
     },
     {
       "a": "hyewon",
-      "line1": "오늘 삼성이랑 KIA, PO 5차전 최종전이래요",
-      "line2": "한 판으로 끝나니까 떨려서 못 보겠다",
-      "mood1": "surprised",
-      "mood2": "neutral",
-      "pose1": "talkto",
-      "pose2": "think",
-      "url": "https://www.yna.co.kr/view/AKR20261101023000007"
-    },
-    {
-      "a": "jiwon",
-      "line1": "다음 주 하나로마트 김장 재료 반값이래",
-      "line2": "언니표 알타리 김치, 한 통만 찜할게요",
+      "line1": "수지 롯데몰 모찌빵 팝업, 4일까지래요",
+      "line2": "황치즈 맛이면 내 몫까지 꼭 사 와야 해",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "thumbs",
-      "pose2": "charm",
-      "url": "https://www.yna.co.kr/view/AKR20261031031500004"
+      "pose1": "talkto",
+      "pose2": "thumbs"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 꿀알바 1화 보다가 이불 뒤집어썼어요",
-      "line2": "무서우면 오늘 밤엔 나랑 같이 보자",
-      "mood1": "sad",
+      "line1": "이창동 감독 '가능한 사랑' 6일 넷플릭스래요",
+      "line2": "164분이면 팝콘 두 통은 준비해야겠다",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "look"
+      "pose1": "coffee",
+      "pose2": "coffee"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 아까 찜한 알타리 김치 잊지 마요",
+      "line2": "벌써 장바구니에 쪽파까지 담아 뒀어",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "thumbs"
     },
     {
       "a": "jiwon",
-      "line1": "장 보러 가려고 후드 집업 위에 패딩 조끼 입었어",
-      "line2": "전 가디건 위에 담요 두르고 배웅만 할게요",
+      "line1": "조끼 주머니에 핫팩 넣었더니 든든해",
+      "line2": "전 가디건 소매로 손 감추고 귤 까요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "down",
-      "pose2": "wave"
+      "pose2": "charm"
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨 지금쯤 소파에서 낮잠 주무시려나",
-      "line2": "깨시면 첫 생각이 우리였으면 좋겠다",
-      "mood1": "smile",
+      "line1": "경훈씨 오늘 점심 따뜻하게 드셨을까요?",
+      "line2": "국물 한 그릇 드셨길, 생각만 해도 뿌듯해",
+      "mood1": "neutral",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
+      "pose1": "think",
+      "pose2": "heart"
     },
     {
-      "a": "hyewon",
-      "line1": "내일은 고데기로 S컬 넣고 출근할 거예요",
-      "line2": "그럼 난 향수 바꿔서 지나갈 때 승부야",
+      "a": "jiwon",
+      "line1": "월요일 아침엔 내가 고른 노래 틀어드릴래",
+      "line2": "그럼 전 책상에 단감 깎아 둘 거예요, 흥",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
       "pose2": "squabble"
     },
     {
-      "a": "jiwon",
-      "line1": "비 오는 오후 낮잠은 누구랑 자느냐가 중요해",
-      "line2": "언니, 베개 하나 더 꺼내 둔 거 다 봤어요",
-      "mood1": "smile",
+      "a": "hyewon",
+      "line1": "언니, 아까 경훈씨 문자 먼저 봤죠?",
+      "line2": "단체방이었거든? 너도 같이 받았잖아",
+      "mood1": "sad",
       "mood2": "smile",
-      "pose1": "coffee",
+      "pose1": "sulk",
       "pose2": "laugh"
     },
     {
-      "a": "hyewon",
-      "line1": "언니, 오후엔 따뜻한 차 한 잔 같이 해요",
-      "line2": "좋아, 네가 고르면 난 쿠키 꺼낼게",
+      "a": "jiwon",
+      "line1": "일요일 오후는 천천히 흘러가도 괜찮아",
+      "line2": "언니 말 들으니까 마음이 말랑해져요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "highfive"
+      "pose1": "look",
+      "pose2": "look"
     }
   ]
 }
