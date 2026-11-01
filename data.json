@@ -1,22 +1,14 @@
 {
-  "date": "2026-10-31",
-  "updatedAt": "2026-10-31T09:10:25+09:00",
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T09:07:44+09:00",
   "platforms": {
     "steam": [
-      {"title": "바티스트 (Baptiste)", "genre": "1인칭 심리 호러 어드벤처", "publisher": "Firenut Games·Digital Dreams / Firenut Games", "price": "미확인", "note": "한국어 자막 지원 · PS5·Xbox·스위치 2 동시 출시"},
-      {"title": "퀸즈 도메인 (Queen's Domain)", "genre": "레트로 1인칭 판타지 액션 RPG", "publisher": "Freshly Baked Games / Future Friends Games", "price": "미확인 (일본 스팀 2,800엔, 출시 기념 15% 할인)", "note": "한국어 지원 미확인(공개된 8개 언어에 없음) · 북미 10/30, 일본·아시아 10/31 · 킹스 필드풍"},
-      {"title": "보보 앤 더 체스트 오브 나이트메어 (Bobo and the Chest of Nightmares)", "genre": "호러 퍼즐 플랫포머", "publisher": "POLYCAST LABS / POLYCAST LABS", "price": "미확인", "note": "한국어 지원 미확인"},
-      {"title": "나이트 오딧 (Night Audit)", "genre": "협동 호러 (1~4인)", "publisher": "R0xZeD / R0xZeD", "price": "미확인", "note": "한국어 지원 미확인 · 인디"}
+      {"title": "김밥 헤븐 (Gimbap Heaven)", "genre": "카드형 분식집 경영 시뮬레이션", "publisher": "Noligo Games / HS Solution", "price": "미확인", "note": "한국어 지원 · 오늘 18:00(KST) 출시 · Windows·Mac"},
+      {"title": "레그라다 (LEGRADA)", "genre": "턴제 보드 전략 (온라인 1:1 대전)", "publisher": "ARTUR LEKANO / LEKANO GAMES", "price": "미확인", "note": "한국어 지원 · PC·모바일 진행 공유"},
+      {"title": "데들리 매치 (Deadly Match)", "genre": "3인칭 살인 미스터리 어드벤처", "publisher": "Belba Games / Belba Games", "price": "미확인", "note": "앞서 해보기 · 한국어 미지원"},
+      {"title": "엑시투스 (Exitus)", "genre": "터미널형 선택 시뮬레이션 (디스토피아)", "publisher": "Lamnidae Games / Lamnidae Games", "price": "미확인", "note": "한국어 지원 미확인 · 해제 예정 시각이 한국 시간 11/2 07:44라 실제로는 내일 아침 출시"}
     ],
-    "playstation": [
-      {"title": "바티스트 (Baptiste)", "genre": "1인칭 심리 호러 어드벤처", "publisher": "Firenut Games·Digital Dreams / Firenut Games", "price": "미확인", "note": "PS5 · 한국어 자막 지원"},
-      {"title": "퀸즈 도메인 (Queen's Domain)", "genre": "레트로 1인칭 판타지 액션 RPG", "publisher": "Freshly Baked Games / Future Friends Games", "price": "미확인 (일본 PS5 2,310엔)", "note": "PS5 · 한국어 지원 미확인 · 일본·아시아 10/31"},
-      {"title": "호러베일: 데드럭스 에디션 (HorrorVale: Deadluxe Edition)", "genre": "호러 턴제 JRPG", "publisher": "BatWorks Software / Electric Airship", "price": "미확인 (북미 $17.99)", "note": "PS5·PS4 · 영어만 확인 · 2024년 PC판의 콘솔 이식 · 북미 기준이라 한국은 시차로 늦을 수 있음"}
-    ],
-    "switch": [
-      {"title": "바티스트 (Baptiste)", "genre": "1인칭 심리 호러 어드벤처", "publisher": "Firenut Games·Digital Dreams / Firenut Games", "price": "미확인", "note": "스위치 2 · 한국어 자막 지원"},
-      {"title": "퀸즈 도메인 (Queen's Domain)", "genre": "레트로 1인칭 판타지 액션 RPG", "publisher": "Freshly Baked Games / Future Friends Games", "price": "미확인 (일본 2,350엔)", "note": "스위치 2 · 한국어 지원 미확인 · 한국 e숍 출시 여부 미확인"},
-      {"title": "호러베일: 데드럭스 에디션 (HorrorVale: Deadluxe Edition)", "genre": "호러 턴제 JRPG", "publisher": "BatWorks Software / Electric Airship", "price": "미확인 (북미 $17.99)", "note": "스위치 · 영어만 확인 · 한국 e숍 출시 여부 미확인"}
-    ]
+    "playstation": [],
+    "switch": []
   }
 }
