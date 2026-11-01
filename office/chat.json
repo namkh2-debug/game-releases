@@ -1,88 +1,41 @@
 {
-  "updatedAt": "2026-11-01T16:08:46+09:00",
+  "updatedAt": "2026-11-01T17:06:14+09:00",
   "topics": [
-    "GTA 6 11/19 PS5 출시",
-    "10월 수출 첫 9천억달러",
-    "저PBR 151개사 명단 재테크",
-    "푸른길 11/20(닥터X 이어가기)",
-    "김아림 LPGA 메이뱅크 7위",
-    "일요일 오후 후드·털양말·가디건 집콕룩",
-    "경훈씨 '수고했어요' 애정",
-    "펜 vs 메모 그림 경쟁",
-    "화분 물 vs 무릎담요 귀여운 질투 이어가기",
-    "저녁 국 한 그릇 우정"
+    "메타포 리판타지오 11/12 스위치2",
+    "삼성 한국시리즈 진출(3일 KT전)",
+    "버건디 라이너 vs 속눈썹 컬 경쟁",
+    "'혜원 씨' 부르는 목소리 애정",
+    "일요일 저녁 후드 집업·가디건 집콕룩",
+    "메밀배추전 막걸리 약속 이어가기(가능한 사랑)",
+    "내일의 우리 응원",
+    "저녁 김치볶음밥 일상",
+    "월요일 전 심호흡 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "GTA 6가 19일에 PS5로 나온대",
-      "line2": "언니, 그날 연차 쓰려는 거 다 알아요",
-      "mood1": "surprised",
+      "line1": "메타포 리판타지오가 12일 스위치2로 나온대",
+      "line2": "언니 그거 시작하면 주말 순삭이겠네요",
+      "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
       "pose2": "laugh",
-      "url": "https://www.playstation.com/ko-kr/games/grand-theft-auto-vi/"
+      "url": "https://www.nintendo.com/kr/games/switch2/lineup"
     },
     {
       "a": "jiwon",
-      "line1": "우리 수출이 처음으로 9천억달러 넘었대",
-      "line2": "반도체 힘이래요, 괜히 뿌듯하네요",
+      "line1": "삼성이 KIA 꺾고 한국시리즈 갔대",
+      "line2": "3일부터 KT랑 붙는대요, 볼만하겠다",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "thumbs",
       "pose2": "clap",
-      "url": "https://www.yna.co.kr/view/AKR20261101015300003"
-    },
-    {
-      "a": "jiwon",
-      "line1": "저PBR 기업 151곳 명단이 처음 나왔대",
-      "line2": "언니 관심 종목도 있는지 봐 봐요",
-      "mood1": "neutral",
-      "mood2": "neutral",
-      "pose1": "think",
-      "pose2": "talkto",
-      "url": "https://www.yna.co.kr/view/AKR20261031025200008"
+      "url": "https://www.yna.co.kr/view/AKR20261101035000007"
     },
     {
       "a": "hyewon",
-      "line1": "손석구 스릴러 '푸른길', 20일 공개래요",
-      "line2": "닥터X 끝나면 네 드라마로 갈아탈게",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "look"
-    },
-    {
-      "a": "jiwon",
-      "line1": "김아림 선수 LPGA 메이뱅크 7위래",
-      "line2": "한국 선수 중 제일 잘했대요, 멋져요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "clap",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "후드 집업에 털 양말로 갈아 신었어",
-      "line2": "전 가디건 소매에 손 쏙 넣고 있어요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 한마디면 월요일도 설레요",
-      "line2": "그 '수고했어요'가 내 비타민이야",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
-    },
-    {
-      "a": "jiwon",
-      "line1": "내일 경훈씨 책상엔 내가 고른 펜 둘 거야",
-      "line2": "그럼 전 메모지에 귀여운 그림 그릴래요",
+      "line1": "언니, 제 눈꼬리 버건디 라이너 어때요?",
+      "line2": "흥, 난 내일 속눈썹 컬로 맞불 놓을래",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
@@ -90,21 +43,57 @@
     },
     {
       "a": "hyewon",
-      "line1": "언니, 경훈씨 화분 몰래 물 줬다면서요?",
-      "line2": "들켰네, 대신 무릎담요는 네가 이겼잖아",
-      "mood1": "sad",
+      "line1": "경훈씨가 '혜원 씨' 부르는 목소리 그리워요",
+      "line2": "나도, 내일은 그 목소리로 하루 열고 싶어",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "highfive"
+      "pose1": "heart",
+      "pose2": "love"
     },
     {
       "a": "jiwon",
-      "line1": "혜원아, 저녁엔 따뜻한 국 끓여 먹어",
-      "line2": "네, 언니도 이불 속에서 푹 쉬어요",
+      "line1": "후드 집업 지퍼를 턱 끝까지 올렸어",
+      "line2": "전 가디건 입고 핫초코 머그 껴안았어요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "cheer"
+      "pose1": "coffee",
+      "pose2": "coffee"
+    },
+    {
+      "a": "jiwon",
+      "line1": "메밀배추전 막걸리 약속, 언제 지킬래?",
+      "line2": "'가능한 사랑' 보는 금요일 밤 어때요?",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "look",
+      "pose2": "charm"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘 못 한 일은 내일의 우리가 할 거야",
+      "line2": "언니 그 말, 제 일요일 좌우명 할래요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 저녁은 뭐 해 드실 거예요?",
+      "line2": "냉장고 털어서 김치볶음밥 할 거야",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "thumbs"
+    },
+    {
+      "a": "hyewon",
+      "line1": "월요일 앞두고 떨릴 땐 심호흡 세 번이요",
+      "line2": "같이 하자, 하나 둘 셋, 이제 괜찮지?",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "cheer",
+      "pose2": "highfive"
     }
   ]
 }
