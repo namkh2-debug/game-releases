@@ -1,9 +1,9 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T07:16:00+09:00",
+ "updatedAt": "2026-11-02T08:10:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 7,
+  "temp": 8,
   "low": 5,
   "high": 13,
   "condition": "구름 조금",
@@ -36,6 +36,54 @@
    "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102043016sYX",
    "source": "연합뉴스TV",
    "summary": "트럼프 대통령은 중간선거에서 민주당이 의회를 장악하면 거부권으로 입법을 막겠다고 밝혔습니다."
+  },
+  {
+   "title": "한국 수출 첫 9000억달러 돌파…\"이달 중 年 1兆달러 확실시\"",
+   "url": "https://biz.chosun.com/policy/policy_sub/2026/11/01/CQYAMCDJDFG27NY5DAJPYINDNE/",
+   "source": "조선비즈",
+   "summary": "1~10월 누적 수출 9300억달러로 사상 최대, 반도체가 견인하며 11월 중 연 1조달러 전망"
+  },
+  {
+   "title": "[단독] 훈련기 공중 충돌했는데…공군은 '쉬쉬'",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825420",
+   "source": "SBS 뉴스",
+   "summary": "9월 사천기지 KT-1 훈련기 2대 공중 충돌, 인명피해 없었지만 두 달간 공개 안 해"
+  },
+  {
+   "title": "'국민 아버지' 최불암 오늘 영면…'아베 마리아'로 마지막 배웅",
+   "url": "https://www.yna.co.kr/view/AKR20261101025200005",
+   "source": "연합뉴스",
+   "summary": "비공개 발인 후 여의도성당에서 염수정 추기경 집전 장례미사"
+  },
+  {
+   "title": "정년 후 연금까지 3년 '소득 절벽'…재취업 60% 임시·일용직",
+   "url": "https://www.yna.co.kr/view/AKR20261101037100530",
+   "source": "연합뉴스",
+   "summary": "연금 수급 연령 상향으로 정년 후 소득공백 3년으로 늘어"
+  },
+  {
+   "title": "팍팍한 살림…소득·자산 하위 20%, 생계용 신용대출 비중 최대",
+   "url": "https://www.yna.co.kr/view/AKR20261031000700002",
+   "source": "연합뉴스",
+   "summary": "자산 하위 20% 신용대출 용도 중 '생활비 마련' 45.3%로 역대 최대"
+  },
+  {
+   "title": "내년 공시가 상승 강북이 주도하나…현실화율·세제개편안 변수",
+   "url": "https://www.yna.co.kr/view/AKR20261101044700003",
+   "source": "연합뉴스",
+   "summary": "국토부·부동산원 내년도 공시가격 산정 절차 돌입"
+  },
+  {
+   "title": "경찰, 청소년 도박·마약 자진신고 받는다…치유 연계·선처",
+   "url": "https://www.yna.co.kr/view/AKR20261101043700004",
+   "source": "연합뉴스",
+   "summary": "11월 16일~12월 15일 청소년 중독성 범죄 자진신고 기간 운영"
+  },
+  {
+   "title": "프랑스, 시위대 화염병 투척에 '살인미수' 수사",
+   "url": "https://www.yna.co.kr/view/AKR20261102000700085",
+   "source": "연합뉴스",
+   "summary": "파리 시위 중 경찰·헌병 15명 향해 폭발성 장치 투척, 검찰 수사 착수"
   },
   {
    "title": "체코 원전 시공 계약 무산에…정부, 비상관리체제 가동",
