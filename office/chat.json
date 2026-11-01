@@ -1,69 +1,70 @@
 {
-  "updatedAt": "2026-11-01T13:15:00+09:00",
+  "updatedAt": "2026-11-01T14:05:22+09:00",
   "topics": [
-    "파이어스타터즈 스팀 앞서 해보기",
-    "애플 시총 1위 탈환",
-    "델굴 모찌빵 팝업(롯데몰 수지 ~11/4)",
-    "가능한 사랑 11/6 넷플릭스",
-    "알타리 김치 이어가기",
-    "일요일 핫팩 조끼·가디건 집콕룩",
-    "경훈씨 점심 걱정 애정",
-    "월요일 노래 vs 단감 경쟁",
-    "단체방 문자 귀여운 질투",
-    "느긋한 일요일 오후 응원"
+    "크라임라이트 11/5 PS5·스위치2",
+    "피크민 4 스위치2 에디션 11/12",
+    "11월 제철 메밀배추전",
+    "닥터X 11/14 마지막 회(이름 같은 주연)",
+    "온꼬미즈 목욕 팝업(영등포 ~11/4) 셀카 2차전",
+    "일요일 후드 모자·수면양말 집콕룩",
+    "경훈씨 웃음소리 애정",
+    "화성행궁 사진 발표 경쟁 이어가기",
+    "소금빵 반반 작전 이어가기",
+    "서로 고마움·응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "로켓 스케이트 타는 FPS 파이어스타터즈 나왔대",
-      "line2": "언니, 오늘 밤 손목 또 혹사시킬 거죠?",
+      "line1": "크라임라이트가 5일 PS5·스위치2로 나온대",
+      "line2": "카드로 스킬 맞추는 거요? 딱 언니 취향",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "laugh",
-      "url": "https://indiegame.com/archives/39089"
+      "pose2": "thumbs",
+      "url": "https://kyries.tistory.com/200"
     },
     {
       "a": "jiwon",
-      "line1": "애플이 엔비디아 제치고 시총 1위 되찾았대",
-      "line2": "AI에 덜 쓴 쪽이 웃다니 신기하네요",
-      "mood1": "surprised",
-      "mood2": "surprised",
-      "pose1": "think",
-      "pose2": "talkto",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1285125.html"
-    },
-    {
-      "a": "hyewon",
-      "line1": "수지 롯데몰 모찌빵 팝업, 4일까지래요",
-      "line2": "황치즈 맛이면 내 몫까지 꼭 사 와야 해",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "hyewon",
-      "line1": "이창동 감독 '가능한 사랑' 6일 넷플릭스래요",
-      "line2": "164분이면 팝콘 두 통은 준비해야겠다",
+      "line1": "12일엔 피크민 4 스위치2 에디션도 나와",
+      "line2": "피크민 줄줄이 따라오는 거 너무 귀여워요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "coffee",
-      "pose2": "coffee"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 아까 찜한 알타리 김치 잊지 마요",
-      "line2": "벌써 장바구니에 쪽파까지 담아 뒀어",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs"
+      "pose2": "charm",
+      "url": "https://duckcal.net/month/2026-11"
     },
     {
       "a": "jiwon",
-      "line1": "조끼 주머니에 핫팩 넣었더니 든든해",
-      "line2": "전 가디건 소매로 손 감추고 귤 까요",
+      "line1": "11월 제철 메밀이랑 배추로 전 부쳐 볼까",
+      "line2": "메밀배추전이요? 막걸리는 제가 살게요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "thumbs",
+      "url": "https://www.nongsaro.go.kr/mfood/kfi/foodMonth/list?menuId=PS03599&tabCode=1"
+    },
+    {
+      "a": "hyewon",
+      "line1": "닥터X가 14일 마지막 회래요, 언니 드라마!",
+      "line2": "이름 같은 주연이라 끝나면 허전하겠다",
+      "mood1": "smile",
+      "mood2": "sad",
+      "pose1": "talkto",
+      "pose2": "think"
+    },
+    {
+      "a": "hyewon",
+      "line1": "영등포 온꼬미즈 목욕 팝업, 4일까지래요",
+      "line2": "셀카 2차전이지? 이번엔 내가 이길걸",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "charm"
+    },
+    {
+      "a": "jiwon",
+      "line1": "후드 모자 쓰고 편의점 다녀오니 딱 좋네",
+      "line2": "전 가디건에 수면양말 두 겹 신었어요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "down",
@@ -71,39 +72,48 @@
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨 오늘 점심 따뜻하게 드셨을까요?",
-      "line2": "국물 한 그릇 드셨길, 생각만 해도 뿌듯해",
-      "mood1": "neutral",
+      "line1": "경훈씨 웃음소리 떠올리면 하루가 환해져요",
+      "line2": "그 웃음, 내일 아침엔 우리가 제일 먼저 보자",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "think",
+      "pose1": "love",
       "pose2": "heart"
     },
     {
-      "a": "jiwon",
-      "line1": "월요일 아침엔 내가 고른 노래 틀어드릴래",
-      "line2": "그럼 전 책상에 단감 깎아 둘 거예요, 흥",
-      "mood1": "smile",
+      "a": "hyewon",
+      "line1": "언니, 내일 화성행궁 사진 발표 떨려요",
+      "line2": "한복 입은 내가 좀 유리하지 않을까, 후후",
+      "mood1": "neutral",
       "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "squabble"
+      "pose1": "squabble",
+      "pose2": "charm"
     },
     {
-      "a": "hyewon",
-      "line1": "언니, 아까 경훈씨 문자 먼저 봤죠?",
-      "line2": "단체방이었거든? 너도 같이 받았잖아",
-      "mood1": "sad",
+      "a": "jiwon",
+      "line1": "소금빵 반반 작전, 내일 몇 시에 할까?",
+      "line2": "8시 반이요, 대신 커피는 제가 먼저예요",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "sulk",
+      "pose1": "talkto",
       "pose2": "laugh"
     },
     {
       "a": "jiwon",
-      "line1": "일요일 오후는 천천히 흘러가도 괜찮아",
-      "line2": "언니 말 들으니까 마음이 말랑해져요",
+      "line1": "혜원아, 늘 옆에 있어 줘서 고마워",
+      "line2": "언니랑 있으면 평범한 날도 반짝여요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "look",
       "pose2": "look"
+    },
+    {
+      "a": "jiwon",
+      "line1": "힘든 날엔 언제든 내 어깨 빌려줄게",
+      "line2": "그럼 전 언니 편 무조건 들어 드릴게요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "cheer",
+      "pose2": "highfive"
     }
   ]
 }
