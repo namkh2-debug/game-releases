@@ -1,58 +1,51 @@
 {
- "updatedAt": "2026-11-01T22:07:32+09:00",
+ "updatedAt": "2026-11-01T23:14:00+09:00",
  "topics": [
-  "페르소나1 리메이크 연결설",
-  "커버드콜 ETF 코스피 하회 재테크",
-  "후쿠요시 카페 토키와야키(신세계 강남)",
-  "온꼬미즈 배스타임 팝업 셀카 2차전 이어가기",
-  "일요일 밤 수분팩·극세사 잠옷 집콕룩",
-  "가능한 사랑 금요일 간식 이어가기",
-  "경훈씨 수고했어요 한마디 애정",
-  "내일 책상 메모 vs 응원 문구 경쟁",
-  "굿나잇 메시지 귀여운 질투",
-  "밤의 낮은 목소리 설렘 농담"
+  "에버케이드 넥서스 출시(반조 카주이 동봉)",
+  "국민연금 수급자 800만 재테크",
+  "BBNEXDO 팝업 11/3 마감",
+  "무빙 브루어리 롯데몰 수지 ~11/4",
+  "화성행궁 사진 대결 내일 공개 이어가기",
+  "월요일 출근룩 준비·셔츠 다림질",
+  "경훈씨 하루 편안함 기도 애정",
+  "커피 시럽 vs 컵 온도 경쟁",
+  "월요일 아침 붕어빵 우정",
+  "알람 두 개 굿나잇"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "페르소나1 리메이크 나온다는 소문 돌더라",
-   "line2": "30주년이라던데, 진짜면 언니 휴가 내겠네",
-   "mood1": "surprised",
+   "line1": "에버케이드 넥서스 나왔대, 반조 카주이 동봉",
+   "line2": "레트로 휴대기요? 언니 지갑 또 열리겠다",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh"
+   "pose2": "laugh",
+   "url": "https://www.gamespress.com/EVERCADE-NEXUS-HANDHELD-CONSOLE-OUT-NOW"
   },
   {
    "a": "jiwon",
-   "line1": "커버드콜 ETF가 코스피보다 못했대",
-   "line2": "'제2 월급' 믿었는데… 분산이 답이네요",
-   "mood1": "sad",
-   "mood2": "neutral",
+   "line1": "국민연금 수급자가 800만명을 넘었대",
+   "line2": "7할이 월 60만원 미만… 개인연금 챙겨요",
+   "mood1": "surprised",
+   "mood2": "sad",
    "pose1": "think",
-   "pose2": "think"
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261030170400530"
   },
   {
    "a": "hyewon",
-   "line1": "신세계 강남에 후쿠요시 카페 팝업 있대요",
-   "line2": "다리 모양 디저트? 토키와야키 나도 궁금해",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "charm",
-   "pose2": "talkto"
-  },
-  {
-   "a": "hyewon",
-   "line1": "온꼬미즈 목욕 콘셉트 카페, 4일까지래요",
-   "line2": "셀카 2차전이지? 이번엔 오리 튜브 쓴다",
-   "mood1": "smile",
+   "line1": "보넥도 팝업이 3일까지래요, 모레 마감!",
+   "line2": "난 디저트파, 넌 포토존 담당 하자",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "squabble"
+   "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "머리에 수건 두르고 수분팩 붙였어요",
-   "line2": "난 극세사 잠옷에 털 슬리퍼 신었어",
+   "line1": "롯데몰 수지 수제맥주 축제 4일까지예요",
+   "line2": "팀 저녁 거기 어때? 난 흑맥주 한 잔 찜",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
@@ -60,17 +53,26 @@
   },
   {
    "a": "jiwon",
-   "line1": "가능한 사랑 금요일, 간식은 뭘로 할까?",
-   "line2": "164분이니까 군밤이랑 귤 한 바구니요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "thumbs"
+   "line1": "화성행궁 사진, 내일 경훈씨가 고르시지?",
+   "line2": "네, 이번엔 '둘 다' 금지예요. 떨려요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "look",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일은 네이비 정장에 브라운 숄더백이요",
+   "line2": "난 잠옷 차림으로 셔츠 다리는 중이야",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "charm",
+   "pose2": "down"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 '수고했어요' 한마디가 보약이야",
-   "line2": "맞아요, 그 말 듣는 날은 발걸음이 가벼워요",
+   "line1": "자기 전에 경훈씨 하루가 편했길 빌었어",
+   "line2": "저도요, 내일 얼굴 뵈면 다 알 것 같아요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -78,30 +80,30 @@
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 책상 메모는 제가 먼저예요",
-   "line2": "난 오늘 밤에 응원 문구 벌써 써 뒀지롱",
+   "line1": "경훈씨 커피 시럽 양은 제가 제일 잘 알죠",
+   "line2": "흥, 난 컵 온도까지 맞춰 갈 거거든",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 아까 경훈씨한테 굿나잇 보냈죠?",
-   "line2": "흥, 난 짧게 보냈어. 너 그 표정 귀엽다",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
    "a": "jiwon",
-   "line1": "밤엔 이상하게 목소리 낮은 사람이 좋아",
-   "line2": "언니, 그거 누구 얘기인지 다 알거든요",
+   "line1": "혜원아, 내일 아침 지하철 같이 탈래?",
+   "line2": "좋아요, 역 앞 붕어빵은 제가 살게요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "wave",
+   "pose2": "cheer"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 내일 알람 두 개 맞췄어요?",
+   "line2": "응, 하나는 너 깨우는 용이야. 잘 자",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "highfive"
   }
  ]
 }
