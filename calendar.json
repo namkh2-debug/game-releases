@@ -1,8 +1,8 @@
 {
  "version": 1,
- "updatedAt": "2026-10-31T09:04:46+09:00",
- "from": "2026-10-31",
- "to": "2027-01-31",
+ "updatedAt": "2026-11-01T09:02:52+09:00",
+ "from": "2026-11-01",
+ "to": "2027-02-28",
  "platformKeys": {
   "steam": "스팀(PC)",
   "switch": "닌텐도",
@@ -118,6 +118,23 @@
    "price": "",
    "korean": "미확인",
    "note": "PC 앞서해보기 종료",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "나 혼자만 레벨업: 어라이즈 오버드라이브",
+   "en": "Solo Leveling: Arise Overdrive",
+   "short": "나혼렙",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "11/4에서 하루 당겨짐",
    "url": "",
    "major": false
   },
@@ -444,6 +461,41 @@
    "major": false
   },
   {
+   "date": "2026-11-10",
+   "title": "타누키: 폰의 여름",
+   "en": "Tanuki: Pon's Summer",
+   "short": "타누키",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-10",
+   "title": "라코인: 코인 푸셔 로그라이크",
+   "en": "Raccoin: Coin Pusher Roguelike",
+   "short": "라코인",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "로그라이크",
+   "price": "",
+   "korean": "미확인",
+   "note": "PS5·스위치2·Xbox",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-11-12",
    "title": "메타포: 리판타지오 (스위치2)",
    "en": "Metaphor: ReFantazio",
@@ -710,6 +762,21 @@
    "major": false
   },
   {
+   "date": "2026-11-24",
+   "title": "라이트 오브 아틀란티스",
+   "en": "Light of Atlantis",
+   "short": "아틀란티스",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-11-26",
    "title": "어펄스",
    "en": "Appulse",
@@ -766,6 +833,23 @@
     "steam"
    ],
    "genre": "슈터 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-02",
+   "title": "루마 아일랜드 (콘솔)",
+   "en": "Luma Island",
+   "short": "루마아일랜드",
+   "platforms": [
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "어드벤처·생활",
    "price": "",
    "korean": "미확인",
    "note": "",
@@ -1020,6 +1104,21 @@
    "major": false
   },
   {
+   "date": "2026-12-09",
+   "title": "라이더스 리퍼블릭 (스위치)",
+   "en": "Riders Republic",
+   "short": "라이더스",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "익스트림 스포츠",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치판",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-12-10",
    "title": "진격의 거인 3",
    "en": "Attack on Titan 3",
@@ -1183,6 +1282,21 @@
    "price": "",
    "korean": "미확인",
    "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-07",
+   "title": "엠버빌",
+   "en": "Emberville",
+   "short": "엠버빌",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "마을 건설",
+   "price": "",
+   "korean": "미확인",
+   "note": "10/27에서 연기",
    "url": "",
    "major": false
   },
