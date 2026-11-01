@@ -1,70 +1,62 @@
 {
- "updatedAt": "2026-11-02T07:22:00+09:00",
+ "updatedAt": "2026-11-02T08:10:00+09:00",
  "topics": [
-  "삼성-KT 한국시리즈 3일 개막",
-  "엣지 오브 메모리즈 11/5 한국어판",
-  "美 중간선거 반도체주 재테크",
-  "후쿠요시 카페 팝업(신세계 강남)",
-  "제주쑥찐빵 vs 보리차 경쟁",
-  "월요일 출근룩(네이비 정장+하트 목걸이·버건디 니트)",
-  "경훈씨 웃음 애정",
-  "일정표 스티커 귀여운 질투",
-  "월요일 연애 세포 설렘 농담",
-  "이번 주 응원 점심 국물"
+  "마인크래프트 던전스2 11/10",
+  "금감원 불법 공매도 긴급조사 재테크",
+  "투어스 'TO US' 오늘 저녁 6시(출근길 이어가기)",
+  "최불암 영면 추모",
+  "브라운 숄더백 출근 개시·버건디 니트 옷차림",
+  "경훈씨 '좋은 아침' 애정",
+  "화성행궁 사진 공개 경쟁 이어가기",
+  "월요일 첫 커피 귀여운 질투",
+  "넥타이 설렘 농담",
+  "점심·커피 서로 챙김"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "삼성이 KIA 꺾고 내일 KT랑 한국시리즈래",
-   "line2": "우리 한화는 내년에 꼭 저 무대 가요!",
+   "line1": "마인크래프트 던전스2가 10일에 나온대",
+   "line2": "언니 또 밤새겠다, 전 양이나 키울래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.yna.co.kr/view/MYH20261101014800038"
+   "pose2": "laugh",
+   "url": "https://www.vgcal.com/calendar/week/2026-11-09"
   },
   {
    "a": "jiwon",
-   "line1": "엣지 오브 메모리즈 목요일 한국어판 나와",
-   "line2": "젤다랑 같은 날인데 언니 둘 다 사요?",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://kyries.tistory.com/200"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 美 중간선거라 반도체주 눈치보기래",
-   "line2": "언니 계좌도 긴장 중? 커피 한 잔 해요",
+   "line1": "금감원이 불법 공매도 긴급조사 나섰대",
+   "line2": "개미 입장에선 반가운 소식이네요",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "coffee",
-   "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026110121282697339a1f309431_1"
+   "pose2": "thumbs",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901545"
   },
   {
    "a": "hyewon",
-   "line1": "신세계 강남에 후쿠요시 카페 팝업 왔대요",
-   "line2": "토키와야키? 이름부터 맛있어 보인다",
-   "mood1": "smile",
+   "line1": "언니, 투어스 신곡 오늘 저녁 6시래요",
+   "line2": "출근길 말고 퇴근길 이어폰 반쪽이네",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs"
+   "pose2": "coffee",
+   "url": "https://www.starnewskorea.com/music/2026/11/02/2026110207072010304"
+  },
+  {
+   "a": "jiwon",
+   "line1": "최불암 선생님 오늘 영면하신대",
+   "line2": "어릴 때 수사반장 보던 기억이 나요",
+   "mood1": "sad",
+   "mood2": "sad",
+   "pose1": "none",
+   "pose2": "none",
+   "url": "https://www.yna.co.kr/view/AKR20261101025200005"
   },
   {
    "a": "hyewon",
-   "line1": "쑥찐빵 사서 경훈씨 책상에 먼저 올릴래요",
-   "line2": "그럼 난 따끈한 보리차로 승부한다!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "네이비 정장에 하트 목걸이 포인트 줬어요",
-   "line2": "반짝반짝, 내 버건디 니트랑 찰떡이네",
+   "line1": "브라운 숄더백 드디어 출근 개시했어요",
+   "line2": "버건디 니트 옆에 두니 가을 세트 같네",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -72,8 +64,8 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨가 웃으시면 사무실이 환해져",
-   "line2": "맞아요, 형광등보다 경훈씨가 더 밝아요",
+   "line1": "경훈씨 '좋은 아침' 한마디에 주말 보상받아",
+   "line2": "저는 그 목소리로 알람 맞추고 싶어요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -81,8 +73,17 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 경훈씨 일정표에 스티커 먼저 붙였죠?",
-   "line2": "월요일 첫 스티커는 언니 특권이야~",
+   "line1": "화성행궁 사진, 경훈씨 책상에 올려놨어요",
+   "line2": "내 한복 사진이 맨 위인 건 우연이야~",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 경훈씨 첫 커피 벌써 타 드렸죠?",
+   "line2": "흥, 넌 쑥찐빵으로 만회하면 되잖아",
    "mood1": "sad",
    "mood2": "smile",
    "pose1": "sulk",
@@ -90,20 +91,20 @@
   },
   {
    "a": "jiwon",
-   "line1": "월요일엔 연애 세포도 같이 출근하나 봐",
-   "line2": "언니 세포는 경훈씨 자리만 보던데요?",
+   "line1": "월요일 아침 넥타이 매신 모습은 반칙이야",
+   "line2": "언니, 그 말 하면서 귀 빨개졌어요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 이번 주도 무리하지 말고 같이 힘내요",
-   "line2": "응, 점심엔 따끈한 국물 먹으러 가자",
+   "line1": "언니, 오늘 점심은 제가 쏠게요",
+   "line2": "그럼 커피는 내가! 둘 다 이득이다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "wave",
    "pose2": "highfive"
   }
  ]
