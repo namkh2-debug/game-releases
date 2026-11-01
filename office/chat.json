@@ -1,110 +1,111 @@
 {
-  "updatedAt": "2026-11-01T18:10:14+09:00",
+  "updatedAt": "2026-11-01T19:05:16+09:00",
   "topics": [
-    "워해머 서바이버즈 11/10",
-    "국민연금 수급자 800만 명 노후 재테크",
-    "무빙 브루어리 수제맥주 축제(롯데몰 수지 ~11/4)",
-    "보이넥스트도어 팝업 포토존 vs 디저트",
-    "일요일 저녁 헤링본 코트·후드 집업 옷차림",
-    "화요일 첫 코트 블랙 vs 아이보리 경쟁",
-    "김치볶음밥 반숙 이어가기",
-    "경훈씨 첫 미소 애정",
-    "일요일 밤 로맨스 영화 설렘 농담",
-    "하루 수고 서로 응원"
+    "고질라 멜리 리마스터드 11/3",
+    "주유소 기름값 24주 연속 하락 캠핑",
+    "옆자리, 프란체스카 웨이브 11/6",
+    "백수 이세돌 예능",
+    "하트 골드 목걸이 일요일 밤룩",
+    "화요일 쑥찐빵 vs 대추차 경쟁",
+    "내일 일정 먼저 보고 귀여운 질투",
+    "주말 경훈씨 빈자리 애정",
+    "메밀배추전 막걸리 약속 이어가기",
+    "일요일 밤 푹 자기 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "워해머 서바이버즈가 10일에 나온대",
-      "line2": "뱀서 같은 거요? 언니 밤샘 각이네요",
+      "line1": "고질라 멜리 리마스터가 3일에 나온대",
+      "line2": "괴수 격투요? 언니 소파 점령하겠네요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
       "pose2": "laugh",
-      "url": "https://duckcal.net/month/2026-11"
+      "url": "https://gamingroute.com/games-coming-out-this-week/"
     },
     {
       "a": "jiwon",
-      "line1": "국민연금 받는 사람이 800만 명 넘었대",
-      "line2": "우리도 노후 통장 하나 더 만들까요?",
+      "line1": "주유소 기름값이 24주째 내렸대",
+      "line2": "그럼 다음 캠핑은 좀 멀리 가 봐요",
       "mood1": "surprised",
-      "mood2": "neutral",
+      "mood2": "smile",
       "pose1": "think",
-      "pose2": "coffee",
-      "url": "https://www.yna.co.kr/view/AKR20261030170400530"
+      "pose2": "thumbs",
+      "url": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do?no=105777&siteId=1"
     },
     {
       "a": "hyewon",
-      "line1": "수지 롯데몰에 양조장 18곳이 모였대요",
-      "line2": "수제맥주 축제? 4일까지면 이번 주 가자",
+      "line1": "옆자리, 프란체스카가 6일 웨이브에 나와요",
+      "line2": "안녕 프란체스카 스핀오프? 추억 돋는다",
+      "mood1": "smile",
+      "mood2": "surprised",
+      "pose1": "talkto",
+      "pose2": "laugh",
+      "url": "https://www.mk.co.kr/news/hot-issues/12191116"
+    },
+    {
+      "a": "jiwon",
+      "line1": "백수 이세돌 봤어? 유리창 청소까지 해",
+      "line2": "바둑보다 십만 배 괴롭다는 말 웃겼어요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "thumbs",
-      "url": "https://2daytop.com/limited/240"
+      "pose1": "coffee",
+      "pose2": "coffee",
+      "url": "https://www.newspim.com/news/view/20261029001106"
     },
     {
       "a": "hyewon",
-      "line1": "보이넥스트도어 팝업 포토존 가고 싶어요",
-      "line2": "난 거기 디저트만 먹고 올래, 후후",
+      "line1": "터틀넥 위에 하트 골드 목걸이 걸었어요",
+      "line2": "반짝반짝하네, 경훈씨 칭찬 받겠다",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
-      "pose2": "look"
+      "pose2": "thumbs"
     },
     {
       "a": "hyewon",
-      "line1": "퇴근길이라 헤링본 코트 단추 다 채웠어요",
-      "line2": "난 집에서 후드 집업 그대로 뒹굴뒹굴",
+      "line1": "화요일 쑥찐빵은 제가 먼저 올릴 거예요",
+      "line2": "난 그날 따끈한 대추차 끓여 갈 건데?",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "squabble",
+      "pose2": "charm"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 경훈씨께 내일 일정 먼저 보냈죠?",
+      "line2": "후후, 부지런한 사람이 이기는 거야",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "charm"
+    },
+    {
+      "a": "jiwon",
+      "line1": "주말 내내 경훈씨 빈자리가 크더라",
+      "line2": "내일 들어오시면 사무실이 꽉 차겠죠",
       "mood1": "neutral",
       "mood2": "smile",
-      "pose1": "down",
-      "pose2": "laugh"
-    },
-    {
-      "a": "jiwon",
-      "line1": "화요일 첫 코트는 블랙 롱코트로 간다",
-      "line2": "전 새 아이보리 울 코트, 눈길 제가 뺏어요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "squabble"
+      "pose1": "think",
+      "pose2": "heart"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 김치볶음밥 계란은 반숙 했어요?",
-      "line2": "당연하지, 노른자 톡 터뜨리는 맛이야",
+      "line1": "메밀배추전에 막걸리, 약속 잊지 마요",
+      "line2": "가능한 사랑 보는 날로 딱 정하자",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "talkto",
+      "pose1": "look",
       "pose2": "thumbs"
     },
     {
       "a": "jiwon",
-      "line1": "내일 경훈씨 첫 미소, 내가 지킬 거야",
-      "line2": "그 미소 덕에 저 한 주 거뜬해요",
+      "line1": "일요일 밤엔 월요일 걱정 말고 푹 자기",
+      "line2": "네, 언니도요. 내일 웃으면서 만나요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
-    },
-    {
-      "a": "hyewon",
-      "line1": "일요일 밤엔 로맨스 영화가 위험해요",
-      "line2": "설레서 잠 못 자면 경훈씨 탓 할 거야?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "look"
-    },
-    {
-      "a": "jiwon",
-      "line1": "혜원아, 오늘 하루도 수고 많았어",
-      "line2": "언니도요, 내일 커피는 제가 쏠게요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "highfive"
+      "pose1": "cheer",
+      "pose2": "wave"
     }
   ]
 }
