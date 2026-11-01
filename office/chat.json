@@ -1,111 +1,111 @@
 {
-  "updatedAt": "2026-11-01T19:05:16+09:00",
-  "topics": [
-    "고질라 멜리 리마스터드 11/3",
-    "주유소 기름값 24주 연속 하락 캠핑",
-    "옆자리, 프란체스카 웨이브 11/6",
-    "백수 이세돌 예능",
-    "하트 골드 목걸이 일요일 밤룩",
-    "화요일 쑥찐빵 vs 대추차 경쟁",
-    "내일 일정 먼저 보고 귀여운 질투",
-    "주말 경훈씨 빈자리 애정",
-    "메밀배추전 막걸리 약속 이어가기",
-    "일요일 밤 푹 자기 응원"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "고질라 멜리 리마스터가 3일에 나온대",
-      "line2": "괴수 격투요? 언니 소파 점령하겠네요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "laugh",
-      "url": "https://gamingroute.com/games-coming-out-this-week/"
-    },
-    {
-      "a": "jiwon",
-      "line1": "주유소 기름값이 24주째 내렸대",
-      "line2": "그럼 다음 캠핑은 좀 멀리 가 봐요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "thumbs",
-      "url": "https://www.kita.net/board/totalTradeNews/totalTradeNewsDetail.do?no=105777&siteId=1"
-    },
-    {
-      "a": "hyewon",
-      "line1": "옆자리, 프란체스카가 6일 웨이브에 나와요",
-      "line2": "안녕 프란체스카 스핀오프? 추억 돋는다",
-      "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "talkto",
-      "pose2": "laugh",
-      "url": "https://www.mk.co.kr/news/hot-issues/12191116"
-    },
-    {
-      "a": "jiwon",
-      "line1": "백수 이세돌 봤어? 유리창 청소까지 해",
-      "line2": "바둑보다 십만 배 괴롭다는 말 웃겼어요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee",
-      "url": "https://www.newspim.com/news/view/20261029001106"
-    },
-    {
-      "a": "hyewon",
-      "line1": "터틀넥 위에 하트 골드 목걸이 걸었어요",
-      "line2": "반짝반짝하네, 경훈씨 칭찬 받겠다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "hyewon",
-      "line1": "화요일 쑥찐빵은 제가 먼저 올릴 거예요",
-      "line2": "난 그날 따끈한 대추차 끓여 갈 건데?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "squabble",
-      "pose2": "charm"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니, 경훈씨께 내일 일정 먼저 보냈죠?",
-      "line2": "후후, 부지런한 사람이 이기는 거야",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "charm"
-    },
-    {
-      "a": "jiwon",
-      "line1": "주말 내내 경훈씨 빈자리가 크더라",
-      "line2": "내일 들어오시면 사무실이 꽉 차겠죠",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "heart"
-    },
-    {
-      "a": "hyewon",
-      "line1": "메밀배추전에 막걸리, 약속 잊지 마요",
-      "line2": "가능한 사랑 보는 날로 딱 정하자",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "일요일 밤엔 월요일 걱정 말고 푹 자기",
-      "line2": "네, 언니도요. 내일 웃으면서 만나요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "wave"
-    }
-  ]
+ "updatedAt": "2026-11-01T20:08:48+09:00",
+ "topics": [
+  "스텔라 블레이드 스위치2 11/6",
+  "오피스텔 전세가율 85% 역대 최고 재테크",
+  "재혼황후 디즈니+ 11/4",
+  "유일무이 로맨스 티빙 11/9",
+  "투어스 신곡 출근길 이어가기",
+  "일요일 밤 수면 원피스·후드 집업 집콕룩",
+  "일요일 밤 경훈씨 아침 인사 기다림 애정",
+  "엘리베이터 버튼 vs 문 열기 경쟁",
+  "꿀잠 응원",
+  "서로 웃음 고마움 우정"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "스텔라 블레이드가 6일 스위치2로 나온대",
+   "line2": "언니 액션 좋아하잖아요, 출퇴근길 각이네",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.famitsu.com/article/202609/87333"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오피스텔 전세가율이 85%로 역대 최고래",
+   "line2": "깡통전세 조심해야겠어요, 계약은 꼼꼼히!",
+   "mood1": "surprised",
+   "mood2": "neutral",
+   "pose1": "think",
+   "pose2": "think",
+   "url": "https://www.donga.com/news/Economy/article/all/20261101/134944616/1"
+  },
+  {
+   "a": "hyewon",
+   "line1": "재혼황후가 4일 디즈니+에 나온대요",
+   "line2": "신민아에 주지훈? 첫날 4회 몰아보자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.mk.co.kr/news/hot-issues/12191116"
+  },
+  {
+   "a": "hyewon",
+   "line1": "9일엔 티빙 '유일무이 로맨스'도 나와요",
+   "line2": "조이가 톱스타 매니저라니, 설렘 예약이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "look",
+   "url": "https://www.mk.co.kr/news/hot-issues/12191116"
+  },
+  {
+   "a": "jiwon",
+   "line1": "투어스 신곡 내일 나온다며, 출근길용?",
+   "line2": "네, 첫 곡은 언니랑 이어폰 반쪽씩이요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "집 와서 터틀넥 벗고 수면 원피스 입었어요",
+   "line2": "난 아직 후드 집업, 오늘은 거의 교복이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 생각하면 일요일 밤도 안 아쉬워",
+   "line2": "내일 '좋은 아침' 목소리 벌써 들리는 듯해요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "love",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "내일 엘리베이터 버튼은 제가 눌러 드릴래요",
+   "line2": "그럼 난 문 열어 드리며 제일 먼저 웃을 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 따뜻한 물로 샤워하고 푹 자",
+   "line2": "언니도요, 이불 속 꿀잠 예약이에요!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 웃는 얼굴 보면 걱정이 줄어요",
+   "line2": "그 말에 내가 더 웃게 되네, 고마워",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "highfive",
+   "pose2": "highfive"
+  }
+ ]
 }
