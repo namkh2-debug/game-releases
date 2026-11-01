@@ -1,61 +1,58 @@
 {
- "updatedAt": "2026-11-01T21:15:00+09:00",
+ "updatedAt": "2026-11-01T22:07:32+09:00",
  "topics": [
-  "소닉 피코 파크 11월 출시",
-  "연애남매2 웨이브 11월 공개",
-  "MMA2026 고척 11/14·15",
-  "화요일 대추차·쑥찐빵 휴전 이어가기",
-  "일요일 밤 수면 원피스·후드 모자 집콕룩",
-  "경훈씨 끄덕임 애정",
-  "보고서 표지 vs 3분 보고 경쟁",
-  "일요일 밤 달달한 노래 설렘 농담",
-  "자기 전 물 한 잔 챙김",
-  "한 주 시작 서로 응원"
+  "페르소나1 리메이크 연결설",
+  "커버드콜 ETF 코스피 하회 재테크",
+  "후쿠요시 카페 토키와야키(신세계 강남)",
+  "온꼬미즈 배스타임 팝업 셀카 2차전 이어가기",
+  "일요일 밤 수분팩·극세사 잠옷 집콕룩",
+  "가능한 사랑 금요일 간식 이어가기",
+  "경훈씨 수고했어요 한마디 애정",
+  "내일 책상 메모 vs 응원 문구 경쟁",
+  "굿나잇 메시지 귀여운 질투",
+  "밤의 낮은 목소리 설렘 농담"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "소닉 피코 파크가 11월에 나온대",
-   "line2": "협동 퍼즐이요? 언니랑 하면 맨날 티격태격",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://gamerguru.net/calendar/2026/11"
-  },
-  {
-   "a": "hyewon",
-   "line1": "연애남매2가 이달 웨이브에 나온대요",
-   "line2": "남매가 서로 연애 지켜보는 거? 민망 꿀잼",
+   "line1": "페르소나1 리메이크 나온다는 소문 돌더라",
+   "line2": "30주년이라던데, 진짜면 언니 휴가 내겠네",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.diarypoint.com/news/articleView.html?idxno=6573"
-  },
-  {
-   "a": "hyewon",
-   "line1": "MMA가 14·15일 고척에서 이틀 한대요",
-   "line2": "아이브는 15일이래, 그날 같이 볼까?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "thumbs",
-   "url": "https://www.diarypoint.com/news/articleView.html?idxno=6573"
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "화요일 대추차에 생강 넣을까 고민 중",
-   "line2": "그럼 제 쑥찐빵이랑 세트로 드려요, 휴전!",
-   "mood1": "neutral",
-   "mood2": "smile",
+   "line1": "커버드콜 ETF가 코스피보다 못했대",
+   "line2": "'제2 월급' 믿었는데… 분산이 답이네요",
+   "mood1": "sad",
+   "mood2": "neutral",
    "pose1": "think",
-   "pose2": "charm"
+   "pose2": "think"
   },
   {
    "a": "hyewon",
-   "line1": "수면 원피스에 수면양말까지 장착했어요",
-   "line2": "난 후드 모자 쓰고 귤 까먹는 중이야",
+   "line1": "신세계 강남에 후쿠요시 카페 팝업 있대요",
+   "line2": "다리 모양 디저트? 토키와야키 나도 궁금해",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "talkto"
+  },
+  {
+   "a": "hyewon",
+   "line1": "온꼬미즈 목욕 콘셉트 카페, 4일까지래요",
+   "line2": "셀카 2차전이지? 이번엔 오리 튜브 쓴다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "머리에 수건 두르고 수분팩 붙였어요",
+   "line2": "난 극세사 잠옷에 털 슬리퍼 신었어",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
@@ -63,8 +60,17 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨가 고개 끄덕여 주실 때가 제일 좋아",
-   "line2": "맞아요, 그 끄덕임 하나면 하루가 반짝여요",
+   "line1": "가능한 사랑 금요일, 간식은 뭘로 할까?",
+   "line2": "164분이니까 군밤이랑 귤 한 바구니요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 '수고했어요' 한마디가 보약이야",
+   "line2": "맞아요, 그 말 듣는 날은 발걸음이 가벼워요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -72,39 +78,30 @@
   },
   {
    "a": "hyewon",
-   "line1": "내일 보고서 표지, 경훈씨 취향 색으로 했어요",
-   "line2": "흥, 난 핵심만 한 장, 3분 보고로 승부야",
+   "line1": "내일 경훈씨 책상 메모는 제가 먼저예요",
+   "line2": "난 오늘 밤에 응원 문구 벌써 써 뒀지롱",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
+   "a": "hyewon",
+   "line1": "언니, 아까 경훈씨한테 굿나잇 보냈죠?",
+   "line2": "흥, 난 짧게 보냈어. 너 그 표정 귀엽다",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh"
+  },
+  {
    "a": "jiwon",
-   "line1": "일요일 밤엔 괜히 달달한 노래만 찾게 돼",
-   "line2": "언니, 누구 생각하는지 얼굴에 다 써 있어요",
+   "line1": "밤엔 이상하게 목소리 낮은 사람이 좋아",
+   "line2": "언니, 그거 누구 얘기인지 다 알거든요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
    "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 자기 전에 물 한 잔 꼭 마셔요",
-   "line2": "응, 너도 휴대폰 내려놓고 일찍 자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "cheer"
-  },
-  {
-   "a": "jiwon",
-   "line1": "한 주 시작도 우리 둘이면 든든해",
-   "line2": "언니 옆이면 월요일도 하나도 안 무서워요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
   }
  ]
 }
