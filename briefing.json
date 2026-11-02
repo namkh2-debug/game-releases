@@ -1,9 +1,9 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T17:12:00+09:00",
+ "updatedAt": "2026-11-02T18:20:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 12,
+  "temp": 10,
   "low": 5,
   "high": 13,
   "condition": "구름 조금",
@@ -14,14 +14,24 @@
  },
  "breaking": [
   {
-   "title": "코스피 2.24% 상승 마감...5,800선 회복",
-   "url": "https://www.ytn.co.kr/_ln/0102_202611021543139428",
-   "source": "YTN"
+   "title": "인천서 만삭 아내 폭행⋯30대 남편, 현행범 체포",
+   "url": "http://www.inews24.com/view/2021711",
+   "source": "아이뉴스24"
   },
   {
-   "title": "원·달러 환율, 9.5원 오른 1343.8원 마감",
-   "url": "https://www.fnnews.com/news/202611021534319366",
-   "source": "파이낸셜뉴스"
+   "title": "현대차 울산 생산라인 멈춰섰다…노조, 제네시스 신차 투입 막아서",
+   "url": "https://economist.co.kr/article/view/ecn202611020037",
+   "source": "이코노미스트"
+  },
+  {
+   "title": "원·달러 환율, 9.5원 오른 1343.8원",
+   "url": "https://biz.chosun.com/policy/policy_sub/2026/11/02/QMX43GSM7ZEWXKW67SMF2LC4VM/",
+   "source": "조선비즈"
+  },
+  {
+   "title": "코스피, 128.34포인트(2.24%) 오른 5859.08 마감",
+   "url": "https://www.newsis.com/view/NISX20261102_0003851283",
+   "source": "뉴시스"
   }
  ],
  "news": [
@@ -44,22 +54,10 @@
    "summary": "국민의힘이 정부 내년 예산안의 미래대응기금 등을 겨냥해 대대적 삭감을 예고했다."
   },
   {
-   "title": "트럼프, 민주당 승리시 \"거부권 행사\"",
-   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102043016sYX",
-   "source": "연합뉴스TV",
-   "summary": "트럼프 대통령은 중간선거에서 민주당이 의회를 장악하면 거부권으로 입법을 막겠다고 밝혔습니다."
-  },
-  {
    "title": "한국 수출 첫 9000억달러 돌파…\"이달 중 年 1兆달러 확실시\"",
    "url": "https://biz.chosun.com/policy/policy_sub/2026/11/01/CQYAMCDJDFG27NY5DAJPYINDNE/",
    "source": "조선비즈",
    "summary": "1~10월 누적 수출 9300억달러로 사상 최대, 반도체가 견인하며 11월 중 연 1조달러 전망"
-  },
-  {
-   "title": "9월 온라인쇼핑 4.1% 증가…3분기 해외 직접 판매 40.7% 급증",
-   "url": "https://www.nocutnews.co.kr/news/6600565",
-   "source": "노컷뉴스",
-   "summary": "9월 온라인쇼핑 거래액 24조9719억원, K뷰티 인기로 역직구는 늘고 해외 직구는 줄었다."
   },
   {
    "title": "SK스퀘어, 4.3조원 이상 주주환원 추진…출범 이후 최대 규모",
@@ -74,12 +72,6 @@
    "summary": "한화가 필리조선소 인수 후 처음으로 미 해군 함정(상륙함) 건조 계약을 따냈다."
   },
   {
-   "title": "호반그룹, 한진칼 지분 추가 매입…공정위에 기업결합 신고",
-   "url": "https://www.yna.co.kr/view/AKR20261102091700003",
-   "source": "연합뉴스",
-   "summary": "호반이 한진칼 지분을 늘려 조원태 회장 측 지분을 넘어선 것으로 알려졌지만 경영권은 당장 바뀌지 않을 전망이에요."
-  },
-  {
    "title": "드론 전력 '컨트롤타워' 출범...국방드론본부 창설",
    "url": "https://www.ytn.co.kr/_ln/0101_202611021106430061",
    "source": "YTN",
@@ -92,10 +84,16 @@
    "summary": "포스코홀딩스 3분기 매출 19.1조원, 영업이익 9400억원으로 전년보다 크게 늘었다."
   },
   {
-   "title": "에쓰오일, 3Q 영업익 1조4067억원…전년比 513.7% 폭증",
-   "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261102_0003851021",
-   "source": "뉴시스",
-   "summary": "에쓰오일 3분기 영업이익이 1조4067억원으로 전년 대비 513.7% 급증했다."
+   "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=64709",
+   "source": "디일렉",
+   "summary": "삼성전자가 8인치 파운드리 사업에서 완전히 철수하기로 하고 고객사에 계획을 통보했다."
+  },
+  {
+   "title": "SKT 이어 KT도 신규가입 중단...3G 통신 퇴장 수순",
+   "url": "https://zdnet.co.kr/view/?no=20261102103438",
+   "source": "지디넷코리아",
+   "summary": "KT가 3G 신규 가입을 중단해 국내 3G 서비스가 LTE·5G 중심으로 정리되는 수순에 들어갔다."
   },
   {
    "title": "전자발찌 끄고 '청와대 칼부림' 예고한 50대 남성 긴급체포",
@@ -110,10 +108,10 @@
    "summary": "정부가 광주 군공항 이전 대미협의를 국내 5개 공동운영기지 전체를 다루는 포괄협정으로 풀기로 했다."
   },
   {
-   "title": "국가유산청장 \"북한 태권도 유네스코 등재 유력, 공동등재 어려워\"",
-   "url": "https://www.imaeil.com/page/view/2026110213412365599",
-   "source": "매일신문",
-   "summary": "북한이 신청한 태권도가 유네스코 인류무형문화유산 단독 등재 권고를 받을 전망이다."
+   "title": "'보금자리론' 10년 만기 금리 5%대로 인상…역대 처음",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102162103lBI",
+   "source": "연합뉴스TV",
+   "summary": "주택금융공사가 9일부터 보금자리론 금리를 0.1%p 올려 금리 하단이 처음 5%대가 된다."
   },
   {
    "title": "철원 육군 전방부대서 20대 하사 숨진 채 발견",
@@ -122,10 +120,16 @@
    "summary": "강원 철원 육군 부대 건물에서 20대 초반 하사가 숨진 채 발견돼 군과 경찰이 경위를 조사 중이다."
   },
   {
-   "title": "서울 등 3곳서 올가을 첫 황사 관측",
-   "url": "https://www.ytn.co.kr/_ln/0108_202611021338588805",
-   "source": "YTN",
-   "summary": "서울 등 3곳에서 올가을 첫 황사가 관측돼 수도권 미세먼지가 나빠졌다."
+   "title": "고려아연 온산제련소 화재‥한때 대응 1단계",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6862530_36918.html",
+   "source": "MBC 뉴스",
+   "summary": "울산 고려아연 온산제련소 2공장 불이 설비 일부를 태우고 4시간 25분 만에 꺼졌다."
+  },
+  {
+   "title": "경찰, 석포제련소·영풍 '낙동강 오염 의혹' 재수사 착수",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701560",
+   "source": "KBS 뉴스",
+   "summary": "석포제련소가 중금속으로 낙동강을 오염시키고 토양을 정화하지 않았다는 의혹을 경찰이 다시 수사한다."
   },
   {
    "title": "[단독] 훈련기 공중 충돌했는데…공군은 '쉬쉬'",
@@ -204,6 +208,12 @@
    "url": "https://www.chosun.com/economy/economy_general/2026/11/02/2LHSYBYX3JA6XJGFDBZL7PUO3M/",
    "source": "조선일보",
    "summary": "5대 은행 중소기업 대출 연체율이 0.6%로 9년 6개월 만에 가장 높아졌습니다."
+  },
+  {
+   "title": "8만원 한국시리즈 티켓, 893만원에 팔다니…매크로 싹쓸이 일당 잡혀",
+   "url": "https://www.hani.co.kr/arti/area/capital/1285311.html",
+   "source": "한겨레",
+   "summary": "매크로로 공연·프로야구 티켓을 대량 구매해 비싸게 되판 24명이 인천경찰청에 검거됐다."
   }
  ]
 }
