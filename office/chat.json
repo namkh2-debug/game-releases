@@ -1,111 +1,109 @@
 {
- "updatedAt": "2026-11-02T16:08:00+09:00",
+ "updatedAt": "2026-11-02T17:13:00+09:00",
  "topics": [
-  "코스피 2.24% 반등 마감 재테크",
-  "갓 세이브 버밍엄 2차 베타 3일",
-  "왈츠앤잼 12/3 출시",
-  "송은 불가리 전시 11/14까지",
-  "치이카와 박스오피스 1위",
-  "카멜 가디건·내일 아이보리 코트",
-  "회의 후 유자차 애정",
-  "단풍잎 vs 박하사탕 결재판 경쟁",
-  "셔츠 소매 설렘 농담",
-  "월요일 오후 서로 응원"
+  "스텔라 블레이드 스위치2 11/6",
+  "연 4%대 예금 비중 10% 재테크",
+  "파삭 코엑스 팝업 11/5",
+  "돌싱N모솔2 이어가기",
+  "치이카와 주말 예매 이어가기",
+  "퇴근길 니트 소매·가디건 옷차림",
+  "경훈씨 퇴근길 애정",
+  "물컵 세팅 vs 메모지 경쟁",
+  "이름 먼저 부르기 귀여운 질투",
+  "퇴근 전 붕어빵 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피가 오늘 2.24% 올라 마감했대",
-   "line2": "언니 계좌도 오늘은 웃고 있겠네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.ytn.co.kr/_ln/0102_202611021543139428"
-  },
-  {
-   "a": "jiwon",
-   "line1": "갓 세이브 버밍엄 2차 베타, 내일부터래",
-   "line2": "멀티 생겼으면 언니랑 좀비 잡으러 가요",
+   "line1": "스텔라 블레이드 스위치2판, 6일 0시 출시래",
+   "line2": "한국 게임이 닌텐도까지! 언니 예약했죠?",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420777"
+   "pose2": "thumbs",
+   "url": "https://kyries.tistory.com/200"
   },
   {
    "a": "jiwon",
-   "line1": "왈츠앤잼, 12월 3일에 정식 출시래",
-   "line2": "강아지 영혼 잼이라니, 벌써 귀여워요",
-   "mood1": "smile",
+   "line1": "신규 예금 10%가 연 4% 넘는 금리래",
+   "line2": "적금 하나 새로 들까 봐요, 언니 최고",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420777"
+   "pose1": "think",
+   "pose2": "clap",
+   "url": "https://www.yna.co.kr/view/AKR20261031024600002"
   },
   {
    "a": "hyewon",
-   "line1": "송은 불가리 전시, 14일까지 무료래요",
-   "line2": "오디오 가이드가 변우석이라며? 가자",
+   "line1": "코엑스에 5일부터 파삭 팝업 열린대요",
+   "line2": "복주머니 세트? 경훈씨 간식 후보네",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs",
-   "url": "https://www.ajunews.com/view/20261029165050558"
+   "pose2": "coffee",
+   "url": "https://popply.co.kr/popup/6483"
   },
   {
    "a": "hyewon",
-   "line1": "치이카와 극장판 아직 박스오피스 1위래요",
-   "line2": "귀여운 건 못 이기지, 주말에 볼까?",
+   "line1": "언니, 내일 밤 '돌싱 N 모솔' 2기 시작해요",
+   "line2": "연애 예능은 못 참지, 수요일에 수다 각",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "look",
-   "url": "https://www.news1.kr/"
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 카멜 가디건 어깨에 두른 거 예쁘다",
-   "line2": "내일은 아이보리 코트로 한 단계 올려요",
+   "line1": "치이카와 극장판, 우리 주말 예매할까?",
+   "line2": "좋아요! 팝콘은 제가 쏠게요, 언니",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
+   "pose1": "look",
+   "pose2": "clap"
+  },
+  {
+   "a": "jiwon",
+   "line1": "퇴근길 바람 차서 니트 소매 끝까지 내렸어",
+   "line2": "전 가디건 어깨에서 내려 팔 끼웠어요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
    "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오후 회의 끝나고 좀 지쳐 보이셨어",
-   "line2": "제가 유자차 따뜻하게 타서 갖다드릴래요",
-   "mood1": "sad",
+   "line1": "경훈씨 오늘 하루 무사히 마치셨으면 해",
+   "line2": "퇴근길 안 막히게 속으로 빌어 드릴래요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일 경훈씨 결재판에 단풍잎 끼워 둘래요",
-   "line2": "난 결재 끝나면 박하사탕 하나 올릴 거야",
+   "line1": "내일 회의실 물컵 세팅도 제가 할 거예요",
+   "line2": "그럼 난 경훈씨 자리에 새 메모지 깔래",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
+   "pose1": "squabble",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 아까 경훈씨가 언니 이름 먼저 부르셨죠",
+   "line2": "가나다순일 뿐이야, 삐치지 마 혜원아",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "talkto"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 셔츠 소매 걷으실 때 그건 반칙이야",
-   "line2": "언니 그거 보다가 숫자 두 번 틀렸잖아요",
+   "line1": "퇴근까지 한 시간! 마지막 힘내자",
+   "line2": "끝나면 언니랑 붕어빵 사 먹으러 가요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "love",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 월요일 오후도 같이 버텨 줘서 고마워요",
-   "line2": "반은 넘겼어, 퇴근까지 우리 힘내자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
