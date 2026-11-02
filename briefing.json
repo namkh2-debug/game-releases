@@ -1,214 +1,224 @@
 {
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03T07:02:42+09:00",
-  "region": "경기 광주",
-  "weather": {
-    "temp": 2.8,
-    "low": 2.8,
-    "high": 15.4,
-    "condition": "맑음, 낮부터 구름 많음",
-    "rainChance": "4%",
-    "dust": "초미세먼지 나쁨(PM2.5 약 53㎍/㎥), 황사 영향으로 낮에 더 짙어질 수 있음(모델 추정)",
-    "tip": "아침 3도, 낮 15도로 일교차 12도 이상이에요. 코트나 니트+재킷 입으시고, 우산은 필요 없고 KF94 마스크 챙기세요.",
-    "source": "Open-Meteo 예보·대기질 모델(경기 광주 좌표 기준), 06:30 KST"
+ "date": "2026-11-03",
+ "updatedAt": "2026-11-03T08:11:09+09:00",
+ "region": "경기 광주",
+ "weather": {
+  "temp": 4.0,
+  "low": 2.8,
+  "high": 15.4,
+  "condition": "맑음, 낮부터 구름 많음",
+  "rainChance": "4%",
+  "dust": "초미세먼지 나쁨(PM2.5 약 53㎍/㎥), 황사 영향으로 낮에 더 짙어질 수 있음(모델 추정)",
+  "tip": "아침 3도, 낮 15도로 일교차 12도 이상이에요. 코트나 니트+재킷 입으시고, 우산은 필요 없고 KF94 마스크 챙기세요.",
+  "source": "Open-Meteo 예보·대기질 모델(경기 광주 좌표 기준), 06:30 KST"
+ },
+ "breaking": [
+  {
+   "title": "한양증권에서도 해킹…고객정보 등 일부 정보 유출",
+   "url": "https://www.yna.co.kr/view/AKR20261103021200008",
+   "source": "연합뉴스"
   },
-  "breaking": [
-    {
-      "title": "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
-      "url": "https://www.yna.co.kr/view/AKR20261103010600504",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "뉴욕증시 혼조…다우 0.4% 상승·S&P 0.5% 하락·나스닥 1% 급락",
-      "url": "https://www.news1.kr/world/international-economy/6340591",
-      "source": "뉴스1"
-    },
-    {
-      "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
-      "url": "https://www.yna.co.kr/view/AKR20261103007800072",
-      "source": "연합뉴스"
-    }
-  ],
-  "news": [
-    {
-      "title": "李대통령·장관 여권번호 등 무더기 노출…정부 \"엄중히 인식\"",
-      "url": "https://www.yna.co.kr/view/AKR20261102174452001",
-      "source": "연합뉴스",
-      "summary": "대통령 순방 '공군 1호기' 탑승자 168명의 여권번호 등 개인정보가 유료 사이트에 유출됐다."
-    },
-    {
-      "title": "'트럼프 운명의날' 美중간선거…상원 접전, 하원 민주 탈환 전망",
-      "url": "https://www.yna.co.kr/view/AKR20261103001400071",
-      "source": "연합뉴스",
-      "summary": "한국시간 오늘 밤 8시부터 미 동부에서 중간선거 투표가 시작된다."
-    },
-    {
-      "title": "李대통령, 오늘 튀르키예 대통령과 정상회담…중동 정세 논의",
-      "url": "https://www.yna.co.kr/view/AKR20261102160600001",
-      "source": "연합뉴스",
-      "summary": "8년 만에 국빈 방한한 에르도안 대통령과 원전·방산 협력 등을 논의한다."
-    },
-    {
-      "title": "與, 오늘 의원총회…'신천지 의혹' 조사 결과 보고 주목",
-      "url": "https://www.yna.co.kr/view/AKR20261102151800001",
-      "source": "연합뉴스",
-      "summary": "민주당이 신천지 교인 집단 입당 의혹 자체 조사 결과를 의원들에게 보고한다."
-    },
-    {
-      "title": "국회서 吳 서울시당 토론회·張 예산발표·韓 정당개혁 토론회",
-      "url": "https://www.yna.co.kr/view/AKR20261102155100001",
-      "source": "연합뉴스",
-      "summary": "오세훈·장동혁·한동훈이 같은 날 국회에서 각기 다른 행사로 보수 주도권 경쟁에 나선다."
-    },
-    {
-      "title": "여야, 슈퍼예산 심사 앞두고 신경전…\"미래 안전판\"·\"포퓰리즘\"",
-      "url": "https://www.yna.co.kr/view/AKR20261102150500001",
-      "source": "연합뉴스",
-      "summary": "821조원 내년도 예산안 심사를 앞두고 여야가 미래대응기금 등을 두고 맞섰다."
-    },
-    {
-      "title": "특검, '공명선거 활동비 부당지급' 중앙선관위 위원장실 등 압수수색",
-      "url": "https://www.yna.co.kr/view/AKR20261102063151004",
-      "source": "연합뉴스",
-      "summary": "특검이 9억여원 활동비 부정지급 의혹으로 선관위 위원장실 등을 압수수색했다."
-    },
-    {
-      "title": "한국 수출 첫 9000억달러 돌파…\"이달 중 年 1兆달러 확실시\"",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/01/CQYAMCDJDFG27NY5DAJPYINDNE/",
-      "source": "조선비즈",
-      "summary": "올해 누적 수출이 처음 9000억달러를 넘어 연 1조달러 달성이 유력하다."
-    },
-    {
-      "title": "코스피, 128.34포인트(2.24%) 오른 5859.08 마감",
-      "url": "https://www.newsis.com/view/NISX20261102_0003851283",
-      "source": "뉴시스",
-      "summary": "기관 매수세에 코스피가 2% 넘게 올라 5850선을 회복했다."
-    },
-    {
-      "title": "성장률 오르는데 체감은 냉랭…뉴스심리지수 7개월만 최저",
-      "url": "https://www.yna.co.kr/view/AKR20261102158900002",
-      "source": "연합뉴스",
-      "summary": "뉴스로 본 경제심리 지수가 7개월 만에 가장 낮은 수준으로 떨어졌다."
-    },
-    {
-      "title": "호반 vs 조원태 회장, 한진칼 지분 매입 경쟁 본격화하나",
-      "url": "https://www.yna.co.kr/view/AKR20261102173500003",
-      "source": "연합뉴스",
-      "summary": "조원태 회장이 한진칼 지분 추가 취득에 나서며 호반과 경영권 경쟁이 커지고 있다."
-    },
-    {
-      "title": "SK스퀘어, 4.3조원 이상 주주환원 추진…출범 이후 최대 규모",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280059.html",
-      "source": "인베스트조선",
-      "summary": "SK스퀘어가 출범 이후 최대인 4조3천억원 이상 주주환원 계획을 내놨다."
-    },
-    {
-      "title": "한화, 美 해군 함정 건조 첫 수주…3575억원 규모 상륙함 계약",
-      "url": "https://www.newspim.com/news/view/20261102000131",
-      "source": "뉴스핌",
-      "summary": "한화가 미 해군 상륙함 건조 계약을 따내며 미 함정 시장에 처음 진출했다."
-    },
-    {
-      "title": "체코 원전 시공 계약 무산에…정부, 비상관리체제 가동",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442380",
-      "source": "연합인포맥스",
-      "summary": "두코바니 원전 시공 협상 결렬로 정부가 장차관 주간 점검 체제에 들어갔다."
-    },
-    {
-      "title": "'보금자리론' 10년 만기 금리 5%대로 인상…역대 처음",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102162103lBI",
-      "source": "연합뉴스TV",
-      "summary": "보금자리론 10년 만기 금리가 처음으로 5%대에 올라섰다."
-    },
-    {
-      "title": "상장 앞둔 앤트로픽, 분기손실 65%↓…AI투자에 1천200조원 약정",
-      "url": "https://www.yna.co.kr/view/AKR20261103004400091",
-      "source": "연합뉴스",
-      "summary": "상장을 준비 중인 앤트로픽이 분기 손실을 크게 줄였다고 공개했다."
-    },
-    {
-      "title": "北해커, 탈취코인 2차세탁 착수…솔라나 거쳐 비트코인으로 교환",
-      "url": "https://www.yna.co.kr/view/AKR20261103006200091",
-      "source": "연합뉴스",
-      "summary": "바이낸스를 턴 북한 해커들이 탈취 자금을 비트코인으로 바꾸는 세탁에 들어갔다."
-    },
-    {
-      "title": "엔비디아, 9~10일 서울서 'AI 데이' 개최…삼성·SK·LG 등 참여",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442542",
-      "source": "연합인포맥스",
-      "summary": "엔비디아가 다음 주 서울에서 국내 대기업들과 AI 행사를 연다."
-    },
-    {
-      "title": "'GPU 8400장 중무장' 국가 슈퍼컴 '한강' 닻 올렸다",
-      "url": "https://www.khan.co.kr/article/202611021000001",
-      "source": "경향신문",
-      "summary": "GPU 8400장을 갖춘 국가 슈퍼컴퓨터 '한강'이 가동을 시작했다."
-    },
-    {
-      "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=64709",
-      "source": "디일렉",
-      "summary": "삼성전자가 2030년까지 8인치 파운드리 사업에서 완전히 손을 뗀다."
-    },
-    {
-      "title": "영암서 퇴근길 통근버스 논두렁 추락…21명 중경상",
-      "url": "https://www.yna.co.kr/view/AKR20261102175351054",
-      "source": "연합뉴스",
-      "summary": "전남 영암에서 통근버스가 논두렁으로 떨어져 21명이 다쳤다."
-    },
-    {
-      "title": "서울 올가을 첫 황사…미세먼지 농도 한때 '나쁨'",
-      "url": "https://www.yna.co.kr/view/MYH20261103000600038",
-      "source": "연합뉴스",
-      "summary": "서울에서 6년 만에 가을 황사가 관측돼 오늘까지 미세먼지에 주의해야 한다."
-    },
-    {
-      "title": "[단독] 하이브도 계좌∙여권∙카드·주민번호에 의료정보까지 털렸다",
-      "url": "https://www.hani.co.kr/arti/culture/music/1285298.html",
-      "source": "한겨레",
-      "summary": "하이브에서 계좌·여권·의료정보 등 민감한 개인정보가 유출된 것으로 드러났다."
-    },
-    {
-      "title": "경찰, 석포제련소·영풍 '낙동강 오염 의혹' 재수사 착수",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8701560",
-      "source": "KBS",
-      "summary": "경찰이 영풍 석포제련소의 낙동강 오염 의혹을 다시 수사한다."
-    },
-    {
-      "title": "'국민 아버지' 최불암 오늘 영면…'아베 마리아'로 마지막 배웅",
-      "url": "https://www.yna.co.kr/view/AKR20261101025200005",
-      "source": "연합뉴스",
-      "summary": "배우 최불암이 동료들의 배웅 속에 영면에 들었다."
-    },
-    {
-      "title": "'김치'·'원', 스페인왕립학술원 표준 스페인어사전에 등재",
-      "url": "https://www.yna.co.kr/view/AKR20261103004100085",
-      "source": "연합뉴스",
-      "summary": "'김치'와 화폐 단위 '원'이 스페인어 표준사전에 올랐다."
-    },
-    {
-      "title": "\"20대 '텍스트힙' 열풍에 서점 매출 9%↑…작은 책방은 감소\"",
-      "url": "https://www.yna.co.kr/view/AKR20261102167400002",
-      "source": "연합뉴스",
-      "summary": "독서를 멋으로 여기는 20대 유행에 대형 서점 매출이 늘었다."
-    },
-    {
-      "title": "트럼프 \"중간선거서 민주당 이기면 참모·측근 모두 선제사면\"",
-      "url": "https://www.yna.co.kr/view/AKR20261103003300071",
-      "source": "연합뉴스",
-      "summary": "트럼프 대통령이 선거 패배 시 측근을 미리 사면하겠다고 말했다."
-    },
-    {
-      "title": "바브엘만데브 이어 임시수도까지…후티, 아덴 80km 앞까지 진격",
-      "url": "https://www.yna.co.kr/view/AKR20261103003200079",
-      "source": "연합뉴스",
-      "summary": "예멘 후티 반군이 임시수도 아덴 80km 앞까지 진격했다."
-    },
-    {
-      "title": "러시아, 국지 휴전 끝나자마자 우크라 공격…\"휴전 연장 거부\"",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8701781",
-      "source": "KBS",
-      "summary": "러시아가 국지 휴전이 끝나자 곧바로 우크라이나 공격을 재개했다."
-    }
-  ]
+  {
+   "title": "北김여정, 바이낸스 사태에 \"美 정치적 도발…예의주시\"",
+   "url": "https://www.yna.co.kr/view/AKR20261103010600504",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "美 애플, 7~9월 매출 154조원...시장 전망치 웃돌아",
+   "url": "https://www.fnnews.com/news/202611030642257205",
+   "source": "파이낸셜뉴스"
+  },
+  {
+   "title": "미·이란 협상 기대에 국제유가 7%대 급락…WTI 96달러선",
+   "url": "https://www.yna.co.kr/view/AKR20261103007800072",
+   "source": "연합뉴스"
+  },
+  {
+   "title": "뉴욕증시 혼조…다우 0.4% 상승·S&P 0.5% 하락·나스닥 1% 급락",
+   "url": "https://www.news1.kr/world/international-economy/6340591",
+   "source": "뉴스1"
+  }
+ ],
+ "news": [
+  {
+   "title": "李대통령·장관 여권번호 등 무더기 노출…정부 \"엄중히 인식\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102174452001",
+   "source": "연합뉴스",
+   "summary": "대통령 순방 '공군 1호기' 탑승자 168명의 여권번호 등 개인정보가 유료 사이트에 유출됐다."
+  },
+  {
+   "title": "'트럼프 운명의날' 美중간선거…상원 접전, 하원 민주 탈환 전망",
+   "url": "https://www.yna.co.kr/view/AKR20261103001400071",
+   "source": "연합뉴스",
+   "summary": "한국시간 오늘 밤 8시부터 미 동부에서 중간선거 투표가 시작된다."
+  },
+  {
+   "title": "李대통령, 오늘 튀르키예 대통령과 정상회담…중동 정세 논의",
+   "url": "https://www.yna.co.kr/view/AKR20261102160600001",
+   "source": "연합뉴스",
+   "summary": "8년 만에 국빈 방한한 에르도안 대통령과 원전·방산 협력 등을 논의한다."
+  },
+  {
+   "title": "與, 오늘 의원총회…'신천지 의혹' 조사 결과 보고 주목",
+   "url": "https://www.yna.co.kr/view/AKR20261102151800001",
+   "source": "연합뉴스",
+   "summary": "민주당이 신천지 교인 집단 입당 의혹 자체 조사 결과를 의원들에게 보고한다."
+  },
+  {
+   "title": "北, 순항미사일 집속탄두 위력·수직타격 시험…\"5∼6㏊ 초토화\"",
+   "url": "https://www.yna.co.kr/view/AKR20261103013800504",
+   "source": "연합뉴스",
+   "summary": "북한이 전략순항미사일용 집속탄두 위력 평가와 수직타격 시험을 했다고 밝혔다."
+  },
+  {
+   "title": "여야, 슈퍼예산 심사 앞두고 신경전…\"미래 안전판\"·\"포퓰리즘\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102150500001",
+   "source": "연합뉴스",
+   "summary": "821조원 내년도 예산안 심사를 앞두고 여야가 미래대응기금 등을 두고 맞섰다."
+  },
+  {
+   "title": "특검, '공명선거 활동비 부당지급' 중앙선관위 위원장실 등 압수수색",
+   "url": "https://www.yna.co.kr/view/AKR20261102063151004",
+   "source": "연합뉴스",
+   "summary": "특검이 9억여원 활동비 부정지급 의혹으로 선관위 위원장실 등을 압수수색했다."
+  },
+  {
+   "title": "한국 수출 첫 9000억달러 돌파…\"이달 중 年 1兆달러 확실시\"",
+   "url": "https://biz.chosun.com/policy/policy_sub/2026/11/01/CQYAMCDJDFG27NY5DAJPYINDNE/",
+   "source": "조선비즈",
+   "summary": "올해 누적 수출이 처음 9000억달러를 넘어 연 1조달러 달성이 유력하다."
+  },
+  {
+   "title": "코스피, 128.34포인트(2.24%) 오른 5859.08 마감",
+   "url": "https://www.newsis.com/view/NISX20261102_0003851283",
+   "source": "뉴시스",
+   "summary": "기관 매수세에 코스피가 2% 넘게 올라 5850선을 회복했다."
+  },
+  {
+   "title": "성장률 오르는데 체감은 냉랭…뉴스심리지수 7개월만 최저",
+   "url": "https://www.yna.co.kr/view/AKR20261102158900002",
+   "source": "연합뉴스",
+   "summary": "뉴스로 본 경제심리 지수가 7개월 만에 가장 낮은 수준으로 떨어졌다."
+  },
+  {
+   "title": "호반 vs 조원태 회장, 한진칼 지분 매입 경쟁 본격화하나",
+   "url": "https://www.yna.co.kr/view/AKR20261102173500003",
+   "source": "연합뉴스",
+   "summary": "조원태 회장이 한진칼 지분 추가 취득에 나서며 호반과 경영권 경쟁이 커지고 있다."
+  },
+  {
+   "title": "SK스퀘어, 4.3조원 이상 주주환원 추진…출범 이후 최대 규모",
+   "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280059.html",
+   "source": "인베스트조선",
+   "summary": "SK스퀘어가 출범 이후 최대인 4조3천억원 이상 주주환원 계획을 내놨다."
+  },
+  {
+   "title": "한화, 美 해군 함정 건조 첫 수주…3575억원 규모 상륙함 계약",
+   "url": "https://www.newspim.com/news/view/20261102000131",
+   "source": "뉴스핌",
+   "summary": "한화가 미 해군 상륙함 건조 계약을 따내며 미 함정 시장에 처음 진출했다."
+  },
+  {
+   "title": "체코 원전 시공 계약 무산에…정부, 비상관리체제 가동",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442380",
+   "source": "연합인포맥스",
+   "summary": "두코바니 원전 시공 협상 결렬로 정부가 장차관 주간 점검 체제에 들어갔다."
+  },
+  {
+   "title": "'보금자리론' 10년 만기 금리 5%대로 인상…역대 처음",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102162103lBI",
+   "source": "연합뉴스TV",
+   "summary": "보금자리론 10년 만기 금리가 처음으로 5%대에 올라섰다."
+  },
+  {
+   "title": "상장 앞둔 앤트로픽, 분기손실 65%↓…AI투자에 1천200조원 약정",
+   "url": "https://www.yna.co.kr/view/AKR20261103004400091",
+   "source": "연합뉴스",
+   "summary": "상장을 준비 중인 앤트로픽이 분기 손실을 크게 줄였다고 공개했다."
+  },
+  {
+   "title": "北해커, 탈취코인 2차세탁 착수…솔라나 거쳐 비트코인으로 교환",
+   "url": "https://www.yna.co.kr/view/AKR20261103006200091",
+   "source": "연합뉴스",
+   "summary": "바이낸스를 턴 북한 해커들이 탈취 자금을 비트코인으로 바꾸는 세탁에 들어갔다."
+  },
+  {
+   "title": "엔비디아, 9~10일 서울서 'AI 데이' 개최…삼성·SK·LG 등 참여",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442542",
+   "source": "연합인포맥스",
+   "summary": "엔비디아가 다음 주 서울에서 국내 대기업들과 AI 행사를 연다."
+  },
+  {
+   "title": "'GPU 8400장 중무장' 국가 슈퍼컴 '한강' 닻 올렸다",
+   "url": "https://www.khan.co.kr/article/202611021000001",
+   "source": "경향신문",
+   "summary": "GPU 8400장을 갖춘 국가 슈퍼컴퓨터 '한강'이 가동을 시작했다."
+  },
+  {
+   "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=64709",
+   "source": "디일렉",
+   "summary": "삼성전자가 2030년까지 8인치 파운드리 사업에서 완전히 손을 뗀다."
+  },
+  {
+   "title": "영암서 퇴근길 통근버스 논두렁 추락…21명 중경상",
+   "url": "https://www.yna.co.kr/view/AKR20261102175351054",
+   "source": "연합뉴스",
+   "summary": "전남 영암에서 통근버스가 논두렁으로 떨어져 21명이 다쳤다."
+  },
+  {
+   "title": "신차 투입 갈등에 제네시스 생산 차질…가동 중단 계속될 듯",
+   "url": "https://www.yna.co.kr/view/AKR20261102116052057",
+   "source": "연합뉴스",
+   "summary": "G80 하이브리드 투입을 둘러싼 노사 갈등으로 울산 제네시스 라인이 멈췄다."
+  },
+  {
+   "title": "[단독] 하이브도 계좌∙여권∙카드·주민번호에 의료정보까지 털렸다",
+   "url": "https://www.hani.co.kr/arti/culture/music/1285298.html",
+   "source": "한겨레",
+   "summary": "하이브에서 계좌·여권·의료정보 등 민감한 개인정보가 유출된 것으로 드러났다."
+  },
+  {
+   "title": "경찰, 석포제련소·영풍 '낙동강 오염 의혹' 재수사 착수",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701560",
+   "source": "KBS",
+   "summary": "경찰이 영풍 석포제련소의 낙동강 오염 의혹을 다시 수사한다."
+  },
+  {
+   "title": "'국민 아버지' 최불암 오늘 영면…'아베 마리아'로 마지막 배웅",
+   "url": "https://www.yna.co.kr/view/AKR20261101025200005",
+   "source": "연합뉴스",
+   "summary": "배우 최불암이 동료들의 배웅 속에 영면에 들었다."
+  },
+  {
+   "title": "'김치'·'원', 스페인왕립학술원 표준 스페인어사전에 등재",
+   "url": "https://www.yna.co.kr/view/AKR20261103004100085",
+   "source": "연합뉴스",
+   "summary": "'김치'와 화폐 단위 '원'이 스페인어 표준사전에 올랐다."
+  },
+  {
+   "title": "\"국민연금 10년 가입자의 연금액, 기초연금보다 적다\"",
+   "url": "https://www.yna.co.kr/view/AKR20261102155600530",
+   "source": "연합뉴스",
+   "summary": "10년 가입 평균소득자의 국민연금이 기초연금보다 적은 역전 현상이 확인됐다."
+  },
+  {
+   "title": "트럼프 \"중간선거서 민주당 이기면 참모·측근 모두 선제사면\"",
+   "url": "https://www.yna.co.kr/view/AKR20261103003300071",
+   "source": "연합뉴스",
+   "summary": "트럼프 대통령이 선거 패배 시 측근을 미리 사면하겠다고 말했다."
+  },
+  {
+   "title": "바브엘만데브 이어 임시수도까지…후티, 아덴 80km 앞까지 진격",
+   "url": "https://www.yna.co.kr/view/AKR20261103003200079",
+   "source": "연합뉴스",
+   "summary": "예멘 후티 반군이 임시수도 아덴 80km 앞까지 진격했다."
+  },
+  {
+   "title": "러시아, 국지 휴전 끝나자마자 우크라 공격…\"휴전 연장 거부\"",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8701781",
+   "source": "KBS",
+   "summary": "러시아가 국지 휴전이 끝나자 곧바로 우크라이나 공격을 재개했다."
+  }
+ ]
 }
