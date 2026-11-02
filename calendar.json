@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T09:08:45+09:00",
+ "updatedAt": "2026-11-02T09:12:15+09:00",
  "from": "2026-11-02",
  "to": "2027-02-28",
  "platformKeys": {
@@ -22,21 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-11-02",
-   "title": "피크민 4 스위치2 에디션",
-   "en": "Pikmin 4: Nintendo Switch 2 Edition",
-   "short": "피크민4",
-   "platforms": [
-    "switch"
-   ],
-   "genre": "전략 액션",
-   "price": "₩74,800",
-   "korean": "한국어 지원",
-   "note": "+ 누구나 도전! 계획력 테스트 · 11/12에서 앞당겨짐",
-   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
-   "major": true
-  },
   {
    "date": "2026-11-02",
    "title": "그래브하운즈",
@@ -522,6 +507,21 @@
    "price": "₩32,000",
    "korean": "한국어 지원",
    "note": "스위치 2판",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": true
+  },
+  {
+   "date": "2026-11-12",
+   "title": "피크민 4 스위치2 에디션",
+   "en": "Pikmin 4: Nintendo Switch 2 Edition",
+   "short": "피크민4",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "전략 액션",
+   "price": "₩74,800",
+   "korean": "한국어 지원",
+   "note": "+ 누구나 도전! 계획력 테스트 · 11/2는 체험판",
    "url": "https://www.nintendo.com/kr/games/switch2/lineup",
    "major": true
   },
