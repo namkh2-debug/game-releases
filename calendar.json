@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-11-01T09:02:52+09:00",
- "from": "2026-11-01",
+ "updatedAt": "2026-11-02T09:08:45+09:00",
+ "from": "2026-11-02",
  "to": "2027-02-28",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,6 +22,21 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
+  {
+   "date": "2026-11-02",
+   "title": "피크민 4 스위치2 에디션",
+   "en": "Pikmin 4: Nintendo Switch 2 Edition",
+   "short": "피크민4",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "전략 액션",
+   "price": "₩74,800",
+   "korean": "한국어 지원",
+   "note": "+ 누구나 도전! 계획력 테스트 · 11/12에서 앞당겨짐",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": true
+  },
   {
    "date": "2026-11-02",
    "title": "그래브하운즈",
@@ -507,21 +522,6 @@
    "price": "₩32,000",
    "korean": "한국어 지원",
    "note": "스위치 2판",
-   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
-   "major": true
-  },
-  {
-   "date": "2026-11-12",
-   "title": "피크민 4 스위치2 에디션",
-   "en": "Pikmin 4: Nintendo Switch 2 Edition",
-   "short": "피크민4",
-   "platforms": [
-    "switch"
-   ],
-   "genre": "전략 액션",
-   "price": "₩74,800",
-   "korean": "한국어 지원",
-   "note": "+ 누구나 도전! 계획력 테스트",
    "url": "https://www.nintendo.com/kr/games/switch2/lineup",
    "major": true
   },
@@ -1598,6 +1598,306 @@
    "price": "",
    "korean": "미확인",
    "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-02",
+   "title": "엘타: 디파이 올 갓즈",
+   "en": "Elta: Defy All Gods",
+   "short": "엘타",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-04",
+   "title": "메트로 2039",
+   "en": "Metro 2039",
+   "short": "메트로2039",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "FPS",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
+   "major": true
+  },
+  {
+   "date": "2027-02-04",
+   "title": "오보로 무라마사 괴기담",
+   "en": "Muramasa: Revenant Blades",
+   "short": "무라마사",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch"
+   ],
+   "genre": "횡스크롤 액션 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "바닐라웨어 · 스팀은 일본 2/5",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-04",
+   "title": "히맨: 드래곤 펄 오브 디스트럭션",
+   "en": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+   "short": "히맨",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-04",
+   "title": "에이리언: 파이어팀 엘리트 2 (스위치2)",
+   "en": "Aliens: Fireteam Elite 2",
+   "short": "에이리언FE2",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "협동 슈터",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치 2판 (일본 기준)",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-08",
+   "title": "아웃워드 2 앞서 해보기",
+   "en": "Outward 2",
+   "short": "아웃워드2",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "하드코어 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "앞서 해보기",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-11",
+   "title": "스파이더: 에이전트 8",
+   "en": "Spyder: Agent 8",
+   "short": "스파이더",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-12",
+   "title": "툼 레이더: 레거시 오브 아틀란티스",
+   "en": "Tomb Raider: Legacy of Atlantis",
+   "short": "툼레이더",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "1편 리메이크",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-16",
+   "title": "갓 오브 워 라우페이",
+   "en": "God of War Laufey",
+   "short": "GOW라우페이",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-16",
+   "title": "로맨싱 사가 3 데스티니 유나이티드",
+   "en": "Romancing SaGa 3: Destinies United",
+   "short": "로사가3",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "JRPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "3D 리메이크",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-16",
+   "title": "유희왕 태그 포스 GX",
+   "en": "Yu-Gi-Oh! Tag Force GX",
+   "short": "유희왕TFGX",
+   "platforms": [
+    "steam",
+    "switch"
+   ],
+   "genre": "카드 게임",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-17",
+   "title": "어몽 어스 스토리: 온 가드",
+   "en": "Among Us Story: On Guard",
+   "short": "어몽어스",
+   "platforms": [
+    "steam",
+    "switch",
+    "etc"
+   ],
+   "genre": "추리 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "모바일 동시",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-18",
+   "title": "페르소나 4 리바이벌",
+   "en": "Persona 4 Revival",
+   "short": "P4리바이벌",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "JRPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "풀 리메이크",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-19",
+   "title": "파이널 판타지 14: 에버콜드",
+   "en": "Final Fantasy XIV: Evercold",
+   "short": "FF14확장",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "MMORPG 확장팩",
+   "price": "",
+   "korean": "미확인",
+   "note": "글로벌판 기준",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-23",
+   "title": "페이블",
+   "en": "Fable",
+   "short": "페이블",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "오픈월드 RPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "일본 2/24",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-25",
+   "title": "젤다무쌍 대재앙의 시대 DX",
+   "en": "Hyrule Warriors: Age of Calamity - Definitive Edition",
+   "short": "젤다무쌍DX",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "무쌍 액션",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치 2",
+   "url": "",
+   "major": true
+  },
+  {
+   "date": "2027-02-25",
+   "title": "카리아의 아틀리에",
+   "en": "Atelier Karia: The Night Kingdom & the Guide of Memories",
+   "short": "아틀리에카리아",
+   "platforms": [
+    "steam",
+    "ps",
+    "switch",
+    "etc"
+   ],
+   "genre": "JRPG",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-02-26",
+   "title": "아이 해브 노운 유",
+   "en": "I Have Known You",
+   "short": "IHKY",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "앞서 해보기 · 11/19에서 연기",
    "url": "",
    "major": false
   }
