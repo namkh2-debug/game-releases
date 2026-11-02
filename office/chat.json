@@ -1,62 +1,70 @@
 {
- "updatedAt": "2026-11-02T08:10:00+09:00",
+ "updatedAt": "2026-11-02T09:12:00+09:00",
  "topics": [
-  "마인크래프트 던전스2 11/10",
-  "금감원 불법 공매도 긴급조사 재테크",
-  "투어스 'TO US' 오늘 저녁 6시(출근길 이어가기)",
-  "최불암 영면 추모",
-  "브라운 숄더백 출근 개시·버건디 니트 옷차림",
-  "경훈씨 '좋은 아침' 애정",
-  "화성행궁 사진 공개 경쟁 이어가기",
-  "월요일 첫 커피 귀여운 질투",
-  "넥타이 설렘 농담",
-  "점심·커피 서로 챙김"
+  "그라브하운즈 게임패스 11/2",
+  "WoW 포에버 11/4",
+  "동원파츠·바로팜 공모주 청약 재테크",
+  "성수 픽스피자 팝업 이어가기",
+  "돌싱N모솔 2기 11/3",
+  "리본 블라우스·버건디 니트 옷차림",
+  "경훈씨 결재 사인 애정",
+  "속눈썹 펌 vs 보고서 형광펜 경쟁",
+  "캠핑 어묵탕 요리",
+  "월요일 오전 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "마인크래프트 던전스2가 10일에 나온대",
-   "line2": "언니 또 밤새겠다, 전 양이나 키울래요",
+   "line1": "그라브하운즈 오늘 게임패스로 열렸대",
+   "line2": "4인 협동이요? 전 벌레 막는 담당 할게요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.vgcal.com/calendar/week/2026-11-09"
+   "url": "https://gamingroute.com/games-coming-out-this-week/"
   },
   {
    "a": "jiwon",
-   "line1": "금감원이 불법 공매도 긴급조사 나섰대",
-   "line2": "개미 입장에선 반가운 소식이네요",
+   "line1": "와우 포에버가 4일에 연대, 마음 흔들려",
+   "line2": "언니 와우 시작하면 퇴근 후가 사라져요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "sulk",
+   "url": "https://gamingroute.com/games-coming-out-this-week/"
+  },
+  {
+   "a": "jiwon",
+   "line1": "동원파츠·바로팜 공모주 청약 오늘부터야",
+   "line2": "내일까지죠? 언니 균등배정 노려 봐요",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
    "pose2": "thumbs",
-   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901545"
+   "url": "https://todaystk.kr/calendar/%EC%9D%B4%EB%B2%88%EC%A3%BC"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 투어스 신곡 오늘 저녁 6시래요",
-   "line2": "출근길 말고 퇴근길 이어폰 반쪽이네",
-   "mood1": "surprised",
-   "mood2": "smile",
+   "line1": "성수 픽스피자 한 조각 1,800원부터래요",
+   "line2": "대파크림치즈 맛? 의외로 당기는데",
+   "mood1": "smile",
+   "mood2": "surprised",
    "pose1": "talkto",
-   "pose2": "coffee",
-   "url": "https://www.starnewskorea.com/music/2026/11/02/2026110207072010304"
-  },
-  {
-   "a": "jiwon",
-   "line1": "최불암 선생님 오늘 영면하신대",
-   "line2": "어릴 때 수사반장 보던 기억이 나요",
-   "mood1": "sad",
-   "mood2": "sad",
-   "pose1": "none",
-   "pose2": "none",
-   "url": "https://www.yna.co.kr/view/AKR20261101025200005"
+   "pose2": "think"
   },
   {
    "a": "hyewon",
-   "line1": "브라운 숄더백 드디어 출근 개시했어요",
-   "line2": "버건디 니트 옆에 두니 가을 세트 같네",
+   "line1": "내일 밤 돌싱N모솔 2기 시작해요",
+   "line2": "연애 예능은 내 전공이지, 같이 보자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "리본 블라우스, 리본 각도 어때요?",
+   "line2": "내 버건디 니트랑 서면 딱 화보 컷이야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -64,8 +72,8 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 '좋은 아침' 한마디에 주말 보상받아",
-   "line2": "저는 그 목소리로 알람 맞추고 싶어요",
+   "line1": "경훈씨 결재 사인 보면 마음이 놓여",
+   "line2": "그 한 줄에 제 하루가 반듯해져요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -73,38 +81,29 @@
   },
   {
    "a": "hyewon",
-   "line1": "화성행궁 사진, 경훈씨 책상에 올려놨어요",
-   "line2": "내 한복 사진이 맨 위인 건 우연이야~",
+   "line1": "속눈썹 펌, 경훈씨가 먼저 알아보실걸요",
+   "line2": "흥, 난 보고서 형광펜에 정성 들였거든",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 경훈씨 첫 커피 벌써 타 드렸죠?",
-   "line2": "흥, 넌 쑥찐빵으로 만회하면 되잖아",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
    "a": "jiwon",
-   "line1": "월요일 아침 넥타이 매신 모습은 반칙이야",
-   "line2": "언니, 그 말 하면서 귀 빨개졌어요",
+   "line1": "다음 캠핑 땐 어묵탕 끓여 보고 싶어",
+   "line2": "그럼 유부주머니는 제가 챙길게요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose1": "coffee",
+   "pose2": "cheer"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 오늘 점심은 제가 쏠게요",
-   "line2": "그럼 커피는 내가! 둘 다 이득이다",
+   "line1": "언니, 월요일 오전만 넘기면 반 온 거예요",
+   "line2": "그럼 점심은 맛있는 걸로 보상하자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
