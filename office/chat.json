@@ -1,79 +1,95 @@
 {
- "updatedAt": "2026-11-02T12:12:00+09:00",
+ "updatedAt": "2026-11-02T13:10:00+09:00",
  "topics": [
-  "실버 팰리스 12/14 출시",
-  "쿠팡 와멤데·지마켓 빅스마일 11월 할인",
-  "바이낸스 5조 순유출 재테크",
-  "화성행궁 사진 결과 대기 이어가기",
-  "밀린 칭찬 여섯 개 이어가기",
-  "정장 재킷 vs 트렌치 벨트 점심룩",
-  "경훈씨 점심 걱정 애정",
-  "회의 자료 vs 의자 높이 경쟁",
-  "식후 기지개 응원",
-  "오후 손발 맞추기 우정"
+  "중고 게임샵 시뮬레이터 11/2 출시",
+  "한화오션 어뢰 발사장치 국산화",
+  "영광 상장 첫날 90% 재테크",
+  "T+1 결제주기 로드맵 재테크",
+  "사오리 몽블랑 강남 11/10",
+  "카멜 가디건·반묶음 집게핀 옷차림",
+  "오키뷰티 립 승부 경쟁",
+  "화성행궁 사진 웃음 귀여운 질투",
+  "경훈씨 '수고했어' 애정",
+  "박하사탕 오후 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "실버 팰리스가 12월 14일 나온대, 탐정 RPG야",
-   "line2": "언니 탐정 놀이하면 저 조수 할게요",
-   "mood1": "surprised",
+   "line1": "중고 게임샵 시뮬레이터 오늘 나왔대",
+   "line2": "언니가 사장 하면 저 알바로 써 줘요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "charm",
-   "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112652"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 쿠팡 와멤데 오늘부터 8일까지래요",
-   "line2": "지마켓 빅스마일도 시작이지? 장바구니 위험",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.mk.co.kr/news/economy/12193355"
+   "url": "https://www.gamemeca.com/view.php?gid=1782740"
   },
   {
    "a": "jiwon",
-   "line1": "바이낸스 출금 재개되자 5조 가까이 빠졌대",
-   "line2": "해킹 무섭다, 언니 코인 지갑은 괜찮아요?",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "think",
-   "pose2": "none",
-   "url": "https://www.yna.co.kr/view/AKR20261102016900009"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 화성행궁 사진 결과 아직이죠?",
-   "line2": "경훈씨 고민 길어지시네, 둘 다 예뻐서겠지",
-   "mood1": "neutral",
+   "line1": "한화오션이 어뢰 발사장치 국산화했대",
+   "line2": "역시 한화, 언니 표정이 확 밝아졌네요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "look"
-  },
-  {
-   "a": "hyewon",
-   "line1": "저 칭찬 여섯 개 밀렸어요, 속눈썹까지",
-   "line2": "이자 붙여 받으려면 퇴근 전에 졸라 봐",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "thumbs",
    "pose2": "laugh"
   },
   {
-   "a": "hyewon",
-   "line1": "점심 바람 차서 정장 재킷 단추 잠갔어요",
-   "line2": "난 트렌치 벨트 질끈, 니트랑 따뜻해",
+   "a": "jiwon",
+   "line1": "영광이 상장 첫날 공모가보다 90% 올랐대",
+   "line2": "와, 언니 이번 공모주는 넣었어요?",
+   "mood1": "surprised",
+   "mood2": "surprised",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "jiwon",
+   "line1": "주식 판 돈 하루 일찍 받는 T+1 추진한대",
+   "line2": "돈이 빨리 오면 디저트도 빨리 사죠",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "down",
+   "pose1": "think",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "10일부터 강남에 사오리 몽블랑 온대요",
+   "line2": "밤 몽블랑? 경훈씨 간식으로 딱이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "가디건 어깨에 두르고 머리 반묶음 했어요",
+   "line2": "집게핀까지 세트네, 오후룩 대성공",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오키뷰티 팝업 가서 새 립으로 승부해요",
+   "line2": "좋아, 경훈씨가 먼저 알아보는 쪽이 승!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 웃으신 건 제 행궁 사진 때문이죠",
+   "line2": "흥, 내 한복 사진 보고 웃으신 거거든",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
    "pose2": "charm"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 점심 맛있게 드셨나 그게 제일 궁금해",
-   "line2": "체하지 않게 천천히 드셨으면 좋겠어요",
+   "line1": "경훈씨 '수고했어' 한마디면 오후가 가벼워",
+   "line2": "저는 그 말 들으려고 서류 두 번 봐요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -81,29 +97,11 @@
   },
   {
    "a": "hyewon",
-   "line1": "오후 회의 자료, 제가 먼저 출력해 둘래요",
-   "line2": "난 경훈씨 의자 높이까지 맞춰 놨거든",
+   "line1": "언니, 졸릴 땐 제가 박하사탕 드릴게요",
+   "line2": "고마워, 우리 오후도 같이 힘내자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "밥 먹고 나른하면 창가에서 기지개 한 번",
-   "line2": "언니 따라 하니까 눈이 번쩍 떠져요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니랑 일하면 하루가 진짜 금방 가요",
-   "line2": "나도야, 오후도 둘이 손발 맞춰 보자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "coffee",
    "pose2": "highfive"
   }
  ]
