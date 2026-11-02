@@ -1,110 +1,111 @@
 {
- "updatedAt": "2026-11-02T14:15:00+09:00",
+ "updatedAt": "2026-11-02T15:03:00+09:00",
  "topics": [
-  "노시환 MLB닷컴 장타력 평가",
-  "코스피 장중 반등 재테크",
-  "K뷰티 역직구 40% 급증",
-  "1박2일 쑥크림라테 이어가기",
-  "투어스 신곡 저녁 6시 이어가기",
-  "트렌치 깃·버건디 니트 옷차림",
-  "내일 첫 코트 대결 경쟁",
-  "경훈씨 일정표 애정",
-  "셔츠 소매 설렘 농담",
-  "오후 세 시 기지개 응원"
+  "붕괴 스타레일 4.7 11일 업데이트",
+  "에쓰오일 3분기 영업익 513% 재테크",
+  "KS 1차전 대니엘 vs 최원태",
+  "호두 40g 피로 감소",
+  "픽스피자 수요일 이어가기",
+  "바람에 풀리는 집게핀 옷차림",
+  "경훈씨 퇴근길 목도리 애정",
+  "손글씨 쪽지 vs 스마일 귤 경쟁",
+  "엘리베이터 10초 귀여운 질투",
+  "어깨 주물러 주기 우정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "MLB닷컴이 노시환 장타력 빅리그급이래",
-   "line2": "한화 팬 언니, 오늘 표정 관리 안 돼요",
+   "line1": "붕괴 스타레일 4.7, 11일에 업데이트래",
+   "line2": "언니, 새 캐릭터 뽑기에 월급 지켜요",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.ytn.co.kr/_ln/0107_202611021359386909"
-  },
-  {
-   "a": "jiwon",
-   "line1": "코스피가 아침 하락 다 지우고 반등했어",
-   "line2": "검은 월요일 걱정했는데 다행이에요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "clap",
-   "url": "https://cbiz.chosun.com/svc/bulletin/bulletin_art.html?contid=2026110201418"
-  },
-  {
-   "a": "hyewon",
-   "line1": "K뷰티 역직구가 3분기에 40% 늘었대요",
-   "line2": "우리 화장대가 수출 효자였네",
-   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.nocutnews.co.kr/news/6600565"
-  },
-  {
-   "a": "hyewon",
-   "line1": "1박2일 막내, 쑥라테 뺏겨서 화냈대요",
-   "line2": "먹을 거 뺏기면 누구라도 그렇지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 투어스 신곡 이제 네 시간 남았어요",
-   "line2": "퇴근길 이어폰 반쪽, 약속 기억해",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "look"
+   "url": "https://www.newstap.co.kr/news/articleView.html?idxno=337005"
   },
   {
    "a": "jiwon",
-   "line1": "바람 세져서 트렌치 깃 세우고 왔어",
-   "line2": "버건디 니트랑 깃까지, 화보 같아요",
+   "line1": "에쓰오일 3분기 영업익이 513%나 늘었대",
+   "line2": "와, 언니 정유주 눈여겨보는 거예요?",
+   "mood1": "surprised",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "none",
+   "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261102_0003851021"
+  },
+  {
+   "a": "jiwon",
+   "line1": "내일 KS 1차전, 대니엘 vs 최원태래",
+   "line2": "언니 한화 없어도 야구는 못 참죠?",
    "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs"
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://www.yna.co.kr/view/AKR20261102100800007"
   },
   {
    "a": "hyewon",
-   "line1": "내일 첫 코트는 아이보리로 이길 거예요",
-   "line2": "블랙 롱코트는 원래 겨울 정답이거든",
+   "line1": "하루 호두 40g이면 피로가 준대요",
+   "line2": "그럼 오후 간식은 호두로 바꿔 볼까",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120781"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 픽스피자 수요일에 같이 가요",
+   "line2": "대파크림치즈는 내 몫이야, 양보 없다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "바람에 집게핀이 자꾸 풀려요, 언니",
+   "line2": "내 머리끈 빌려줄게, 반묶음 지키자",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "cheer"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 퇴근길 바람 차실까 봐 걱정돼",
+   "line2": "목도리 하나 몰래 챙겨 드리고 싶어요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
+  },
+  {
+   "a": "jiwon",
+   "line1": "내일 경훈씨 책상에 손글씨 쪽지 둘 거야",
+   "line2": "전 귤에 스마일 그려서 올려 둘래요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
    "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 일정표에 이름만 봐도 든든해",
-   "line2": "저는 그 칸 옆에 몰래 별 그려 둬요",
-   "mood1": "smile",
+   "a": "hyewon",
+   "line1": "언니 아까 경훈씨랑 엘리베이터 탔죠?",
+   "line2": "딱 10초였어, 그 정도는 봐줘",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 셔츠 소매 걷으시면 심장에 안 좋아",
-   "line2": "언니, 그건 업무 시간 금지 장면이에요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "sulk",
    "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "오후 세 시 고비엔 같이 기지개 켜요",
-   "line2": "좋아, 너랑 하면 졸음도 도망가",
+   "line1": "언니 어깨 뭉쳤죠? 10초만 주물러 줄게요",
+   "line2": "어머 시원해, 너 손맛 장난 아니다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "highfive"
+   "pose1": "look",
+   "pose2": "look"
   }
  ]
 }
