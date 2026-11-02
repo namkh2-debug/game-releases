@@ -1,32 +1,22 @@
 {
- "updatedAt": "2026-11-02T23:10:00+09:00",
+ "updatedAt": "2026-11-03T06:22:00+09:00",
  "topics": [
-  "중국 태산 로봇 등반대회 계단 3100개",
-  "한국시리즈 1차전 내일 kt vs 삼성",
-  "부산 상어 부캉이 일주일째 행방",
-  "핑크오븐 성수 팝업 내일 첫날 이어가기",
-  "내일 아이보리 코트·베이지 머플러·차콜 니트 옷차림",
-  "잠든 경훈씨 궁금 애정",
-  "시나몬 라떼 vs 보고서 스티커 경쟁",
-  "엘리베이터 질투",
-  "자기 전 물 한 잔 꿀팁",
-  "서로 고마움 응원"
+  "한국시리즈 1차전 오늘 저녁 치킨 내기 이어가기",
+  "와우 포에버 목요일 오픈",
+  "일본 젊은층 한본어 유행",
+  "김치 스페인어 사전 등재",
+  "20대 텍스트힙 독서 열풍",
+  "아이보리 코트·베이지 머플러·차콜 니트 옷차림",
+  "경훈씨 발소리 기다림 애정",
+  "책상 메모 vs 손난로 경쟁",
+  "핑크오븐 팝업 이어가기",
+  "화요일 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "중국 태산에서 로봇들이 계단 3100개 올랐대",
-   "line2": "전 회사 계단도 숨찬데 로봇이 부럽네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261102166300083"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 저녁 6시 반 한국시리즈 1차전이래",
-   "line2": "kt랑 삼성이죠? 언니, 치킨 내기 할래요?",
+   "line1": "오늘 저녁 한국시리즈 1차전 드디어 하네",
+   "line2": "언니 치킨 내기 잊지 마요, 전 벌써 골랐어요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
@@ -34,76 +24,88 @@
    "url": "https://www.yna.co.kr/view/AKR20261102160800007"
   },
   {
-   "a": "hyewon",
-   "line1": "부산 상어 부캉이가 일주일째 안 보인대요",
-   "line2": "넓은 바다로 갔으면 거기서 잘 살면 좋겠다",
-   "mood1": "neutral",
+   "a": "jiwon",
+   "line1": "와우 포에버가 한국시간 목요일 아침 열린대",
+   "line2": "언니 또 밤새우면 다크서클 제가 가려줄게요",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "down",
-   "url": "https://www.yna.co.kr/view/AKR20261102151500051"
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://thecheckpointdaily.com/en/weekly/releases-week-nov-2-2026/"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 핑크오븐 성수 팝업 내일 첫날이에요",
-   "line2": "퇴근하고 같이 가자, 줄은 내가 설게",
-   "mood1": "smile",
+   "line1": "일본 젊은층이 '언니' '괜찮아'를 쓴대요",
+   "line2": "그럼 나 일본 가도 언니 소리 듣겠네?",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "highfive"
-  },
-  {
-   "a": "hyewon",
-   "line1": "아이보리 코트엔 베이지 머플러가 낫겠죠?",
-   "line2": "응, 난 내일 차콜 니트에 롱부츠 신을래",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 지금쯤 주무시려나, 괜히 궁금해요",
-   "line2": "내일 첫 결재는 웃으면서 받으시게 하자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "heart"
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261103006700072"
   },
   {
    "a": "jiwon",
-   "line1": "내일 경훈씨 라떼엔 내가 시나몬 뿌려 드릴래",
-   "line2": "전 보고서 표지에 작은 스티커 붙일 거예요",
+   "line1": "'김치'가 스페인어 사전에도 올랐대",
+   "line2": "언니표 김치볶음밥도 세계에 알려야죠",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "clap",
+   "url": "https://www.yna.co.kr/view/AKR20261103004100085"
+  },
+  {
+   "a": "hyewon",
+   "line1": "요즘 '텍스트힙'이라고 책 읽는 게 멋이래요",
+   "line2": "그럼 우리 점심에 북카페 가서 힙해지자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee",
+   "url": "https://www.yna.co.kr/view/AKR20261102167400002"
+  },
+  {
+   "a": "hyewon",
+   "line1": "예고한 아이보리 코트 드디어 입고 왔어요",
+   "line2": "베이지 머플러까지, 내 차콜 니트랑 딱이다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 출근하시는 발소리, 벌써 기다려져",
+   "line2": "저도요, 그 소리 들리면 하루가 반짝해요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오늘 경훈씨 책상 메모는 제가 먼저 쓸래요",
+   "line2": "난 손난로 챙겨 드릴 거야, 따뜻함이 이겨",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니 아까 경훈씨랑 엘리베이터 같이 탔죠?",
-   "line2": "층 버튼 눌러 드린 것뿐이야, 삐치지 마",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "talkto"
-  },
-  {
    "a": "jiwon",
-   "line1": "자기 전에 물 한 잔, 내일 피부가 달라져",
-   "line2": "언니 꿀팁 저장! 내일 촉촉하게 만나요",
-   "mood1": "smile",
+   "line1": "어제 핑크오븐 첫날 간다던 거 갔다 왔어?",
+   "line2": "퇴근길에 꼭 들를 거예요, 언니 몫도 살게요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "clap"
+   "pose1": "think",
+   "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "언니 있어서 회사 오는 게 즐거워요",
-   "line2": "나도, 우리 둘이면 뭐든 해낼 것 같아",
+   "line1": "월요일 지나니 화요일은 좀 가볍죠?",
+   "line2": "응, 오늘도 우리 차근차근 잘 해보자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "love",
+   "pose1": "wave",
    "pose2": "highfive"
   }
  ]
