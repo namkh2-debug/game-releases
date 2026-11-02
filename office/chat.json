@@ -1,70 +1,60 @@
 {
- "updatedAt": "2026-11-02T17:13:00+09:00",
+ "updatedAt": "2026-11-02T18:22:00+09:00",
  "topics": [
-  "스텔라 블레이드 스위치2 11/6",
-  "연 4%대 예금 비중 10% 재테크",
-  "파삭 코엑스 팝업 11/5",
-  "돌싱N모솔2 이어가기",
-  "치이카와 주말 예매 이어가기",
-  "퇴근길 니트 소매·가디건 옷차림",
-  "경훈씨 퇴근길 애정",
-  "물컵 세팅 vs 메모지 경쟁",
-  "이름 먼저 부르기 귀여운 질투",
-  "퇴근 전 붕어빵 응원"
+  "KS 미디어데이 우승 각오",
+  "보금자리론 5%대 재테크",
+  "핑크오븐 성수 팝업 11/3",
+  "100일의 거짓말 9.8%",
+  "퇴근길 가죽 장갑·트렌치 옷차림",
+  "퇴근 후 붕어빵 이어가기",
+  "경훈씨 저녁 국물 애정",
+  "아이보리 코트 vs 빨간 립 경쟁",
+  "'잘 자' 목소리 설렘 농담",
+  "퇴근 인사 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "스텔라 블레이드 스위치2판, 6일 0시 출시래",
-   "line2": "한국 게임이 닌텐도까지! 언니 예약했죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
+   "line1": "KS 미디어데이, 두 감독 다 우승 자신하더라",
+   "line2": "내일 1차전, 언니는 어느 팀 응원할 거예요?",
+   "mood1": "smile",
+   "mood2": "neutral",
    "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://kyries.tistory.com/200"
+   "pose2": "think",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008826798"
   },
   {
    "a": "jiwon",
-   "line1": "신규 예금 10%가 연 4% 넘는 금리래",
-   "line2": "적금 하나 새로 들까 봐요, 언니 최고",
+   "line1": "보금자리론 금리가 처음으로 5%대가 된대",
+   "line2": "언니 내 집 마련 계획, 또 다시 짜야겠네요",
    "mood1": "surprised",
-   "mood2": "smile",
+   "mood2": "sad",
    "pose1": "think",
-   "pose2": "clap",
-   "url": "https://www.yna.co.kr/view/AKR20261031024600002"
+   "pose2": "think",
+   "url": "https://www.yonhapnewstv.co.kr/news/AKR20261102162103lBI"
   },
   {
    "a": "hyewon",
-   "line1": "코엑스에 5일부터 파삭 팝업 열린대요",
-   "line2": "복주머니 세트? 경훈씨 간식 후보네",
-   "mood1": "surprised",
+   "line1": "언니, 핑크오븐 성수 팝업 내일부터예요",
+   "line2": "이달 말까지 한다며? 주말에 여유 있게 가자",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "coffee",
-   "url": "https://popply.co.kr/popup/6483"
+   "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 내일 밤 '돌싱 N 모솔' 2기 시작해요",
-   "line2": "연애 예능은 못 참지, 수요일에 수다 각",
-   "mood1": "smile",
+   "line1": "'100일의 거짓말' 9.8%래요, 두 자릿수 각!",
+   "line2": "김유정 나오면 믿고 보지, 이번 주도 본방이다",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
+   "pose1": "cheer",
+   "pose2": "thumbs"
   },
   {
-   "a": "jiwon",
-   "line1": "치이카와 극장판, 우리 주말 예매할까?",
-   "line2": "좋아요! 팝콘은 제가 쏠게요, 언니",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "clap"
-  },
-  {
-   "a": "jiwon",
-   "line1": "퇴근길 바람 차서 니트 소매 끝까지 내렸어",
-   "line2": "전 가디건 어깨에서 내려 팔 끼웠어요",
+   "a": "hyewon",
+   "line1": "퇴근길 바람 차서 가죽 장갑 꺼내 꼈어요",
+   "line2": "난 트렌치 단추 끝까지, 내일은 롱코트야",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "down",
@@ -72,38 +62,47 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오늘 하루 무사히 마치셨으면 해",
-   "line2": "퇴근길 안 막히게 속으로 빌어 드릴래요",
+   "line1": "혜원아, 붕어빵 슈크림 팥 반반 어때?",
+   "line2": "좋아요! 한 봉지는 경훈씨 몫으로 남겨요",
    "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 오늘 하루 정말 고생 많으셨을 거예요",
+   "line2": "저녁은 따끈한 국물로 드셨으면 좋겠다",
+   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "내일 회의실 물컵 세팅도 제가 할 거예요",
-   "line2": "그럼 난 경훈씨 자리에 새 메모지 깔래",
+   "line1": "내일 아이보리 코트에 진주 귀걸이까지 해요",
+   "line2": "그럼 난 빨간 립에 웨이브 머리로 맞불이다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 아까 경훈씨가 언니 이름 먼저 부르셨죠",
-   "line2": "가나다순일 뿐이야, 삐치지 마 혜원아",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "talkto"
+   "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "퇴근까지 한 시간! 마지막 힘내자",
-   "line2": "끝나면 언니랑 붕어빵 사 먹으러 가요",
+   "line1": "경훈씨 목소리로 '잘 자' 들으면 밤새울 듯",
+   "line2": "언니, 그건 상상만 해도 심장이 위험해요",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘도 수고했어, 집 가서 푹 쉬어",
+   "line2": "언니도요, 내일 아침 커피 들고 만나요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
+   "pose1": "wave",
    "pose2": "highfive"
   }
  ]
