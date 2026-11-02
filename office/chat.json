@@ -1,109 +1,111 @@
 {
- "updatedAt": "2026-11-03T07:03:07+09:00",
+ "updatedAt": "2026-11-03T08:12:09+09:00",
  "topics": [
-  "한진칼 지분 경쟁 재테크",
-  "SK스퀘어 주주환원 재테크",
-  "오키뷰티 더현대 팝업 11/4",
-  "돌싱N모솔2 오늘 밤 첫 방 이어가기",
-  "아이보리 코트·베이지 머플러·차콜 니트 옷차림",
-  "경훈씨 오시면 공기 달라짐 애정",
-  "보고서 그래프 vs 요약 경쟁",
-  "썸 답장 속도 설렘",
-  "KS 치킨 내기 이어가기",
-  "추운 아침 서로 응원"
+  "애플 분기 최고매출 재테크",
+  "디비전2 센트럴파크 확장팩",
+  "청송사과축제 11/4~8",
+  "데블스 플랜 새 시즌 11/10",
+  "아이보리 코트·차콜 니트·롱부츠 옷차림",
+  "화성행궁 사진 결과 이어가기",
+  "경훈씨 코트 걸어드리기 질투",
+  "결재 도장 소리 애정",
+  "물 데우기 vs 요약 한 줄 경쟁",
+  "화요일 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "호반이랑 한진칼 지분 경쟁 붙었대",
-   "line2": "언니 또 차트 켜고 팝콘 준비했죠?",
+   "line1": "애플이 7~9월 매출 역대 최고 찍었대",
+   "line2": "가격 올려서 메모리값 버텼다니 영리하네",
    "mood1": "surprised",
-   "mood2": "smile",
+   "mood2": "think",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261102173500003"
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261103012251091"
   },
   {
    "a": "jiwon",
-   "line1": "SK스퀘어가 4조 넘게 주주환원한대",
-   "line2": "이런 소식엔 언니 눈이 반짝하네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "look",
-   "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280059.html"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일부터 더현대에 오키뷰티 팝업이래요",
-   "line2": "립 하나씩 골라서 또 승부하는 거지?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "think"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오늘 밤 '돌싱 N 모솔' 2기 첫 방이에요",
-   "line2": "야근 없기 약속, 나 기억하고 있어",
+   "line1": "오늘 디비전2 새 확장팩 나온대, 센트럴파크",
+   "line2": "언니 퇴근하면 바로 뉴욕 출동이죠?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "coffee"
+   "pose2": "laugh",
+   "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-november-2026/"
+  },
+  {
+   "a": "hyewon",
+   "line1": "청송사과축제가 내일부터 8일까지래요",
+   "line2": "갓 딴 사과로 언니표 사과잼 만들어 줄게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "http://www.gangneungnews.kr/news/articleView.html?idxno=62152"
+  },
+  {
+   "a": "hyewon",
+   "line1": "'데블스 플랜' 새 시즌 10일에 나온대요",
+   "line2": "두뇌 게임이면 난 한 판도 못 버틸 듯",
+   "mood1": "surprised",
+   "mood2": "sad",
+   "pose1": "talkto",
+   "pose2": "sulk",
+   "url": "https://twd-shouting.tistory.com/2863"
   },
   {
    "a": "jiwon",
-   "line1": "코트 위에 베이지 머플러, 오늘 화사하다",
-   "line2": "언니 차콜 니트에 롱부츠도 멋져요",
+   "line1": "아이보리 코트, 엘리베이터에서 다 쳐다보더라",
+   "line2": "언니 롱부츠 소리도 오늘 꽤 당당했어요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
    "pose2": "charm"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨 오시면 사무실 공기가 달라져요",
-   "line2": "맞아, 그 순간부터 일할 맛이 나지",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
    "a": "jiwon",
-   "line1": "오늘 경훈씨 보고서는 내가 그래프 담당",
-   "line2": "전 요약 한 장으로 더 빨리 칭찬받죠",
-   "mood1": "smile",
+   "line1": "화성행궁 사진 결과, 오늘은 나오겠지?",
+   "line2": "저는 오늘 아침 표정에서 이미 봤어요",
+   "mood1": "think",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "think",
    "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 썸은 답장 속도가 제일 설레요",
-   "line2": "너무 빨라도 들키고, 늦으면 애타지",
-   "mood1": "smile",
+   "line1": "언니, 아까 경훈씨 코트 받아서 걸어 드렸죠?",
+   "line2": "옷걸이가 내 쪽에 있었을 뿐이야, 진짜로",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think"
-  },
-  {
-   "a": "jiwon",
-   "line1": "어제 KS 치킨 내기, 오늘 결판나네",
-   "line2": "지면 커피까지 사기, 언니 각오해요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "faceoff",
-   "pose2": "highfive"
+   "pose1": "sulk",
+   "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "추운 아침엔 언니 웃음이 손난로예요",
-   "line2": "너도 내 하루 비타민이야, 알지?",
+   "line1": "경훈씨 결재 도장 소리, 은근 기분 좋아요",
+   "line2": "그 소리 나면 오늘도 잘 굴러가는 거지",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "clap"
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 회의 전 경훈씨 자리 물은 내가 데울게",
+   "line2": "그럼 전 자료 첫 장에 요약 한 줄 쏙!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니랑 같이 일하니까 화요일도 금방 가요",
+   "line2": "우리 둘이 손발 맞추면 하루가 짧지",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "highfive",
+   "pose2": "highfive"
   }
  ]
 }
