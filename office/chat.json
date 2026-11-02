@@ -1,112 +1,109 @@
 {
- "updatedAt": "2026-11-03T06:22:00+09:00",
+ "updatedAt": "2026-11-03T07:03:07+09:00",
  "topics": [
-  "한국시리즈 1차전 오늘 저녁 치킨 내기 이어가기",
-  "와우 포에버 목요일 오픈",
-  "일본 젊은층 한본어 유행",
-  "김치 스페인어 사전 등재",
-  "20대 텍스트힙 독서 열풍",
+  "한진칼 지분 경쟁 재테크",
+  "SK스퀘어 주주환원 재테크",
+  "오키뷰티 더현대 팝업 11/4",
+  "돌싱N모솔2 오늘 밤 첫 방 이어가기",
   "아이보리 코트·베이지 머플러·차콜 니트 옷차림",
-  "경훈씨 발소리 기다림 애정",
-  "책상 메모 vs 손난로 경쟁",
-  "핑크오븐 팝업 이어가기",
-  "화요일 서로 응원"
+  "경훈씨 오시면 공기 달라짐 애정",
+  "보고서 그래프 vs 요약 경쟁",
+  "썸 답장 속도 설렘",
+  "KS 치킨 내기 이어가기",
+  "추운 아침 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "오늘 저녁 한국시리즈 1차전 드디어 하네",
-   "line2": "언니 치킨 내기 잊지 마요, 전 벌써 골랐어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "charm",
-   "url": "https://www.yna.co.kr/view/AKR20261102160800007"
-  },
-  {
-   "a": "jiwon",
-   "line1": "와우 포에버가 한국시간 목요일 아침 열린대",
-   "line2": "언니 또 밤새우면 다크서클 제가 가려줄게요",
+   "line1": "호반이랑 한진칼 지분 경쟁 붙었대",
+   "line2": "언니 또 차트 켜고 팝콘 준비했죠?",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://thecheckpointdaily.com/en/weekly/releases-week-nov-2-2026/"
-  },
-  {
-   "a": "hyewon",
-   "line1": "일본 젊은층이 '언니' '괜찮아'를 쓴대요",
-   "line2": "그럼 나 일본 가도 언니 소리 듣겠네?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261103006700072"
+   "url": "https://www.yna.co.kr/view/AKR20261102173500003"
   },
   {
    "a": "jiwon",
-   "line1": "'김치'가 스페인어 사전에도 올랐대",
-   "line2": "언니표 김치볶음밥도 세계에 알려야죠",
+   "line1": "SK스퀘어가 4조 넘게 주주환원한대",
+   "line2": "이런 소식엔 언니 눈이 반짝하네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
-   "pose2": "clap",
-   "url": "https://www.yna.co.kr/view/AKR20261103004100085"
+   "pose2": "look",
+   "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280059.html"
   },
   {
    "a": "hyewon",
-   "line1": "요즘 '텍스트힙'이라고 책 읽는 게 멋이래요",
-   "line2": "그럼 우리 점심에 북카페 가서 힙해지자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261102167400002"
-  },
-  {
-   "a": "hyewon",
-   "line1": "예고한 아이보리 코트 드디어 입고 왔어요",
-   "line2": "베이지 머플러까지, 내 차콜 니트랑 딱이다",
+   "line1": "내일부터 더현대에 오키뷰티 팝업이래요",
+   "line2": "립 하나씩 골라서 또 승부하는 거지?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "look"
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오늘 밤 '돌싱 N 모솔' 2기 첫 방이에요",
+   "line2": "야근 없기 약속, 나 기억하고 있어",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "coffee"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 출근하시는 발소리, 벌써 기다려져",
-   "line2": "저도요, 그 소리 들리면 하루가 반짝해요",
+   "line1": "코트 위에 베이지 머플러, 오늘 화사하다",
+   "line2": "언니 차콜 니트에 롱부츠도 멋져요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 오시면 사무실 공기가 달라져요",
+   "line2": "맞아, 그 순간부터 일할 맛이 나지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "hyewon",
-   "line1": "오늘 경훈씨 책상 메모는 제가 먼저 쓸래요",
-   "line2": "난 손난로 챙겨 드릴 거야, 따뜻함이 이겨",
+   "a": "jiwon",
+   "line1": "오늘 경훈씨 보고서는 내가 그래프 담당",
+   "line2": "전 요약 한 장으로 더 빨리 칭찬받죠",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "어제 핑크오븐 첫날 간다던 거 갔다 왔어?",
-   "line2": "퇴근길에 꼭 들를 거예요, 언니 몫도 살게요",
-   "mood1": "neutral",
+   "a": "hyewon",
+   "line1": "언니, 썸은 답장 속도가 제일 설레요",
+   "line2": "너무 빨라도 들키고, 늦으면 애타지",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "wave"
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "jiwon",
+   "line1": "어제 KS 치킨 내기, 오늘 결판나네",
+   "line2": "지면 커피까지 사기, 언니 각오해요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "faceoff",
+   "pose2": "highfive"
   },
   {
    "a": "hyewon",
-   "line1": "월요일 지나니 화요일은 좀 가볍죠?",
-   "line2": "응, 오늘도 우리 차근차근 잘 해보자",
+   "line1": "추운 아침엔 언니 웃음이 손난로예요",
+   "line2": "너도 내 하루 비타민이야, 알지?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "wave",
-   "pose2": "highfive"
+   "pose2": "clap"
   }
  ]
 }
