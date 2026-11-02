@@ -1,88 +1,62 @@
 {
- "updatedAt": "2026-11-02T09:12:00+09:00",
+ "updatedAt": "2026-11-02T10:12:00+09:00",
  "topics": [
-  "그라브하운즈 게임패스 11/2",
-  "WoW 포에버 11/4",
-  "동원파츠·바로팜 공모주 청약 재테크",
-  "성수 픽스피자 팝업 이어가기",
-  "돌싱N모솔 2기 11/3",
-  "리본 블라우스·버건디 니트 옷차림",
-  "경훈씨 결재 사인 애정",
-  "속눈썹 펌 vs 보고서 형광펜 경쟁",
-  "캠핑 어묵탕 요리",
-  "월요일 오전 서로 응원"
+  "젤다 40주년 스위치2 개봉기",
+  "코스피 장중 상승 전환 재테크",
+  "삼성 한국시리즈 진출",
+  "너와 함께라면 키스 설렘 농담",
+  "출근 인사 vs 커피 무승부 이어가기",
+  "버건디 니트·리본 블라우스 오전룩",
+  "경훈씨 따뜻한 차 애정",
+  "경훈씨와 웃던 얘기 귀여운 질투",
+  "캠핑 어묵탕 이어가기",
+  "월요일 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "그라브하운즈 오늘 게임패스로 열렸대",
-   "line2": "4인 협동이요? 전 벌레 막는 담당 할게요",
-   "mood1": "smile",
+   "line1": "젤다 40주년 스위치2 개봉기 봤어, 금빛이야",
+   "line2": "78만8천원이래요, 언니 지갑 꽉 잡아요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://gamingroute.com/games-coming-out-this-week/"
+   "url": "https://www.inven.co.kr/webzine/news/?news=322801"
   },
   {
    "a": "jiwon",
-   "line1": "와우 포에버가 4일에 연대, 마음 흔들려",
-   "line2": "언니 와우 시작하면 퇴근 후가 사라져요",
+   "line1": "코스피 장 초반 빠졌다가 다시 올랐대",
+   "line2": "롤러코스터네요, 언니 손 떨지 마요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "sulk",
-   "url": "https://gamingroute.com/games-coming-out-this-week/"
+   "pose2": "cheer",
+   "url": "https://www.newsis.com/view/NISX20261102_0003850436"
   },
   {
    "a": "jiwon",
-   "line1": "동원파츠·바로팜 공모주 청약 오늘부터야",
-   "line2": "내일까지죠? 언니 균등배정 노려 봐요",
+   "line1": "삼성이 KIA 꺾고 한국시리즈 갔대",
+   "line2": "이제 진짜 가을야구 결승전이네요",
    "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "thumbs",
-   "url": "https://todaystk.kr/calendar/%EC%9D%B4%EB%B2%88%EC%A3%BC"
-  },
-  {
-   "a": "hyewon",
-   "line1": "성수 픽스피자 한 조각 1,800원부터래요",
-   "line2": "대파크림치즈 맛? 의외로 당기는데",
-   "mood1": "smile",
    "mood2": "surprised",
-   "pose1": "talkto",
-   "pose2": "think"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내일 밤 돌싱N모솔 2기 시작해요",
-   "line2": "연애 예능은 내 전공이지, 같이 보자",
-   "mood1": "smile",
-   "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee"
+   "pose2": "coffee",
+   "url": "https://news.kbs.co.kr/news/view.do?ncd=8700833"
   },
   {
    "a": "hyewon",
-   "line1": "리본 블라우스, 리본 각도 어때요?",
-   "line2": "내 버건디 니트랑 서면 딱 화보 컷이야",
+   "line1": "손석구·박보영 영화, 하루 한 번 키스 필수래요",
+   "line2": "그 설정이면 내일이 매일 설레겠다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 결재 사인 보면 마음이 놓여",
-   "line2": "그 한 줄에 제 하루가 반듯해져요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose2": "laugh",
+   "url": "https://www.newspim.com/news/view/20261102000140"
   },
   {
    "a": "hyewon",
-   "line1": "속눈썹 펌, 경훈씨가 먼저 알아보실걸요",
-   "line2": "흥, 난 보고서 형광펜에 정성 들였거든",
+   "line1": "아침 인사는 언니, 커피는 제가 먼저였죠",
+   "line2": "그럼 오후 간식으로 결승전 하자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
@@ -90,17 +64,44 @@
   },
   {
    "a": "jiwon",
-   "line1": "다음 캠핑 땐 어묵탕 끓여 보고 싶어",
-   "line2": "그럼 유부주머니는 제가 챙길게요",
+   "line1": "버건디 니트 소매 살짝 걷으니 편하다",
+   "line2": "제 리본 블라우스랑 아직 깔맞춤이에요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "cheer"
+   "pose1": "down",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 책상에 따뜻한 차 한 잔 놓고 싶어",
+   "line2": "저도요, 그 마음은 언니랑 똑같아요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 월요일 오전만 넘기면 반 온 거예요",
-   "line2": "그럼 점심은 맛있는 걸로 보상하자",
+   "line1": "언니 아까 경훈씨랑 웃으며 얘기했죠?",
+   "line2": "업무 얘기야, 너도 끼고 싶었구나?",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 어묵탕 캠핑 날짜 잡았어요?",
+   "line2": "11월 중순쯤? 유부주머니 잊지 마",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 우리 오늘도 잘하고 있어요",
+   "line2": "그럼, 우리 둘이면 뭐든 되지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
