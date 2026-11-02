@@ -1,9 +1,9 @@
 {
  "date": "2026-11-02",
- "updatedAt": "2026-11-02T08:10:00+09:00",
+ "updatedAt": "2026-11-02T09:10:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 8,
+  "temp": 9,
   "low": 5,
   "high": 13,
   "condition": "구름 조금",
@@ -14,14 +14,14 @@
  },
  "breaking": [
   {
-   "title": "F1 멕시코GP, 보타스 충돌 사고로 경기 일시 중단",
-   "url": "https://www.etoday.co.kr/news/view/2642710",
-   "source": "이투데이"
-  },
-  {
    "title": "이란IRGC ,호르무즈서 \"위반\"유조선들 2척 또 기뢰 충돌 폭발 주장",
    "url": "https://www.newsis.com/view/NISX20261102_0003850048",
    "source": "뉴시스"
+  },
+  {
+   "title": "F1 멕시코GP, 보타스 충돌 사고로 경기 일시 중단",
+   "url": "https://www.etoday.co.kr/news/view/2642710",
+   "source": "이투데이"
   }
  ],
  "news": [
@@ -42,6 +42,12 @@
    "url": "https://biz.chosun.com/policy/policy_sub/2026/11/01/CQYAMCDJDFG27NY5DAJPYINDNE/",
    "source": "조선비즈",
    "summary": "1~10월 누적 수출 9300억달러로 사상 최대, 반도체가 견인하며 11월 중 연 1조달러 전망"
+  },
+  {
+   "title": "[굿모닝 증시]韓, 美 AI주 급락 여진 등으로 변동성 이어질 것",
+   "url": "https://www.asiae.co.kr/article/2026110207575180935",
+   "source": "아시아경제",
+   "summary": "미국 AI주 급락 여진 속에 오늘 국내 증시도 변동성이 이어질 것으로 전망된다."
   },
   {
    "title": "[단독] 훈련기 공중 충돌했는데…공군은 '쉬쉬'",
