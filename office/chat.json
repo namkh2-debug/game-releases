@@ -1,111 +1,112 @@
 {
- "updatedAt": "2026-11-02T15:03:00+09:00",
+ "updatedAt": "2026-11-02T16:08:00+09:00",
  "topics": [
-  "붕괴 스타레일 4.7 11일 업데이트",
-  "에쓰오일 3분기 영업익 513% 재테크",
-  "KS 1차전 대니엘 vs 최원태",
-  "호두 40g 피로 감소",
-  "픽스피자 수요일 이어가기",
-  "바람에 풀리는 집게핀 옷차림",
-  "경훈씨 퇴근길 목도리 애정",
-  "손글씨 쪽지 vs 스마일 귤 경쟁",
-  "엘리베이터 10초 귀여운 질투",
-  "어깨 주물러 주기 우정"
+  "코스피 2.24% 반등 마감 재테크",
+  "갓 세이브 버밍엄 2차 베타 3일",
+  "왈츠앤잼 12/3 출시",
+  "송은 불가리 전시 11/14까지",
+  "치이카와 박스오피스 1위",
+  "카멜 가디건·내일 아이보리 코트",
+  "회의 후 유자차 애정",
+  "단풍잎 vs 박하사탕 결재판 경쟁",
+  "셔츠 소매 설렘 농담",
+  "월요일 오후 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "붕괴 스타레일 4.7, 11일에 업데이트래",
-   "line2": "언니, 새 캐릭터 뽑기에 월급 지켜요",
+   "line1": "코스피가 오늘 2.24% 올라 마감했대",
+   "line2": "언니 계좌도 오늘은 웃고 있겠네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.newstap.co.kr/news/articleView.html?idxno=337005"
+   "url": "https://www.ytn.co.kr/_ln/0102_202611021543139428"
   },
   {
    "a": "jiwon",
-   "line1": "에쓰오일 3분기 영업익이 513%나 늘었대",
-   "line2": "와, 언니 정유주 눈여겨보는 거예요?",
+   "line1": "갓 세이브 버밍엄 2차 베타, 내일부터래",
+   "line2": "멀티 생겼으면 언니랑 좀비 잡으러 가요",
    "mood1": "surprised",
-   "mood2": "surprised",
-   "pose1": "think",
-   "pose2": "none",
-   "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20261102_0003851021"
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "cheer",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420777"
   },
   {
    "a": "jiwon",
-   "line1": "내일 KS 1차전, 대니엘 vs 최원태래",
-   "line2": "언니 한화 없어도 야구는 못 참죠?",
-   "mood1": "neutral",
+   "line1": "왈츠앤잼, 12월 3일에 정식 출시래",
+   "line2": "강아지 영혼 잼이라니, 벌써 귀여워요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
    "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261102100800007"
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1420777"
   },
   {
    "a": "hyewon",
-   "line1": "하루 호두 40g이면 피로가 준대요",
-   "line2": "그럼 오후 간식은 호두로 바꿔 볼까",
+   "line1": "송은 불가리 전시, 14일까지 무료래요",
+   "line2": "오디오 가이드가 변우석이라며? 가자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs",
+   "url": "https://www.ajunews.com/view/20261029165050558"
+  },
+  {
+   "a": "hyewon",
+   "line1": "치이카와 극장판 아직 박스오피스 1위래요",
+   "line2": "귀여운 건 못 이기지, 주말에 볼까?",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=120781"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 픽스피자 수요일에 같이 가요",
-   "line2": "대파크림치즈는 내 몫이야, 양보 없다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "바람에 집게핀이 자꾸 풀려요, 언니",
-   "line2": "내 머리끈 빌려줄게, 반묶음 지키자",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "cheer"
+   "pose2": "look",
+   "url": "https://www.news1.kr/"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 퇴근길 바람 차실까 봐 걱정돼",
-   "line2": "목도리 하나 몰래 챙겨 드리고 싶어요",
+   "line1": "혜원아, 카멜 가디건 어깨에 두른 거 예쁘다",
+   "line2": "내일은 아이보리 코트로 한 단계 올려요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 오후 회의 끝나고 좀 지쳐 보이셨어",
+   "line2": "제가 유자차 따뜻하게 타서 갖다드릴래요",
    "mood1": "sad",
    "mood2": "smile",
    "pose1": "think",
    "pose2": "heart"
   },
   {
-   "a": "jiwon",
-   "line1": "내일 경훈씨 책상에 손글씨 쪽지 둘 거야",
-   "line2": "전 귤에 스마일 그려서 올려 둘래요",
+   "a": "hyewon",
+   "line1": "내일 경훈씨 결재판에 단풍잎 끼워 둘래요",
+   "line2": "난 결재 끝나면 박하사탕 하나 올릴 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "charm"
+   "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니 아까 경훈씨랑 엘리베이터 탔죠?",
-   "line2": "딱 10초였어, 그 정도는 봐줘",
-   "mood1": "sad",
+   "a": "jiwon",
+   "line1": "경훈씨 셔츠 소매 걷으실 때 그건 반칙이야",
+   "line2": "언니 그거 보다가 숫자 두 번 틀렸잖아요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "sulk",
+   "pose1": "love",
    "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "언니 어깨 뭉쳤죠? 10초만 주물러 줄게요",
-   "line2": "어머 시원해, 너 손맛 장난 아니다",
+   "line1": "언니, 월요일 오후도 같이 버텨 줘서 고마워요",
+   "line2": "반은 넘겼어, 퇴근까지 우리 힘내자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose1": "talkto",
+   "pose2": "highfive"
   }
  ]
 }
