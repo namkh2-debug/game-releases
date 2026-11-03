@@ -1,110 +1,110 @@
 {
- "updatedAt": "2026-11-03T18:18:00+09:00",
+ "updatedAt": "2026-11-03T19:10:00+09:00",
  "topics": [
-  "아키에이지 크로니클 11/4 스팀",
-  "하르마 망국의 에덴 11/17",
-  "ENA 카우몰 빠니보틀·궤도",
-  "KS 원태인 내로남불 농담",
-  "재혼 황후 1화 이어가기",
-  "퇴근길 머플러 한 바퀴",
-  "손편지 vs 원두 경쟁",
-  "엘리베이터 한 층 질투",
-  "경훈씨 목소리 애정",
+  "요아정 반갑데이 11/4~5 반값",
+  "타래 언바운드 지스타 투귀 첫 시연",
+  "왈츠앤잼 12/3 출시",
+  "광화문 빼빼로 하트 어택 하루 팝업",
+  "부산 어묵 캠핑 어묵탕 이어가기",
+  "저녁 블랙 코트·레드 브릭 립",
+  "경훈씨 입맛 기준 애정",
+  "보리차 보온병 vs 응원 포스트잇 경쟁",
+  "로판 손끝 설렘 농담",
   "하루 마무리 하이파이브"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "아키에이지 크로니클 내일 아침 8시 스팀 출시래",
-   "line2": "언니 내일 출근 전에 설치 걸어 두겠네요",
+   "a": "hyewon",
+   "line1": "언니, 요아정이 4~5일 이틀 반값 행사한대요",
+   "line2": "매장마다 하루 100개 한정이래, 오픈런 각이다",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451049"
+   "url": "https://www4.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=03325926645642112"
   },
   {
    "a": "jiwon",
-   "line1": "하르마 망국의 에덴, 17일에 4인 협동 된대",
-   "line2": "언니, 저 끼워 주면 덱 짜는 거 배울게요",
+   "line1": "타래 언바운드, 지스타서 새 클래스 투귀 첫 시연한대",
+   "line2": "언니 부산 가면 투귀부터 잡겠네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "charm",
-   "url": "https://www.gamemeca.com/view.php?gid=1782805"
-  },
-  {
-   "a": "hyewon",
-   "line1": "ENA 새 예능 카우몰, 빠니보틀·궤도가 MC래요",
-   "line2": "조합 신기하다, 12월에 같이 보자",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
    "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261103169700005"
+   "url": "https://zdnet.co.kr/view/?no=20261020094947"
   },
   {
    "a": "jiwon",
-   "line1": "원태인이 '주자 남기지 마' 했다가 내로남불 소리 들었대",
-   "line2": "선수들끼리 티격태격 귀여워요, 1차전 기대돼요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "laugh",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261103164500007"
-  },
-  {
-   "a": "jiwon",
-   "line1": "재혼 황후 1화, 퇴근하자마자 틀 거지?",
-   "line2": "네! 내일 아침에 스포 없이 후기만 할게요",
+   "line1": "왈츠앤잼 12월 3일 출시래, 강아지 잼이 변신한대",
+   "line2": "강아지 게임이면 저도 패드 잡아 볼래요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "cheer"
+   "pose2": "charm",
+   "url": "https://zdnet.co.kr/view/?no=20261020094947"
   },
   {
    "a": "hyewon",
-   "line1": "머플러 한 바퀴 더 감았더니 목이 포근해요",
-   "line2": "아이보리 코트에 회색 머플러, 오늘 완성이다",
+   "line1": "광화문 빼빼로 팝업이 오늘 하루만 했대요",
+   "line2": "벌써 저녁이라 아쉽다, 11일엔 놓치지 말자",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "cheer",
+   "url": "https://popupnow.plentyer.com/p/%EB%B9%BC%EB%B9%BC%EB%A1%9C-%ED%95%98%ED%8A%B8-%EC%96%B4%ED%83%9D/"
+  },
+  {
+   "a": "jiwon",
+   "line1": "주말엔 캠핑 가서 어묵탕 한 솥 끓여 볼까 해",
+   "line2": "언니 지스타 가서 부산 어묵 사 오면 그걸로요",
    "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "jiwon",
+   "line1": "저녁 되니 블랙 코트 벨트 살짝 풀었어",
+   "line2": "언니 레드 브릭 립은 아직도 코트랑 찰떡이에요",
+   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "내일 아침 경훈씨 책상엔 제 손편지 올릴 거예요",
-   "line2": "그럼 난 경훈씨 좋아하는 원두로 새로 내린다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 아까 경훈씨랑 엘리베이터 같이 탔죠?",
-   "line2": "딱 한 층이었어, 그걸로 삐지기 있기 없기?",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "look"
-  },
-  {
-   "a": "jiwon",
-   "line1": "경훈씨 목소리 들으면 하루 피곤이 계산이 안 돼",
-   "line2": "맞아요, 그 한마디가 제 퇴근길 음악이에요",
+   "line1": "저녁 메뉴 고르다가도 경훈씨 입맛부터 떠올라요",
+   "line2": "나도, 어느새 우리 하루 기준이 경훈씨야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 오늘도 같이 버텨 줘서 고마워요",
-   "line2": "내가 더 고맙지, 내일도 우리 한 팀이야",
+   "a": "jiwon",
+   "line1": "내일 아침 경훈씨 책상엔 내가 보리차 보온병 둔다",
+   "line2": "그럼 저는 결재판에 응원 포스트잇 붙일래요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "로판은 손끝만 스쳐도 왜 이렇게 두근대요?",
+   "line2": "그래서 그런 건 밤에 혼자 보는 거야, 후후",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 하루도 무사히 마무리, 정말 수고했어",
+   "line2": "언니도요, 내일 더 반짝이게 만나요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "highfive",
    "pose2": "highfive"
   }
  ]
