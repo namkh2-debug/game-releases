@@ -1,98 +1,89 @@
 {
- "updatedAt": "2026-11-03T11:08:21+09:00",
+ "updatedAt": "2026-11-03T12:01:58+09:00",
  "topics": [
-  "나혼렙 어라이즈 오버드라이브 오늘 출시",
-  "한화오션 잠수함 서희함 진수 재테크",
-  "정읍 내장산 웰니스 페스타 21일 가을여행",
-  "농심 구미라면축제 한정면 캠핑 요리",
-  "전독시 월드 웹툰 어워즈 본상",
-  "밀크 베이지 네일·진주 파츠·아이보리 코트 옷차림",
-  "경훈씨 목소리 애정",
-  "점심 메뉴 추천 경쟁",
-  "썸은 메뉴 고를 때 티 난다 설렘 농담",
-  "오전 수고 서로 응원"
+  "하이트진로 테슬라 소맥 완제품 캠핑",
+  "서울 별빛명소 10곳 야경",
+  "일본 호텔비 9% 상승·정읍 단풍 가을여행",
+  "KS 1차전 kt 좌완 불펜 치킨 내기 이어가기",
+  "점심 블랙 롱코트 vs 아이보리 코트 벗고 하늘색 블라우스 옷차림",
+  "경훈씨 결재 사인 충전 애정",
+  "오후 회의 보리차 vs 목차 경쟁",
+  "야경 핑계 썸 설렘 농담",
+  "이무진 밤무대 9일",
+  "점심 고마움 서로 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "나혼렙 어라이즈 오버드라이브 오늘 나왔대",
-   "line2": "언니 점심시간에 레벨업 하실 거죠?",
+   "line1": "하이트진로가 '테슬라' 소맥을 완제품으로 낸대!",
+   "line2": "언니, 말아 먹던 걸 병째로요? 캠핑 필수템이네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "look"
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261103083900030"
+  },
+  {
+   "a": "hyewon",
+   "line1": "서울시가 한강 다리 밑 야경명소 10곳 골랐대요",
+   "line2": "오, 퇴근길에 하나씩 도장깨기 해볼까?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "think",
+   "url": "https://www.yna.co.kr/view/AKR20261103030600004"
   },
   {
    "a": "jiwon",
-   "line1": "한화오션서 잠수함 서희함이 진수했대",
-   "line2": "2028년 해군 인도래요, 든든하네요",
+   "line1": "단풍 보러 일본 많이 가서 호텔비가 9%나 올랐대",
+   "line2": "그럼 저는 정읍 단풍으로 갈래요, 언니도 가요!",
    "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "cheer",
+   "url": "https://www.yna.co.kr/view/AKR20261103088100009"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘 밤 KS 1차전 kt 불펜 어떨까요?",
+   "line2": "좌완 묘수가 있다던데, 치킨 내기는 유효다!",
+   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
    "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261103047500504"
-  },
-  {
-   "a": "hyewon",
-   "line1": "내장산 웰니스 페스타 21일 개막이래요",
-   "line2": "단풍 보며 하룻밤이라니, 캠핑 각이다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.yna.co.kr/view/AKR20261103054600055"
+   "url": "https://www.yna.co.kr/view/AKR20261103086500007"
   },
   {
    "a": "jiwon",
-   "line1": "농심이 구미라면축제 한정면 낸대",
-   "line2": "언니 캠핑 가서 그거 끓여 줘요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm",
-   "url": "https://www.yna.co.kr/view/AKR20261103039900030"
-  },
-  {
-   "a": "hyewon",
-   "line1": "전독시가 월드 웹툰 어워즈 본상이래요",
-   "line2": "역시 김독자, 정주행 다시 해야겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "clap",
-   "url": "https://www.yna.co.kr/view/AKR20261103025400005"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 제 밀크 베이지 네일 봤어요?",
-   "line2": "진주 파츠가 아이보리 코트랑 찰떡이야",
+   "line1": "점심엔 따뜻해서 블랙 코트 벨트 풀고 걸쳤어",
+   "line2": "저도 아이보리 코트 벗으니 하늘색 블라우스만!",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
+   "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 목소리 들리면 오전이 짧아져",
-   "line2": "저도요, 문 열릴 때마다 마음이 콩닥",
+   "a": "hyewon",
+   "line1": "경훈씨 결재 사인 한 번에 오후 기운이 충전돼요",
+   "line2": "나는 경훈씨 '수고했어' 한마디면 야근도 OK",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "hyewon",
-   "line1": "점심 메뉴 추천은 제가 먼저 할래요",
-   "line2": "흥, 경훈씨 입맛은 내가 더 잘 알거든",
+   "a": "jiwon",
+   "line1": "오후 회의엔 내가 먼저 따뜻한 보리차 드릴 거야",
+   "line2": "흥, 저는 회의자료에 예쁜 목차 달아둘 거예요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 썸은 메뉴 고를 때 티 난대요",
-   "line2": "그럼 경훈씨가 고르면 무조건 따라가야지",
+   "line1": "썸은 야경 보자는 말에 핑계 하나 섞는 거래요",
+   "line2": "'별 보러 가자'가 제일 수상한 핑계지, 후후",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
@@ -100,11 +91,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "혜원아 오전 수고했어, 점심 맛있게 먹자",
-   "line2": "언니도요, 오후 커피는 제가 쏠게요",
+   "line1": "이무진이 9일에 새 자작곡 '밤무대' 낸대",
+   "line2": "퇴근길 플레이리스트에 바로 넣어야겠어요!",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261103082500005"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 오늘 점심 같이 먹어줘서 고마워요",
+   "line2": "오후도 우리 둘이 힘내서 경훈씨 돕자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "wave",
    "pose2": "highfive"
   }
  ]
