@@ -1,112 +1,99 @@
 {
- "updatedAt": "2026-11-03T12:01:58+09:00",
+ "updatedAt": "2026-11-03T13:09:26+09:00",
  "topics": [
-  "하이트진로 테슬라 소맥 완제품 캠핑",
-  "서울 별빛명소 10곳 야경",
-  "일본 호텔비 9% 상승·정읍 단풍 가을여행",
-  "KS 1차전 kt 좌완 불펜 치킨 내기 이어가기",
-  "점심 블랙 롱코트 vs 아이보리 코트 벗고 하늘색 블라우스 옷차림",
-  "경훈씨 결재 사인 충전 애정",
-  "오후 회의 보리차 vs 목차 경쟁",
-  "야경 핑계 썸 설렘 농담",
-  "이무진 밤무대 9일",
-  "점심 고마움 서로 응원"
+  "토핑 요거트 당류 디저트",
+  "호요버스 지스타 신작 시연",
+  "스팀 신작 AI 사용",
+  "NASA 망원경 추락 소원",
+  "코트 대결 판정 이어가기",
+  "오후 코트 사진 경쟁",
+  "경훈씨 조용히 챙기기 애정",
+  "점심 후 스트레칭 응원",
+  "오후 보고서 마감 응원"
  ],
  "exchanges": [
   {
-   "a": "jiwon",
-   "line1": "하이트진로가 '테슬라' 소맥을 완제품으로 낸대!",
-   "line2": "언니, 말아 먹던 걸 병째로요? 캠핑 필수템이네요",
+   "a": "hyewon",
+   "line1": "언니, 토핑 요거트 당류가 플레인의 2~3배래요",
+   "line2": "헉, 그래놀라 듬뿍 올린 내 간식이 범인이었네",
    "mood1": "surprised",
-   "mood2": "smile",
+   "mood2": "sad",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261103083900030"
+   "pose2": "sulk",
+   "url": "https://www.yna.co.kr/view/AKR20261102132900030"
   },
   {
-   "a": "hyewon",
-   "line1": "서울시가 한강 다리 밑 야경명소 10곳 골랐대요",
-   "line2": "오, 퇴근길에 하나씩 도장깨기 해볼까?",
+   "a": "jiwon",
+   "line1": "호요버스가 지스타에서 신작 2종 첫 시연한대",
+   "line2": "언니 부산 가면 시연 후기 꼭 들려줘요!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.yna.co.kr/view/AKR20261103030600004"
+   "pose1": "thumbs",
+   "pose2": "cheer"
   },
   {
    "a": "jiwon",
-   "line1": "단풍 보러 일본 많이 가서 호텔비가 9%나 올랐대",
-   "line2": "그럼 저는 정읍 단풍으로 갈래요, 언니도 가요!",
+   "line1": "스팀 신작 절반이 AI를 썼다는 기사 봤어?",
+   "line2": "벌써요? 그래도 재밌으면 장땡이죠, 헤헤",
    "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "cheer",
-   "url": "https://www.yna.co.kr/view/AKR20261103088100009"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오늘 밤 KS 1차전 kt 불펜 어떨까요?",
-   "line2": "좌완 묘수가 있다던데, 치킨 내기는 유효다!",
-   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261103086500007"
-  },
-  {
-   "a": "jiwon",
-   "line1": "점심엔 따뜻해서 블랙 코트 벨트 풀고 걸쳤어",
-   "line2": "저도 아이보리 코트 벗으니 하늘색 블라우스만!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 결재 사인 한 번에 오후 기운이 충전돼요",
-   "line2": "나는 경훈씨 '수고했어' 한마디면 야근도 OK",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오후 회의엔 내가 먼저 따뜻한 보리차 드릴 거야",
-   "line2": "흥, 저는 회의자료에 예쁜 목차 달아둘 거예요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "썸은 야경 보자는 말에 핑계 하나 섞는 거래요",
-   "line2": "'별 보러 가자'가 제일 수상한 핑계지, 후후",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
    "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "이무진이 9일에 새 자작곡 '밤무대' 낸대",
-   "line2": "퇴근길 플레이리스트에 바로 넣어야겠어요!",
+   "a": "hyewon",
+   "line1": "NASA 우주망원경이 곧 지구로 떨어진대요",
+   "line2": "피해 위험은 극히 낮대, 소원이나 빌어볼까?",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261103082500005"
+   "pose2": "charm",
+   "url": "https://www.yna.co.kr/view/AKR20261103093100075"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오전 코트 대결 판정, 경훈씨가 아직 안 하셨지?",
+   "line2": "블랙 벨트 vs 아이보리, 오후엔 꼭 받아낼래요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "look"
   },
   {
    "a": "hyewon",
-   "line1": "언니 오늘 점심 같이 먹어줘서 고마워요",
-   "line2": "오후도 우리 둘이 힘내서 경훈씨 돕자",
+   "line1": "언니 오후엔 코트 다시 입고 사진 찍을 거죠?",
+   "line2": "당연하지, 벨트 리본까지 각 잡고 찍을 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "squabble",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 바쁘신 날엔 조용히 물 한 잔이라도 놔드리자",
+   "line2": "좋아요, 말 없이 챙기는 게 진짜 마음이죠",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "점심 먹고 나니 졸린데 언니 스트레칭 같이 해요",
+   "line2": "목 한 바퀴 돌리고, 오후도 화이팅 하자!",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
    "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 오늘 오후 보고서 마감 같이 끝내자",
+   "line2": "언니랑 같이면 칼퇴도 꿈 아니에요!",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "thumbs"
   }
  ]
 }
