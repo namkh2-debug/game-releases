@@ -1,9 +1,9 @@
 {
  "date": "2026-11-03",
- "updatedAt": "2026-11-03T09:12:34+09:00",
+ "updatedAt": "2026-11-03T10:07:15+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 6.4,
+  "temp": 7.8,
   "low": 2.8,
   "high": 15.4,
   "condition": "맑음, 낮부터 구름 많음",
@@ -14,9 +14,9 @@
  },
  "breaking": [
   {
-   "title": "'역삼 연쇄방화' 피의자 신상공개…77세 이명수",
-   "url": "https://news.kbs.co.kr/news/view.do?ncd=8702278",
-   "source": "KBS 뉴스"
+   "title": "與, 가상자산 과세 추가유예 가닥…\"당 지도부에 의견 전달\"",
+   "url": "https://www.newsis.com/view/NISX20261103_0003852123",
+   "source": "뉴시스"
   },
   {
    "title": "코스피·코스닥, 2%대 하락 출발",
@@ -24,19 +24,19 @@
    "source": "연합뉴스"
   },
   {
-   "title": "이화영 '쌍방울 대북송금' 재심 청구…외국환거래법 한정",
-   "url": "https://www.yna.co.kr/view/AKR20261103034100061",
-   "source": "연합뉴스"
+   "title": "삼성전자 3.93%, SK하이닉스 4.35% 하락 출발",
+   "url": "https://www.newsis.com/view/NISX20261103_0003852104",
+   "source": "뉴시스"
+  },
+  {
+   "title": "'역삼동 연쇄방화' 피의자 77세 이명수…경찰 신상공개",
+   "url": "https://www.newsis.com/view/NISX20261103_0003851971",
+   "source": "뉴시스"
   },
   {
    "title": "靑, 대통령 순방단 개인정보 유출 긴급회의…철저 조사",
    "url": "https://www.newsis.com/view/NISX20261103_0003852055",
    "source": "뉴시스"
-  },
-  {
-   "title": "10월 소비자물가 2.8% 상승…외식 물가 9개월만 최고 상승폭",
-   "url": "https://www.seoul.co.kr/news/economy/2026/11/03/20261103500015",
-   "source": "서울신문"
   }
  ],
  "news": [
@@ -89,10 +89,10 @@
    "summary": "올해 누적 수출이 처음 9000억달러를 넘어 연 1조달러 달성이 유력하다."
   },
   {
-   "title": "코스피, 128.34포인트(2.24%) 오른 5859.08 마감",
-   "url": "https://www.newsis.com/view/NISX20261102_0003851283",
-   "source": "뉴시스",
-   "summary": "기관 매수세에 코스피가 2% 넘게 올라 5850선을 회복했다."
+   "title": "10월 소비자물가 2.8% 상승…외식 물가 9개월만 최고 상승폭",
+   "url": "https://www.seoul.co.kr/news/economy/2026/11/03/20261103500015",
+   "source": "서울신문",
+   "summary": "10월 소비자물가가 1년 전보다 2.8% 올랐고 외식 물가 오름폭이 9개월 만에 가장 컸어요."
   },
   {
    "title": "성장률 오르는데 체감은 냉랭…뉴스심리지수 7개월만 최저",
