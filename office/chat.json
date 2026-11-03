@@ -1,117 +1,105 @@
 {
- "updatedAt": "2026-11-03T16:10:00+09:00",
+ "updatedAt": "2026-11-03T17:12:00+09:00",
  "topics": [
-  "코스피 3.6% 급락 재테크",
-  "노시환 포스팅 공시 12/3",
-  "구글 젤다 1998 이스터에그",
-  "티파니 잠실 홀리데이 팝업",
-  "테슬라 사이버캡 스타필드 안성 12일",
-  "전소미 필라테스 루틴",
-  "오후 레드 립·아이보리 코트 퇴근룩",
-  "립 대결 퇴근 결재 판정 이어가기",
-  "수고했다 한마디 귀여운 질투",
-  "경훈씨 계신 날 시계 애정",
-  "오후 마무리 하이파이브 우정"
+  "재혼 황후 조기 공개 후기 예고",
+  "지스타 붕괴 넥서스 아니마",
+  "뮤 테오스 공개",
+  "델굴 모찌빵 마지막 날",
+  "퇴근길 회색 머플러",
+  "경훈씨 방 불빛 애정",
+  "내일 결재 1등 경쟁",
+  "뜨거운 안녕 설렘 농담",
+  "핑크오븐 재승부 이어가기",
+  "퇴근 인사 하이파이브"
  ],
  "exchanges": [
   {
+   "a": "hyewon",
+   "line1": "재혼 황후가 하루 앞당겨 오늘 공개됐대요!",
+   "line2": "너 오늘 밤 1화 각이구나, 후기 꼭 해줘",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs"
+  },
+  {
    "a": "jiwon",
-   "line1": "코스피가 오늘 3.6%나 빠져서 5648에 마감했대",
-   "line2": "언니 오늘은 앱 열지 말고 따뜻한 차 마셔요",
-   "mood1": "sad",
+   "line1": "지스타에서 붕괴 넥서스 아니마 첫 시연한대",
+   "line2": "언니 부산 가면 어묵 꼭 사다 줘요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261103137100008"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 노시환 포스팅 공식 공시됐대요!",
-   "line2": "12월 3일까지 협상이래, 한화 팬들 두근두근이겠다",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "cheer",
-   "url": "https://www.newspim.com/news/view/20261103000997"
+   "pose2": "charm",
+   "url": "https://www.dailygame.co.kr/view.php?ud=20261103100848579043da15d9d2_26"
   },
   {
    "a": "jiwon",
-   "line1": "구글에 젤다 치면 1998년 검색 화면이 나온대",
-   "line2": "언니 오늘 그거 하느라 일 안 한 거 다 알아요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "laugh",
-   "pose2": "squabble",
-   "url": "https://zdnet.co.kr/view/?no=20261103101425"
+   "line1": "웹젠이 뮤 테오스 공개했대, 내년 상반기래",
+   "line2": "언니 뮤 하면 밤새는 거 다 알아요",
+   "mood1": "surprised",
+   "mood2": "laugh",
+   "pose1": "none",
+   "pose2": "laugh",
+   "url": "https://www.etnews.com/20261103000216"
   },
   {
    "a": "hyewon",
-   "line1": "티파니가 잠실에 홀리데이 팝업 연대요",
-   "line2": "구경만 하자, 우리 지갑 오늘 코스피급이야",
+   "line1": "델굴 모찌빵 팝업이 내일 마지막 날이래요",
+   "line2": "모찌빵 담당 잊지 마, 나는 두 개야",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "퇴근길엔 회색 머플러 한 바퀴 둘렀어요",
+   "line2": "아이보리 코트랑 찰떡이다, 탐나는데?",
    "mood1": "smile",
-   "mood2": "neutral",
+   "mood2": "smile",
    "pose1": "charm",
-   "pose2": "coffee",
-   "url": "https://www.kstarfashion.com/ko-kr/articles/256367"
+   "pose2": "thumbs"
   },
   {
    "a": "jiwon",
-   "line1": "테슬라 사이버캡이 12일에 스타필드 안성 온대",
-   "line2": "운전석 없는 차라니, 언니 캠핑 가자고 하겠네",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
+   "line1": "경훈씨 방에 아직 불이 켜져 있더라",
+   "line2": "먼저 퇴근하기 괜히 미안해지네요",
+   "mood1": "sad",
+   "mood2": "sad",
+   "pose1": "look",
    "pose2": "look"
   },
   {
    "a": "hyewon",
-   "line1": "전소미도 10년째 필라테스로 관리한대요",
-   "line2": "너 저녁 수업 가면 나도 따라가 볼까",
+   "line1": "내일 결재는 제가 1등으로 들어갈 거예요",
+   "line2": "그럼 난 라떼에 하트 그려서 먼저 간다",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "think"
+   "pose1": "squabble",
+   "pose2": "squabble"
   },
   {
    "a": "jiwon",
-   "line1": "오후 되니 블랙 코트 벗고 레드 립만 남았어",
-   "line2": "전 아이보리 코트 다시 입고 퇴근 준비 완료요",
+   "line1": "뜨거운 안녕, 제목부터 좀 설레지 않아?",
+   "line2": "빼빼로데이 밤 첫방이라 더 수상해요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "wave"
-  },
-  {
-   "a": "hyewon",
-   "line1": "립 대결 판정은 퇴근 전 마지막 결재 때래요",
-   "line2": "그럼 난 결재판에 핸드크림 향까지 입혀둔다",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "아까 경훈씨가 너한테만 수고했다 하셨지?",
-   "line2": "언니 들으라고 크게 하신 거예요, 헤헷",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
    "pose2": "laugh"
   },
   {
-   "a": "hyewon",
-   "line1": "경훈씨 계신 날은 시계가 빨리 가요",
-   "line2": "맞아, 오후 네 시도 금방 오는 기분이야",
-   "mood1": "smile",
+   "a": "jiwon",
+   "line1": "핑크오븐 승부 아직 유효한 거 맞지?",
+   "line2": "당연하죠, 이번 주 안에 제가 먼저예요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "think",
+   "pose2": "cheer"
   },
   {
-   "a": "jiwon",
-   "line1": "남은 오후도 우리 한 팀으로 끝내자",
-   "line2": "네 언니, 마무리 하이파이브!",
+   "a": "hyewon",
+   "line1": "언니 오늘도 정말 고생 많았어요",
+   "line2": "너도, 내일 아침에 또 웃으며 보자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "highfive",
