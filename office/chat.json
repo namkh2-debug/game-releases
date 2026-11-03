@@ -1,97 +1,108 @@
 {
- "updatedAt": "2026-11-03T14:08:33+09:00",
+ "updatedAt": "2026-11-03T15:14:00+09:00",
  "topics": [
-  "아키에이지 크로니클 얼리액세스",
-  "젤다 시간의 오카리나 스위치2",
-  "고질라 데이 리마스터",
-  "블랙 도브 시즌2",
-  "블랙 롱코트·하늘색 블라우스 칭찬",
-  "경훈씨 결재 사인 애정",
-  "향수 vs 원두 커피 경쟁",
-  "점심 메뉴 질투 이어가기",
-  "꿀알바 손잡기 썸 농담",
-  "화요일 오후 응원"
+  "제로 퍼레이드 디렉터스 컷 콘솔 출시",
+  "IPO 코너스톤 투자자 제도 재테크",
+  "구미라면축제 80개국 라면 챌린지 이어가기",
+  "데블스 플랜 시즌3 11/10",
+  "산독기 백패킹 예능 11/20",
+  "진주 커프스·레드 립 오후 옷차림",
+  "경훈씨 기지개 애정",
+  "결재 판정 립 대결 경쟁",
+  "배나라·한재아 결혼 설렘",
+  "돌싱N모솔2 직진 썸 농담",
+  "오후 귤 간식 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "아키에이지 크로니클, 내일 아침 8시 스팀 얼리액세스래",
-   "line2": "언니 출근 전에 접속하려고 알람 맞췄죠?",
-   "mood1": "smile",
+   "line1": "디스코 엘리시움 팀 신작 제로 퍼레이드 오늘 콘솔행!",
+   "line2": "언니 또 대사 4만 단어 정독하시겠네요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://game.mk.co.kr/news/it/12194606"
+   "url": "https://gamingroute.com/games-coming-out-this-week/"
   },
   {
    "a": "jiwon",
-   "line1": "시간의 오카리나가 5일에 스위치2로 나온대",
-   "line2": "그럼 언니 목요일 밤은 하이랄 출장이네요",
-   "mood1": "surprised",
+   "line1": "공모주 장기보유 기관에 미리 배정하는 제도 생긴대",
+   "line2": "상장 첫날 폭락 좀 줄면 언니 청약 또 하겠네요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://buffwire.com/news/game-releases-nov-2-2026/"
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261103122100002"
   },
   {
-   "a": "hyewon",
-   "line1": "언니, 오늘 11월 3일이 고질라 데이래요",
-   "line2": "그래서 고질라 리마스터가 딱 오늘 나오는구나",
+   "a": "jiwon",
+   "line1": "구미라면축제 라면 챌린지에 80개국이 참가했대",
+   "line2": "언니 아까 말한 한정면, 이제 진짜 가야겠다",
    "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://buffwire.com/news/game-releases-nov-2-2026/"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 블랙 도브 시즌2 곧 나온대요",
-   "line2": "시즌1 기억 되살리게 주말에 복습해야겠다",
-   "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "coffee"
+   "pose2": "coffee",
+   "url": "https://www.yna.co.kr/view/AKR20261103116400053"
   },
   {
    "a": "hyewon",
-   "line1": "언니 블랙 롱코트에 벨트 묶은 거 진짜 멋져요",
-   "line2": "혜원이 하늘색 블라우스도 화사해서 예뻐",
+   "line1": "언니, 데블스 플랜 시즌3가 10일에 나온대요",
+   "line2": "두뇌 서바이벌은 내가 너보다 오래 버틴다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "홍진경·이선빈 백패킹 예능 '산독기' 20일이래요",
+   "line2": "백패킹이면 내 분야지, 같이 보면서 장비 품평하자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "코트 벗었더니 진주 커프스가 더 반짝여요, 봤어요?",
+   "line2": "응, 네일이랑 세트라 손끝까지 화사하다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "thumbs"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 결재 사인 보면 괜히 마음이 든든해",
-   "line2": "저는 경훈씨 발소리만 들려도 오후가 금방 가요",
+   "a": "hyewon",
+   "line1": "경훈씨 회의 끝나고 기지개 켜실 때 너무 귀여웠어요",
+   "line2": "나도 봤어, 그 순간 오후 피로가 다 녹더라",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "hyewon",
-   "line1": "언니가 레드 립이면, 저는 오후에 향수로 승부해요",
-   "line2": "흥, 난 경훈씨 취향 원두로 커피 내릴 거야",
+   "a": "jiwon",
+   "line1": "오늘 결재 판정 전에 내가 먼저 레드 립 고쳐 바를래",
+   "line2": "그럼 저는 로즈 틴트에 커프스 반짝, 2연타예요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 점심 메뉴 먼저 골라서 칭찬받았죠?",
-   "line2": "내일은 네 차례니까 삐지지 말기, 약속!",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "highfive"
+   "pose1": "faceoff",
+   "pose2": "faceoff"
   },
   {
    "a": "jiwon",
-   "line1": "꿀알바 무서운 장면에 경훈씨 손 잡는 상상했지?",
-   "line2": "언니도 참… 그건 우리끼리 비밀이에요",
+   "line1": "배나라·한재아 커플이 14일에 결혼한대",
+   "line2": "자필 편지 봤어요? 평생 같이 걷고 싶대요, 설레",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "heart",
+   "url": "https://www.yna.co.kr/view/AKR20261103123900005"
+  },
+  {
+   "a": "hyewon",
+   "line1": "돌싱N모솔 시즌2, 첫 데이트에 누가 직진할까요?",
+   "line2": "나는 눈빛만으로 직진하는 쪽에 한 표, 후후",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "look",
@@ -99,12 +110,12 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 화요일 오후도 반 넘게 지나갔어요",
-   "line2": "잘하고 있어, 조금만 더 힘내자!",
-   "mood1": "smile",
+   "line1": "언니, 오후 세 시 지났으니 간식 타임 어때요?",
+   "line2": "좋지, 귤 하나씩 까서 경훈씨 것도 챙기자",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "clap"
+   "pose1": "wave",
+   "pose2": "highfive"
   }
  ]
 }
