@@ -1,99 +1,110 @@
 {
- "updatedAt": "2026-11-03T13:09:26+09:00",
+ "updatedAt": "2026-11-03T14:08:33+09:00",
  "topics": [
-  "토핑 요거트 당류 디저트",
-  "호요버스 지스타 신작 시연",
-  "스팀 신작 AI 사용",
-  "NASA 망원경 추락 소원",
-  "코트 대결 판정 이어가기",
-  "오후 코트 사진 경쟁",
-  "경훈씨 조용히 챙기기 애정",
-  "점심 후 스트레칭 응원",
-  "오후 보고서 마감 응원"
+  "아키에이지 크로니클 얼리액세스",
+  "젤다 시간의 오카리나 스위치2",
+  "고질라 데이 리마스터",
+  "블랙 도브 시즌2",
+  "블랙 롱코트·하늘색 블라우스 칭찬",
+  "경훈씨 결재 사인 애정",
+  "향수 vs 원두 커피 경쟁",
+  "점심 메뉴 질투 이어가기",
+  "꿀알바 손잡기 썸 농담",
+  "화요일 오후 응원"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "언니, 토핑 요거트 당류가 플레인의 2~3배래요",
-   "line2": "헉, 그래놀라 듬뿍 올린 내 간식이 범인이었네",
-   "mood1": "surprised",
-   "mood2": "sad",
-   "pose1": "talkto",
-   "pose2": "sulk",
-   "url": "https://www.yna.co.kr/view/AKR20261102132900030"
-  },
-  {
    "a": "jiwon",
-   "line1": "호요버스가 지스타에서 신작 2종 첫 시연한대",
-   "line2": "언니 부산 가면 시연 후기 꼭 들려줘요!",
+   "line1": "아키에이지 크로니클, 내일 아침 8시 스팀 얼리액세스래",
+   "line2": "언니 출근 전에 접속하려고 알람 맞췄죠?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "cheer"
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://game.mk.co.kr/news/it/12194606"
   },
   {
    "a": "jiwon",
-   "line1": "스팀 신작 절반이 AI를 썼다는 기사 봤어?",
-   "line2": "벌써요? 그래도 재밌으면 장땡이죠, 헤헤",
+   "line1": "시간의 오카리나가 5일에 스위치2로 나온대",
+   "line2": "그럼 언니 목요일 밤은 하이랄 출장이네요",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh"
+   "pose1": "thumbs",
+   "pose2": "laugh",
+   "url": "https://buffwire.com/news/game-releases-nov-2-2026/"
   },
   {
    "a": "hyewon",
-   "line1": "NASA 우주망원경이 곧 지구로 떨어진대요",
-   "line2": "피해 위험은 극히 낮대, 소원이나 빌어볼까?",
+   "line1": "언니, 오늘 11월 3일이 고질라 데이래요",
+   "line2": "그래서 고질라 리마스터가 딱 오늘 나오는구나",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "charm",
-   "url": "https://www.yna.co.kr/view/AKR20261103093100075"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오전 코트 대결 판정, 경훈씨가 아직 안 하셨지?",
-   "line2": "블랙 벨트 vs 아이보리, 오후엔 꼭 받아낼래요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look"
+   "pose2": "think",
+   "url": "https://buffwire.com/news/game-releases-nov-2-2026/"
   },
   {
    "a": "hyewon",
-   "line1": "언니 오후엔 코트 다시 입고 사진 찍을 거죠?",
-   "line2": "당연하지, 벨트 리본까지 각 잡고 찍을 거야",
+   "line1": "언니, 블랙 도브 시즌2 곧 나온대요",
+   "line2": "시즌1 기억 되살리게 주말에 복습해야겠다",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 블랙 롱코트에 벨트 묶은 거 진짜 멋져요",
+   "line2": "혜원이 하늘색 블라우스도 화사해서 예뻐",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 결재 사인 보면 괜히 마음이 든든해",
+   "line2": "저는 경훈씨 발소리만 들려도 오후가 금방 가요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니가 레드 립이면, 저는 오후에 향수로 승부해요",
+   "line2": "흥, 난 경훈씨 취향 원두로 커피 내릴 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "squabble",
    "pose2": "charm"
   },
   {
-   "a": "jiwon",
-   "line1": "경훈씨 바쁘신 날엔 조용히 물 한 잔이라도 놔드리자",
-   "line2": "좋아요, 말 없이 챙기는 게 진짜 마음이죠",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "heart"
-  },
-  {
    "a": "hyewon",
-   "line1": "점심 먹고 나니 졸린데 언니 스트레칭 같이 해요",
-   "line2": "목 한 바퀴 돌리고, 오후도 화이팅 하자!",
-   "mood1": "smile",
+   "line1": "언니, 점심 메뉴 먼저 골라서 칭찬받았죠?",
+   "line2": "내일은 네 차례니까 삐지지 말기, 약속!",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "sulk",
    "pose2": "highfive"
   },
   {
    "a": "jiwon",
-   "line1": "혜원아, 오늘 오후 보고서 마감 같이 끝내자",
-   "line2": "언니랑 같이면 칼퇴도 꿈 아니에요!",
-   "mood1": "neutral",
+   "line1": "꿀알바 무서운 장면에 경훈씨 손 잡는 상상했지?",
+   "line2": "언니도 참… 그건 우리끼리 비밀이에요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 화요일 오후도 반 넘게 지나갔어요",
+   "line2": "잘하고 있어, 조금만 더 힘내자!",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "thumbs"
+   "pose2": "clap"
   }
  ]
 }
