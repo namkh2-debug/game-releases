@@ -1,80 +1,108 @@
 {
- "updatedAt": "2026-11-03T15:14:00+09:00",
+ "updatedAt": "2026-11-03T16:10:00+09:00",
  "topics": [
-  "제로 퍼레이드 디렉터스 컷 콘솔 출시",
-  "IPO 코너스톤 투자자 제도 재테크",
-  "구미라면축제 80개국 라면 챌린지 이어가기",
-  "데블스 플랜 시즌3 11/10",
-  "산독기 백패킹 예능 11/20",
-  "진주 커프스·레드 립 오후 옷차림",
-  "경훈씨 기지개 애정",
-  "결재 판정 립 대결 경쟁",
-  "배나라·한재아 결혼 설렘",
-  "돌싱N모솔2 직진 썸 농담",
-  "오후 귤 간식 응원"
+  "코스피 3.6% 급락 재테크",
+  "노시환 포스팅 공시 12/3",
+  "구글 젤다 1998 이스터에그",
+  "티파니 잠실 홀리데이 팝업",
+  "테슬라 사이버캡 스타필드 안성 12일",
+  "전소미 필라테스 루틴",
+  "오후 레드 립·아이보리 코트 퇴근룩",
+  "립 대결 퇴근 결재 판정 이어가기",
+  "수고했다 한마디 귀여운 질투",
+  "경훈씨 계신 날 시계 애정",
+  "오후 마무리 하이파이브 우정"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "디스코 엘리시움 팀 신작 제로 퍼레이드 오늘 콘솔행!",
-   "line2": "언니 또 대사 4만 단어 정독하시겠네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://gamingroute.com/games-coming-out-this-week/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "공모주 장기보유 기관에 미리 배정하는 제도 생긴대",
-   "line2": "상장 첫날 폭락 좀 줄면 언니 청약 또 하겠네요",
-   "mood1": "neutral",
+   "line1": "코스피가 오늘 3.6%나 빠져서 5648에 마감했대",
+   "line2": "언니 오늘은 앱 열지 말고 따뜻한 차 마셔요",
+   "mood1": "sad",
    "mood2": "smile",
    "pose1": "think",
    "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261103122100002"
+   "url": "https://www.yna.co.kr/view/AKR20261103137100008"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 노시환 포스팅 공식 공시됐대요!",
+   "line2": "12월 3일까지 협상이래, 한화 팬들 두근두근이겠다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "cheer",
+   "url": "https://www.newspim.com/news/view/20261103000997"
   },
   {
    "a": "jiwon",
-   "line1": "구미라면축제 라면 챌린지에 80개국이 참가했대",
-   "line2": "언니 아까 말한 한정면, 이제 진짜 가야겠다",
+   "line1": "구글에 젤다 치면 1998년 검색 화면이 나온대",
+   "line2": "언니 오늘 그거 하느라 일 안 한 거 다 알아요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "laugh",
+   "pose2": "squabble",
+   "url": "https://zdnet.co.kr/view/?no=20261103101425"
+  },
+  {
+   "a": "hyewon",
+   "line1": "티파니가 잠실에 홀리데이 팝업 연대요",
+   "line2": "구경만 하자, 우리 지갑 오늘 코스피급이야",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "charm",
+   "pose2": "coffee",
+   "url": "https://www.kstarfashion.com/ko-kr/articles/256367"
+  },
+  {
+   "a": "jiwon",
+   "line1": "테슬라 사이버캡이 12일에 스타필드 안성 온대",
+   "line2": "운전석 없는 차라니, 언니 캠핑 가자고 하겠네",
    "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261103116400053"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 데블스 플랜 시즌3가 10일에 나온대요",
-   "line2": "두뇌 서바이벌은 내가 너보다 오래 버틴다",
-   "mood1": "smile",
-   "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "charm"
+   "pose2": "look"
   },
   {
    "a": "hyewon",
-   "line1": "홍진경·이선빈 백패킹 예능 '산독기' 20일이래요",
-   "line2": "백패킹이면 내 분야지, 같이 보면서 장비 품평하자",
+   "line1": "전소미도 10년째 필라테스로 관리한대요",
+   "line2": "너 저녁 수업 가면 나도 따라가 볼까",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "thumbs"
+   "pose1": "thumbs",
+   "pose2": "think"
   },
   {
-   "a": "hyewon",
-   "line1": "코트 벗었더니 진주 커프스가 더 반짝여요, 봤어요?",
-   "line2": "응, 네일이랑 세트라 손끝까지 화사하다",
+   "a": "jiwon",
+   "line1": "오후 되니 블랙 코트 벗고 레드 립만 남았어",
+   "line2": "전 아이보리 코트 다시 입고 퇴근 준비 완료요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
+   "pose2": "wave"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 회의 끝나고 기지개 켜실 때 너무 귀여웠어요",
-   "line2": "나도 봤어, 그 순간 오후 피로가 다 녹더라",
+   "line1": "립 대결 판정은 퇴근 전 마지막 결재 때래요",
+   "line2": "그럼 난 결재판에 핸드크림 향까지 입혀둔다",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "charm"
+  },
+  {
+   "a": "jiwon",
+   "line1": "아까 경훈씨가 너한테만 수고했다 하셨지?",
+   "line2": "언니 들으라고 크게 하신 거예요, 헤헷",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 계신 날은 시계가 빨리 가요",
+   "line2": "맞아, 오후 네 시도 금방 오는 기분이야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -82,39 +110,11 @@
   },
   {
    "a": "jiwon",
-   "line1": "오늘 결재 판정 전에 내가 먼저 레드 립 고쳐 바를래",
-   "line2": "그럼 저는 로즈 틴트에 커프스 반짝, 2연타예요",
+   "line1": "남은 오후도 우리 한 팀으로 끝내자",
+   "line2": "네 언니, 마무리 하이파이브!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "faceoff",
-   "pose2": "faceoff"
-  },
-  {
-   "a": "jiwon",
-   "line1": "배나라·한재아 커플이 14일에 결혼한대",
-   "line2": "자필 편지 봤어요? 평생 같이 걷고 싶대요, 설레",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "heart",
-   "url": "https://www.yna.co.kr/view/AKR20261103123900005"
-  },
-  {
-   "a": "hyewon",
-   "line1": "돌싱N모솔 시즌2, 첫 데이트에 누가 직진할까요?",
-   "line2": "나는 눈빛만으로 직진하는 쪽에 한 표, 후후",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니, 오후 세 시 지났으니 간식 타임 어때요?",
-   "line2": "좋지, 귤 하나씩 까서 경훈씨 것도 챙기자",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "wave",
+   "pose1": "highfive",
    "pose2": "highfive"
   }
  ]
