@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-11-02T09:12:15+09:00",
- "from": "2026-11-02",
+ "updatedAt": "2026-11-03T09:03:54+09:00",
+ "from": "2026-11-03",
  "to": "2027-02-28",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,21 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-11-02",
-   "title": "그래브하운즈",
-   "en": "Gravehounds",
-   "short": "그래브하운즈",
-   "platforms": [
-    "etc"
-   ],
-   "genre": "액션",
-   "price": "",
-   "korean": "미확인",
-   "note": "Xbox 게임 프리뷰",
-   "url": "",
-   "major": false
-  },
   {
    "date": "2026-11-03",
    "title": "고질라 멜리 리마스터드",
@@ -1649,7 +1634,7 @@
    "price": "",
    "korean": "미확인",
    "note": "바닐라웨어 · 스팀은 일본 2/5",
-   "url": "",
+   "url": "https://marvelousgames.com/news/muramasa-revenant-blades-cuts-a-path-towards-a-4-feb-2027-launch",
    "major": true
   },
   {
@@ -1733,7 +1718,7 @@
    "price": "",
    "korean": "미확인",
    "note": "1편 리메이크",
-   "url": "",
+   "url": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis",
    "major": true
   },
   {
