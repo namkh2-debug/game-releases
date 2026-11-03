@@ -1,109 +1,110 @@
 {
-  "updatedAt": "2026-11-03T23:12:00+09:00",
-  "topics": [
-    "KS 1차전 KT 8-7 진땀승",
-    "젤다 시간의 오카리나 스위치2 5일 출시",
-    "델굴 모찌빵 팝업 마지막 날 이어가기",
-    "뜨거운 안녕 11일 첫방",
-    "퇴근 후 블랙·아이보리 코트 걸기",
-    "핑크오븐 재승부 경쟁",
-    "야구 결과 먼저 알려드리기 질투",
-    "하루 끝 경훈씨 애정",
-    "밤 11시 설렘 농담",
-    "서로 든든함 응원"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "KT가 8점 앞서다 8-7로 겨우 이겼대",
-      "line2": "보는 사람 심장이 더 쫄깃했겠어요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "talkto",
-      "url": "https://www.newsis.com/view/NISX20261103_0003853539"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오카리나 리메이크, 5일 스위치2로 나와",
-      "line2": "언니 목요일 밤은 하이랄에 있겠네요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "laugh",
-      "url": "https://gamingroute.com/games-coming-out-this-week/"
-    },
-    {
-      "a": "hyewon",
-      "line1": "델굴 모찌빵 팝업, 내일이 진짜 마지막이래요",
-      "line2": "퇴근길에 꼭 들러, 내 것도 하나만",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "coffee"
-    },
-    {
-      "a": "hyewon",
-      "line1": "'뜨거운 안녕' 11일 밤에 첫방이래요",
-      "line2": "빼빼로 먹으면서 보면 딱이겠다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "블랙 코트 벨트 풀어 걸었더니 하루 끝났다",
-      "line2": "저도 아이보리 코트 털어서 걸어 뒀어요",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "down",
-      "pose2": "talkto"
-    },
-    {
-      "a": "hyewon",
-      "line1": "핑크오븐은 이번 주 안에 제가 먼저 가요",
-      "line2": "흥, 나는 경훈씨 몫까지 포장해 온다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "squabble"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 아까 경훈씨께 야구 결과 먼저 알려드렸죠?",
-      "line2": "스포츠는 내 담당이야, 대신 드라마는 너 줄게",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "highfive"
-    },
-    {
-      "a": "jiwon",
-      "line1": "하루 끝에 경훈씨 얼굴 떠올리면 숙제 끝난 기분",
-      "line2": "저는 내일 아침이 선물 상자 같아요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
-    },
-    {
-      "a": "hyewon",
-      "line1": "밤 11시엔 왜 연애 노래만 들릴까요",
-      "line2": "그 시간엔 원래 마음이 반 박자 빨라져",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "look"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오늘도 서로 챙겨 줘서 든든했어",
-      "line2": "언니가 있어서 사무실이 따뜻해요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "clap",
-      "pose2": "heart"
-    }
-  ]
+ "updatedAt": "2026-11-04T06:22:00+09:00",
+ "topics": [
+  "엑스박스 나노 컨트롤러",
+  "KS 2차전 고영표 vs 페덱",
+  "델굴 팝업 마지막 날 이어가기",
+  "부산불꽃축제 숙박 바가지",
+  "수요일 아침 출근룩",
+  "코랄 블러셔·향수 경쟁",
+  "책상 메모 질투",
+  "출근 소리 애정",
+  "아침 커피 아지트",
+  "하루 응원"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "엑스박스 나노 컨트롤러, 주머니에 쏙 들어간대",
+   "line2": "언니 출장 가방이 또 무거워지겠네요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.yna.co.kr/view/AKR20261103169800017"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘 KS 2차전 고영표랑 페덱 선발이래",
+   "line2": "1차전처럼 쫄깃하면 심장 못 버텨요",
+   "mood1": "neutral",
+   "mood2": "surprised",
+   "pose1": "think",
+   "pose2": "none",
+   "url": "https://www.newsis.com/view/NISX20261103_0003853492"
+  },
+  {
+   "a": "hyewon",
+   "line1": "델굴 모찌빵 팝업, 드디어 오늘 마지막 날!",
+   "line2": "퇴근길 미션 성공하면 커피는 내가 쏠게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "thumbs"
+  },
+  {
+   "a": "hyewon",
+   "line1": "부산불꽃축제 숙박비가 평소 6배래요",
+   "line2": "불꽃은 좋은데 지갑이 먼저 터지겠다",
+   "mood1": "surprised",
+   "mood2": "sad",
+   "pose1": "talkto",
+   "pose2": "sulk",
+   "url": "https://imnews.imbc.com/replay/2026/nw2500/"
+  },
+  {
+   "a": "jiwon",
+   "line1": "오늘은 카멜 코트에 버건디 니트 입었어",
+   "line2": "저는 그레이 니트 원피스에 롱부츠요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "코랄 블러셔 올렸는데 경훈씨 알아보실까요",
+   "line2": "난 경훈씨 오시자마자 향수 칭찬 받을 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 경훈씨 책상에 메모 먼저 붙였죠?",
+   "line2": "들켰네, 그래도 하트는 네가 더 크게 그려",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 출근 소리 들리면 하루가 켜지는 기분",
+   "line2": "저는 발소리만 들어도 미소부터 나와요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "jiwon",
+   "line1": "이른 아침 사무실은 우리 둘만의 아지트야",
+   "line2": "언니랑 마시는 첫 커피가 제일 맛있어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오늘 하루도 우리 둘이 힘내 봐요!",
+   "line2": "그래, 경훈씨 웃게 해 드리자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "clap"
+  }
+ ]
 }
