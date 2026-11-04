@@ -1,107 +1,109 @@
 {
-  "updatedAt": "2026-11-04T09:12:00+09:00",
+  "updatedAt": "2026-11-04T10:12:00+09:00",
   "topics": [
-    "카카오게임즈 3분기 적자 재테크",
-    "보이저 1호 1광일 도달",
-    "이강인 vs 김민재 챔스",
-    "델굴 모찌빵 마지막 날 이어가기",
-    "점심 필라테스",
-    "트렌치·골드 체인·니트 원피스 롱부츠 출근룩",
-    "경훈씨 화분 물주기 애정",
-    "모니터 메모 vs 자료 표지 경쟁",
-    "텀블러 칭찬 귀여운 질투",
-    "수요일 오전 응원 하이파이브"
+    "엘더 스크롤6 센티널 공개",
+    "코스피 2% 상승 출발 재테크",
+    "롱샴 마이 플리아쥬 팝업",
+    "카드캡터 사쿠라 카페",
+    "재혼 황후 이종새 이어가기",
+    "트렌치·체인·롱부츠 출근룩",
+    "결재 사인 애정",
+    "회의 옆자리 vs 펜 경쟁",
+    "답장 속도 썸 농담",
+    "오전 반환점 물 한 잔 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "카카오게임즈 3분기 적자 263억이래",
-      "line2": "신작 하나 터지면 금방 반등하겠죠?",
+      "line1": "엘더 스크롤6 부제가 '센티널'이래",
+      "line2": "8년 기다린 보람, 언니 눈이 반짝해요",
       "mood1": "surprised",
-      "mood2": "think",
+      "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "think",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/04/TXBPOSSRVNDL5B6XP6IZTBEXJQ/"
+      "pose2": "look",
+      "url": "https://www.yna.co.kr/view/AKR20261104027000017"
+    },
+    {
+      "a": "jiwon",
+      "line1": "코스피가 장 시작부터 2% 넘게 뛰었대",
+      "line2": "언니 재테크 노트 오늘은 웃는 얼굴이네요",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "thumbs",
+      "pose2": "laugh",
+      "url": "https://www.yna.co.kr/view/MYH20261104005600038"
     },
     {
       "a": "hyewon",
-      "line1": "보이저 1호가 18일에 1광일 거리래요",
-      "line2": "빛으로 꼬박 하루 가는 거리라니 아득하다",
+      "line1": "롱샴 플리아쥬 팝업, 내일 더현대서 열린대요",
+      "line2": "이니셜 새기면 내 가방 티 확 나겠다",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "think",
+      "url": "http://www.ktnews.com/news/articleView.html?idxno=149827"
+    },
+    {
+      "a": "hyewon",
+      "line1": "사쿠라 콜라보 카페가 11일에 서울숲 와요",
+      "line2": "어릴 때 봉인해제 주문 따라 하던 거 알지?",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "look"
+      "pose2": "laugh"
+    },
+    {
+      "a": "hyewon",
+      "line1": "재혼 황후 하얀 새 퀸, 별명이 이종새래요",
+      "line2": "그런 새라면 내 창가에도 와 줬으면",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "look",
+      "pose2": "charm"
     },
     {
       "a": "jiwon",
-      "line1": "새벽에 이강인 팀이 뮌헨한테 0-2 졌대",
-      "line2": "김민재 선수는 웃었겠네요, 반반 응원!",
-      "mood1": "sad",
+      "line1": "트렌치 벗으니 터틀넥에 체인만 남았어",
+      "line2": "제 원피스는 롱부츠 덕에 다리 길어 보여요",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "down",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "델굴 모찌빵 오늘 마지막 날인 거 알지?",
-      "line2": "퇴근길 수지 들렀다 내일 아침 배달 갑니다",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "talkto",
+      "pose1": "charm",
       "pose2": "charm"
     },
     {
       "a": "hyewon",
-      "line1": "점심에 필라테스 리포머 한 타임 어때요?",
-      "line2": "좋아, 대신 끝나고 샐러드는 내가 쏠게",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "hyewon",
-      "line1": "언니 트렌치에 골드 체인, 오늘 분위기 있다",
-      "line2": "너 니트 원피스에 롱부츠도 완전 가을이야",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 책상 화분에 물 주고 왔어",
-      "line2": "잎이 반짝이면 경훈씨 기분도 반짝하겠죠",
+      "line1": "경훈씨 결재 사인 볼 때마다 괜히 든든해요",
+      "line2": "그 사인 하나에 우리 하루가 정리되잖아",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
       "pose2": "love"
     },
     {
-      "a": "hyewon",
-      "line1": "경훈씨 모니터에 응원 메모 붙일 거예요",
-      "line2": "난 회의 자료 표지를 그분 취향 색으로!",
+      "a": "jiwon",
+      "line1": "오후 회의엔 내가 경훈씨 옆자리 맡을래",
+      "line2": "그럼 전 경훈씨 좋아하는 펜 미리 꽂아둘게요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "charm",
+      "pose1": "squabble",
       "pose2": "squabble"
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨가 언니 텀블러만 예쁘다 하셨죠?",
-      "line2": "흥, 다음엔 네 머그컵도 칭찬하실걸",
-      "mood1": "sad",
+      "line1": "썸은 답장 속도에서 다 티 난대요",
+      "line2": "그럼 경훈씨 답장 빠른 날은 기대해도 돼?",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "laugh"
+      "pose1": "charm",
+      "pose2": "think"
     },
     {
       "a": "jiwon",
-      "line1": "수요일 오전, 우리 반만 더 힘내자",
-      "line2": "언니랑 같이면 금요일까지 거뜬해요",
+      "line1": "오전 반 지났다, 우리 물 한 잔씩 하자",
+      "line2": "언니가 챙겨 주니 오늘도 든든해요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "cheer",
+      "pose1": "coffee",
       "pose2": "highfive"
     }
   ]
