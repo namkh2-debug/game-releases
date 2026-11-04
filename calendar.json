@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-11-03T09:03:54+09:00",
- "from": "2026-11-03",
+ "updatedAt": "2026-11-04T09:06:27+09:00",
+ "from": "2026-11-04",
  "to": "2027-02-28",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,107 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-11-03",
-   "title": "고질라 멜리 리마스터드",
-   "en": "Godzilla: Destroy All Monsters Melee Remastered",
-   "short": "고질라멜리",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "대전 격투",
-   "price": "$29.99",
-   "korean": "한국어 미지원",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-03",
-   "title": "제로 퍼레이드: 디렉터스 컷",
-   "en": "ZERO PARADES",
-   "short": "제로퍼레이드",
-   "platforms": [
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "RPG",
-   "price": "",
-   "korean": "미확인",
-   "note": "콘솔판 (ZA/UM)",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-03",
-   "title": "디비전 2 DLC",
-   "en": "The Division 2 DLC",
-   "short": "디비전2DLC",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "슈터 DLC",
-   "price": "₩23,000",
-   "korean": "한국어 지원",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-03",
-   "title": "더 슬로맨서",
-   "en": "The Slormancer",
-   "short": "슬로맨서",
-   "platforms": [
-    "ps"
-   ],
-   "genre": "핵앤슬래시 RPG",
-   "price": "PS5 ₩34,800",
-   "korean": "한국어 지원",
-   "note": "PS5판",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-03",
-   "title": "핏 오브 고블린",
-   "en": "Pit of Goblin",
-   "short": "핏오브고블린",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "액션 어드벤처",
-   "price": "",
-   "korean": "미확인",
-   "note": "PC 앞서해보기 종료",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-03",
-   "title": "나 혼자만 레벨업: 어라이즈 오버드라이브",
-   "en": "Solo Leveling: Arise Overdrive",
-   "short": "나혼렙",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "액션 RPG",
-   "price": "",
-   "korean": "미확인",
-   "note": "11/4에서 하루 당겨짐",
-   "url": "",
-   "major": false
-  },
   {
    "date": "2026-11-04",
    "title": "보이드/브레이커 정식",
@@ -361,6 +260,21 @@
    "price": "",
    "korean": "미확인",
    "note": "콘솔판",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-09",
+   "title": "드레드무어",
+   "en": "Dreadmoor",
+   "short": "드레드무어",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "호러 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
    "url": "",
    "major": false
   },
@@ -651,6 +565,21 @@
    "korean": "한국어 미지원",
    "note": "",
    "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-17",
+   "title": "라쳇 & 클랭크 (PS2 클래식)",
+   "en": "Ratchet & Clank",
+   "short": "라쳇클랭크",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "액션 플랫포머",
+   "price": "PS Plus 클래식",
+   "korean": "미확인",
+   "note": "2002년 원작 PS4·PS5 이식 · PS Plus 클래식 카탈로그",
+   "url": "https://gamereleases.gg/2026/11/17/ratchet-and-clank--3",
    "major": false
   },
   {
@@ -1040,18 +969,18 @@
    "major": false
   },
   {
-   "date": "2026-12-07",
-   "title": "스트롱홀드 4",
-   "en": "Stronghold 4",
-   "short": "스트롱홀드4",
+   "date": "2026-12-04",
+   "title": "쁘띠 플래닛",
+   "en": "Petit Planet",
+   "short": "쁘띠플래닛",
    "platforms": [
     "steam"
    ],
-   "genre": "RTS",
+   "genre": "힐링 생활 시뮬",
    "price": "",
    "korean": "미확인",
-   "note": "",
-   "url": "",
+   "note": "PC · 호요버스",
+   "url": "https://releasedates.co.uk/news/2026/november/",
    "major": false
   },
   {
