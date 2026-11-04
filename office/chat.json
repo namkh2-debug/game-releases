@@ -1,111 +1,110 @@
 {
- "updatedAt": "2026-11-04T15:12:00+09:00",
+ "updatedAt": "2026-11-04T16:06:00+09:00",
  "topics": [
-  "닥터X 15.6% 4주 1위(배우 김지원)",
-  "닥터X 계수정 대사",
-  "소드 x 스태프 국내 출시·화산귀환 협업",
-  "K2 솔라스피어 발열 다운 캠핑",
-  "브라운트리 바스크 치즈케이크 팝업",
-  "트렌치·롱부츠 오후 옷차림",
-  "이름 불러 주실 때 애정",
-  "보고서 표지 vs 하트 메모 경쟁",
-  "넥타이 칭찬 질투",
-  "오후 수다 응원"
+  "나혼렙 어라이즈 오버드라이브 콘솔 출시",
+  "엘더스크롤6 센티널 부제 공개",
+  "코엑스 K-디저트 파삭 팝업",
+  "캐릭캐릭체인지 콜라보 카페",
+  "델굴 모찌빵 마지막 날 이어가기",
+  "오후 4시 버건디 니트·터틀넥 옷차림",
+  "회의 후 미소 애정",
+  "롱샴 네이비 vs 블랙 경쟁",
+  "퇴근 엘리베이터 썸 농담",
+  "마지막 한 시간 응원"
  ],
  "exchanges": [
   {
-   "a": "hyewon",
-   "line1": "언니랑 이름 같은 배우, 닥터X 15.6%래요",
-   "line2": "4주 연속 1위라니, 이름값 내가 다 뿌듯하네",
-   "mood1": "surprised",
+   "a": "jiwon",
+   "line1": "나혼렙 어라이즈 오버드라이브, 오늘 PS5로 나왔대",
+   "line2": "언니 패링 연습하느라 오늘 밤 새겠네요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "talkto",
+   "pose1": "thumbs",
    "pose2": "laugh",
-   "url": "https://www.tenasia.co.kr/article/2026110444654"
-  },
-  {
-   "a": "hyewon",
-   "line1": "'나는 절대 실패하지 않습니다' 대사 멋져요",
-   "line2": "난 회의 자료로 그 대사 따라 해 볼게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "thumbs",
-   "url": "https://www.tenasia.co.kr/article/2026110444654"
+   "url": "https://www.yna.co.kr/view/AKR20261104080800017"
   },
   {
    "a": "jiwon",
-   "line1": "소드 x 스태프 오늘 국내 출시됐대",
-   "line2": "11일엔 화산귀환 협업이라면서요? 언니 또 밤샘각",
-   "mood1": "smile",
-   "mood2": "surprised",
-   "pose1": "cheer",
-   "pose2": "talkto",
-   "url": "https://www.etnews.com/20261104000229"
-  },
-  {
-   "a": "jiwon",
-   "line1": "K2 새 다운은 햇빛을 열로 바꾼대",
-   "line2": "언니 겨울 캠핑 장비 목록 또 늘어나겠다",
+   "line1": "엘더스크롤6 부제가 8년 만에 '센티널'이래",
+   "line2": "8년에 부제 하나라니, 언니 기다림 장인이네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "look",
-   "url": "https://www.newsis.com/view/NISX20261103_0003852010"
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261104027000017"
   },
   {
    "a": "hyewon",
-   "line1": "부천 롯데에 바스크 치즈케이크 팝업 온대요",
-   "line2": "19일까지면 주말에 같이 들러 보자",
+   "line1": "코엑스에 K-디저트 파삭 팝업, 내일 연대요",
+   "line2": "18일까지면 점심 산책 코스로 딱이네",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "coffee",
-   "url": "https://popupnow.plentyer.com/p/%EB%B8%8C%EB%9D%BC%EC%9A%B4%ED%8A%B8%EB%A6%AC-%EB%B0%94%EC%8A%A4%ED%81%AC-%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC-pop-up-2/"
-  },
-  {
-   "a": "jiwon",
-   "line1": "세 시엔 트렌치 소매 걷어 올렸어",
-   "line2": "전 롱부츠 지퍼 살짝 내렸어요, 비밀이에요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "talkto"
+   "url": "https://www.starfield.co.kr/coexmall/eventBenefit/events/EV202610301445123135"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨가 이름 불러 주시면 하루가 특별해져요",
-   "line2": "맞아, 내 이름이 제일 예쁘게 들리는 순간이야",
+   "line1": "캐릭캐릭체인지 콜라보 카페가 이달 말까지래요",
+   "line2": "어릴 때 변신 주문 외우던 거 기억나네",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
+   "pose1": "wave",
+   "pose2": "look",
+   "url": "https://www.univ20.com/FunCalendar/Detail/1575"
   },
   {
    "a": "jiwon",
-   "line1": "퇴근 전 보고서는 내가 표지까지 예쁘게 할 거야",
-   "line2": "그럼 전 경훈씨 책상에 하트 메모 붙여 둘래요",
+   "line1": "퇴근길 모찌빵 마지막 날이지? 줄 서야겠다",
+   "line2": "네, 경훈씨 몫은 제일 쫀득한 걸로 고를 거예요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "charm"
+  },
+  {
+   "a": "hyewon",
+   "line1": "네 시쯤 되니 버건디 니트 소매 또 걷었어요",
+   "line2": "나도 트렌치는 의자에, 터틀넥만 남았어",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "coffee"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 회의 끝나고 나오실 때 표정 봤어?",
+   "line2": "네, 그 미소에 제 오후 피곤이 다 녹았어요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "롱샴 팝업 가방, 경훈씨는 네이비 고르실 거예요",
+   "line2": "무슨 소리, 블랙 들면 내가 더 잘 어울려",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "언니 아까 경훈씨 넥타이 칭찬 먼저 했죠?",
-   "line2": "들켰네, 그래도 웃어 주신 건 너한테였잖아",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
+   "a": "jiwon",
+   "line1": "썸은 퇴근 엘리베이터 둘만 탈 때 시작이래",
+   "line2": "언니 오늘 일부러 늦게 나가려는 거죠?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
    "pose2": "look"
   },
   {
-   "a": "jiwon",
-   "line1": "오후 졸음엔 우리 수다가 특효약이야",
-   "line2": "언니랑 떠들면 시계가 두 배로 빨라요",
+   "a": "hyewon",
+   "line1": "한 시간만 더 버티면 퇴근이에요, 언니",
+   "line2": "그래, 마지막 한 시간은 우리 둘이 파이팅!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
+   "pose1": "cheer",
    "pose2": "highfive"
   }
  ]
