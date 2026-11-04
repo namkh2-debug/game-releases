@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T09:06:27+09:00",
+ "updatedAt": "2026-11-04T09:06:38+09:00",
  "from": "2026-11-04",
  "to": "2027-02-28",
  "platformKeys": {
@@ -271,7 +271,7 @@
    "platforms": [
     "steam"
    ],
-   "genre": "호러 어드벤처",
+   "genre": "",
    "price": "",
    "korean": "미확인",
    "note": "",
