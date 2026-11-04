@@ -1,9 +1,9 @@
 {
   "date": "2026-11-04",
-  "updatedAt": "2026-11-04T22:08:41+09:00",
+  "updatedAt": "2026-11-04T23:05:25+09:00",
   "region": "경기 광주",
   "weather": {
-    "temp": 8.4,
+    "temp": 7.7,
     "low": 4.8,
     "high": 16.7,
     "condition": "흐림, 비 소식 없음",
@@ -16,21 +16,6 @@
     {
       "title": "조작기소 특검법안, 법사위 통과…與, 내일 본회의 처리 추진",
       "url": "https://www.yna.co.kr/view/AKR20261104171000001",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "경찰, 강호동 농협중앙회장 구속영장 신청…금품수수 등 혐의",
-      "url": "https://www.yna.co.kr/view/AKR20261104167100004",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "한진칼 최대주주, 조원태 회장 측서 호반건설로 변경",
-      "url": "https://www.yna.co.kr/view/AKR20261104165800003",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "다우·CJ컨소시엄, '5천200억 규모' 중앙일보 인수계약 5일 체결",
-      "url": "https://www.yna.co.kr/view/AKR20261104164700005",
       "source": "연합뉴스"
     }
   ],
