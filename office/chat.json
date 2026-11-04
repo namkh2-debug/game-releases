@@ -1,110 +1,100 @@
 {
-  "updatedAt": "2026-11-04T10:12:00+09:00",
-  "topics": [
-    "엘더 스크롤6 센티널 공개",
-    "코스피 2% 상승 출발 재테크",
-    "롱샴 마이 플리아쥬 팝업",
-    "카드캡터 사쿠라 카페",
-    "재혼 황후 이종새 이어가기",
-    "트렌치·체인·롱부츠 출근룩",
-    "결재 사인 애정",
-    "회의 옆자리 vs 펜 경쟁",
-    "답장 속도 썸 농담",
-    "오전 반환점 물 한 잔 응원"
-  ],
-  "exchanges": [
-    {
-      "a": "jiwon",
-      "line1": "엘더 스크롤6 부제가 '센티널'이래",
-      "line2": "8년 기다린 보람, 언니 눈이 반짝해요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "look",
-      "url": "https://www.yna.co.kr/view/AKR20261104027000017"
-    },
-    {
-      "a": "jiwon",
-      "line1": "코스피가 장 시작부터 2% 넘게 뛰었대",
-      "line2": "언니 재테크 노트 오늘은 웃는 얼굴이네요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "thumbs",
-      "pose2": "laugh",
-      "url": "https://www.yna.co.kr/view/MYH20261104005600038"
-    },
-    {
-      "a": "hyewon",
-      "line1": "롱샴 플리아쥬 팝업, 내일 더현대서 열린대요",
-      "line2": "이니셜 새기면 내 가방 티 확 나겠다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "think",
-      "url": "http://www.ktnews.com/news/articleView.html?idxno=149827"
-    },
-    {
-      "a": "hyewon",
-      "line1": "사쿠라 콜라보 카페가 11일에 서울숲 와요",
-      "line2": "어릴 때 봉인해제 주문 따라 하던 거 알지?",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "laugh"
-    },
-    {
-      "a": "hyewon",
-      "line1": "재혼 황후 하얀 새 퀸, 별명이 이종새래요",
-      "line2": "그런 새라면 내 창가에도 와 줬으면",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "charm"
-    },
-    {
-      "a": "jiwon",
-      "line1": "트렌치 벗으니 터틀넥에 체인만 남았어",
-      "line2": "제 원피스는 롱부츠 덕에 다리 길어 보여요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "charm"
-    },
-    {
-      "a": "hyewon",
-      "line1": "경훈씨 결재 사인 볼 때마다 괜히 든든해요",
-      "line2": "그 사인 하나에 우리 하루가 정리되잖아",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오후 회의엔 내가 경훈씨 옆자리 맡을래",
-      "line2": "그럼 전 경훈씨 좋아하는 펜 미리 꽂아둘게요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "squabble",
-      "pose2": "squabble"
-    },
-    {
-      "a": "hyewon",
-      "line1": "썸은 답장 속도에서 다 티 난대요",
-      "line2": "그럼 경훈씨 답장 빠른 날은 기대해도 돼?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "think"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오전 반 지났다, 우리 물 한 잔씩 하자",
-      "line2": "언니가 챙겨 주니 오늘도 든든해요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "highfive"
-    }
-  ]
+ "updatedAt": "2026-11-04T11:07:19+09:00",
+ "topics": [
+  "코스피 하락 전환 재테크 이어가기",
+  "RTX 5080 슈퍼 지연설",
+  "리센느 위드 멜론 1위",
+  "오키뷰티 팝업 립 후기 이어가기",
+  "트렌치·터틀넥·니트 원피스 롱부츠 출근룩",
+  "경훈씨 목소리 애정",
+  "점심 디저트 vs 손편지 경쟁",
+  "오후 힘내기 응원",
+  "먼저 알아채기 우정"
+ ],
+ "exchanges": [
+  {
+   "a": "jiwon",
+   "line1": "코스피 아까 2% 뛰더니 1%대 하락 전환이래",
+   "line2": "언니 재테크 노트 표정이 한 시간 만에 바뀌었네요",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.viva100.com/article/20261104500537"
+  },
+  {
+   "a": "jiwon",
+   "line1": "RTX 5080 슈퍼가 메모리 부족에 밀린다는 설이 있어",
+   "line2": "언니 그래픽카드 장바구니 또 대기 타겠네요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "리센느 신곡 '위드' 나오자마자 멜론 1위래요",
+   "line2": "오후 졸릴 때 그 노래 같이 틀어 놓자",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079555"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 오키뷰티 팝업 먼저 다녀오면 후기 꼭요",
+   "line2": "제일 예쁜 립 색은 너한테 먼저 발라 볼게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look",
+   "url": "https://www.sportsworldi.com/newsView/20261030512214"
+  },
+  {
+   "a": "jiwon",
+   "line1": "트렌치 안 터틀넥이 오후엔 좀 덥겠다",
+   "line2": "전 니트 원피스라 롱부츠만 벗고 싶어요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 바쁜 날엔 목소리만 들어도 힘 나요",
+   "line2": "나도, 복도에서 발소리만 나도 설레더라",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "heart",
+   "pose2": "love"
+  },
+  {
+   "a": "jiwon",
+   "line1": "점심 후 경훈씨 디저트는 내가 고를 거야",
+   "line2": "그럼 전 그 옆에 손편지 한 장 얹을게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 점심 맛있게 먹고 오후도 같이 힘내요",
+   "line2": "그래, 우리 둘이면 수요일도 금방이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "cheer",
+   "pose2": "highfive"
+  },
+  {
+   "a": "jiwon",
+   "line1": "힘들 땐 말 안 해도 내가 먼저 알아챌게",
+   "line2": "언니 그 말 하나로 오늘 충전 완료예요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "clap"
+  }
+ ]
 }
