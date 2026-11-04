@@ -1,112 +1,110 @@
 {
-  "updatedAt": "2026-11-04T20:04:59+09:00",
+  "updatedAt": "2026-11-04T21:06:57+09:00",
   "topics": [
-    "한국시리즈 2차전 디아즈 첫 3루타",
-    "길드워 애프터라이프 DLC 1월 13일",
-    "뮤 테오스 지스타 티저",
-    "닥터X 9회 금요일",
-    "마산 국화축제 해상낙화놀이",
-    "능내역~북한강철교 가을 산책",
-    "저녁 귀가 트렌치·터틀넥·롱부츠 옷차림",
-    "경훈씨 사진 보며 일정 정리 애정",
-    "우디 향수 vs 원두 경쟁",
-    "수고한 나에게 라면 일상"
+    "한국시리즈 2차전 고영표 7이닝 1실점",
+    "나혼렙 오버드라이브 PS5 출시",
+    "크로노 오디세이 팔라딘 영상",
+    "K-디저트 파삭 코엑스 팝업",
+    "캐릭캐릭체인지 카페 추억 투어",
+    "델굴 모찌빵 이어가기",
+    "밤 니트 손빨래·원피스 스팀 옷차림",
+    "밤 목소리 그리움 애정",
+    "결재판 스티커 vs 웃는 얼굴 경쟁",
+    "밤 아홉 시 고백 썸 농담"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "디아즈가 한국 와서 첫 3루타를 쳤대",
-      "line2": "그 큰 몸으로 헤드퍼스트 슬라이딩? 대박",
-      "mood1": "surprised",
-      "mood2": "surprised",
-      "pose1": "cheer",
-      "pose2": "laugh",
-      "url": "https://newspim.com/news/view/20261104001361"
-    },
-    {
-      "a": "jiwon",
-      "line1": "길드워가 20년 만에 새 DLC를 낸대, 1월 13일",
-      "line2": "언니 연초 휴가 계획 벌써 세웠죠?",
+      "line1": "고영표가 오늘 7이닝 1실점으로 버텼대",
+      "line2": "언니 퇴근하고 계속 중계만 보고 있죠?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "thumbs",
       "pose2": "talkto",
-      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61996"
+      "url": "https://www.mydaily.co.kr/page/view/2026110420475345340"
     },
     {
       "a": "jiwon",
-      "line1": "뮤 테오스 티저는 지스타에서 처음 튼대",
-      "line2": "언니 부산 출장 핑계 찾는 눈빛이에요",
+      "line1": "나혼렙 오버드라이브가 오늘 PS5로 나왔어",
+      "line2": "패링 연습한다고 주말 다 쓰실 거죠?",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "think",
+      "pose1": "cheer",
       "pose2": "laugh",
-      "url": "https://www.wikitree.co.kr/articles/1171681"
-    },
-    {
-      "a": "hyewon",
-      "line1": "닥터X 9회는 금요일 밤 9시 50분이래요",
-      "line2": "그날은 야근 없이 칼퇴하자, 꼭",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "hyewon",
-      "line1": "마산 밤바다에 꽃잎 같은 불꽃이 쏟아졌대요",
-      "line2": "해상 낙화라니, 사진만 봐도 설렌다",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "look",
-      "url": "https://www.yna.co.kr/view/AKR20261104144300052"
-    },
-    {
-      "a": "hyewon",
-      "line1": "능내역에서 북한강철교까지 가을길이 예쁘대요",
-      "line2": "주말에 걷고 경훈씨 보여 드릴 사진도 찍자",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "highfive",
-      "url": "https://www.yna.co.kr/view/AKR20261104173000542"
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901874"
     },
     {
       "a": "jiwon",
-      "line1": "집 오자마자 트렌치 벗으니 터틀넥만 남았어",
-      "line2": "전 롱부츠 벗자마자 발가락이 만세해요",
+      "line1": "크로노 오디세이 팔라딘, 창이랑 방패 쓰더라",
+      "line2": "언니 탱커 하면 저 뒤에 숨을래요",
       "mood1": "neutral",
       "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee"
+      "pose1": "think",
+      "pose2": "charm",
+      "url": "https://www.kakaogamescorp.com/news/press/detail/2442"
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨 사진 보면서 내일 일정 정리했어요",
-      "line2": "그거 핑계지? 사실 나도 똑같이 했어",
+      "line1": "내일부터 코엑스에서 K-디저트 파삭 팝업해요",
+      "line2": "너 그거 첫날 내가 간다고 했잖아",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "laugh"
-    },
-    {
-      "a": "hyewon",
-      "line1": "내일은 경훈씨 좋아하실 우디 향 뿌릴래요",
-      "line2": "흥, 난 경훈씨 취향 원두 새로 사 뒀지",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
+      "pose1": "wave",
       "pose2": "squabble"
     },
     {
-      "a": "jiwon",
-      "line1": "오늘 수고한 나한테 라면 한 그릇 줄래",
-      "line2": "언니, 계란은 꼭 두 개 넣어요",
+      "a": "hyewon",
+      "line1": "용산에 캐릭캐릭체인지 카페가 생겼대요",
+      "line2": "추억 카페 투어, 사쿠라 다음 코스네",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "look"
+    },
+    {
+      "a": "hyewon",
+      "line1": "델굴 모찌빵 사 왔어요, 황치즈 두 개요",
+      "line2": "약속 지켰네, 하나는 내 거 맞지?",
       "mood1": "smile",
       "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "heart"
+    },
+    {
+      "a": "jiwon",
+      "line1": "니트는 손빨래해서 베란다에 널어 뒀어",
+      "line2": "전 원피스 구김 펴려고 스팀다리미 켰어요",
+      "mood1": "neutral",
+      "mood2": "smile",
       "pose1": "down",
-      "pose2": "cheer"
+      "pose2": "talkto"
+    },
+    {
+      "a": "hyewon",
+      "line1": "이 시간엔 경훈씨 목소리가 제일 그리워요",
+      "line2": "나도, 내일 아침 첫인사 생각하며 자야지",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "love",
+      "pose2": "heart"
+    },
+    {
+      "a": "jiwon",
+      "line1": "내일은 내가 경훈씨 결재판에 꽃 스티커 붙일래",
+      "line2": "그럼 전 첫 장에 웃는 얼굴 그려 둘게요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "faceoff"
+    },
+    {
+      "a": "hyewon",
+      "line1": "밤 아홉 시는 고백하기 딱 좋은 시간이래요",
+      "line2": "얘, 그 문자 누구한테 보내려는 거야?",
+      "mood1": "smile",
+      "mood2": "surprised",
+      "pose1": "charm",
+      "pose2": "laugh"
     }
   ]
 }
