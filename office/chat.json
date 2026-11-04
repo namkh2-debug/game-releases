@@ -1,69 +1,70 @@
 {
- "updatedAt": "2026-11-04T11:07:19+09:00",
+ "updatedAt": "2026-11-04T12:04:48+09:00",
  "topics": [
-  "코스피 하락 전환 재테크 이어가기",
-  "RTX 5080 슈퍼 지연설",
-  "리센느 위드 멜론 1위",
-  "오키뷰티 팝업 립 후기 이어가기",
-  "트렌치·터틀넥·니트 원피스 롱부츠 출근룩",
-  "경훈씨 목소리 애정",
-  "점심 디저트 vs 손편지 경쟁",
-  "오후 힘내기 응원",
-  "먼저 알아채기 우정"
+  "엑스박스 나노 컨트롤러 국내 출시",
+  "제니 드라큘라 핫100 5위",
+  "저축은행 4% 예금 재테크",
+  "델굴 모찌빵 마지막 날 이어가기",
+  "점심 산책 트렌치·니트 원피스 옷차림",
+  "결재 사인·고마워요 애정",
+  "회의 자료 탭 vs 회의실 향 경쟁",
+  "재혼 황후 눈빛 설렘 농담",
+  "오후 커피·귤 우정",
+  "서로 웃음 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "코스피 아까 2% 뛰더니 1%대 하락 전환이래",
-   "line2": "언니 재테크 노트 표정이 한 시간 만에 바뀌었네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.viva100.com/article/20261104500537"
-  },
-  {
-   "a": "jiwon",
-   "line1": "RTX 5080 슈퍼가 메모리 부족에 밀린다는 설이 있어",
-   "line2": "언니 그래픽카드 장바구니 또 대기 타겠네요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "리센느 신곡 '위드' 나오자마자 멜론 1위래요",
-   "line2": "오후 졸릴 때 그 노래 같이 틀어 놓자",
+   "line1": "엑스박스 나노 컨트롤러 오늘 국내 출시래",
+   "line2": "언니 주머니에 쏙 넣고 출근하겠네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079555"
+   "pose2": "laugh",
+   "url": "https://www.gamemeca.com/view.php?gid=1781999"
   },
   {
    "a": "hyewon",
-   "line1": "언니 오키뷰티 팝업 먼저 다녀오면 후기 꼭요",
-   "line2": "제일 예쁜 립 색은 너한테 먼저 발라 볼게",
-   "mood1": "smile",
+   "line1": "제니 '드라큘라' 빌보드 핫100 또 5위래요",
+   "line2": "점심 끝나고 그 노래로 기분 전환하자",
+   "mood1": "surprised",
    "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "look",
-   "url": "https://www.sportsworldi.com/newsView/20261030512214"
+   "pose1": "clap",
+   "pose2": "thumbs",
+   "url": "https://www.yna.co.kr/view/AKR20261104047800005"
   },
   {
    "a": "jiwon",
-   "line1": "트렌치 안 터틀넥이 오후엔 좀 덥겠다",
-   "line2": "전 니트 원피스라 롱부츠만 벗고 싶어요",
+   "line1": "저축은행 4% 예금이 두 달 새 6배 늘었대",
+   "line2": "언니 비상금 통장 하나 새로 파는 거죠?",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
+   "pose2": "coffee",
+   "url": "https://www.newsis.com/view/NISX20261103_0003853422"
+  },
+  {
+   "a": "hyewon",
+   "line1": "모찌빵 팝업 오늘 마지막 날이라 퇴근길 직행요",
+   "line2": "내일 비 오는 아침에 경훈씨 드릴 거 맞지?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
+   "a": "jiwon",
+   "line1": "점심 산책하니 트렌치 단추 다 풀게 되더라",
+   "line2": "전 니트 원피스 소매 걷고 다녔어요",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "down",
    "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 바쁜 날엔 목소리만 들어도 힘 나요",
-   "line2": "나도, 복도에서 발소리만 나도 설레더라",
+   "line1": "경훈씨 결재 사인 하나에도 하루가 반짝여요",
+   "line2": "나는 '고마워요' 한마디면 야근도 괜찮아",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -71,8 +72,8 @@
   },
   {
    "a": "jiwon",
-   "line1": "점심 후 경훈씨 디저트는 내가 고를 거야",
-   "line2": "그럼 전 그 옆에 손편지 한 장 얹을게요",
+   "line1": "오후 회의 자료는 내가 색깔 탭까지 붙일 거야",
+   "line2": "그럼 전 회의실에 은은한 향 켜둘게요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -80,17 +81,26 @@
   },
   {
    "a": "hyewon",
-   "line1": "언니, 점심 맛있게 먹고 오후도 같이 힘내요",
-   "line2": "그래, 우리 둘이면 수요일도 금방이야",
+   "line1": "재혼 황후 보다가 그런 눈빛 받고 싶었어요",
+   "line2": "볼 빨개진 거 다 보여, 오늘 밤 정주행 각이지?",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "highfive"
+   "pose1": "charm",
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "힘들 땐 말 안 해도 내가 먼저 알아챌게",
-   "line2": "언니 그 말 하나로 오늘 충전 완료예요",
+   "line1": "오후엔 내가 커피 타 줄게, 쉬엄쉬엄 하자",
+   "line2": "언니 최고! 그럼 전 귤 까서 반 드릴게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니 웃는 얼굴 보니까 저도 힘나요",
+   "line2": "우리 둘이 웃으면 사무실이 환해지지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
