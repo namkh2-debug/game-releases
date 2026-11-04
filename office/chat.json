@@ -1,110 +1,110 @@
 {
- "updatedAt": "2026-11-04T13:11:22+09:00",
+ "updatedAt": "2026-11-04T14:03:53+09:00",
  "topics": [
-  "아키에이지 크로니클 스팀 앞서해보기",
-  "와우 포에버 정식 서비스",
-  "닛케이 3.56% 급락 재테크",
-  "틈만나면 양세종 내비 금지령",
-  "완소 디저트 타운 성수 팝업",
-  "버터샵 키링 책상 꾸미기 경쟁",
-  "오후 터틀넥·니트 원피스 옷차림",
-  "칼국수 칭찬 vs 맞은편 자리 질투 이어가기",
-  "수고했어요 한마디 애정",
-  "오후 기지개 응원"
+  "코스피 3%대 급락 재테크 이어가기",
+  "한화솔루션 블루웨이브 급등",
+  "시간의 오카리나 리메이크 마이크 연주",
+  "스포티파이 스픽이지 with 혁오 추첨",
+  "돌싱N모솔 시즌2 공개",
+  "니트 원피스·롱부츠·터틀넥 오후 옷차림",
+  "경훈씨 웃음소리 애정",
+  "마들렌 vs 핸드드립 간식 경쟁",
+  "손등 스침 썸 농담",
+  "오후 두 시 붕어빵 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "아키에이지 크로니클 스팀 앞서해보기 열렸어",
-   "line2": "3만6천원에 월정액 없다니 언니 지갑 열리겠다",
+   "line1": "코스피가 오후엔 3%대 급락했대",
+   "line2": "언니 재테크 노트, 오늘은 '버티기'네요",
    "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.thisisgame.com/articles/431995"
+   "mood2": "sad",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.etoday.co.kr/news/view/2643998"
   },
   {
    "a": "jiwon",
-   "line1": "와우 포에버도 오늘 정식 서비스 시작이래",
-   "line2": "언니 퇴근하면 아제로스로 출근하는 거죠?",
-   "mood1": "smile",
+   "line1": "그 와중에 한화솔루션은 13% 넘게 올랐대",
+   "line2": "파란 화면 속 빨간불, 언니 눈 반짝해요",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.khgames.co.kr/news/articleView.html?idxno=308309"
+   "pose2": "look",
+   "url": "https://www.mt.co.kr/stock/2026/11/04/2026110411173224079"
   },
   {
    "a": "jiwon",
-   "line1": "닛케이가 오늘 3.56%나 빠졌대",
-   "line2": "언니 재테크 노트엔 '오늘은 관망'이네요",
-   "mood1": "surprised",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "coffee",
-   "url": "https://www.yna.co.kr/view/AKR20261104089800009"
-  },
-  {
-   "a": "hyewon",
-   "line1": "틈만나면 양세종 내비 금지령 봤어요?",
-   "line2": "내비만 보다 대화 못 낀 거 너무 귀엽더라",
+   "line1": "내일 스위치2로 시간의 오카리나 리메이크 나와",
+   "line2": "마이크에 흥얼거리면 연주된다면서요?",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "laugh"
+   "mood2": "surprised",
+   "pose1": "cheer",
+   "pose2": "talkto",
+   "url": "https://thecheckpointdaily.com/en/weekly/releases-week-nov-2-2026/"
   },
   {
    "a": "hyewon",
-   "line1": "완소 디저트 타운, 내일 성수에 열린대요",
-   "line2": "예약 없이 들어간대, 첫날은 내가 간다?",
+   "line1": "혁오 스포티파이 라이브, 500명 추첨이래요",
+   "line2": "당첨되면 위잉위잉 떼창 연습해 가자",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "thumbs"
-  },
-  {
-   "a": "hyewon",
-   "line1": "버터샵 팝업 키링, 선착순 100명이래요",
-   "line2": "경훈씨 책상 꾸밀 소품은 내가 먼저 살 거야",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "squabble",
-   "pose2": "squabble"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오후엔 트렌치 벗고 터틀넥 소매만 걷었어",
-   "line2": "전 니트 원피스에 시계줄만 와인색으로요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "점심때 경훈씨가 네 칼국수 칭찬하셨지?",
-   "line2": "언니는 맞은편 자리 차지했잖아요, 쌤쌤!",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
    "pose2": "laugh"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 '수고했어요' 한마디면 오후가 가뿐해요",
-   "line2": "나는 그분 메모 글씨만 봐도 미소가 나",
+   "line1": "오늘 넷플릭스에 돌싱N모솔 시즌2 떴대요",
+   "line2": "퇴근하고 1화부터 같이 수다 떨자",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "니트 원피스에 롱부츠, 오후엔 발이 답답해요",
+   "line2": "나도 터틀넥 목이 슬슬 간질간질해",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "down",
+   "pose2": "laugh"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 웃음소리 들리면 사무실 공기가 달라져",
+   "line2": "맞아요, 그 소리 하나로 오후가 말랑해져요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
+   "a": "hyewon",
+   "line1": "경훈씨 오후 간식은 제가 고른 마들렌이에요",
+   "line2": "흥, 난 그분 최애 원두로 핸드드립 내릴 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
    "a": "jiwon",
-   "line1": "졸린 오후엔 우리 같이 기지개 한 번 켜자",
-   "line2": "언니랑 하면 필라테스보다 개운해요",
+   "line1": "썸 탈 땐 손등 스치는 게 제일 떨린대",
+   "line2": "언니 아까 서류 넘길 때 일부러 그랬죠?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "오후 두 시, 우리 딱 반나절만 더 버텨요",
+   "line2": "좋아, 퇴근길 붕어빵은 내가 쏠게",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "cheer",
-   "pose2": "clap"
+   "pose2": "highfive"
   }
  ]
 }
