@@ -1,9 +1,9 @@
 {
  "date": "2026-11-04",
- "updatedAt": "2026-11-04T08:10:00+09:00",
+ "updatedAt": "2026-11-04T09:10:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 5.8,
+  "temp": 8.4,
   "low": 4.8,
   "high": 16.7,
   "condition": "흐림, 비 소식 없음",
@@ -14,19 +14,19 @@
  },
  "breaking": [
   {
-   "title": "강릉 주문진서 승용차·지게차 잇단 추돌…사고 수습하던 60대 숨져",
-   "url": "https://www.kwnews.co.kr/article/20261104500014",
-   "source": "강원일보"
+   "title": "카카오게임즈, 3분기 영업손실 263억원…적자폭 확대",
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/04/TXBPOSSRVNDL5B6XP6IZTBEXJQ/",
+   "source": "조선비즈"
   },
   {
-   "title": "차기대선 적합도 오세훈 20.4%…8.4%p상승-조원씨앤아이",
-   "url": "https://www.munhwa.com/article/11628572",
-   "source": "문화일보"
+   "title": "美 인디애나·켄터키서 첫 투표 종료…동부부터 순차 마감",
+   "url": "https://www.hankyung.com/article/2026110443137",
+   "source": "한국경제"
   },
   {
-   "title": "김여정, 미국 겨냥 \"비신뢰적인 사람들과 마주 앉을 필요 없어\"",
-   "url": "https://imnews.imbc.com/news/2026/world/article/6863009_36925.html",
-   "source": "MBC 뉴스"
+   "title": "김여정, 美 향해 “비신뢰적 사람들과 마주앉을 필요 없다”",
+   "url": "https://www.donga.com/news/Politics/article/all/20261104/134961822/1",
+   "source": "동아일보"
   },
   {
    "title": "다시, 나스닥 0.8%↑…마이크론 2.5% 상승",
