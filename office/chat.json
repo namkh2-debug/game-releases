@@ -1,52 +1,70 @@
 {
- "updatedAt": "2026-11-04T23:06:12+09:00",
+ "updatedAt": "2026-11-05T06:11:42+09:00",
  "topics": [
-  "한국시리즈 2차전 연장 12회 삼성 3-2 승",
-  "리니지W 5주년 무희 클래스",
-  "소닉 레이싱 고질라 팩 DLC",
-  "버터샵 크리스마스 팝업 이구홈 성수",
-  "MMA2026 고척 14~15일",
-  "밤 잠옷 갈아입기 옷차림",
-  "잠들기 전 경훈씨 말씀 애정",
-  "책상 닦기 vs 모찌빵 접시 경쟁",
-  "잘 자 문자 썸 농담",
-  "잘 자 응원"
+  "젤다 시간의 오카리나 리메이크 출시",
+  "선거 후 다우 3% 급등 재테크",
+  "사과값 하락 캠핑 요리",
+  "블랙 도브 시즌2 공개",
+  "완소 디저트 타운 성수 오픈 첫날 경쟁",
+  "레인부츠·네이비 셋업 출근룩",
+  "출근 발소리 애정",
+  "첫 보고 그래프 vs 모찌빵 경쟁",
+  "아침 설렘 썸 농담",
+  "목요일 든든함 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "KS 2차전, 결국 연장 12회에 삼성이 3대2로 이겼대",
-   "line2": "언니 그거 끝까지 다 보느라 이 시간이죠?",
-   "mood1": "surprised",
+   "line1": "젤다 시간의 오카리나 리메이크가 오늘 나와",
+   "line2": "언니 점심시간에 오카리나 불 기세예요",
+   "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
    "pose2": "laugh",
-   "url": "https://www.yna.co.kr/news?site=navi_latest_depth01"
+   "url": "https://www.cnet.co.kr/view/?no=20260909152859"
   },
   {
    "a": "jiwon",
-   "line1": "리니지W 5주년에 원거리 클래스 '무희'가 나왔대",
-   "line2": "이름부터 우아해요, 언니 춤추듯 싸우겠네",
+   "line1": "선거 끝나자 다우가 3%나 뛰었대",
+   "line2": "언니 아침부터 계좌 보고 웃는 거죠?",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261105009800072"
+  },
+  {
+   "a": "jiwon",
+   "line1": "올해 사과값이 작년보다 꽤 내린대",
+   "line2": "캠핑 가서 시나몬 구운 사과 해 줘요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "charm",
-   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61996"
-  },
-  {
-   "a": "jiwon",
-   "line1": "소닉 레이싱에 고질라 팩 DLC가 오늘 나왔어",
-   "line2": "고질라가 카트를 탄다고요? 상상만 해도 웃겨요",
-   "mood1": "smile",
-   "mood2": "surprised",
    "pose1": "coffee",
-   "pose2": "laugh",
-   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61996"
+   "pose2": "coffee",
+   "url": "https://www.yna.co.kr/view/AKR20261104145500030"
   },
   {
    "a": "hyewon",
-   "line1": "이구홈 성수 버터샵 크리스마스 팝업 가 볼래요?",
-   "line2": "좋아, 버터 키링 선착순이니까 일찍 가자",
+   "line1": "오늘 블랙 도브 시즌2 공개일이에요",
+   "line2": "주말 정주행 목록이 또 길어지네",
+   "mood1": "smile",
+   "mood2": "neutral",
+   "pose1": "talkto",
+   "pose2": "think"
+  },
+  {
+   "a": "hyewon",
+   "line1": "완소 디저트 타운 오늘 성수에서 열어요",
+   "line2": "첫날은 내가 간다고 찜했다, 잊지 마",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "약속대로 레인부츠에 네이비 셋업이에요",
+   "line2": "난 다려 둔 셋업에 트렌치 걸쳤지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -54,26 +72,8 @@
   },
   {
    "a": "hyewon",
-   "line1": "MMA 고척에서 이틀 한대요, 14일이랑 15일요",
-   "line2": "응원봉 대신 머리띠 하고 같이 보자",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "highfive"
-  },
-  {
-   "a": "jiwon",
-   "line1": "출근룩 벗고 수면바지로 갈아입으니 살 것 같아",
-   "line2": "전 니트 개켜 두고 잠옷 단추까지 다 잠갔어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "wave"
-  },
-  {
-   "a": "hyewon",
-   "line1": "불 끄기 전에 경훈씨 오늘 하신 말씀 곱씹어요",
-   "line2": "나도, 그 한마디 덕에 내일이 기다려져",
+   "line1": "경훈씨 발소리 들리면 하루가 켜져요",
+   "line2": "맞아, 그 순간부터 내 배터리도 만충",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "love",
@@ -81,30 +81,30 @@
   },
   {
    "a": "jiwon",
-   "line1": "내일 아침엔 내가 경훈씨 책상 먼저 닦아 둘 거야",
-   "line2": "그럼 전 모찌빵 예쁜 접시에 담아 올릴래요",
+   "line1": "첫 보고는 그래프까지 넣은 내가 1등",
+   "line2": "전 모찌빵 곁들여서 점수 두 배예요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "잘 자란 문자도 썸 타는 사람한텐 고백 같대요",
-   "line2": "그래서 너 아까부터 폰만 보고 있었구나?",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "cheer",
    "pose2": "look"
   },
   {
-   "a": "jiwon",
-   "line1": "오늘도 수고했어, 따뜻하게 덮고 자",
-   "line2": "언니도요, 내일 아침에 웃으면서 만나요",
+   "a": "hyewon",
+   "line1": "잠 깨우는 덴 커피보다 설렘이 최고죠",
+   "line2": "얘, 아침부터 누구 생각한 거야?",
+   "mood1": "smile",
+   "mood2": "surprised",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니랑 같이라 목요일도 든든해요",
+   "line2": "나도야, 오늘도 웃으면서 가 보자",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "wave"
+   "pose1": "talkto",
+   "pose2": "highfive"
   }
  ]
 }
