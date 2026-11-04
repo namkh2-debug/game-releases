@@ -1,109 +1,110 @@
 {
- "updatedAt": "2026-11-04T17:08:00+09:00",
- "topics": [
-  "템빨 오버기어드 쇼케이스 내일 8시",
-  "웨어 더 시드 폴 내일 출시",
-  "포미닛 전지윤 22일 결혼",
-  "오키뷰티 팝업 립 이어가기",
-  "퇴근길 트렌치·니트 원피스 롱부츠 옷차림",
-  "퇴근 인사 애정",
-  "책상 정리 vs 손글씨 쪽지 경쟁",
-  "엘리베이터 귀여운 질투",
-  "수요일 마무리 하이파이브",
-  "퇴근 전 차 한 잔 우정"
- ],
- "exchanges": [
-  {
-   "a": "jiwon",
-   "line1": "템빨 오버기어드 쇼케이스가 내일 저녁 8시래",
-   "line2": "언니 퇴근하자마자 노트북부터 펴겠네요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.ddaily.co.kr/page/view/2026102911233264198"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 '웨어 더 시드 폴'도 스위치2로 나온대",
-   "line2": "언니 이번 주 게임 일정 진짜 꽉 찼네요",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "laugh",
-   "url": "https://www.gamechosun.co.kr/webzine/article/view.php?no=224947"
-  },
-  {
-   "a": "hyewon",
-   "line1": "포미닛 출신 전지윤 씨, 22일에 결혼한대요",
-   "line2": "학창 시절 노래 생각나네, 축하해 주자",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "clap"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 오키뷰티 팝업 오늘 퇴근길에 가요?",
-   "line2": "응, 립 고르면 내일 너한테 먼저 보여 줄게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "jiwon",
-   "line1": "퇴근 준비하면서 트렌치 단추 다시 채웠어",
-   "line2": "전 니트 원피스에 롱부츠 지퍼 올렸어요",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "down",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "경훈씨 퇴근 인사 한마디가 오늘의 마침표예요",
-   "line2": "나도, 그 인사 듣고 싶어서 정리 천천히 해",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 아침 경훈씨 책상 정리는 내가 먼저 할 거야",
-   "line2": "그럼 전 모찌빵 옆에 손글씨 쪽지 둘게요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 아까 경훈씨랑 엘리베이터 같이 탔죠?",
-   "line2": "딱 두 층이었어, 삐지지 마 귀염둥이야",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오늘 하루도 고생 많았어, 우리 둘 다",
-   "line2": "언니랑 같이라서 수요일이 금방 갔어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "highfive",
-   "pose2": "highfive"
-  },
-  {
-   "a": "hyewon",
-   "line1": "퇴근 전에 따뜻한 차 한 잔만 하고 가요",
-   "line2": "좋아, 오늘 차는 내가 살게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  }
- ]
+  "updatedAt": "2026-11-04T18:16:00+09:00",
+  "topics": [
+    "한국시리즈 2차전 고영표 vs 페덱",
+    "빼빼로 수출 1000억 재테크",
+    "NASA 스위프트 망원경 추락",
+    "100일의 거짓말 화제성 1위",
+    "꿀알바 2화 같이 보기 이어가기",
+    "저녁 퇴근길 트렌치·레인부츠 옷차림",
+    "저녁 식사 애정",
+    "우산 vs 수건 경쟁",
+    "찹쌀초코 썸 농담",
+    "하루 마무리 응원"
+  ],
+  "exchanges": [
+    {
+      "a": "jiwon",
+      "line1": "오늘 밤 한국시리즈 2차전, 고영표 대 페덱이래",
+      "line2": "언니 퇴근길에 벌써 중계 켜 둔 거 다 알아요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh",
+      "url": "https://www.yna.co.kr/view/AKR20261103177800007"
+    },
+    {
+      "a": "jiwon",
+      "line1": "빼빼로가 K과자 첫 수출 1000억 눈앞이래",
+      "line2": "언니 재테크 노트에 과자 회사 적는 소리 들려요",
+      "mood1": "surprised",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "talkto",
+      "url": "https://www.newspim.com/news/view/20261104000211"
+    },
+    {
+      "a": "hyewon",
+      "line1": "NASA 스위프트 망원경이 오늘 밤 떨어진대요",
+      "line2": "우리나라 근처일 가능성은 아주 낮대, 걱정 마",
+      "mood1": "surprised",
+      "mood2": "neutral",
+      "pose1": "think",
+      "pose2": "none",
+      "url": "https://zdnet.co.kr/view/?no=20261104095657"
+    },
+    {
+      "a": "hyewon",
+      "line1": "100일의 거짓말, 화제성 2주 연속 1위래요",
+      "line2": "거짓말로 시작한 사이, 어떻게 될지 나도 궁금해",
+      "mood1": "smile",
+      "mood2": "neutral",
+      "pose1": "talkto",
+      "pose2": "think"
+    },
+    {
+      "a": "hyewon",
+      "line1": "꿀알바 2화는 경훈씨랑 같이 보려고 아껴 뒀어요",
+      "line2": "쿠션 하나로 되겠어? 나도 옆자리 예약할래",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "charm"
+    },
+    {
+      "a": "jiwon",
+      "line1": "퇴근길 바람이 차서 트렌치 깃 세우고 걸었어",
+      "line2": "전 내일 신을 레인부츠 현관에 꺼내 뒀어요",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "down",
+      "pose2": "thumbs"
+    },
+    {
+      "a": "hyewon",
+      "line1": "저녁 먹다가도 경훈씨는 뭐 드실까 궁금해요",
+      "line2": "나도 숟가락 들 때마다 그 생각부터 나더라",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "heart",
+      "pose2": "love"
+    },
+    {
+      "a": "jiwon",
+      "line1": "내일 아침 경훈씨 우산은 내가 받아 드릴 거야",
+      "line2": "그럼 전 젖은 구두 닦을 따뜻한 수건 준비할게요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "squabble",
+      "pose2": "squabble"
+    },
+    {
+      "a": "hyewon",
+      "line1": "썸은 찹쌀초코처럼 겉은 쫀득, 속은 달달하래요",
+      "line2": "너 또 누구 생각하면서 디저트 고르는 거지?",
+      "mood1": "smile",
+      "mood2": "surprised",
+      "pose1": "charm",
+      "pose2": "look"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘 하루도 잘 버텼어, 저녁은 따뜻한 걸로 먹자",
+      "line2": "언니도요, 내일 아침에 또 웃으면서 만나요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "wave",
+      "pose2": "highfive"
+    }
+  ]
 }
