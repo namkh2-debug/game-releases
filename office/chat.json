@@ -1,111 +1,112 @@
 {
-  "updatedAt": "2026-11-04T19:10:00+09:00",
+  "updatedAt": "2026-11-04T20:04:59+09:00",
   "topics": [
-    "엘더스크롤6 센티널 부제 공개",
-    "아키에이지 크로니클 스팀 출시",
-    "재혼 황후 디즈니+ 1위 이어가기",
-    "언더커버 셰프 예능",
-    "모찌빵 퇴근길 이어가기",
-    "저녁 네이비 셋업 옷차림",
-    "경훈씨 웃음소리 애정",
-    "회의 자료 정성 경쟁",
-    "옆자리 고마움 응원"
+    "한국시리즈 2차전 디아즈 첫 3루타",
+    "길드워 애프터라이프 DLC 1월 13일",
+    "뮤 테오스 지스타 티저",
+    "닥터X 9회 금요일",
+    "마산 국화축제 해상낙화놀이",
+    "능내역~북한강철교 가을 산책",
+    "저녁 귀가 트렌치·터틀넥·롱부츠 옷차림",
+    "경훈씨 사진 보며 일정 정리 애정",
+    "우디 향수 vs 원두 경쟁",
+    "수고한 나에게 라면 일상"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "엘더스크롤6 부제가 8년 만에 '센티널'이래",
-      "line2": "제목 하나 보려고 8년이요? 언니 인내심 대단해",
+      "line1": "디아즈가 한국 와서 첫 3루타를 쳤대",
+      "line2": "그 큰 몸으로 헤드퍼스트 슬라이딩? 대박",
       "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
+      "mood2": "surprised",
+      "pose1": "cheer",
       "pose2": "laugh",
-      "url": "https://www.yna.co.kr/view/AKR20261104027000017"
+      "url": "https://newspim.com/news/view/20261104001361"
     },
     {
       "a": "jiwon",
-      "line1": "아키에이지 크로니클 오늘 스팀에 나왔어, 3만6천원",
-      "line2": "언니 하우징부터 꾸밀 거죠? 집들이 불러줘요",
+      "line1": "길드워가 20년 만에 새 DLC를 낸대, 1월 13일",
+      "line2": "언니 연초 휴가 계획 벌써 세웠죠?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "thumbs",
-      "pose2": "charm",
-      "url": "https://www.ddaily.co.kr/page/view/2026110409174310409"
+      "pose2": "talkto",
+      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61996"
+    },
+    {
+      "a": "jiwon",
+      "line1": "뮤 테오스 티저는 지스타에서 처음 튼대",
+      "line2": "언니 부산 출장 핑계 찾는 눈빛이에요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "think",
+      "pose2": "laugh",
+      "url": "https://www.wikitree.co.kr/articles/1171681"
     },
     {
       "a": "hyewon",
-      "line1": "재혼 황후 디즈니+ 1위 바로 찍었대요",
-      "line2": "어제 1화 보고 잠 못 잤다던 거 그거지?",
-      "mood1": "surprised",
+      "line1": "닥터X 9회는 금요일 밤 9시 50분이래요",
+      "line2": "그날은 야근 없이 칼퇴하자, 꼭",
+      "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "look",
-      "url": "https://isplus.com/article/view/isp202611040087"
-    },
-    {
-      "a": "hyewon",
-      "line1": "5, 6화는 다음 주 수요일이래요, 너무 멀어",
-      "line2": "그때까지 원작 웹툰으로 버텨 보자",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "sulk",
-      "pose2": "cheer",
-      "url": "https://isplus.com/article/view/isp202611040087"
-    },
-    {
-      "a": "jiwon",
-      "line1": "언더커버 셰프 정지선 셰프 편 봤어?",
-      "line2": "언니 보고 나면 또 주말에 딤섬 빚는다 할 듯",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "coffee",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202611040155"
-    },
-    {
-      "a": "hyewon",
-      "line1": "모찌빵 사러 수지 가는 길이에요, 줄 길까요?",
-      "line2": "황치즈 남으면 나도 하나만 남겨 줘",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "charm"
-    },
-    {
-      "a": "jiwon",
-      "line1": "네이비 셋업에 버건디 니트, 오늘 끝까지 무난했지?",
-      "line2": "퇴근길 조명 아래서 보니 더 근사해요",
-      "mood1": "neutral",
-      "mood2": "smile",
-      "pose1": "charm",
       "pose2": "thumbs"
     },
     {
       "a": "hyewon",
-      "line1": "경훈씨 웃음소리 들리면 하루가 덜 길어요",
-      "line2": "맞아, 그 목소리 하나로 오후가 버텨지지",
-      "mood1": "smile",
+      "line1": "마산 밤바다에 꽃잎 같은 불꽃이 쏟아졌대요",
+      "line2": "해상 낙화라니, 사진만 봐도 설렌다",
+      "mood1": "surprised",
       "mood2": "smile",
-      "pose1": "heart",
-      "pose2": "love"
-    },
-    {
-      "a": "jiwon",
-      "line1": "내일 회의 자료는 내가 표까지 예쁘게 짤 거야",
-      "line2": "전 첫 장에 경훈씨 좋아하는 색 넣을래요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "squabble",
-      "pose2": "squabble"
+      "pose1": "wave",
+      "pose2": "look",
+      "url": "https://www.yna.co.kr/view/AKR20261104144300052"
     },
     {
       "a": "hyewon",
-      "line1": "언니, 오늘도 옆자리라서 든든했어요",
-      "line2": "나도야, 내일도 같이 힘내 보자",
+      "line1": "능내역에서 북한강철교까지 가을길이 예쁘대요",
+      "line2": "주말에 걷고 경훈씨 보여 드릴 사진도 찍자",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "highfive"
+      "pose2": "highfive",
+      "url": "https://www.yna.co.kr/view/AKR20261104173000542"
+    },
+    {
+      "a": "jiwon",
+      "line1": "집 오자마자 트렌치 벗으니 터틀넥만 남았어",
+      "line2": "전 롱부츠 벗자마자 발가락이 만세해요",
+      "mood1": "neutral",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "coffee"
+    },
+    {
+      "a": "hyewon",
+      "line1": "경훈씨 사진 보면서 내일 일정 정리했어요",
+      "line2": "그거 핑계지? 사실 나도 똑같이 했어",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "heart",
+      "pose2": "laugh"
+    },
+    {
+      "a": "hyewon",
+      "line1": "내일은 경훈씨 좋아하실 우디 향 뿌릴래요",
+      "line2": "흥, 난 경훈씨 취향 원두 새로 사 뒀지",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "charm",
+      "pose2": "squabble"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘 수고한 나한테 라면 한 그릇 줄래",
+      "line2": "언니, 계란은 꼭 두 개 넣어요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "down",
+      "pose2": "cheer"
     }
   ]
 }
