@@ -1,110 +1,110 @@
 {
-  "updatedAt": "2026-11-04T21:06:57+09:00",
+  "updatedAt": "2026-11-04T22:08:41+09:00",
   "topics": [
-    "한국시리즈 2차전 고영표 7이닝 1실점",
-    "나혼렙 오버드라이브 PS5 출시",
-    "크로노 오디세이 팔라딘 영상",
-    "K-디저트 파삭 코엑스 팝업",
-    "캐릭캐릭체인지 카페 추억 투어",
-    "델굴 모찌빵 이어가기",
-    "밤 니트 손빨래·원피스 스팀 옷차림",
-    "밤 목소리 그리움 애정",
-    "결재판 스티커 vs 웃는 얼굴 경쟁",
-    "밤 아홉 시 고백 썸 농담"
+    "한국시리즈 2차전 연장 디아즈 적시타",
+    "삼성 기흥 파운드리 카이로스 재테크",
+    "스벅 겨울 e-프리퀀시 17잔 몰스킨",
+    "토피 넛 라떼 4천만 잔",
+    "델굴 모찌빵 구매 이어가기",
+    "내일 비 대비 레인부츠·네이비 셋업 옷차림",
+    "자기 전 경훈씨 생각 애정",
+    "우산 털기 vs 따뜻한 수건 경쟁",
+    "메모 칭찬 귀여운 질투",
+    "옆자리 든든함 우정"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "고영표가 오늘 7이닝 1실점으로 버텼대",
-      "line2": "언니 퇴근하고 계속 중계만 보고 있죠?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "thumbs",
-      "pose2": "talkto",
-      "url": "https://www.mydaily.co.kr/page/view/2026110420475345340"
-    },
-    {
-      "a": "jiwon",
-      "line1": "나혼렙 오버드라이브가 오늘 PS5로 나왔어",
-      "line2": "패링 연습한다고 주말 다 쓰실 거죠?",
-      "mood1": "smile",
+      "line1": "KS 2차전 연장 10회에 디아즈가 적시타 쳤대",
+      "line2": "언니 아직도 중계 끄고 못 자는 거죠?",
+      "mood1": "surprised",
       "mood2": "smile",
       "pose1": "cheer",
-      "pose2": "laugh",
-      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901874"
+      "pose2": "talkto",
+      "url": "https://www.sportschosun.com/baseball/2026-11-04/202611040100032890003408"
     },
     {
       "a": "jiwon",
-      "line1": "크로노 오디세이 팔라딘, 창이랑 방패 쓰더라",
-      "line2": "언니 탱커 하면 저 뒤에 숨을래요",
+      "line1": "삼성이 기흥에 파운드리 '카이로스' 추진한대",
+      "line2": "언니 또 반도체주 장바구니 담는 소리 들려요",
       "mood1": "neutral",
       "mood2": "smile",
       "pose1": "think",
-      "pose2": "charm",
-      "url": "https://www.kakaogamescorp.com/news/press/detail/2442"
+      "pose2": "laugh"
     },
     {
       "a": "hyewon",
-      "line1": "내일부터 코엑스에서 K-디저트 파삭 팝업해요",
-      "line2": "너 그거 첫날 내가 간다고 했잖아",
+      "line1": "스벅 e-프리퀀시 17잔이면 몰스킨 플래너래요",
+      "line2": "그럼 내일부터 커피 심부름은 내가 할게",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "wave",
-      "pose2": "squabble"
+      "pose1": "coffee",
+      "pose2": "coffee",
+      "url": "https://www.imaeil.com/page/view/2026102109525179938"
     },
     {
       "a": "hyewon",
-      "line1": "용산에 캐릭캐릭체인지 카페가 생겼대요",
-      "line2": "추억 카페 투어, 사쿠라 다음 코스네",
+      "line1": "토피 넛 라떼가 누적 4천만 잔 넘었대요",
+      "line2": "그중 몇 잔은 우리 사무실 지분이야",
       "mood1": "surprised",
       "mood2": "smile",
       "pose1": "talkto",
-      "pose2": "look"
-    },
-    {
-      "a": "hyewon",
-      "line1": "델굴 모찌빵 사 왔어요, 황치즈 두 개요",
-      "line2": "약속 지켰네, 하나는 내 거 맞지?",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "heart"
+      "pose2": "laugh",
+      "url": "https://www.shinsegaegroupnewsroom.com/starbucks-winter-christmas-season/"
     },
     {
       "a": "jiwon",
-      "line1": "니트는 손빨래해서 베란다에 널어 뒀어",
-      "line2": "전 원피스 구김 펴려고 스팀다리미 켰어요",
+      "line1": "모찌빵 결국 퇴근길에 사 왔어?",
+      "line2": "황치즈 사빠딸 둘 다요, 내일 아침 기대해요",
       "mood1": "neutral",
       "mood2": "smile",
-      "pose1": "down",
-      "pose2": "talkto"
+      "pose1": "talkto",
+      "pose2": "thumbs"
     },
     {
       "a": "hyewon",
-      "line1": "이 시간엔 경훈씨 목소리가 제일 그리워요",
-      "line2": "나도, 내일 아침 첫인사 생각하며 자야지",
-      "mood1": "sad",
+      "line1": "내일 비 온다길래 레인부츠 현관에 꺼내놨어요",
+      "line2": "나도 네이비 셋업 다려서 걸어 뒀어",
+      "mood1": "smile",
       "mood2": "smile",
-      "pose1": "love",
-      "pose2": "heart"
+      "pose1": "down",
+      "pose2": "charm"
     },
     {
       "a": "jiwon",
-      "line1": "내일은 내가 경훈씨 결재판에 꽃 스티커 붙일래",
-      "line2": "그럼 전 첫 장에 웃는 얼굴 그려 둘게요",
+      "line1": "자기 전에 경훈씨 오늘 표정 자꾸 떠올라",
+      "line2": "저도요, 내일 얼굴 보는 게 벌써 설레요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "faceoff"
+      "pose1": "heart",
+      "pose2": "love"
     },
     {
       "a": "hyewon",
-      "line1": "밤 아홉 시는 고백하기 딱 좋은 시간이래요",
-      "line2": "얘, 그 문자 누구한테 보내려는 거야?",
+      "line1": "내일 아침 우산 털어 드리는 건 제가 할래요",
+      "line2": "그럼 난 따뜻한 수건 먼저 건네드릴 거야",
       "mood1": "smile",
-      "mood2": "surprised",
+      "mood2": "smile",
       "pose1": "charm",
-      "pose2": "laugh"
+      "pose2": "squabble"
+    },
+    {
+      "a": "jiwon",
+      "line1": "혜원아, 아까 경훈씨가 네 메모만 칭찬하시더라",
+      "line2": "에이, 언니 보고서엔 별표까지 치셨잖아요",
+      "mood1": "sad",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "highfive"
+    },
+    {
+      "a": "hyewon",
+      "line1": "언니, 오늘도 옆자리라 든든했어요",
+      "line2": "나도야, 우리 내일도 웃으면서 하자",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "look",
+      "pose2": "look"
     }
   ]
 }
