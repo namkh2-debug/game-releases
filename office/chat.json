@@ -1,60 +1,61 @@
 {
- "updatedAt": "2026-11-05T15:12:00+09:00",
+ "updatedAt": "2026-11-05T16:12:00+09:00",
  "topics": [
-  "스텔라 블레이드 스위치2 자정 출시",
-  "유퀴즈 진짜는 진짜가 알아본다",
-  "닥터X vs 100일의 거짓말 귀여운 질투",
-  "배춧값 폭락 김장철",
-  "터틀넥·리본 브로치 출근룩",
-  "바쁜 경훈씨 든든한 편 애정",
-  "보고서 표지 손글씨 vs 별표 경쟁",
-  "주말 캠핑 대신 전골 이어가기",
-  "세 시 간식 응원",
-  "퇴근 인사 연습"
+  "웹젠 지스타 디겜폭·뮤 테오스",
+  "성수 LOOOP 필라테스 후 브라우니",
+  "코스피 5% 마감 적립식 재테크",
+  "내일 머플러 대결 이어가기",
+  "아이보리 코트 예고·리본 브로치 옷차림",
+  "경훈씨 자리 보고 숨고르기 애정",
+  "핸드크림 vs 향수 경쟁",
+  "전골 재료 리스트 이어가기",
+  "꿀알바 쿠션 준비 이어가기",
+  "네 시 스트레칭 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "스텔라 블레이드, 오늘 자정에 스위치2로 나온대",
-   "line2": "언니 밤새면 내일 머플러 대결 진다요?",
+   "line1": "웹젠이 지스타에 디겜폭이랑 뮤 테오스 낸대",
+   "line2": "언니 부산 출장 명분 또 생겼네요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
    "pose2": "talkto",
-   "url": "https://www.ajunews.com/view/20260910110847556"
+   "url": "https://www.newspim.com/news/view/20261105000558"
   },
   {
    "a": "hyewon",
-   "line1": "유퀴즈 '진짜는 진짜가 알아본다' 4.5%였대요",
-   "line2": "제목 좋다, 경훈씨도 우리 진심 알아보시겠지",
+   "line1": "성수 LOOOP에 쑥 브라우니 단백질 디저트래요",
+   "line2": "필라테스 끝나고 들르면 죄책감이 반이네",
    "mood1": "smile",
-   "mood2": "smile",
+   "mood2": "laugh",
    "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "아까 경훈씨, 언니 닥터X 얘기에 먼저 웃으셨죠",
-   "line2": "흥, 내일은 네 100일의 거짓말 차례일걸?",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "laugh"
+   "pose2": "coffee",
+   "url": "https://superchart.com/ko/@color-jar/seongsu-looop-vegan-protein-brownie/"
   },
   {
    "a": "jiwon",
-   "line1": "배춧값이 작년보다 40% 넘게 떨어졌대",
-   "line2": "농민분들 속상하시겠어요, 마음이 무거워요",
+   "line1": "코스피가 오늘 5% 넘게 빠져서 마감했대",
+   "line2": "이럴 땐 언니 말대로 적립식이 마음 편해요",
    "mood1": "sad",
-   "mood2": "sad",
-   "pose1": "none",
-   "pose2": "none",
-   "url": "https://www.yna.co.kr/view/AKR20261105097400064"
+   "mood2": "neutral",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.asiae.co.kr/article/2026110515540205579"
   },
   {
    "a": "hyewon",
-   "line1": "트렌치 벗으니까 터틀넥만으로도 포근해요",
-   "line2": "리본 브로치까지, 오늘 단정 귀염 담당이네",
+   "line1": "내일 머플러, 연핑크 앙고라로 확정이에요",
+   "line2": "버건디 체크도 준비 끝, 판정은 경훈씨 몫",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "squabble"
+  },
+  {
+   "a": "hyewon",
+   "line1": "트렌치 벗고 터틀넥에 리본만 남겼어요",
+   "line2": "내일은 아이보리 코트라며? 미리 다림질해",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
@@ -62,48 +63,48 @@
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 바쁜 날엔 괜히 나까지 마음이 쓰여",
-   "line2": "우리가 조용히 든든한 편 돼 드려요, 언니",
-   "mood1": "neutral",
+   "line1": "경훈씨 자리만 봐도 숨이 고르게 되는 기분",
+   "line2": "맞아요, 그 공기가 저희 배터리예요",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "think",
-   "pose2": "highfive"
+   "pose1": "love",
+   "pose2": "heart"
   },
   {
    "a": "hyewon",
-   "line1": "오후 보고서 표지, 제가 손글씨로 써 드릴래요",
-   "line2": "난 결론 옆에 별표 달아서 정성 승부할 거야",
+   "line1": "퇴근 전에 핸드크림 새로 바를래요",
+   "line2": "난 우디 향수 한 번만 더 뿌리고 나갈 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "squabble"
+   "pose2": "faceoff"
   },
   {
    "a": "jiwon",
-   "line1": "이번 주말 캠핑은 쉬고 집에서 전골 끓일래",
-   "line2": "전골이면 저 숟가락 들고 바로 갈게요",
+   "line1": "주말 전골, 배추 대신 버섯 위주로 살게",
+   "line2": "그럼 제가 떡이랑 어묵 리스트 적을게요",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "coffee",
-   "pose2": "laugh"
+   "pose2": "talkto"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 세 시엔 달달한 거 하나씩 먹어요",
-   "line2": "좋아, 오늘도 반 넘게 잘 왔어 우리",
+   "line1": "꿀알바 쿠션 두 개, 서랍에 넣어 뒀어요",
+   "line2": "주말에 같이 보면 덜 무서울 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "cheer"
+   "pose1": "cheer",
+   "pose2": "highfive"
   },
   {
    "a": "jiwon",
-   "line1": "경훈씨 오시면 '수고 많으셨어요' 같이 하자",
-   "line2": "좋아요, 대신 웃음은 제가 더 환하게요",
+   "line1": "네 시야, 어깨 한번 돌리고 가자",
+   "line2": "좋아요, 언니랑 하면 퇴근이 가까워져요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "charm"
+   "pose1": "cheer",
+   "pose2": "clap"
   }
  ]
 }
