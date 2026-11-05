@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-11-05T22:04:26+09:00",
+  "updatedAt": "2026-11-05T23:10:15+09:00",
   "topics": [
-    "호날두 대표팀 은퇴",
-    "코스피 급락 재테크",
-    "옆자리 프란체스카 웨이브 6일",
-    "유일무이 로맨스 티빙 9일",
-    "가능한 사랑 주말 이어가기",
-    "연핑크 네일 하트 파츠",
-    "경훈씨 하루 무사히 애정",
-    "향수 vs 핸드드립 경쟁",
-    "자니? 썸 농담",
+    "스텔라 블레이드 스위치2 내일",
+    "내장산 단풍 주말 절정",
+    "올기 찹쌀초코 이어가기",
+    "아이보리 코트·연핑크 머플러 내일룩",
+    "경훈씨 편히 주무시길 애정",
+    "무릎담요 vs 핫초코 경쟁",
+    "엘리베이터 자리 귀여운 질투",
+    "야근 간식 설렘 농담",
+    "주말 전골 이어가기",
     "목요일 밤 서로 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "호날두가 대표팀 7번 유니폼을 내려놨대",
-      "line2": "23년이라니, 기립박수 쳐 드리고 싶어요",
-      "mood1": "surprised",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "clap",
-      "url": "https://www.yna.co.kr/view/AKR20261105177251007"
-    },
-    {
-      "a": "jiwon",
-      "line1": "오늘 코스피가 5%대로 빠졌더라",
-      "line2": "이런 날은 앱 끄고 일찍 자는 게 재테크죠",
-      "mood1": "sad",
-      "mood2": "smile",
-      "pose1": "think",
-      "pose2": "coffee",
-      "url": "https://www.yna.co.kr/view/AKR20261105155400011"
-    },
-    {
-      "a": "hyewon",
-      "line1": "내일 웨이브에 '옆자리, 프란체스카' 나와요",
-      "line2": "안녕 프란체스카 스핀오프? 추억 소환이다",
+      "line1": "스텔라 블레이드 스위치2, 내일 나온대",
+      "line2": "출퇴근용으로 딱이겠어요, 언니",
       "mood1": "smile",
       "mood2": "surprised",
-      "pose1": "talkto",
-      "pose2": "laugh"
+      "pose1": "cheer",
+      "pose2": "talkto",
+      "url": "https://www.yna.co.kr/view/AKR20261102154100017"
     },
     {
       "a": "hyewon",
-      "line1": "티빙 '유일무이 로맨스'는 9일 공개래요",
-      "line2": "톱스타 매니저 얘기라며? 우리 일 같네",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "talkto",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "'가능한 사랑'은 주말에 같이 볼 거지?",
-      "line2": "팝콘은 제가, 무릎 담요는 언니 담당!",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "look",
-      "pose2": "look"
-    },
-    {
-      "a": "hyewon",
-      "line1": "네일 연핑크로 바꾸고 하트 하나 올렸어요",
-      "line2": "머플러랑 깔맞춤이네, 디테일 장인이다",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "thumbs"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 오늘 하루도 무사히 마치셨겠지?",
-      "line2": "떠올리기만 해도 마음이 몽글몽글해요",
+      "line1": "내장산 단풍, 주말 7~8일이 절정래요",
+      "line2": "빼빼로데이에 단풍 산책이면 낭만이죠",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "heart",
-      "pose2": "love"
+      "pose2": "look",
+      "url": "https://www.yna.co.kr/view/AKR20261105061400055"
     },
     {
       "a": "hyewon",
-      "line1": "내일은 은은한 향수 뿌리고 경훈씨 맞을래요",
-      "line2": "그럼 난 핸드드립 커피 향으로 이길 거야",
+      "line1": "내일 점심엔 올기 찹쌀초코 선수치겠어요",
+      "line2": "모찌빵 승리에 이어서 2연승이야",
       "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "charm",
+      "mood2": "laugh",
+      "pose1": "thumbs",
       "pose2": "squabble"
     },
     {
-      "a": "jiwon",
-      "line1": "썸은 밤 10시 넘은 '자니?'부터래",
-      "line2": "언니, 그 문자 누구한테 보낼 건데요?",
+      "a": "hyewon",
+      "line1": "내일은 아이보리 코트에 연핑크 머플러예요",
+      "line2": "버건디 체크랑 대결, 판정은 경훈씨!",
       "mood1": "smile",
-      "mood2": "surprised",
-      "pose1": "laugh",
-      "pose2": "talkto"
+      "mood2": "charm",
+      "pose1": "wave",
+      "pose2": "faceoff"
+    },
+    {
+      "a": "jiwon",
+      "line1": "경훈씨 오늘 밤은 푹 쉬셨으면 좋겠어",
+      "line2": "꿈속에서도 저희 응원 소리가 들리게요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "love",
+      "pose2": "heart"
     },
     {
       "a": "hyewon",
-      "line1": "언니 오늘도 진짜 고생 많았어요",
-      "line2": "너도. 따뜻하게 자고 내일 웃으며 보자",
+      "line1": "내일 경훈씨 무릎담요는 제가 먼저예요",
+      "line2": "난 핫초코로 손부터 녹여 드릴 거야",
+      "mood1": "smile",
+      "mood2": "laugh",
+      "pose1": "cheer",
+      "pose2": "highfive"
+    },
+    {
+      "a": "jiwon",
+      "line1": "아까 엘리베이터, 혜원 네가 안쪽이었지?",
+      "line2": "헤헤, 맞은편이 더 잘 보이던데요",
+      "mood1": "sulk",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "charm"
+    },
+    {
+      "a": "hyewon",
+      "line1": "야근 간식은… 둘이서 나눠 먹는 거래요",
+      "line2": "언니는 누구랑 나눌 생각인데요?",
+      "mood1": "charm",
+      "mood2": "surprised",
+      "pose1": "think",
+      "pose2": "talkto"
+    },
+    {
+      "a": "jiwon",
+      "line1": "주말 전골, 우동사리랑 죽까지 기억하지?",
+      "line2": "네, 재료 리스트 내일 아침에 점검해요",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "coffee",
+      "pose2": "clap"
+    },
+    {
+      "a": "jiwon",
+      "line1": "목요일 밤까지 버틴 우리, 정말 잘했어",
+      "line2": "언니도요. 따뜻하게 자고 내일 봐요",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "highfive",
