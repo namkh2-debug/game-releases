@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-11-04T09:06:38+09:00",
- "from": "2026-11-04",
+ "updatedAt": "2026-11-05T09:05:23+09:00",
+ "from": "2026-11-05",
  "to": "2027-02-28",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -22,69 +22,6 @@
   "2027-02-09": "대체공휴일"
  },
  "games": [
-  {
-   "date": "2026-11-04",
-   "title": "보이드/브레이커 정식",
-   "en": "Void/Breaker",
-   "short": "보이드브레이커",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "FPS",
-   "price": "",
-   "korean": "미확인",
-   "note": "앞서 해보기 종료",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-04",
-   "title": "라이트이어 프론티어 정식",
-   "en": "Lightyear Frontier",
-   "short": "라이트이어",
-   "platforms": [
-    "steam",
-    "etc"
-   ],
-   "genre": "농장·샌드박스",
-   "price": "",
-   "korean": "미확인",
-   "note": "앞서 해보기 종료",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-04",
-   "title": "헐 럽처",
-   "en": "Hull Rupture",
-   "short": "헐럽처",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "타워디펜스 로그라이트",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-04",
-   "title": "테오스: 시티즈 오브 미스",
-   "en": "Theos: Cities Of Myth",
-   "short": "테오스",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "도시 건설",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
   {
    "date": "2026-11-05",
    "title": "젤다의 전설 시간의 오카리나",
@@ -395,6 +332,21 @@
    "major": false
   },
   {
+   "date": "2026-11-10",
+   "title": "테이크오버 2",
+   "en": "Takeover 2",
+   "short": "테이크오버2",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-11-12",
    "title": "메타포: 리판타지오 (스위치2)",
    "en": "Metaphor: ReFantazio",
@@ -583,6 +535,36 @@
    "major": false
   },
   {
+   "date": "2026-11-17",
+   "title": "문라이트 피크스 (PS5)",
+   "en": "Moonlight Peaks",
+   "short": "문라이트피크스",
+   "platforms": [
+    "ps"
+   ],
+   "genre": "생활 시뮬",
+   "price": "",
+   "korean": "미확인",
+   "note": "PS5판 추가",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-17",
+   "title": "던 오브 디펜스",
+   "en": "Dawn of Defense",
+   "short": "던오브디펜스",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "디펜스",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-11-19",
    "title": "GTA 6",
    "en": "Grand Theft Auto VI",
@@ -659,6 +641,21 @@
    "major": false
   },
   {
+   "date": "2026-11-19",
+   "title": "볼트건 2 (스위치2)",
+   "en": "Warhammer 40,000: Boltgun 2",
+   "short": "볼트건2",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "FPS",
+   "price": "",
+   "korean": "미확인",
+   "note": "스위치 2판 추가",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-11-24",
    "title": "고딕 3 클래식",
    "en": "Gothic 3 Classic",
@@ -721,6 +718,21 @@
    "major": false
   },
   {
+   "date": "2026-11-30",
+   "title": "그림킵",
+   "en": "GrimKeep",
+   "short": "그림킵",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-12-01",
    "title": "헬라: 쥐와 마법",
    "en": "Hela: Of Mice & Magic",
@@ -735,6 +747,21 @@
    "price": "",
    "korean": "미확인",
    "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-02",
+   "title": "에머리 하츠",
+   "en": "Emery Hearts",
+   "short": "에머리하츠",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "",
+   "price": "",
+   "korean": "미확인",
+   "note": "11/5에서 연기",
    "url": "",
    "major": false
   },
@@ -1534,23 +1561,6 @@
   },
   {
    "date": "2027-02-04",
-   "title": "메트로 2039",
-   "en": "Metro 2039",
-   "short": "메트로2039",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "FPS",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
-   "major": true
-  },
-  {
-   "date": "2027-02-04",
    "title": "오보로 무라마사 괴기담",
    "en": "Muramasa: Revenant Blades",
    "short": "무라마사",
@@ -1598,6 +1608,23 @@
    "note": "스위치 2판 (일본 기준)",
    "url": "",
    "major": false
+  },
+  {
+   "date": "2027-02-05",
+   "title": "메트로 2039",
+   "en": "Metro 2039",
+   "short": "메트로2039",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "FPS",
+   "price": "",
+   "korean": "미확인",
+   "note": "아시아 2/5 (북미 2/4)",
+   "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
+   "major": true
   },
   {
    "date": "2027-02-08",
@@ -1648,21 +1675,6 @@
    "korean": "미확인",
    "note": "1편 리메이크",
    "url": "https://www.tombraider.com/news/video-games/pre-orders-are-open-for-tomb-raider-legacy-of-atlantis",
-   "major": true
-  },
-  {
-   "date": "2027-02-16",
-   "title": "갓 오브 워 라우페이",
-   "en": "God of War Laufey",
-   "short": "GOW라우페이",
-   "platforms": [
-    "ps"
-   ],
-   "genre": "액션 어드벤처",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
    "major": true
   },
   {
