@@ -1,111 +1,110 @@
 {
- "updatedAt": "2026-11-05T13:15:00+09:00",
+ "updatedAt": "2026-11-05T14:08:00+09:00",
  "topics": [
-  "코스피 급락 레버리지 개미",
-  "정우성 살생부 한명회",
-  "나노 컨트롤러 진동 없음 이어가기",
-  "CU 생딸기 휩크림 샌드위치",
-  "아이보리 터틀넥·트렌치 출근룩",
-  "경훈씨 점심 안부 애정",
-  "오후 보고 정성 경쟁",
-  "추위와 손잡기 썸 농담",
-  "꿀알바 2화 같이 보기 이어가기",
-  "오후 응원"
+  "웨어 더 시드 폴 출시",
+  "데블스 플랜3 장동민",
+  "9월 경상흑자 최대 재테크",
+  "블랙 도브 시즌2 이어가기",
+  "리본 브로치·터틀넥 출근룩",
+  "내일 머플러 대결 경쟁",
+  "쿠라리에 오픈 초콜릿 경쟁",
+  "피곤한 경훈씨 초콜릿 애정",
+  "연애박사 밀당 썸 농담",
+  "오후 두 시 졸음 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "증시 급락에 레버리지 탄 개미들 한숨이래",
-   "line2": "언니 계좌는 무사해요? 표정이 수상한데요",
-   "mood1": "sad",
-   "mood2": "surprised",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.ytn.co.kr/_ln/0102_202611051022054936_001"
+   "line1": "웨어 더 시드 폴 오늘 나왔대, 스팀에도",
+   "line2": "메인 스토리 3시간이면 언니 하룻밤 컷이죠",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh",
+   "url": "https://www.gamechosun.co.kr/webzine/article/view.php?no=224947"
   },
   {
    "a": "hyewon",
-   "line1": "정우성이 영화 살생부에서 한명회 한대요",
-   "line2": "냉혹한 정우성이라니, 벌써 기대된다",
+   "line1": "데블스 플랜3 10일 공개래요, 장동민 또 나와요",
+   "line2": "은퇴 없다더니, 이번엔 누가 막을까 궁금하다",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/view/AKR20261105051400005"
+   "pose2": "think",
+   "url": "https://www.news1.kr/entertain/broadcast-tv/6344144"
   },
   {
    "a": "jiwon",
-   "line1": "나노 컨트롤러 99g인데 진동은 없더라",
-   "line2": "언니 캠핑 가서 하려던 거죠? 다 보여요",
-   "mood1": "neutral",
+   "line1": "9월 경상흑자가 614억달러로 역대 최대래",
+   "line2": "언니는 이런 기사 보면 눈이 반짝하더라",
+   "mood1": "surprised",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261103169800017"
+   "pose2": "talkto",
+   "url": "https://www.yna.co.kr/view/AKR20261105019951002"
   },
   {
    "a": "hyewon",
-   "line1": "CU에서 생딸기 휩크림 샌드위치 나왔대요",
-   "line2": "딸기 철 시작이네, 퇴근길에 하나씩?",
+   "line1": "언니, 블랙 도브 시즌2 몇 편까지 봤어요?",
+   "line2": "세 편째야, 오늘 밤 나머지 끝낼 거야",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "coffee",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "재킷에 리본 브로치 달았는데 눈에 띄어요?",
+   "line2": "응, 아이보리 터틀넥이랑 딱 어울려",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
-   "pose2": "coffee",
-   "url": "https://www.etnews.com/20261105000164"
-  },
-  {
-   "a": "jiwon",
-   "line1": "혜원이 아이보리 터틀넥, 네이비랑 찰떡이다",
-   "line2": "언니 트렌치 벨트 묶은 것도 멋있어요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "look"
+   "pose2": "thumbs"
   },
   {
    "a": "hyewon",
-   "line1": "경훈씨 점심 맛있게 드셨을까 궁금해요",
-   "line2": "나도. 오후엔 따뜻한 차 한 잔 챙겨드리자",
+   "line1": "내일 머플러 대결, 연핑크 앙고라로 갈게요",
+   "line2": "버건디 체크도 만만치 않을걸? 진 사람 커피!",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "heart",
-   "pose2": "love"
-  },
-  {
-   "a": "jiwon",
-   "line1": "오후 보고는 내가 표로 깔끔하게 정리할게",
-   "line2": "전 요약 한 장에 응원 포스트잇까지요!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "charm",
    "pose2": "squabble"
   },
   {
    "a": "hyewon",
-   "line1": "추워지면 손잡을 핑계 생겨서 좋대요",
-   "line2": "주머니에 손 넣어주는 거? 그건 반칙이지",
+   "line1": "성수에 쿠라리에 12일 오픈, 초콜릿 제가 먼저요",
+   "line2": "흥, 나는 라테 바부터 경훈씨 몫 챙길 거야",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "charm",
+   "pose1": "cheer",
+   "pose2": "faceoff"
+  },
+  {
+   "a": "jiwon",
+   "line1": "회의실 나오실 때 경훈씨 표정 봤어? 피곤해 보여",
+   "line2": "그래서 책상에 초콜릿 두 알 몰래 놔뒀어요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "heart"
+  },
+  {
+   "a": "hyewon",
+   "line1": "연애박사 보니까 밀당도 기술이래요, 언니",
+   "line2": "난 밀당 못 해, 당기기만 하다 끝나",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "look",
    "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "꿀알바 2화, 경훈씨랑 같이 본다며?",
-   "line2": "네, 쿠션 두 개 대기 중이에요 언니",
-   "mood1": "smile",
+   "line1": "오후 두 시는 눈꺼풀이 제일 무거운 시간이야",
+   "line2": "언니 어깨 주물러 줄게요, 조금만 버텨요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "오후도 우리 둘이 경훈씨 곁에서 힘내요",
-   "line2": "응, 퇴근하실 때까지 든든하게 지키자!",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "highfive"
+   "pose1": "down",
+   "pose2": "cheer"
   }
  ]
 }
