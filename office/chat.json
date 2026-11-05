@@ -1,112 +1,118 @@
 {
- "updatedAt": "2026-11-05T08:01:00+09:00",
+ "updatedAt": "2026-11-05T09:22:00+09:00",
  "topics": [
-  "황인범 UCL 도움",
-  "듄 파트3 코엑스 팝업",
-  "파삭 팝업 첫날",
-  "드래곤포니 콜링 백",
-  "반계리 은행나무 생중계",
-  "캐릭캐릭체인지 카페 이어가기",
-  "레인부츠·트렌치 출근룩",
-  "비 오는 아침 경훈씨 목소리 애정",
-  "회의 메모 vs 핸드크림 경쟁",
-  "빗소리 집중 응원"
+  "오딘Q 1월 출시",
+  "삼전 프리마켓 약세 재테크",
+  "레드핫 피자호빵 캠핑 간식",
+  "꿀알바 51개국 이어가기",
+  "비서진 경력직 비서",
+  "100일의 거짓말 눈빛 설렘 농담",
+  "트렌치·차콜 니트 출근룩",
+  "점심 메뉴 vs 우산 말리기 경쟁",
+  "모찌빵 vs 생강차 귀여운 질투",
+  "고마워 한마디 애정",
+  "목요일 오전 응원"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "황인범이 교체 2분 만에 도움 올렸대",
-   "line2": "언니 출근길에 하이라이트 세 번 본 거죠?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "clap",
-   "pose2": "laugh",
-   "url": "https://www.yna.co.kr/view/AKR20261105018700007"
-  },
-  {
-   "a": "jiwon",
-   "line1": "코엑스몰에 듄 파트3 팝업 22일까지래",
-   "line2": "언니는 모래벌레 굿즈 보면 지갑 열려요",
+   "line1": "오딘Q가 내년 1월 한·대만·일본 동시 출시래",
+   "line2": "언니 벌써 어느 직업 할지 고르는 눈빛이에요",
    "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://popupnow.plentyer.com/area/coex/2026-11/"
-  },
-  {
-   "a": "hyewon",
-   "line1": "언니 오늘 파삭 팝업 첫날이에요, 가요?",
-   "line2": "당연하지, 복주머니 세트 먼저 찜할 거야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "wave",
-   "pose2": "charm",
-   "url": "https://www.starfield.co.kr/coexmall/eventBenefit/events/EV202610301445123135"
-  },
-  {
-   "a": "hyewon",
-   "line1": "드래곤포니 새 싱글 오늘 저녁 6시래요",
-   "line2": "퇴근길 플레이리스트 정해졌네",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "thumbs",
-   "url": "https://www.yna.co.kr/news?site=navi_latest_depth01"
-  },
-  {
-   "a": "hyewon",
-   "line1": "원주 반계리 은행나무가 CCTV로 생중계돼요",
-   "line2": "주말 전에 화면으로 단풍 구경부터 하자",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "look",
-   "pose2": "look",
-   "url": "https://www.yna.co.kr/news?site=navi_latest_depth01"
-  },
-  {
-   "a": "jiwon",
-   "line1": "캐릭캐릭체인지 카페, 경훈씨 답 들었어?",
-   "line2": "아직요, 사쿠라파 쪽으로 기울게 할 거예요",
-   "mood1": "neutral",
    "mood2": "smile",
    "pose1": "think",
-   "pose2": "charm"
+   "pose2": "laugh"
   },
   {
-   "a": "hyewon",
-   "line1": "레인부츠 덕에 빗길 출근도 끄떡없었어요",
-   "line2": "난 트렌치 깃 세우고 우산 각도까지 맞췄지",
+   "a": "jiwon",
+   "line1": "삼전이 프리마켓부터 3%대 빠졌더라",
+   "line2": "언니, 오늘은 계좌 앱 잠깐 덮어 둬요",
+   "mood1": "sad",
+   "mood2": "neutral",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.fnnews.com/news/202611050816485132"
+  },
+  {
+   "a": "jiwon",
+   "line1": "내일 편의점에 레드핫 피자호빵 나온대",
+   "line2": "캠핑 화로에 데우면 완전 별미겠다",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "thumbs",
    "pose2": "charm"
   },
   {
+   "a": "hyewon",
+   "line1": "꿀알바가 51개국 TOP10에 들었대요",
+   "line2": "그래서 경훈씨랑 2화 약속 지키는 중이지?",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "laugh"
+  },
+  {
+   "a": "hyewon",
+   "line1": "비서진 이서진 같은 경력직은 언니죠?",
+   "line2": "센스는 너, 경력은 나, 둘 다 합격이야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "100일의 거짓말 박진영 눈빛은 반칙이에요",
+   "line2": "너 그 장면만 세 번 돌려 봤지?",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "laugh"
+  },
+  {
    "a": "jiwon",
-   "line1": "비 오는 아침엔 경훈씨 목소리가 난로 같아",
-   "line2": "맞아요, 인사 한마디에 손끝까지 따뜻해요",
+   "line1": "트렌치 안에 차콜 니트 받쳐 입었어",
+   "line2": "전 아이보리 터틀넥이라 언니랑 톤 맞춤이에요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "look"
+  },
+  {
+   "a": "hyewon",
+   "line1": "점심 메뉴는 오늘 제가 먼저 여쭤볼래요",
+   "line2": "그럼 난 경훈씨 우산 말려서 꽂아 둘 거야",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "squabble",
+   "pose2": "squabble"
+  },
+  {
+   "a": "jiwon",
+   "line1": "혜원아, 경훈씨가 네 모찌빵부터 드셨지?",
+   "line2": "언니 생강차로 마무리하셨으니 반반이에요",
+   "mood1": "sad",
+   "mood2": "smile",
+   "pose1": "sulk",
+   "pose2": "talkto"
+  },
+  {
+   "a": "hyewon",
+   "line1": "경훈씨 '고마워' 한마디에 오전이 꽉 차요",
+   "line2": "나도, 그 말 수첩 구석에 몰래 적어 뒀어",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
    "pose2": "love"
   },
   {
-   "a": "hyewon",
-   "line1": "오늘 회의 메모는 제가 색깔별로 정리할래요",
-   "line2": "그럼 난 경훈씨 자리에 핸드크림 놓아 둘게",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "squabble"
-  },
-  {
    "a": "jiwon",
-   "line1": "빗소리 들으며 일하니까 집중이 잘 되네",
-   "line2": "언니 옆이라 저도 마음이 차분해져요",
-   "mood1": "smile",
+   "line1": "목요일 오전 고비, 우리 같이 넘어 보자",
+   "line2": "언니랑 하이파이브면 금방이에요",
+   "mood1": "neutral",
    "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
+   "pose1": "cheer",
+   "pose2": "highfive"
   }
  ]
 }
