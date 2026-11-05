@@ -1,105 +1,89 @@
 {
- "updatedAt": "2026-11-05T09:22:00+09:00",
+ "updatedAt": "2026-11-05T10:06:00+09:00",
  "topics": [
-  "오딘Q 1월 출시",
-  "삼전 프리마켓 약세 재테크",
-  "레드핫 피자호빵 캠핑 간식",
-  "꿀알바 51개국 이어가기",
-  "비서진 경력직 비서",
-  "100일의 거짓말 눈빛 설렘 농담",
-  "트렌치·차콜 니트 출근룩",
-  "점심 메뉴 vs 우산 말리기 경쟁",
-  "모찌빵 vs 생강차 귀여운 질투",
-  "고마워 한마디 애정",
-  "목요일 오전 응원"
+  "스텔라 블레이드 스위치2 출시",
+  "템빨 오버기어드 쇼케이스",
+  "코스피 하락 속 현대차 강세 재테크",
+  "캠핑 굴찜 이어가기",
+  "푸른길 손석구 20일 공개",
+  "하이 포니테일·트렌치 출근룩",
+  "형광펜 vs 요약 한 장 경쟁",
+  "경훈씨 층 포근함 애정",
+  "오전 기지개 응원",
+  "비 오는 날 점심 국물"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "오딘Q가 내년 1월 한·대만·일본 동시 출시래",
-   "line2": "언니 벌써 어느 직업 할지 고르는 눈빛이에요",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "laugh"
-  },
-  {
-   "a": "jiwon",
-   "line1": "삼전이 프리마켓부터 3%대 빠졌더라",
-   "line2": "언니, 오늘은 계좌 앱 잠깐 덮어 둬요",
-   "mood1": "sad",
-   "mood2": "neutral",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.fnnews.com/news/202611050816485132"
-  },
-  {
-   "a": "jiwon",
-   "line1": "내일 편의점에 레드핫 피자호빵 나온대",
-   "line2": "캠핑 화로에 데우면 완전 별미겠다",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "thumbs",
-   "pose2": "charm"
-  },
-  {
-   "a": "hyewon",
-   "line1": "꿀알바가 51개국 TOP10에 들었대요",
-   "line2": "그래서 경훈씨랑 2화 약속 지키는 중이지?",
+   "line1": "스텔라 블레이드가 오늘 스위치2로도 나왔대",
+   "line2": "언니 휴대용으로 출퇴근길 정복하겠네요",
    "mood1": "surprised",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh"
-  },
-  {
-   "a": "hyewon",
-   "line1": "비서진 이서진 같은 경력직은 언니죠?",
-   "line2": "센스는 너, 경력은 나, 둘 다 합격이야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "highfive"
-  },
-  {
-   "a": "hyewon",
-   "line1": "100일의 거짓말 박진영 눈빛은 반칙이에요",
-   "line2": "너 그 장면만 세 번 돌려 봤지?",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "charm",
-   "pose2": "laugh"
+   "pose2": "laugh",
+   "url": "https://soonside.com/en/releases/this-week"
   },
   {
    "a": "jiwon",
-   "line1": "트렌치 안에 차콜 니트 받쳐 입었어",
-   "line2": "전 아이보리 터틀넥이라 언니랑 톤 맞춤이에요",
+   "line1": "템빨 쇼케이스가 오늘 저녁 8시래",
+   "line2": "출시일 나오면 언니 사전등록 인증샷 각",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "thumbs",
+   "url": "https://www.thisisgame.com/articles/431521"
+  },
+  {
+   "a": "jiwon",
+   "line1": "코스피 빠져도 현대차는 6%대 올랐더라",
+   "line2": "언니 장바구니 업종부터 다시 보는 중이죠?",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "talkto",
+   "url": "https://www.ajunews.com/view/20261105090357896"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 저번 캠핑 굴찜 약속 아직 유효하죠?",
+   "line2": "그럼, 버터 한 조각 올려서 해 줄게",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "charm",
+   "pose2": "coffee"
+  },
+  {
+   "a": "hyewon",
+   "line1": "손석구 나오는 '푸른길'이 20일 공개래요",
+   "line2": "한일 범죄물이라니, 정주행 각 나왔다",
+   "mood1": "surprised",
+   "mood2": "smile",
+   "pose1": "talkto",
+   "pose2": "thumbs",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265878"
+  },
+  {
+   "a": "hyewon",
+   "line1": "비 오는 날이라 하이 포니테일로 묶었어요",
+   "line2": "트렌치 깃이랑 잘 어울려, 레인부츠까지 완벽",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "look"
   },
   {
-   "a": "hyewon",
-   "line1": "점심 메뉴는 오늘 제가 먼저 여쭤볼래요",
-   "line2": "그럼 난 경훈씨 우산 말려서 꽂아 둘 거야",
+   "a": "jiwon",
+   "line1": "오늘 경훈씨 결재 서류는 형광펜까지 칠했어",
+   "line2": "전 요약 한 장 따로 붙였죠, 친절도 승리",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "squabble",
+   "pose1": "thumbs",
    "pose2": "squabble"
   },
   {
-   "a": "jiwon",
-   "line1": "혜원아, 경훈씨가 네 모찌빵부터 드셨지?",
-   "line2": "언니 생강차로 마무리하셨으니 반반이에요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "sulk",
-   "pose2": "talkto"
-  },
-  {
    "a": "hyewon",
-   "line1": "경훈씨 '고마워' 한마디에 오전이 꽉 차요",
-   "line2": "나도, 그 말 수첩 구석에 몰래 적어 뒀어",
+   "line1": "경훈씨 계신 층은 공기부터 포근한 것 같아요",
+   "line2": "그러니까, 문 열 때마다 마음이 놓여",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "heart",
@@ -107,12 +91,21 @@
   },
   {
    "a": "jiwon",
-   "line1": "목요일 오전 고비, 우리 같이 넘어 보자",
-   "line2": "언니랑 하이파이브면 금방이에요",
+   "line1": "오전 업무 반 넘었다, 잠깐 기지개 켜자",
+   "line2": "언니랑 스트레칭하면 오후도 거뜬해요",
    "mood1": "neutral",
    "mood2": "smile",
    "pose1": "cheer",
    "pose2": "highfive"
+  },
+  {
+   "a": "hyewon",
+   "line1": "언니, 오늘 점심 뭐 먹을지 벌써 정했어요?",
+   "line2": "따끈한 칼국수 어때? 비 오는 날엔 국물이지",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "wave"
   }
  ]
 }
