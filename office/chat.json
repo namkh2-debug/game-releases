@@ -1,110 +1,109 @@
 {
- "updatedAt": "2026-11-05T14:08:00+09:00",
+ "updatedAt": "2026-11-05T15:12:00+09:00",
  "topics": [
-  "웨어 더 시드 폴 출시",
-  "데블스 플랜3 장동민",
-  "9월 경상흑자 최대 재테크",
-  "블랙 도브 시즌2 이어가기",
-  "리본 브로치·터틀넥 출근룩",
-  "내일 머플러 대결 경쟁",
-  "쿠라리에 오픈 초콜릿 경쟁",
-  "피곤한 경훈씨 초콜릿 애정",
-  "연애박사 밀당 썸 농담",
-  "오후 두 시 졸음 응원"
+  "스텔라 블레이드 스위치2 자정 출시",
+  "유퀴즈 진짜는 진짜가 알아본다",
+  "닥터X vs 100일의 거짓말 귀여운 질투",
+  "배춧값 폭락 김장철",
+  "터틀넥·리본 브로치 출근룩",
+  "바쁜 경훈씨 든든한 편 애정",
+  "보고서 표지 손글씨 vs 별표 경쟁",
+  "주말 캠핑 대신 전골 이어가기",
+  "세 시 간식 응원",
+  "퇴근 인사 연습"
  ],
  "exchanges": [
   {
    "a": "jiwon",
-   "line1": "웨어 더 시드 폴 오늘 나왔대, 스팀에도",
-   "line2": "메인 스토리 3시간이면 언니 하룻밤 컷이죠",
+   "line1": "스텔라 블레이드, 오늘 자정에 스위치2로 나온대",
+   "line2": "언니 밤새면 내일 머플러 대결 진다요?",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "thumbs",
+   "pose2": "talkto",
+   "url": "https://www.ajunews.com/view/20260910110847556"
+  },
+  {
+   "a": "hyewon",
+   "line1": "유퀴즈 '진짜는 진짜가 알아본다' 4.5%였대요",
+   "line2": "제목 좋다, 경훈씨도 우리 진심 알아보시겠지",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "talkto",
-   "pose2": "laugh",
-   "url": "https://www.gamechosun.co.kr/webzine/article/view.php?no=224947"
+   "pose2": "charm"
   },
   {
    "a": "hyewon",
-   "line1": "데블스 플랜3 10일 공개래요, 장동민 또 나와요",
-   "line2": "은퇴 없다더니, 이번엔 누가 막을까 궁금하다",
-   "mood1": "surprised",
+   "line1": "아까 경훈씨, 언니 닥터X 얘기에 먼저 웃으셨죠",
+   "line2": "흥, 내일은 네 100일의 거짓말 차례일걸?",
+   "mood1": "sad",
    "mood2": "smile",
-   "pose1": "talkto",
-   "pose2": "think",
-   "url": "https://www.news1.kr/entertain/broadcast-tv/6344144"
+   "pose1": "sulk",
+   "pose2": "laugh"
   },
   {
    "a": "jiwon",
-   "line1": "9월 경상흑자가 614억달러로 역대 최대래",
-   "line2": "언니는 이런 기사 보면 눈이 반짝하더라",
-   "mood1": "surprised",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "talkto",
-   "url": "https://www.yna.co.kr/view/AKR20261105019951002"
+   "line1": "배춧값이 작년보다 40% 넘게 떨어졌대",
+   "line2": "농민분들 속상하시겠어요, 마음이 무거워요",
+   "mood1": "sad",
+   "mood2": "sad",
+   "pose1": "none",
+   "pose2": "none",
+   "url": "https://www.yna.co.kr/view/AKR20261105097400064"
   },
   {
    "a": "hyewon",
-   "line1": "언니, 블랙 도브 시즌2 몇 편까지 봤어요?",
-   "line2": "세 편째야, 오늘 밤 나머지 끝낼 거야",
-   "mood1": "neutral",
-   "mood2": "smile",
-   "pose1": "coffee",
-   "pose2": "coffee"
-  },
-  {
-   "a": "hyewon",
-   "line1": "재킷에 리본 브로치 달았는데 눈에 띄어요?",
-   "line2": "응, 아이보리 터틀넥이랑 딱 어울려",
+   "line1": "트렌치 벗으니까 터틀넥만으로도 포근해요",
+   "line2": "리본 브로치까지, 오늘 단정 귀염 담당이네",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "thumbs"
   },
   {
+   "a": "jiwon",
+   "line1": "경훈씨 바쁜 날엔 괜히 나까지 마음이 쓰여",
+   "line2": "우리가 조용히 든든한 편 돼 드려요, 언니",
+   "mood1": "neutral",
+   "mood2": "smile",
+   "pose1": "think",
+   "pose2": "highfive"
+  },
+  {
    "a": "hyewon",
-   "line1": "내일 머플러 대결, 연핑크 앙고라로 갈게요",
-   "line2": "버건디 체크도 만만치 않을걸? 진 사람 커피!",
+   "line1": "오후 보고서 표지, 제가 손글씨로 써 드릴래요",
+   "line2": "난 결론 옆에 별표 달아서 정성 승부할 거야",
    "mood1": "smile",
    "mood2": "smile",
    "pose1": "charm",
    "pose2": "squabble"
   },
   {
-   "a": "hyewon",
-   "line1": "성수에 쿠라리에 12일 오픈, 초콜릿 제가 먼저요",
-   "line2": "흥, 나는 라테 바부터 경훈씨 몫 챙길 거야",
-   "mood1": "smile",
-   "mood2": "smile",
-   "pose1": "cheer",
-   "pose2": "faceoff"
-  },
-  {
    "a": "jiwon",
-   "line1": "회의실 나오실 때 경훈씨 표정 봤어? 피곤해 보여",
-   "line2": "그래서 책상에 초콜릿 두 알 몰래 놔뒀어요",
-   "mood1": "sad",
-   "mood2": "smile",
-   "pose1": "think",
-   "pose2": "heart"
-  },
-  {
-   "a": "hyewon",
-   "line1": "연애박사 보니까 밀당도 기술이래요, 언니",
-   "line2": "난 밀당 못 해, 당기기만 하다 끝나",
+   "line1": "이번 주말 캠핑은 쉬고 집에서 전골 끓일래",
+   "line2": "전골이면 저 숟가락 들고 바로 갈게요",
    "mood1": "smile",
    "mood2": "smile",
-   "pose1": "look",
+   "pose1": "coffee",
    "pose2": "laugh"
   },
   {
-   "a": "jiwon",
-   "line1": "오후 두 시는 눈꺼풀이 제일 무거운 시간이야",
-   "line2": "언니 어깨 주물러 줄게요, 조금만 버텨요",
-   "mood1": "neutral",
+   "a": "hyewon",
+   "line1": "언니, 세 시엔 달달한 거 하나씩 먹어요",
+   "line2": "좋아, 오늘도 반 넘게 잘 왔어 우리",
+   "mood1": "smile",
    "mood2": "smile",
-   "pose1": "down",
+   "pose1": "coffee",
    "pose2": "cheer"
+  },
+  {
+   "a": "jiwon",
+   "line1": "경훈씨 오시면 '수고 많으셨어요' 같이 하자",
+   "line2": "좋아요, 대신 웃음은 제가 더 환하게요",
+   "mood1": "smile",
+   "mood2": "smile",
+   "pose1": "wave",
+   "pose2": "charm"
   }
  ]
 }
