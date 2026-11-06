@@ -1,179 +1,88 @@
 {
-  "date": "2026-11-05",
-  "updatedAt": "2026-11-05T09:07:06+09:00",
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T09:11:18+09:00",
   "platforms": {
     "steam": [
       {
-        "title": "크라임라이트 (CRYMELIGHT)",
-        "genre": "액션",
-        "publisher": "미확인",
-        "price": "₩29,600",
-        "note": "한국어 미확인"
+        "title": "변명왕! (Excuse Me, King!)",
+        "genre": "즉흥 토크·파티",
+        "publisher": "LNStudio / LNStudio",
+        "price": "¥480",
+        "note": "오늘 20:00 KST 해금 · 런칭 7일 30% 오프(¥336) · 한국어 지원"
       },
       {
-        "title": "웨어 더 시즈 폴 (Where the Seeds Fall)",
-        "genre": "액션 어드벤처·플랫포머",
-        "publisher": "미확인",
+        "title": "쉘테라: 스카이월드 (Shelterra the Skyworld)",
+        "genre": "JRPG",
+        "publisher": "MAGITEC / KEMCO",
+        "price": "미확인",
+        "note": "PS·스위치·Xbox 동시 · 한국어 미확인"
+      },
+      {
+        "title": "기어 업 아인슈타인! (Gear Up Einstein!)",
+        "genre": "로그라이트 오토배틀러·전략",
+        "publisher": "No Deadlines / No Deadlines",
+        "price": "미확인",
+        "note": "앞서 해보기 · 한국어 미확인"
+      },
+      {
+        "title": "건 레스토레이션 숍 시뮬레이터 (Gun Restoration Shop Simulator)",
+        "genre": "시뮬레이션",
+        "publisher": "AM Playhouse / PlayWay S.A.",
         "price": "미확인",
         "note": "한국어 미확인"
       },
       {
-        "title": "케이팝 라이징: 드림 투 샤인 (K-POP Rising: Dream to Shine)",
-        "genre": "리듬·육성 시뮬레이션",
-        "publisher": "미확인",
-        "price": "₩34,800",
-        "note": "한국어 미확인"
-      },
-      {
-        "title": "파라웨이 (Faraway)",
-        "genre": "아케이드",
-        "publisher": "미확인",
+        "title": "플리트 오브 밸러 (Fleets of Valor)",
+        "genre": "WW2 해군 실시간 전술",
+        "publisher": "Frontmark Games LLC / Frontmark Games LLC",
         "price": "미확인",
-        "note": "한국어 미확인"
+        "note": "영어만 · 한국어 미지원"
       },
       {
-        "title": "이스케이프 아카데미 2: 백 투 스쿨 (Escape Academy 2: Back 2 School)",
-        "genre": "방탈출 퍼즐 어드벤처",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "Xbox 동시 출시 · 한국어 미확인"
-      },
-      {
-        "title": "에어프레임 울트라 (Airframe Ultra)",
-        "genre": "컴뱃 레이싱",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "PS1풍 그래픽 · 한국어 미확인"
-      },
-      {
-        "title": "코지 게임 레스토레이션 (Cozy Game Restoration)",
-        "genre": "게임 카트리지 복원 시뮬레이션",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "한국어 미확인"
-      },
-      {
-        "title": "언더킵 (Underkeep)",
-        "genre": "턴제 던전 크롤러 RPG",
-        "publisher": "미확인",
+        "title": "리바이어던: 라이노 (Leviathan: Rhino)",
+        "genre": "시뮬레이션",
+        "publisher": "Amortiz Games / solarsuit.games",
         "price": "미확인",
         "note": "한국어 미확인"
       }
     ],
     "playstation": [
       {
-        "title": "크라임라이트 (CRYMELIGHT)",
-        "genre": "액션",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "PS5 · 한국어 미확인"
+        "title": "투포인트 호스피탈: 하트풀 컬렉션 (Two Point Hospital: Heartful Collection)",
+        "genre": "병원 경영 시뮬레이션",
+        "publisher": "Two Point Studios / SEGA",
+        "price": "¥4,888",
+        "note": "PS5 패키지 출시일 · 디지털은 2026-09-16 이미 출시 · 한국어 미확인"
       },
       {
-        "title": "웨어 더 시즈 폴 (Where the Seeds Fall)",
-        "genre": "액션 어드벤처·플랫포머",
-        "publisher": "미확인",
+        "title": "쉘테라: 스카이월드 (Shelterra the Skyworld)",
+        "genre": "JRPG",
+        "publisher": "MAGITEC / KEMCO",
         "price": "미확인",
-        "note": "PS5 · 한국어 미확인"
-      },
-      {
-        "title": "케이팝 라이징: 드림 투 샤인 (K-POP Rising: Dream to Shine)",
-        "genre": "리듬·육성 시뮬레이션",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "한국어 미확인"
-      },
-      {
-        "title": "파라웨이 (Faraway)",
-        "genre": "아케이드",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "PS5 · 한국어 미확인"
-      },
-      {
-        "title": "이스케이프 아카데미 2: 백 투 스쿨 (Escape Academy 2: Back 2 School)",
-        "genre": "방탈출 퍼즐 어드벤처",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "PS5 · 한국어 미확인"
-      },
-      {
-        "title": "킹덤 오브 나이트 (Kingdom of Night)",
-        "genre": "액션 RPG",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "PS5 · 한국어 미확인"
+        "note": "PS5/PS4 크로스바이 · 다운로드 전용 · 한국어 미확인"
       }
     ],
     "switch": [
       {
-        "title": "젤다의 전설 시간의 오카리나 (The Legend of Zelda: Ocarina of Time)",
-        "genre": "오픈월드 액션 어드벤처",
-        "publisher": "Nintendo / Nintendo",
-        "price": "다운로드 ₩79,800 · 패키지 ₩88,000",
-        "note": "스위치 2 전용 리메이크 · 한국어 지원 · 초회 패키지 박 커버"
-      },
-      {
         "title": "스텔라 블레이드 컴플리트 에디션 (Stellar Blade Complete Edition)",
         "genre": "액션 어드벤처",
-        "publisher": "SHIFT UP / 미확인",
-        "price": "미확인",
-        "note": "스위치 2판 · DLC 포함 · 한국어 미확인"
+        "publisher": "SHIFT UP / SHIFT UP",
+        "price": "₩69,800",
+        "note": "스위치 2 · 본편+기존 DLC · 한국어 지원 · 패키지 카트리지 수록"
       },
       {
-        "title": "마블 가디언즈 오브 갤럭시 앙코르 에디션 (Marvel's Guardians of the Galaxy: Encore Edition)",
-        "genre": "액션 어드벤처",
-        "publisher": "미확인",
-        "price": "₩44,820",
-        "note": "스위치 2판(클라우드판 대체) · 한국어 미확인"
+        "title": "투포인트 호스피탈: 하트풀 컬렉션 (Two Point Hospital: Heartful Collection)",
+        "genre": "병원 경영 시뮬레이션",
+        "publisher": "Two Point Studios / SEGA",
+        "price": "¥4,888",
+        "note": "스위치 2 패키지(게임 키 카드) · 디지털은 2026-09-16 이미 출시 · 한국어 미확인"
       },
       {
-        "title": "앱솔럼 (Absolum)",
-        "genre": "협동 로그라이트 벨트스크롤 액션",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치 2판 · 스위치판 보유자 무료 업그레이드 · 한국어 미확인"
-      },
-      {
-        "title": "크라임라이트 (CRYMELIGHT)",
-        "genre": "액션",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치 2 · 한국어 미확인"
-      },
-      {
-        "title": "웨어 더 시즈 폴 (Where the Seeds Fall)",
-        "genre": "액션 어드벤처·플랫포머",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치 2 · 한국어 미확인"
-      },
-      {
-        "title": "파라웨이 (Faraway)",
-        "genre": "아케이드",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치/스위치 2 · 한국어 미확인"
-      },
-      {
-        "title": "케이팝 라이징: 드림 투 샤인 (K-POP Rising: Dream to Shine)",
-        "genre": "리듬·육성 시뮬레이션",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치 · 한국어 미확인"
-      },
-      {
-        "title": "시벌웨어 (Chivalware)",
-        "genre": "미확인",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치 2 · 한국어 미확인"
-      },
-      {
-        "title": "킹덤 오브 나이트 (Kingdom of Night)",
-        "genre": "액션 RPG",
-        "publisher": "미확인",
-        "price": "미확인",
-        "note": "스위치 · 한국어 미확인"
+        "title": "쉘테라: 스카이월드 (Shelterra the Skyworld)",
+        "genre": "JRPG",
+        "publisher": "MAGITEC / KEMCO",
+        "price": "스위치2 ¥1,640 · 스위치 ¥1,540",
+        "note": "스위치/스위치 2 에디션 · 업그레이드 패스 ¥100 · 다운로드 전용 · 한국어 미확인"
       }
     ]
   }
