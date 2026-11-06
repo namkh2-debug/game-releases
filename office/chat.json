@@ -1,91 +1,102 @@
 {
-  "updatedAt": "2026-11-06T09:05:00+09:00",
+  "updatedAt": "2026-11-06T10:08:00+09:00",
   "topics": [
-    "호요버스 지스타 넥서스 아니마·쁘띠플래닛 시연",
-    "성수 빼빼로 하트 어택 팝업",
-    "스텔라 블레이드 스위치2 해보니",
-    "올기 찹쌀초코 점심 선수 이어가기",
-    "아이보리 코트·연핑크 머플러 출근룩",
-    "경훈씨 자리 지나가면 마음이 풀림 애정",
-    "결재판 손글씨 vs 보리차 경쟁",
-    "주말 전골 야채 손질 이어가기",
+    "KS 3차전 소형준 vs 후라도 치킨내기",
+    "김천김밥축제 성수 앙코르 팝업",
+    "코스피 급락 적립식 재테크",
+    "아이보리 코트·연핑크 머플러·하트귀걸이 옷차림",
+    "경훈씨 책상 지우개 애정",
+    "하트 귀걸이 vs 체크 머플러 판정 경쟁",
+    "생강차 선수 귀여운 질투",
+    "형광펜 vs 포스트잇 메모 경쟁",
+    "가능한 사랑 주말 감상 이어가기",
     "금요일 오전 서로 응원"
   ],
   "exchanges": [
     {
       "a": "jiwon",
-      "line1": "호요버스, 지스타서 넥서스 아니마 시연한대",
-      "line2": "쁘띠플래닛까지? 언니 부스 동선 벌써 짜죠",
+      "line1": "오늘 KS 3차전, 소형준 대 후라도!",
+      "line2": "저녁 치킨 내기, 언니 삼성 편이죠?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "cheer",
-      "pose2": "talkto",
-      "url": "https://www.gamemeca.com/view.php?gid=1782860"
+      "pose2": "highfive",
+      "url": "https://www.yna.co.kr/view/MYH20261106002800038"
     },
     {
       "a": "hyewon",
-      "line1": "성수 빼빼로 하트 어택, 7일이랑 11일래요",
-      "line2": "커스텀 라벨이면 경훈씨 이름 넣고 싶다…",
+      "line1": "성수 김천김밥축제 팝업, 오늘부터래요",
+      "line2": "퇴근길에 들러 월요일 아침 선수치겠어요",
       "mood1": "surprised",
       "mood2": "smile",
-      "pose1": "charm",
-      "pose2": "heart",
-      "url": "https://zdnet.co.kr/view/?no=20261105110715"
+      "pose1": "wave",
+      "pose2": "charm",
+      "url": "https://www.fnnews.com/news/202610301056133287"
     },
     {
       "a": "jiwon",
-      "line1": "스텔라 블레이드 스위치2, 해보니 괜찮대",
-      "line2": "출퇴근용으로 딱이겠어요, 언니는 샀어요?",
-      "mood1": "smile",
+      "line1": "장 초반이 너무 요란해서 앱 껐어요",
+      "line2": "이런 날은 적립식만 믿고 숨 고르기!",
+      "mood1": "sad",
       "mood2": "neutral",
-      "pose1": "thumbs",
+      "pose1": "none",
       "pose2": "think",
-      "url": "https://www.yna.co.kr/view/AKR20261102154100017"
+      "url": "https://www.yna.co.kr/view/AKR20261106038251008"
     },
     {
       "a": "hyewon",
-      "line1": "점심엔 올기 찹쌀초코, 진짜 선수치겠어요",
-      "line2": "모찌빵에 이어서 2연승, 간식 서랍은 내 거야",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "squabble"
-    },
-    {
-      "a": "hyewon",
-      "line1": "오늘도 아이보리 코트·연핑크 머플러예요",
-      "line2": "버건디 체크랑 세트, 오전 판정은 아직이죠?",
+      "line1": "아이보리 코트에 연핑크 머플러예요",
+      "line2": "골드 하트 귀걸이도 달았어요, 보이세요?",
       "mood1": "smile",
       "mood2": "smile",
       "pose1": "charm",
-      "pose2": "look"
-    },
-    {
-      "a": "jiwon",
-      "line1": "경훈씨 자리만 지나가도 마음이 풀려요",
-      "line2": "그 등만 보여도 어깨가 내려가는 기분이에요",
-      "mood1": "smile",
-      "mood2": "smile",
-      "pose1": "love",
       "pose2": "heart"
     },
     {
       "a": "jiwon",
-      "line1": "오늘 승부, 결재판 손글씨 vs 따뜻한 보리차!",
-      "line2": "저는 손글씨로 갈래요, 차는 금방 식잖아요",
+      "line1": "경훈씨 지우개 깎아 둔 거, 귀여워요",
+      "line2": "그런 소소한 손길이 하루를 밝혀요",
       "mood1": "smile",
       "mood2": "smile",
+      "pose1": "love",
+      "pose2": "think"
+    },
+    {
+      "a": "hyewon",
+      "line1": "오늘 승부, 하트 귀걸이 vs 체크 머플러!",
+      "line2": "판정은 경훈씨, 지는 쪽 오후 커피죠",
+      "mood1": "smile",
+      "mood2": "surprised",
       "pose1": "faceoff",
       "pose2": "squabble"
     },
     {
       "a": "hyewon",
-      "line1": "주말 전골, 야채는 제가 손질할게요",
-      "line2": "언니는 육수, 우동사리는 같이 챙기자",
+      "line1": "언니가 생강차 먼저 올렸다면서요?",
+      "line2": "흥, 점심엔 제가 간식으로 설욕할 거예요",
+      "mood1": "sulk",
+      "mood2": "smile",
+      "pose1": "sulk",
+      "pose2": "laugh"
+    },
+    {
+      "a": "jiwon",
+      "line1": "오늘 승부 둘, 형광펜 vs 포스트잇!",
+      "line2": "저는 형광펜! 한눈에 들어오거든요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "coffee",
-      "pose2": "highfive"
+      "pose1": "thumbs",
+      "pose2": "clap"
+    },
+    {
+      "a": "hyewon",
+      "line1": "가능한 사랑, 주말에 천천히 볼래요",
+      "line2": "차 한 잔 놓고 감상 나눠요, 언니!",
+      "mood1": "smile",
+      "mood2": "smile",
+      "pose1": "talkto",
+      "pose2": "coffee",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265878"
     },
     {
       "a": "jiwon",
@@ -93,8 +104,8 @@
       "line2": "네 언니, 오늘도 나란히 잘 해봐요",
       "mood1": "smile",
       "mood2": "smile",
-      "pose1": "cheer",
-      "pose2": "clap"
+      "pose1": "highfive",
+      "pose2": "cheer"
     }
   ]
 }
