@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updatedAt": "2026-11-05T09:05:23+09:00",
- "from": "2026-11-05",
+ "updatedAt": "2026-11-06T09:16:01+09:00",
+ "from": "2026-11-06",
  "to": "2027-02-28",
  "platformKeys": {
   "steam": "스팀(PC)",
@@ -23,152 +23,6 @@
  },
  "games": [
   {
-   "date": "2026-11-05",
-   "title": "젤다의 전설 시간의 오카리나",
-   "en": "The Legend of Zelda: Ocarina of Time",
-   "short": "젤다오카리나",
-   "platforms": [
-    "switch"
-   ],
-   "genre": "오픈월드 액션",
-   "price": "다운로드 ₩79,800 · 패키지 ₩88,000",
-   "korean": "한국어판",
-   "note": "스위치 2 리메이크",
-   "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
-   "major": true
-  },
-  {
-   "date": "2026-11-05",
-   "title": "가디언즈 오브 갤럭시 (스위치2)",
-   "en": "Marvel's Guardians of the Galaxy",
-   "short": "가오갤",
-   "platforms": [
-    "switch"
-   ],
-   "genre": "액션 어드벤처",
-   "price": "₩44,820",
-   "korean": "미확인",
-   "note": "스위치 2판",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "크라임라이트",
-   "en": "CRYMELIGHT",
-   "short": "크라임라이트",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch"
-   ],
-   "genre": "액션",
-   "price": "₩29,600",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "웨어 더 시즈 폴",
-   "en": "Where the Seeds Fall",
-   "short": "시즈폴",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch"
-   ],
-   "genre": "액션 플랫포머",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "케이팝 라이징",
-   "en": "K-POP Rising: Dream to Shine",
-   "short": "케이팝라이징",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch"
-   ],
-   "genre": "리듬·육성",
-   "price": "₩34,800",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "킹덤 오브 나이트",
-   "en": "Kingdom of Night",
-   "short": "킹덤오브나이트",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "액션 RPG",
-   "price": "₩22,800",
-   "korean": "한국어 미지원",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "페어웨이",
-   "en": "Faraway",
-   "short": "페어웨이",
-   "platforms": [
-    "steam",
-    "ps",
-    "switch",
-    "etc"
-   ],
-   "genre": "아케이드",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "이스케이프 아카데미 2",
-   "en": "Escape Academy 2: Back 2 School",
-   "short": "이스케이프2",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "퍼즐 어드벤처",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-11-05",
-   "title": "에어프레임 울트라",
-   "en": "Airframe Ultra",
-   "short": "에어프레임",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "컴뱃 레이싱",
-   "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
-   "major": false
-  },
-  {
    "date": "2026-11-06",
    "title": "스텔라 블레이드 컴플리트 (스위치2)",
    "en": "Stellar Blade Complete Edition",
@@ -182,6 +36,21 @@
    "note": "한국 11/6 (북미 11/5) · 실물판",
    "url": "https://www.nintendolife.com/news/2026/09/stellar-blade-launches-on-switch-2-this-november-with-a-proper-physical-release",
    "major": true
+  },
+  {
+   "date": "2026-11-07",
+   "title": "파인드 더 니들",
+   "en": "Find the Needle",
+   "short": "파인드더니들",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "공장 건설 시뮬",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "건초더미에서 바늘 찾기 자동화",
+   "url": "",
+   "major": false
   },
   {
    "date": "2026-11-09",
@@ -208,9 +77,24 @@
    "platforms": [
     "steam"
    ],
-   "genre": "",
+   "genre": "생존 어드벤처",
    "price": "",
-   "korean": "미확인",
+   "korean": "한국어 지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-11-09",
+   "title": "캐주얼티즈: 언노운",
+   "en": "Casualties: Unknown",
+   "short": "캐주얼티즈",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "하드코어 생존",
+   "price": "",
+   "korean": "한국어 미지원",
    "note": "",
    "url": "",
    "major": false
@@ -227,9 +111,9 @@
    ],
    "genre": "축구 경영",
    "price": "",
-   "korean": "미확인",
-   "note": "",
-   "url": "",
+   "korean": "한국어 지원",
+   "note": "공식 11/10 · 일부 지역 11/11",
+   "url": "https://www.footballmanager.com/news/football-manager-27-launches-10-november",
    "major": true
   },
   {
@@ -272,12 +156,13 @@
    "en": "Shrek 2 Remastered",
    "short": "슈렉2",
    "platforms": [
+    "switch",
     "etc"
    ],
    "genre": "액션",
    "price": "",
    "korean": "미확인",
-   "note": "플랫폼 미확인",
+   "note": "스위치2 포함",
    "url": "",
    "major": false
   },
@@ -309,8 +194,8 @@
    ],
    "genre": "어드벤처",
    "price": "",
-   "korean": "미확인",
-   "note": "",
+   "korean": "한국어 지원",
+   "note": "닌텐도 KR 라인업",
    "url": "",
    "major": false
   },
@@ -347,6 +232,22 @@
    "major": false
   },
   {
+   "date": "2026-11-11",
+   "title": "녹터널 2",
+   "en": "Nocturnal 2",
+   "short": "녹터널2",
+   "platforms": [
+    "steam",
+    "switch"
+   ],
+   "genre": "메트로배니아",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-11-12",
    "title": "메타포: 리판타지오 (스위치2)",
    "en": "Metaphor: ReFantazio",
@@ -372,7 +273,7 @@
    "genre": "전략 액션",
    "price": "₩74,800",
    "korean": "한국어 지원",
-   "note": "+ 누구나 도전! 계획력 테스트 · 11/2는 체험판",
+   "note": "+ 누구나 도전! 계획력 테스트",
    "url": "https://www.nintendo.com/kr/games/switch2/lineup",
    "major": true
   },
@@ -576,7 +477,7 @@
    "genre": "오픈월드 액션",
    "price": "₩89,800 (얼티밋 ₩112,800)",
    "korean": "한국어판",
-   "note": "0시 오픈 · 11/12부터 미리 받기 · PC 미정",
+   "note": "0시 오픈 · 11/10부터 미리 받기 · PC 미정",
    "url": "https://store.playstation.com/ko-kr/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
    "major": true
   },
@@ -620,8 +521,8 @@
    ],
    "genre": "캐주얼",
    "price": "₩53,800",
-   "korean": "미확인",
-   "note": "",
+   "korean": "한국어 지원",
+   "note": "닌텐도 KR: 스미코구라시 따끈따끈 온천에 어서오세요",
    "url": "",
    "major": false
   },
@@ -689,6 +590,22 @@
   },
   {
    "date": "2026-11-26",
+   "title": "아주르 프로밀리아",
+   "en": "Azur Promilia",
+   "short": "아주르프로밀리아",
+   "platforms": [
+    "steam",
+    "etc"
+   ],
+   "genre": "오픈월드 서브컬처",
+   "price": "무료",
+   "korean": "한국어 지원",
+   "note": "넥슨 · 한국·일본·대만·중국 11/26 · 영문판 2027 여름",
+   "url": "https://www.gematsu.com/2026/10/azur-promilia-launches-november-26-in-japan-south-korea-taiwan-and-china",
+   "major": true
+  },
+  {
+   "date": "2026-11-26",
    "title": "어펄스",
    "en": "Appulse",
    "short": "어펄스",
@@ -752,21 +669,6 @@
   },
   {
    "date": "2026-12-02",
-   "title": "에머리 하츠",
-   "en": "Emery Hearts",
-   "short": "에머리하츠",
-   "platforms": [
-    "steam"
-   ],
-   "genre": "",
-   "price": "",
-   "korean": "미확인",
-   "note": "11/5에서 연기",
-   "url": "",
-   "major": false
-  },
-  {
-   "date": "2026-12-02",
    "title": "더 본리스",
    "en": "The Bornless",
    "short": "본리스",
@@ -777,6 +679,21 @@
    "price": "",
    "korean": "미확인",
    "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2026-12-02",
+   "title": "에머리 하츠",
+   "en": "Emery Hearts",
+   "short": "에머리하츠",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "",
+   "price": "",
+   "korean": "미확인",
+   "note": "11/5에서 연기",
    "url": "",
    "major": false
   },
@@ -809,7 +726,7 @@
     "etc"
    ],
    "genre": "몬스터 육성 RPG",
-   "price": "PS5 ₩69,800",
+   "price": "PS5 ₩69,800 · 스위치2 ₩69,800",
    "korean": "한국어 지원",
    "note": "부제: 메마른 나라의 비앙카와 플로라 · 마스터즈판 선행 플레이",
    "url": "https://www.nintendo.com/kr/schedule",
@@ -824,7 +741,7 @@
     "switch"
    ],
    "genre": "RPG",
-   "price": "",
+   "price": "업그레이드 ₩10,000",
    "korean": "한국어 지원",
    "note": "",
    "url": "https://www.nintendo.com/kr/games/switch2/lineup",
@@ -844,7 +761,7 @@
    "genre": "플랫포머",
    "price": "",
    "korean": "미확인",
-   "note": "",
+   "note": "10월에서 12/3으로 연기",
    "url": "",
    "major": true
   },
@@ -878,7 +795,7 @@
    "genre": "플랫포머",
    "price": "",
    "korean": "미확인",
-   "note": "",
+   "note": "레전드 리톨드 동봉/동시",
    "url": "",
    "major": false
   },
@@ -942,7 +859,7 @@
     "etc"
    ],
    "genre": "플랫포머",
-   "price": "",
+   "price": "₩24,900",
    "korean": "미확인",
    "note": "",
    "url": "",
@@ -966,6 +883,36 @@
    "major": false
   },
   {
+   "date": "2026-12-03",
+   "title": "디 어센트 얼티밋 에디션 (스위치2)",
+   "en": "The Ascent Ultimate Edition",
+   "short": "어센트",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "액션 RPG",
+   "price": "₩31,000",
+   "korean": "한국어 지원",
+   "note": "크래프톤 · 스위치2판",
+   "url": "https://www.nintendo.com/kr/games/switch2/lineup",
+   "major": false
+  },
+  {
+   "date": "2026-12-03",
+   "title": "위대한 악녀: 릴리의 전략",
+   "en": "The Great Villainess: Strategy of Lily",
+   "short": "악녀릴리",
+   "platforms": [
+    "switch"
+   ],
+   "genre": "전략",
+   "price": "",
+   "korean": "한국어 지원",
+   "note": "스위치2",
+   "url": "",
+   "major": false
+  },
+  {
    "date": "2026-12-04",
    "title": "몬스터 헌터 와일즈 (스위치2)",
    "en": "Monster Hunter Wilds",
@@ -974,9 +921,9 @@
     "switch"
    ],
    "genre": "헌팅 액션",
-   "price": "",
+   "price": "₩45,800",
    "korean": "한국어 지원",
-   "note": "스위치 2판",
+   "note": "스위치 2판 · 크로스플레이",
    "url": "https://www.nintendo.com/kr/schedule",
    "major": true
   },
@@ -1108,7 +1055,7 @@
    "genre": "리듬",
    "price": "",
    "korean": "미확인",
-   "note": "",
+   "note": "기타 컨트롤러 번들 위주",
    "url": "",
    "major": false
   },
@@ -1237,7 +1184,7 @@
    "genre": "마을 건설",
    "price": "",
    "korean": "미확인",
-   "note": "10/27에서 연기",
+   "note": "10/27에서 연기 · 앞서 해보기",
    "url": "",
    "major": false
   },
@@ -1306,7 +1253,7 @@
    "genre": "액션 어드벤처",
    "price": "",
    "korean": "미확인",
-   "note": "RGG 스튜디오",
+   "note": "RGG 스튜디오 · 스팀 1/14 표기 있음",
    "url": "",
    "major": true
   },
@@ -1333,7 +1280,8 @@
    "en": "TankRat",
    "short": "탱크랫",
    "platforms": [
-    "ps"
+    "ps",
+    "steam"
    ],
    "genre": "액션",
    "price": "",
@@ -1369,6 +1317,21 @@
     "etc"
    ],
    "genre": "액션 어드벤처",
+   "price": "",
+   "korean": "미확인",
+   "note": "",
+   "url": "",
+   "major": false
+  },
+  {
+   "date": "2027-01-20",
+   "title": "캣 시크레터리",
+   "en": "Cat Secretary",
+   "short": "캣시크레터리",
+   "platforms": [
+    "steam"
+   ],
+   "genre": "액션",
    "price": "",
    "korean": "미확인",
    "note": "",
@@ -1468,7 +1431,7 @@
     "switch"
    ],
    "genre": "메트로배니아",
-   "price": "",
+   "price": "₩79,800",
    "korean": "한국어 지원",
    "note": "스위치 2",
    "url": "https://www.nintendo.com/kr/games/switch2/lineup",
@@ -1503,7 +1466,7 @@
    "genre": "마법학교 생활 시뮬",
    "price": "",
    "korean": "미확인",
-   "note": "스위치·스위치2·PS5·Xbox 동시 (10/27 발표)",
+   "note": "스위치·스위치2·PS5·Xbox 동시",
    "url": "https://www.witchbrook.com/release-date/",
    "major": true
   },
@@ -1561,6 +1524,23 @@
   },
   {
    "date": "2027-02-04",
+   "title": "메트로 2039",
+   "en": "Metro 2039",
+   "short": "메트로2039",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "FPS",
+   "price": "",
+   "korean": "미확인",
+   "note": "글로벌 2/4 (일부 아시아 2/5)",
+   "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
+   "major": true
+  },
+  {
+   "date": "2027-02-04",
    "title": "오보로 무라마사 괴기담",
    "en": "Muramasa: Revenant Blades",
    "short": "무라마사",
@@ -1610,24 +1590,7 @@
    "major": false
   },
   {
-   "date": "2027-02-05",
-   "title": "메트로 2039",
-   "en": "Metro 2039",
-   "short": "메트로2039",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "FPS",
-   "price": "",
-   "korean": "미확인",
-   "note": "아시아 2/5 (북미 2/4)",
-   "url": "https://www.gamespot.com/articles/2027-upcoming-games-release-schedule/",
-   "major": true
-  },
-  {
-   "date": "2027-02-08",
+   "date": "2027-02-07",
    "title": "아웃워드 2 앞서 해보기",
    "en": "Outward 2",
    "short": "아웃워드2",
@@ -1637,7 +1600,7 @@
    "genre": "하드코어 RPG",
    "price": "",
    "korean": "미확인",
-   "note": "앞서 해보기",
+   "note": "앞서 해보기 · 2/8에서 2/7로 조정",
    "url": "",
    "major": false
   },
@@ -1690,8 +1653,8 @@
    ],
    "genre": "JRPG",
    "price": "",
-   "korean": "미확인",
-   "note": "3D 리메이크",
+   "korean": "한국어 지원",
+   "note": "3D 리메이크 · 닌텐도 KR 라인업",
    "url": "",
    "major": true
   },
@@ -1741,26 +1704,9 @@
    "genre": "JRPG",
    "price": "",
    "korean": "미확인",
-   "note": "풀 리메이크",
+   "note": "풀 리메이크 · 스위치2판은 5/20",
    "url": "",
    "major": true
-  },
-  {
-   "date": "2027-02-19",
-   "title": "파이널 판타지 14: 에버콜드",
-   "en": "Final Fantasy XIV: Evercold",
-   "short": "FF14확장",
-   "platforms": [
-    "steam",
-    "ps",
-    "etc"
-   ],
-   "genre": "MMORPG 확장팩",
-   "price": "",
-   "korean": "미확인",
-   "note": "글로벌판 기준",
-   "url": "",
-   "major": false
   },
   {
    "date": "2027-02-23",
@@ -1780,6 +1726,23 @@
    "major": true
   },
   {
+   "date": "2027-02-23",
+   "title": "파이널 판타지 14: 에버콜드",
+   "en": "Final Fantasy XIV: Evercold",
+   "short": "FF14확장",
+   "platforms": [
+    "steam",
+    "ps",
+    "etc"
+   ],
+   "genre": "MMORPG 확장팩",
+   "price": "",
+   "korean": "미확인",
+   "note": "정식 2/23 · 선행 2/19 · 2/19에서 연기",
+   "url": "https://www.gematsu.com/2026/10/final-fantasy-xiv-evercold-expansion-delayed-to-february-23-2027",
+   "major": false
+  },
+  {
    "date": "2027-02-25",
    "title": "젤다무쌍 대재앙의 시대 DX",
    "en": "Hyrule Warriors: Age of Calamity - Definitive Edition",
@@ -1788,8 +1751,8 @@
     "switch"
    ],
    "genre": "무쌍 액션",
-   "price": "",
-   "korean": "미확인",
+   "price": "₩74,800",
+   "korean": "한국어 지원",
    "note": "스위치 2",
    "url": "",
    "major": true
