@@ -1,9 +1,10 @@
-{"date":"2026-11-09","updatedAt":"2026-11-09T06:40:00+09:00","region":"경기 광주",
-"weather":{"temp":4,"low":4,"high":13,"condition":"흐림 후 맑음","rainChance":"30%","dust":"좋음(PM10 18, PM2.5 14)","tip":"아침 4도로 쌀쌀하고 낮엔 13도, 일교차가 큽니다. 두꺼운 외투와 겹쳐 입을 옷을 챙기세요. 우산은 필수는 아닙니다.","source":"기상청 단기예보·에어코리아(울림 114.it.kr, 광주시청)"},
+{"date":"2026-11-10","updatedAt":"2026-11-10T06:45:00+09:00","region":"경기 광주",
+"weather":{"temp":0,"low":-1,"high":13,"condition":"맑음","rainChance":"0%","dust":"보통 (PM10 35, PM2.5 26)","tip":"아침 영하권, 낮 큰 일교차. 두꺼운 코트·목도리 필요, 우산은 불필요","source":"기상청 단기예보(울림 114.it.kr), 웬더, 에어코리아"},
 "breaking":[],
 "news":[
-{"title":"[출근길 브리핑-11월 9일] 검찰총장 인선 연기·전작권 전환 합의 유지·증권사 담보규제 완화","url":"https://www.newsworks.co.kr/news/articleView.html?idxno=902334","source":"뉴스웍스","summary":"검찰총장 후보추천위가 이달 중으로 미뤄졌고, 미국은 전작권 전환 기존 합의를 유지한다고 밝혔습니다."},
-{"title":"11월 9일(월) 경제캘린더","url":"https://www.ytn.co.kr/_ln/0102_202611090501583722","source":"YTN","summary":"증시 급락에 오늘부터 석 달간 증권사 신용융자 담보비율 140% 유지의무가 면제됩니다."},
-{"title":"[11월9일자] 비즈니스포스트 아침의 주요기사","url":"https://www.businesspost.co.kr/BP?command=mobile_view&num=451463","source":"비즈니스포스트","summary":"4대 은행 생산적금융이 대기업에 쏠리고, 벤츠코리아가 직판제 도입 후 BMW를 처음 앞섰다는 소식입니다."},
-{"title":"머니투데이 오프라인 헤드라인-9일","url":"https://www.mt.co.kr/index.php/industry/2026/11/09/2026110819270957064","source":"머니투데이","summary":"실거주 차등과세 논란과 AI 투자 흔들림에 따른 글로벌 증시 머니무브 조짐을 다뤘습니다."},
-{"title":"[영상뉴스]오늘의 주요뉴스 2026년 11월 9일","url":"http://www.ynenews.kr/news/articleView.html?idxno=85027","source":"영남경제","summary":"포스코의 상수도 추가 공급 거부로 포항 지곡단지 재건축이 제동이 걸렸고, 농어촌 기본소득 재정 부담 논란이 커지고 있습니다."}]}
+{"title":"공정위, 배민·쿠팡이츠에 과징금 6319억 부과","url":"https://www.newsworks.co.kr/news/articleView.html?idxno=902476","source":"뉴스웍스","summary":"최혜대우 요구로 경쟁을 제한했다며 우아한형제들 3311억, 쿠팡 3008억 잠정 부과(배달앱 역대 최대)."},
+{"title":"현대차그룹, '車 제조사'서 '모빌리티 컴퍼니'로 2차 피벗","url":"https://www.newsworks.co.kr/news/articleView.html?idxno=902476","source":"뉴스웍스","summary":"로봇(보스턴다이내믹스)·수소·항공을 축으로 사업 전환, 아틀라스 2028년 양산 계획."},
+{"title":"이용철 법무장관 후보자 \"공소취소 진상규명이 먼저\"","url":"https://www.newsworks.co.kr/news/articleView.html?idxno=902476","source":"뉴스웍스","summary":"특검은 진상규명에 집중해야 한다며 대통령과의 친분은 결격 사유 아니라고 밝힘."},
+{"title":"젠슨 황 엔비디아 CEO, 중국 스파이 의심 여성과 불륜 인정","url":"https://www.newsworks.co.kr/news/articleView.html?idxno=902476","source":"뉴스웍스","summary":"엔비디아 이사회가 독립위원회로 조사 착수, 기밀 유출 근거는 없다고 밝힘."},
+{"title":"트럼프 중간선거 참패 후 \"더 강하게 돌아올 것\"","url":"https://news.sbs.co.kr/news/endPage.do?news_id=N1008836343","source":"SBS(11/9 모닝와이드)","summary":"민주당은 새 백악관 비서실장과 협력하지 않겠다며 정면충돌 예고."}
+]}
