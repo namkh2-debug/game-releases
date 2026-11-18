@@ -1,48 +1,54 @@
 {
- "date": "2026-11-13",
- "updatedAt": "2026-11-13T06:40:00+09:00",
+ "date": "2026-11-19",
+ "updatedAt": "2026-11-19T06:45:00+09:00",
  "region": "경기 광주",
  "weather": {
-  "temp": 6,
-  "low": 6,
-  "high": 17,
-  "condition": "흐림→구름많음",
-  "rainChance": "20~30%",
-  "dust": "보통(PM10 42·PM2.5 31)",
-  "tip": "아침 쌀쌀, 낮 따뜻한 일교차 11℃: 얇은 외투+겹쳐 입기, 우산은 선택",
+  "temp": -2,
+  "low": -2,
+  "high": 5,
+  "condition": "구름많음",
+  "rainChance": "20%",
+  "dust": "좋음(PM10 31·PM2.5 15)",
+  "tip": "아침 영하권 쌀쌀, 낮 5℃: 두꺼운 외투·목도리·장갑, 우산은 불필요",
   "source": "기상청 단기예보(울림 114.it.kr)·에어코리아"
  },
- "breaking": [],
+ "breaking": [
+  {
+   "title": "한덕수 전 총리 내란 중요임무 종사 혐의 대법원 선고, 오늘 오후 생중계",
+   "url": "https://news.sbs.co.kr/news/newsFlash.do?pageDate=20261119",
+   "source": "SBS"
+  }
+ ],
  "news": [
   {
-   "title": "李대통령, 충청권 메가프로젝트 착공식 참석…삼성 온양 HBM 패키징 팹 첫 삽",
-   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902942",
+   "title": "2027학년도 수능 오늘 실시…흑색 연필만 허용, 위급재난문자 불시 발송",
+   "url": "https://news.imbc.com/replay/2026/nw2500/",
+   "source": "MBC",
+   "summary": "AI·초소형 카메라 부정행위 우려로 필기구 규정이 바뀌어 흑색 연필만 반입 가능."
+  },
+  {
+   "title": "이재명 대통령 APEC서 한중 정상회담…한중 FTA 서비스·투자 협상 타결",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903563",
    "source": "뉴스웍스",
-   "summary": "삼성이 충청권에 144조원 투자 계획을 제시하며 6조원 규모 첨단패키징 팹 착공."
+   "summary": "8년 넘게 이어진 한중 FTA 후속 협상 타결을 공식화."
   },
   {
-   "title": "[모닝와이드] 젠슨 황 사실상 해임…엔비디아 주가 급락",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843985",
+   "title": "미·중·러 사상 첫 3자 정상회담 오늘 오후 중국 선전서 개최",
+   "url": "https://news.sbs.co.kr/news/newsFlash.do?pageDate=20261119",
    "source": "SBS",
-   "summary": "스캔들로 엔비디아 CEO가 사실상 해임, 주가는 장중 13% 가까이 급락 후 -4%대 마감."
+   "summary": "핵 감축, 이란·우크라이나 전쟁 등이 논의될 전망."
   },
   {
-   "title": "머니투데이 오프라인 헤드라인 13일: 美 對中 반도체 규제 3법 재점화",
-   "url": "https://www.mt.co.kr/industry/2026/11/13/2026111222114632368",
-   "source": "머니투데이",
-   "summary": "엔비디아 스캔들 여파로 미국 대중 반도체 규제가 다시 거론되고 건설 인력난도 부각."
-  },
-  {
-   "title": "KDI \"반도체 호황 효과, 내년부터 소비로 번진다\"",
-   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902942",
-   "source": "뉴스웍스",
-   "summary": "내년 민간소비 증가율을 반도체 효과가 약 0.6%p 끌어올릴 것으로 전망."
-  },
-  {
-   "title": "공항철도 노사 임금협상 타결…열차 정상 운행",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843985",
+   "title": "추경호 '계엄 해제표결 방해' 혐의 1심 무죄",
+   "url": "https://news.sbs.co.kr/news/newsFlash.do?pageDate=20261119",
    "source": "SBS",
-   "summary": "파업 예정일 새벽 타결, 노조가 파업을 철회해 첫차부터 정상 운행."
+   "summary": "12·3 비상계엄 당시 국회 표결 방해 혐의에 법원이 무죄 선고."
+  },
+  {
+   "title": "'리트 만점자' 고발·수사 착수…입시업체 계약 해지",
+   "url": "https://news.imbc.com/replay/2026/nw2500/",
+   "source": "MBC",
+   "summary": "AI 부정행위 의혹으로 경찰이 수사를 시작했고 업체는 강사 계약을 해지."
   }
  ]
 }
